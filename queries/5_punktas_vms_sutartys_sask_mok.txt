@@ -1,0 +1,246 @@
+select * from vms.Xx_Disc_Vms_Sutartys_Sask_Mok
+where payment_date BETWEEN to_date('2014-01-01','yyyy-mm-dd') AND to_date('2015-05-29','yyyy-mm-dd')
+order by payment_date
+þ=================================================================================================================
+
+create or replace view xx_disc_vms_sutartys_sask_mok as
+Select
+---------------------------------------------------------------------------------------------------------------------------------------------
+vms.XX_DISC_VMS_SUTARTYS.DEPARTAMENTAS,
+vms.XX_DISC_VMS_SUTARTYS.SUTARTIES_TIPAS,
+vms.XX_DISC_VMS_SUTARTYS.SUTARTIES_NUMERIS,
+vms.XX_DISC_VMS_SUTARTYS.SUDARYMO_METAI,
+vms.XX_DISC_VMS_SUTARTYS.SUTARTIES_PRADZIOS_DATA,
+vms.XX_DISC_VMS_SUTARTYS.SUTARTIES_PABAIGOS_DATA,
+vms.XX_DISC_VMS_SUTARTYS.TIEKEJAS,
+vms.XX_DISC_VMS_SUTARTYS.TIEKEJO_KODAS,
+vms.XX_DISC_VMS_SUTARTYS.SUTARTIES_APRASAS,
+vms.XX_DISC_VMS_SUTARTYS.SUTARTIES_SUMA,
+vms.XX_DISC_VMS_SUTARTYS.SISTEMINIS_NUMERIS,
+XX_DISC_MS_SASKAITU_LIKUCIAI_1.INVOICE_NUM,
+XX_DISC_MS_SASKAITU_LIKUCIAI_1.INVOICE_DATE,
+XX_DISC_MS_SASKAITU_LIKUCIAI_1.INVOICE_AMOUNT,
+XX_DISC_MS_SASKAITU_LIKUCIAI_1.INVOICE_PAYMENT_AMOUNT,
+XX_DISC_MS_SASKAITU_LIKUCIAI_1.SEGMENT1,
+XX_DISC_MS_SASKAITU_LIKUCIAI_1.SEGMENT2,
+XX_DISC_MS_SASKAITU_LIKUCIAI_1.SEGMENT3,
+XX_DISC_MS_SASKAITU_LIKUCIAI_1.SEGMENT4,
+XX_DISC_MS_SASKAITU_LIKUCIAI_1.SEGMENT5,
+XX_DISC_MS_SASKAITU_LIKUCIAI_1.SEGMENT6,
+XX_DISC_MS_SASKAITU_LIKUCIAI_1.SEGMENT7,
+XX_DISC_MS_SASKAITU_LIKUCIAI_1.SEGMENT8,
+XX_DISC_MS_SASKAITU_LIKUCIAI_1.DISTRIBUTION_AMOUNT,
+XX_DISC_MS_SASKAITU_LIKUCIAI_1.PAYMENT_NUMBER,
+XX_DISC_MS_SASKAITU_LIKUCIAI_1.PAYMENT_DATE,
+XX_DISC_MS_SASKAITU_LIKUCIAI_1.DISTRIBUTION_AMOUNT_PAYED,
+XX_DISC_MS_SASKAITU_LIKUCIAI_1.DISTRIBUTION_AMOUNT_LEFT,
+XX_DISC_MS_SASKAITU_LIKUCIAI_1.INVOICE_TYPE_LOOKUP_CODE,
+XX_DISC_MS_SASKAITU_LIKUCIAI_1.terms_id
+----------------------------------------------------------------------------------------------------------------------------------------------
+ From vms.XX_DISC_VMS_SUTARTYS
+      Inner Join XX_DISC_MS_SASKAITU_LIKUCIAI_1 On XX_DISC_MS_SASKAITU_LIKUCIAI_1.SUTARTIES_NR = vms.XX_DISC_VMS_SUTARTYS.SUTARTIES_NUMERIS
+;
+
+==============================================================================================================================================================
+
+CREATE OR REPLACE VIEW XX_DISC_MS_SASKAITU_LIKUCIAI_1 AS
+WITH
+       -- MS saskaitos
+       saskaitos AS(
+                 SELECT
+                         inv.terms_id, inv.org_id, inv.invoice_id, inv.invoice_type_lookup_code, inv.invoice_num, inv.invoice_date, inv.attribute_category, ven.vendor_name, ven.segment1 AS vendor_code, inv.invoice_amount, gcc.segment2
+                 FROM ap.ap_invoices_all inv
+                      INNER JOIN po.po_vendors ven ON ven.vendor_id = inv.vendor_id
+                      INNER JOIN gl.gl_code_combinations gcc ON gcc.code_combination_id = inv.accts_pay_code_combination_id
+                 WHERE inv.wfapproval_status <> 'CANCELLED'
+                       AND inv.invoice_amount <> 0),
+
+       -- MS saskaitu eilutes
+       saskaitos_eilutes AS(
+                 SELECT
+                         h.invoice_id,
+                         l.invoice_distribution_id,
+                         l.prepay_distribution_id,
+                         l.line_type_lookup_code,
+                         l.dist_code_combination_id,
+                         SUM(l.amount)AS amount,
+                         COALESCE(SUM(l.prepay_amount_remaining),0)AS prepay_amount_remaining,
+                         l.attribute13
+                 FROM ap.ap_invoices_all h
+                      INNER JOIN ap.ap_invoice_distributions_all l ON l.invoice_id = h.invoice_id
+                      INNER JOIN gl.gl_code_combinations g ON g.code_combination_id = l.dist_code_combination_id
+                 WHERE l.amount <> 0
+                 GROUP BY h.invoice_id, l.invoice_distribution_id, l.prepay_distribution_id, l.line_type_lookup_code, l.dist_code_combination_id, l.attribute13),
+
+       -- MS saskaitu apmokejimai
+       apmokejimai AS(
+                 SELECT pay.invoice_id, chk.check_number, pay.accounting_date, SUM(pay.amount)AS payment_amount
+                 FROM ap_invoice_payments_all pay, ap_checks_all chk
+                 WHERE nvl(pay.reversal_flag,'N') <> 'Y'
+                   AND pay.check_id = chk.check_id
+                 GROUP BY pay.invoice_id, chk.check_number, pay.accounting_date
+                 HAVING SUM(pay.amount)<>0),
+
+       -- Prie MS saskaitu ir ju apmokejimu idedama eilutciu informacija. eiluciu apmokejimas yra proporcingas
+       results AS(
+                 SELECT
+                             MIN(s.terms_id) AS terms_id,
+                             MIN(s.org_id) AS org_id,
+                             MIN(org.name)AS org_name,
+                             s.invoice_id,
+                             MIN(fvv.attribute3)AS ar_tiekejo_saskaita,
+                             MIN(s.invoice_type_lookup_code) AS invoice_type_lookup_code,
+                             MIN(s.invoice_num) AS invoice_num,
+                             MIN(s.invoice_date)AS invoice_date,
+                             MIN(s.vendor_name)AS vendor_name,
+                             MIN(s.vendor_code)AS vendor_code,
+                             MIN(s.segment2) AS liability_segment2,
+                             MIN(s.invoice_amount) AS invoice_amount,
+                             COALESCE(MIN(a.payment_amount),0) AS invoice_payment_amount,
+                             se.line_type_lookup_code,
+                             g.segment1, g.segment2, g.segment3, g.segment4, g.segment5, g.segment6, g.segment7, g.segment8,
+                             MIN(fvv4.description)AS segment4_desc,
+                             MIN(fvv4s.description)AS segment4_sub_desc,
+                             MIN(SUBSTR(g.segment4,1,2))AS segment4_substr,
+                             MIN(fvv7.description)AS segment7_desc,
+                             MIN(fvv8.description)AS segment8_desc,
+                             DECODE(MIN(s.invoice_type_lookup_code),
+                                              'PREPAYMENT',-SUM(se.amount),
+                                               DECODE(se.line_type_lookup_code,
+                                                                 'PREPAY', 0,
+                                                                 SUM(se.amount))) AS distribution_amount,
+a.check_number AS payment_number,
+a.accounting_date AS payment_date,
+                             SUM(se.amount)/MIN(s.invoice_amount)*COALESCE(MIN(a.payment_amount),0) AS distribution_amount_payed,             -- apmoketa eilutes suma (proporcingai)
+
+                             DECODE(MIN(s.invoice_type_lookup_code),
+                                               'PREPAYMENT',-SUM(se.prepay_amount_remaining),
+                                               SUM(se.amount)
+                                               -SUM(se.amount)/MIN(s.invoice_amount)*COALESCE(MIN(a.payment_amount),0)                -- apmoketa eilutes suma (proporcingai)
+                                               -COALESCE(SUM(av.amount),0))AS distribution_amount_left,                                                    -- pritaikyta avanso eilutes suma
+                             DECODE(poh.attribute_category,
+                                              'SPERL', to_date(poh.attribute7,'yyyy/mm/dd hh24:mi:ss'),
+                                              'DOK', to_date(poh.attribute7,'yyyy/mm/dd hh24:mi:ss'),
+                                              'ISA', to_date(poh.attribute7,'yyyy/mm/dd hh24:mi:ss'),
+                                              'SP', to_date(poh.attribute7,'yyyy/mm/dd hh24:mi:ss'),
+                                              'FS', to_date(poh.attribute7,'yyyy/mm/dd hh24:mi:ss'),                                                         --                      SELECT attribute7 FROM po.po_headers_all WHERE org_id = 142 AND attribute_category IS NOT NULL
+                                               'KT', to_date(poh.attribute7,'yyyy/mm/dd hh24:mi:ss'),
+                                              'NAS',to_date(poh.attribute7,'yyyy/mm/dd hh24:mi:ss'),
+                                              'TAP',to_date(poh.attribute2,'yyyy/mm/dd hh24:mi:ss'),
+                                              'VP', to_date(poh.attribute7,'yyyy/mm/dd hh24:mi:ss'))AS sutarties_data,
+                             DECODE(poh.attribute_category,
+                                              'SPERL', poh.attribute8,
+                                              'DOK', poh.attribute8,
+                                               'ISA', poh.attribute8,
+                                              'SP', poh.attribute8,
+                                              'FS', poh.attribute8,
+                                               'KT', poh.attribute8,
+                                              'NAS',poh.attribute8,
+                                              'TAP',poh.attribute3,
+                                              'VP', poh.attribute8)AS sutarties_nr
+                 FROM saskaitos s
+                      INNER JOIN hr_organization_units org ON org.organization_id = s.org_id
+                      LEFT OUTER JOIN apmokejimai a ON a.invoice_id = s.invoice_id
+                      INNER JOIN saskaitos_eilutes se ON se.invoice_id = s.invoice_id
+                      LEFT OUTER JOIN po.po_headers_all poh ON poh.po_header_id = se.attribute13 -- Sutartys
+                      INNER JOIN gl.gl_code_combinations g ON g.code_combination_id = se.dist_code_combination_id
+                      INNER JOIN fnd_flex_values_vl fvv4 ON fvv4.flex_value_set_id = 1009715 AND fvv4.flex_value = g.segment4
+                      INNER JOIN fnd_flex_values_vl fvv4s ON fvv4s.flex_value_set_id = 1009715 AND fvv4s.flex_value = SUBSTR(g.segment4,1,2)
+                      INNER JOIN fnd_flex_values_vl fvv7 ON fvv7.flex_value_set_id = 1009718 AND fvv7.flex_value = g.segment7
+                      INNER JOIN fnd_flex_values_vl fvv8 ON fvv8.flex_value_set_id = 1009719 AND fvv8.flex_value = g.segment8
+                      LEFT OUTER JOIN ap.ap_invoice_distributions_all av ON se.invoice_distribution_id = av.prepay_distribution_id
+                      INNER JOIN applsys.fnd_flex_values fvv ON fvv.flex_value_set_id = 1009763 AND fvv.flex_Value = s.attribute_category
+                 GROUP BY s.invoice_id, se.line_type_lookup_code, g.segment1, g.segment2, g.segment3, g.segment4, g.segment5, g.segment6, g.segment7, g.segment8, a.check_number, a.accounting_date,
+                             DECODE(poh.attribute_category,
+                                               'SPERL', to_date(poh.attribute7,'yyyy/mm/dd hh24:mi:ss'),
+                                               'DOK', to_date(poh.attribute7,'yyyy/mm/dd hh24:mi:ss'),
+                                               'ISA', to_date(poh.attribute7,'yyyy/mm/dd hh24:mi:ss'),
+                                               'SP', to_date(poh.attribute7,'yyyy/mm/dd hh24:mi:ss'),
+                                               'FS', to_date(poh.attribute7,'yyyy/mm/dd hh24:mi:ss'),                                                         --                      SELECT attribute7 FROM po.po_headers_all WHERE org_id = 142 AND attribute_category IS NOT NULL
+                                               'KT', to_date(poh.attribute7,'yyyy/mm/dd hh24:mi:ss'),
+                                              'NAS',to_date(poh.attribute7,'yyyy/mm/dd hh24:mi:ss'),
+                                              'TAP',to_date(poh.attribute2,'yyyy/mm/dd hh24:mi:ss'),
+                                              'VP', to_date(poh.attribute7,'yyyy/mm/dd hh24:mi:ss')),
+                             DECODE(poh.attribute_category,
+                                             'SPERL', poh.attribute8,
+                                              'DOK', poh.attribute8,
+                                              'ISA', poh.attribute8,
+                                               'SP', poh.attribute8,
+                                               'FS', poh.attribute8,
+                                               'KT', poh.attribute8,
+                                              'NAS',poh.attribute8,
+                                              'TAP',poh.attribute3,
+                                              'VP', poh.attribute8))
+-- PAGRINDINIS
+SELECT r."ORG_ID",
+r.terms_id,
+       r."ORG_NAME",
+       r."INVOICE_ID",
+       r."INVOICE_TYPE_LOOKUP_CODE",
+       r."INVOICE_NUM",
+       r."INVOICE_DATE",
+       r."VENDOR_NAME",
+       r."VENDOR_CODE",
+       r.ar_tiekejo_saskaita,
+       r."LIABILITY_SEGMENT2",
+       r."INVOICE_AMOUNT",
+       r."INVOICE_PAYMENT_AMOUNT",
+       r."LINE_TYPE_LOOKUP_CODE",
+       r."SEGMENT1",
+       r."SEGMENT2",
+       r."SEGMENT3",
+       r."SEGMENT4",
+       r.segment4_desc,
+       r.segment4_substr,
+       r.segment4_sub_desc,
+       r."SEGMENT5",
+       r."SEGMENT6",
+       r."SEGMENT7",
+       r.segment7_desc,
+       r.segment8,
+       r.segment8_desc,
+       r."DISTRIBUTION_AMOUNT",
+r.payment_number,
+r.payment_date,
+       r."DISTRIBUTION_AMOUNT_PAYED",
+       r."DISTRIBUTION_AMOUNT_LEFT",
+       r.sutarties_data,
+       r.sutarties_nr
+FROM results r
+;
+================================================================================================================================================
+
+create or replace view xx_disc_vms_sutartys as
+select
+  orn2.org_information3 departamentas,
+  fdf.DESCRIPTIVE_FLEX_CONTEXT_NAME sutarties_tipas,
+  pha.attribute8 sutarties_numeris,
+  substr(pha.attribute7,1,4) sudarymo_metai,
+  fnd_date.canonical_to_date(pha.attribute7) sutarties_pradzios_data,
+  fnd_date.canonical_to_date(pha.attribute9) sutarties_pabaigos_data,
+  --to_char(to_date(pha.attribute7, 'yyyy/mm/dd hh24:mi:ss'), 'yyyy-mm-dd')
+  --to_char(to_date(pha.attribute9, 'yyyy/mm/dd hh24:mi:ss'), 'yyyy-mm-dd') sutarties_pabaigos_data,
+  ven.vendor_name tiekejas,
+  ven.segment1 tiekejo_kodas,
+  pha.comments sutarties_aprasas,
+  pha.blanket_total_amount sutarties_suma,
+  pha.segment1 sisteminis_numeris
+from
+  po_headers_all pha,
+  FND_DESCR_FLEX_CONTEXTS_VL fdf,
+  po_vendors ven,
+  hr.hr_organization_information orn1,
+  hr.hr_organization_information orn2
+where
+  pha.type_lookup_code = 'CONTRACT'
+  and fdf.DESCRIPTIVE_FLEXFIELD_NAME = 'PO_HEADERS'
+  and fdf.DESCRIPTIVE_FLEX_CONTEXT_CODE = pha.attribute_category
+  and ven.vendor_id = pha.vendor_id
+  and orn1.org_information_context = 'Operating Unit Information'
+  and orn2.organization_id = orn1.org_information2
+  and orn2.org_information_context = 'Legal Entity Accounting'
+  and orn1.organization_id = pha.org_id
+
+--select to_date('2000/05/22 00:00:00', 'yyyy/mm/dd hh:mm:ss') from dual
+;
+=============================================================================================================================================

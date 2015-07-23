@@ -1,0 +1,672 @@
+Reikðmë	Iðversta reikðmë	Apraðas	Ájungtas	Nuo	Iki	[  ]	
+0000000	0000000	Nedetalizuojama	*			.	
+000000000	000000000	Nedetalizuojama	*			.Taip	
+10000	10000	Administracija				.	
+100000	100000	Elektroninio miesto departamentas				.	
+1000001	1000001	Seniûnijos				.	
+100001	100001	Neetatiniai darbuotojai (KIS)				.	
+10001	10001	Autoriniai darbai (Delegacijø priëmimas, dalyvavimas tarptautiniuose renginiuose)				.	
+10002	10002	Autoriniai darbai (Nusikaltimø ir kitø prevenciniø priemoniø ágyvendinimas)				.	
+10003	10003	Autoriniai (Visuomenës informavimas apie savivaldybës veiklà bei informacijos monitoringas)				.	
+10004	10004	Autoriniai darbai (Administracija)				.	
+10005	10005	Autoriniai darbai (Savivaldos institucijos (Taryba))				.	
+10006	10006	Autoriniai darbai (Savivaldybës administracijos darbuotojø mokymo programos vykdymas)				.	
+100100	100100	Informaciniø technologijø skyrius				.	
+100101	100101	Programavimo poskyris				.	
+100102	100102	Technologijø ir sistemø poskyris				.	
+100103	100103	Telekomunikacijø  poskyris				.	
+100200	100200	Procesø valdymo skyrius				.	
+100300	100300	Projektø valdymo skyrius				.	
+100301	100301	Programavimo poskyris				.	
+100302	100302	Projektø poskyris				.	
+10100	10100	Vidaus audito skyrius				.	
+1010000	1010000	Administracija				.	
+1010001	1010001	Autoriniai darbai (Delegacijø priëmimas, dalyvavimas tarptautiniuose renginiuose)				.	
+1010002	1010002	Autoriniai darbai (Nusikaltimø ir kitø prevenciniø priemoniø ágyvendinimas)				.	
+1010003	1010003	Autoriniai (Visuomenës informavimas apie savivaldybës veiklà bei informacijos monitoringas)				.	
+1010004	1010004	Autoriniai darbai (Administracija)				.	
+1010005	1010005	Autoriniai darbai (Savivaldos institucijos (Taryba))				.	
+1010006	1010006	Autoriniai darbai (Savivaldybës administracijos darbuotojø mokymo programos vykdymas)				.	
+1010100	1010100	Vidaus audito skyrius				.	
+1010200	1010200	Buhalterija				.	
+1010201	1010201	Darbo uþmokesèio poskyris				.	
+1010202	1010202	Planavimo ir apskaitos poskyris				.	
+1010300	1010300	Vieðøjø pirkimø skyrius				.	
+1010301	1010301	Dokumentø rengimo poskyris				.	
+1010302	1010302	Pirkimø procedûrø poskyris				.	
+1010400	1010400	Europos Sàjungos projektø koordinavimo skyrius				.	
+1010401	1010401	Projektø finansø poskyris				.	
+1010402	1010402	Projektø ágyvendinimo poskyris				.	
+1010403	1010403	Projektø rengimo poskyris				.	
+1010500	1010500	Aplinkos apsaugos skyrius				.	
+1010501	1010501	Aplinkos kokybës kontrolës poskyris				.	
+1010502	1010502	Atliekø tvarkymo administravimo poskyris				.	
+1010503	1010503	Tarðos maþinimo ir programø rengimo poskyris				.	
+1010504	1010504	Þeldynø ir vandens apsaugos poskyris				.	
+1010600	1010600	Uþsienio ryðiø skyrius				.	
+1010601	1010601	Protokolo poskyris				.	
+1010602	1010602	Strateginës partnerystës poskyris				.	
+1010603	1010603	Tarptautinio bendradarbiavimo poskyris				.	
+1010700	1010700	Personalo skyrius				.	
+1010701	1010701	Apskaitos ir organizavimo poskyris				.	
+1010702	1010702	Etikos ir nusiþengimø tyrimø poskyris				.	
+1010800	1010800	Antakalnio seniûnija				.	
+1010900	1010900	Fabijoniðkiø seniûnija				.	
+1011000	1011000	Grigiðkiø seniûnija				.	
+1011100	1011100	Justiniðkiø seniûnija				.	
+1011200	1011200	Karoliniðkiø seniûnija				.	
+1011300	1011300	Lazdynø seniûnija				.	
+1011400	1011400	Naujamiesèio seniûnija				.	
+1011500	1011500	Naujininkø seniûnija				.	
+1011600	1011600	Naujosios Vilnios seniûnija				.	
+1011700	1011700	Paneriø seniûnija				.	
+1011800	1011800	Paðilaièiø seniûnija				.	
+1011900	1011900	Pilaitës seniûnija				.	
+1012000	1012000	Rasø seniûnija				.	
+1012100	1012100	Senamiesèio seniûnija				.	
+1012200	1012200	Ðeðkinës seniûnija				.	
+1012300	1012300	Ðnipiðkiø seniûnija				.	
+1012400	1012400	Verkiø seniûnija				.	
+1012500	1012500	Vilkpëdës seniûnija				.	
+1012600	1012600	Virðuliðkiø seniûnija				.	
+1012700	1012700	Þirmûnø seniûnija				.	
+1012800	1012800	Þvëryno seniûnija				.	
+1012900	1012900	Neetatiniai darbuotojai (valytojai)				.	
+1013000	1013000	Autoriniai darbai (Seniûnijos)				.	
+1013100	1013100	Aplinkos apsaugos skyrius				.	
+1013200	1013200	Aprûpinimo skyrius			2010-12-01	.	
+1013201	1013201	Eksploatacijos poskyris			2010-05-01	.	
+1013202	1013202	Tiekimo poskyris				.	
+1013203	1013203	Transporto poskyris				.	
+1013300	1013300	Dokumentø valdymo skyrius				.	
+1013301	1013301	Administracijos sekretoriatas				.	
+1013400	1013400	Informaciniø technologijø skyrius				.	
+1013401	1013401	Informaciniø technologijø valdymo poskyris				.	
+1013402	1013402	Projektø valdymo poskyris				.	
+1013403	1013403	Sistemø poskyris				.	
+1013404	1013404	Telekomunikacijø poskyris				.	
+1013406	1013406	Technologijø poskyris				.	
+1013500	1013500	Strateginio valdymo skyrius				.	
+1013501	1013501	Planavimo poskyris				.	
+1013502	1013502	Procesø valdymo poskyris				.	
+1014000	1014000	Turto valdymo ir verslo paslaugø departamentas				.	
+1014100	1014100	Turto valdymo ir privatizavimo skyrius				.	
+1014101	1014101	Privatizavimo poskyris				.	
+1014102	1014102	Turto valdymo poskyris				.	
+1014200	1014200	Turto valdymo ir privatizavimo skyrius			2010-05-01	.	
+1014201	1014201	Ámoniø valdymo poskyris				.	
+1014202	1014202	Privatizavimo poskyris				.	
+1014203	1014203	Turto valdymo poskyris				.	
+1014204	1014204	Þemës nuomos mokesèio administravimo poskyris				.	
+1014300	1014300	Verslo ir paslaugø skyrius				.	
+1014301	1014301	Licencijavimo poskyris				.	
+1014302	1014302	Verslo organizavimo poskyris				.	
+1014303	1014303	Reklamos poskyris				.	
+1015000	1015000	Bendrøjø reikalø departamentas	*			.Taip	
+1015100	1015100	Aprûpinimo skyrius				.	
+1015200	1015200	Archyvas				.	
+1015300	1015300	Interesantø aptarnavimo skyrius				.	
+1015301	1015301	Administraciniø paslaugø poskyris				.	
+1015302	1015302	Informacijos ir komunikacijos poskyris				.	
+1015400	1015400	Transporto skyrius				.	
+1016000	1016000	Civilinës saugos ir vieðosios tvarkos departamentas				.	
+1016100	1016100	Civilinës saugos skyrius				.	
+1016200	1016200	Karo prievolës administravimo skyrius				.	
+1016300	1016300	Kalbos kontrolës ir administracinës veiklos skyrius				.	
+1016400	1016400	Vieðosios tvarkos skyrius				.	
+1016401	1016401	Operatyvinio reagavimo ir administracinës prieþiûros poskyris				.	
+1016402	1016402	Teisës paþeidimø ir prevencijos poskyris				.	
+1017000	1017000	Finansø departamentas				.	
+1017100	1017100	Apskaitos skyrius				.	
+1017101	1017101	Darbo uþmokesèio poskyris				.	
+1017102	1017102	Finansavimo poskyris				.	
+1017103	1017103	Iþdo poskyris				.	
+1017104	1017104	Vidaus apskaitos poskyris				.	
+1017200	1017200	Apskaitos ir finansø valdymo metodologijos skyrius				.	
+1017300	1017300	Biudþeto skyrius				.	
+1017301	1017301	Finansiniø iðtekliø ir iðlaidø poskyris				.	
+1017302	1017302	Planavimo ir analizës poskyris				.	
+1017400	1017400	Ekonominës analizës skyrius				.	
+1017500	1017500	Investiciniø projektø skyrius				.	
+1017600	1017600	Mokesèiø skyrius				.	
+1017700	1017700	Europos Sàjungos projektø koordinavimo skyrius				.	
+1018000	1018000	Miesto ûkio ir transporto departamentas				.	
+1018100	1018100	Eismo organizavimo skyrius				.	
+1018101	1018101	Vieðojo transporto poskyris				.	
+1018102	1018102	Eismo valdymo poskyris				.	
+1018103	1018103	Inþineriniø tinklø poskyris				.	
+1018200	1018200	Energetikos ir statiniø skyrius				.	
+1018201	1018201	Statiniø naudojimo prieþiûros poskyris				.	
+1018202	1018202	Energetikos poskyris				.	
+1018203	1018203	Pastatø administravimo poskyris				.	
+1018300	1018300	Infrastruktûros skyrius				.	
+1018301	1018301	Eksploatacijos poskyris				.	
+1018302	1018302	Statybos poskyris				.	
+1018303	1018303	Investicijø poskyris				.	
+1018304	1018304	Projektavimo poskyris				.	
+1018400	1018400	Miesto tvarkymo skyrius				.	
+1018401	1018401	Teritorijø tvarkymo poskyris				.	
+1018402	1018402	Þeldynø prieþiûros poskyris				.	
+1019000	1019000	Kultûros, sporto ir turizmo departamentas				.	
+1019100	1019100	Kultûros ir meno skyrius				.	
+1019200	1019200	Kûno kultûros ir sporto skyrius				.	
+1019300	1019300	Turizmo skyrius				.	
+101T	101T	Administracija (suminis)				.	
+10200	10200	Buhalterija				.	
+1020000	1020000	Finansø departamentas				.	
+10201	10201	Darbo uþmokesèio poskyris				.	
+1020100	1020100	Biudþeto skyrius			2010-05-01	.	
+1020101	1020101	Apskaitos ir atskaitomybës poskyris				.	
+1020102	1020102	Finansavimo poskyris				.	
+1020103	1020103	Finansiniø iðtekliø ir iðlaidø poskyris			2010-05-01	.	
+1020104	1020104	Planavimo poskyris				.	
+1020105	1020105	Skolinimosi ir finansiniø ásipareigojimø administravimo poskyris				.	
+10202	10202	Planavimo ir apskaitos poskyris				.	
+1020200	1020200	Ekonominës analizës skyrius			2010-05-01	.	
+1020201	1020201	Investicijø poskyris				.	
+1020300	1020300	Mokesèiø skyrius				.	
+1020400	1020400	Verslo ir paslaugø skyrius				.	
+1020600	1020600	Mokesèiø tarnyba				.	
+102T	102T	Finansø departamentas (suminis)				.	
+10300	10300	Vieðøjø pirkimø skyrius				.	
+1030000	1030000	Ðvietimo, kultûros ir sporto departamentas	*			.Taip	
+10301	10301	Dokumentø rengimo poskyris				.	
+1030100	1030100	Ástaigø administravimo skyrius				.	
+1030101	1030101	Energetikos ir pastatø administravimo poskyris				.	
+1030102	1030102	Gyvenamojo fondo administravimo poskyris				.	
+10302	10302	Pirkimø procedûrø poskyris				.	
+1030200	1030200	Jaunimo reikalø skyrius				.	
+1030203	1030203	Gatviø ir statiniø poskyris				.	
+1030204	1030204	Miesto tvarkymo poskyris				.	
+1030205	1030205	Sàlygø ir projektø derinimo poskyris				.	
+1030206	1030206	Vieðojo transporto poskyris				.	
+1030300	1030300	Kultûros ir meno skyrius			2010-05-01	.	
+1030301	1030301	Menø vadybos poskyris				.	
+1030302	1030302	Projektø vadybos poskyris				.	
+1030400	1030400	Kûno kultûros ir sporto skyrius			2011-07-01	.	
+1030401	1030401	Organizavimo ir strategijos poskyris				.	
+1030402	1030402	Sporto ir baziø plëtros poskyris				.	
+1030500	1030500	Planavimo ir apskaitos skyrius				.	
+1030600	1030600	Ðvietimo skyrius				.	
+1030601	1030601	Neformaliojo ðvietimo poskyris				.	
+1030602	1030602	Ðvietimo analizës ir planavimo poskyris				.	
+1030603	1030603	Ðvietimo organizavimo poskyris				.	
+1030604	1030604	Vadybinës ir pedagoginës veiklos iðorës audito poskyris				.	
+1030700	1030700	Turizmo ir miesto ávaizdþio skyrius				.	
+103T	103T	Komunalinio ûkio departamentas				.	
+10400	10400	Europos Sàjungos paramos koordinavimo skyrius				.	
+1040000	1040000	Komunalinio ûkio departamentas				.	
+10401	10401	Projektø finansø poskyris				.	
+1040100	1040100	Eismo organizavimo skyrius			2010-12-01	.	
+1040101	1040101	Eismo valdymo poskyris				.	
+1040102	1040102	Kontrolës poskyris				.	
+1040103	1040103	Vieðojo transporto poskyris				.	
+1040104	1040104	Þemës darbø prieþiûros poskyris				.	
+10402	10402	Projektø ágyvendinimo poskyris				.	
+1040200	1040200	Energetikos ir statiniø skyrius			2010-05-01	.	
+1040201	1040201	Energetikos poskyris				.	
+1040202	1040202	Pastatø administravimo poskyris				.	
+1040203	1040203	Statiniø naudojimo prieþiûros poskyris				.	
+10403	10403	Projektø rengimo poskyris				.	
+1040300	1040300	Infrastruktûros projektø skyrius				.	
+1040301	1040301	Eksploatacijos poskyris				.	
+1040302	1040302	Investiciniø projektø poskyris				.	
+1040303	1040303	Sàlygø iðdavimo ir projektø derinimo poskyris				.	
+1040304	1040304	Statybos ir rekonstrukcijos poskyris				.	
+1040400	1040400	Miesto tvarkymo skyrius			2010-05-01	.	
+1040401	1040401	Komunalinio ûkio poskyris				.	
+1040402	1040402	Teritorijø tvarkymo poskyris				.	
+1040403	1040403	Þeldynø poskyris			2010-12-01	.	
+1040500	1040500	Planavimo ir apskaitos skyrius				.	
+1040501	1040501	Apskaitos ir analizës poskyris				.	
+1040502	1040502	Investicijø apskaitos poskyris				.	
+1040503	1040503	Planavimo ir sutarèiø poskyris				.	
+1040600	1040600	Ðvietimo skyrius			2010-06-02	.	
+1040700	1040700	Turizmo ir miesto ávaizdþio skyrius			2010-06-02	.	
+104T	104T	Kultûros ir ugdymo departamentas (suminis)				.	
+10500	10500	Aplinkos apsaugos skyrius				.	
+1050000	1050000	Miesto plëtros departamentas				.	
+10501	10501	Aplinkos kokybës kontrolës poskyris				.	
+1050100	1050100	Bendrojo ir specialiojo planavimo skyrius				.	
+1050101	1050101	Geodezijos ir kartografijos poskyris			2010-05-01	.	
+10502	10502	Atliekø tvarkymo administravimo poskyris				.	
+1050200	1050200	Detaliojo planavimo skyrius				.	
+1050201	1050201	Miesto centrinës teritorijos poskyris				.	
+1050202	1050202	Miesto pietinës teritorijos poskyris				.	
+1050203	1050203	Miesto rytinës teritorijos poskyris				.	
+1050204	1050204	Miesto ðiaurinës teritorijos poskyris				.	
+1050205	1050205	Miesto vakarinës teritorijos poskyris				.	
+10503	10503	Tarðos maþinimo ir programø rengimo poskyris				.	
+1050300	1050300	Plëtros ir planavimo skyrius				.	
+1050301	1050301	Miesto projektø poskyris				.	
+1050302	1050302	Tarptautiniø projektø poskyris				.	
+10504	10504	Þeldynø ir vandens apsaugos poskyris				.	
+1050400	1050400	Sàlygø sàvado skyrius				.	
+1050401	1050401	Inþineriniø sàlygø poskyris				.	
+1050402	1050402	Sàvado rengimo poskyris				.	
+1050500	1050500	Statybø leidimø skyrius				.	
+1050501	1050501	Dokumentø kontrolës poskyris				.	
+1050502	1050502	Leidimø áforminimo poskyris				.	
+1050503	1050503	Projektø patikrinimo poskyris				.	
+1050600	1050600	Miestovaizdþio skyrius				.	
+1050601	1050601	Miesto estetikos poskyris				.	
+1050602	1050602	Þeldynø poskyris				.	
+1050700	1050700	Þemës duomenø administravimo skyrius				.	
+1050701	1050701	Geodezijos ir kartografijos poskyris				.	
+1050702	1050702	Þemës kadastro duomenø poskyris				.	
+1050703	1050703	Þemës privatizavimo ir nuomos poskyris				.	
+1050704	1050704	Þemës restitucijos poskyris				.	
+1050800	1050800	Kultûros paveldo skyrius				.	
+1050900	1050900	Planavimo ir apskaitos skyrius				.	
+105T	105T	Miesto plëtros departamentas (suminis)				.	
+10600	10600	Uþsienio ryðiø skyrius				.	
+1060000	1060000	Ðvietimo departamentas	*			.Taip	
+10601	10601	Protokolo poskyris				.	
+1060100	1060100	Neformaliojo ðvietimo skyrius				.	
+10602	10602	Strateginës partnerystës poskyris				.	
+1060200	1060200	Ðvietimo planavimo ir organizavimo skyrius				.	
+1060201	1060201	Socialinio darbo poskyris				.	
+10603	10603	Tarptautinio bendradarbiavimo poskyris				.	
+1060300	1060300	Ðvietimo analizës, vadybinës ir pedagoginës veiklos koordinavimo skyrius				.	
+1060400	1060400	Vieðosios tvarkos skyrius			2010-05-01	.	
+1060401	1060401	Kontrolës poskyris				.	
+1060500	1060500	Sveikatos skyrius				.	
+1060600	1060600	Vaikø teisiø apsaugos skyrius				.	
+106T	106T	Socialiniø reikalø departamentas (suminis)				.	
+10700	10700	Analizës ir strateginio planavimo skyrius				.	
+1070000	1070000	Teisës departamentas				.	
+1070100	1070100	Civilinës metrikacijos skyrius				.	
+1070200	1070200	Juridinis skyrius				.	
+1070201	1070201	Nuosavybës teisiø atkûrimo poskyris				.	
+1070202	1070202	Sutarèiø derinimo poskyris				.	
+1070211	1070211	Nuomotojai				.	
+1070212	1070212	Nuomuotojai				.	
+1070300	1070300	Teisës taikymo skyrius				.	
+1070400	1070400	Teisinës pagalbos skyrius				.	
+1070500	1070500	Sutarèiø skyrius				.	
+107T	107T	Teisës departamentas (suminis)				.	
+10800	10800	Antakalnio seniûnija				.	
+1080000	1080000	Personalo departamentas				.	
+1080100	1080100	Apskaitos ir organizavimo skyrius				.	
+1080200	1080200	Kompetencijos ir ugdymo skyrius				.	
+1080300	1080300	Etikos ir nusiþengimø tyrimo skyrius				.	
+1080400	1080400	Archyvas			2010-05-01	.	
+1080500	1080500	Interesantø aptarnavimo skyrius			2010-05-01	.	
+1080501	1080501	Leidimø ir komunikacijos poskyris				.	
+1080502	1080502	Priimamasis				.	
+1080503	1080503	Pirmasis poskyris				.	
+1080504	1080504	Antrasis poskyris				.	
+1080505	1080505	Treèiasis poskyris				.	
+1080506	1080506	Leidimø poskyris				.	
+1080507	1080507	Informacijos poskyris				.	
+108T	108T	Personalo departamentas (suminis)				.	
+10900	10900	Fabijoniðkiø seniûnija				.	
+1090000	1090000	Socialiniø reikalø departamentas				.	
+1090100	1090100	Planavimo ir apskaitos skyrius				.	
+1090200	1090200	Socialinës paramos skyrius				.	
+1090201	1090201	Socialinio darbo poskyris				.	
+1090202	1090202	Socialiniø paslaugø planavimo ir prieþiûros poskyris				.	
+1090300	1090300	Socialinio bûsto skyrius				.	
+1090400	1090400	Socialiniø projektø skyrius				.	
+1090500	1090500	Sveikatos skyrius				.	
+1090600	1090600	Vaikø teisiø apsaugos skyrius				.	
+1090601	1090601	Duomenø valdymo ir analizës poskyris				.	
+1090602	1090602	Globos ir ávaikinimo poskyris				.	
+1090603	1090603	Vaiko ir ðeimos prieþiûros poskyris				.	
+1090604	1090604	Vaiko teisiø atstovavimo poskyris				.	
+1090605	1090605	Seniûnijø inspektoriø ir mobiliosios pagalbos poskyris				.	
+1095000	1095000	SÁ				.	
+1095001	1095001	SÁ „Susisiekimo paslaugos“				.	
+1097000	1097000	UAB				.	
+1097001	1097001	UAB „Ðnipiðkiø ûkis“				.	
+1097002	1097002	UAB „Ðilumneðis“				.	
+1097003	1097003	UAB „Grigiðkiø komunalinis ûkis“				.	
+1097004	1097004	UAB „Vilniaus autobusai“				.	
+1097005	1097005	UAB „Rasø valda“				.	
+1097006	1097006	UAB „Jurita“				.	
+1097007	1097007	UAB „Senamiesèio ûkis“				.	
+1097008	1097008	UAB „Grinda“				.	
+1097009	1097009	UAB „Naujininkø ûkis“				.	
+1097010	1097010	UAB „Vilniaus vandenys“				.	
+1097011	1097011	UAB „Vilniaus parkai“				.	
+1097012	1097012	UAB „Akvalangas“				.	
+1098001	1098001	VðÁ „Vilniaus butai“				.	
+1098002	1098002	VðÁ „Skalvijos“ kino centras				.	
+1098003	1098003	Vðá Vilniaus universitetinë slaugos ir ilgalaikio gydymo likoninë				.	
+1098004	1098004	VðÁ „Vilniaus rotuðë“				.	
+1098005	1098005	VðÁ Vilkpëdës ligoninë				.	
+1098006	1098006	VðÁ Lazdynø poliklinika				.	
+1098007	1098007	VðÁ Vilniaus niesto psichikos sveikatos centras				.	
+1098008	1098008	VðÁ Naujosios Vilnios poliklinika				.	
+1098009	1098009	VðÁ Grigiðkiø pirminis sveikatos centras				.	
+1098010	1098010	VðÁ Centro poliklinika				.	
+1098011	1098011	VðÁ Savanoriø centras				.	
+1099000	1099000	Biudþetinës ástaigos				.	
+1099001	1099001	Grigiðkiø „Ðviesos“ vidurinë mokykla				.	
+1099002	1099002	Vilniaus Radvilø gimnazija				.	
+1099004	1099004	Vilniaus Jaruzalës vidurinë mokykla				.	
+1099005	1099005	Trakø Vokës kultûros namai				.	
+1099006	1099006	Vilniaus lopðelis-darþelis „Saulëgràþa“				.	
+1099007	1099007	Vilniaus Naujosios Vilnios kultûros centras				.	
+1099008	1099008	Vilniaus lopðelis-darþelis „Pagrandukas“				.	
+1099009	1099009	Vilniaus specialusis darþelis „Dobilëlis“				.	
+1099010	1099010	Grigiðkiø kultûros centras				.	
+1099011	1099011	M.K. Èiurlionio namai-memorialinis kultûros centras				.	
+1099012	1099012	Vilniaus lopðelis-darþelis „Þiogelis“				.	
+1099013	1099013	Vilniaus Lazdynø vidurinës mokykla				.	
+1099014	1099014	Vilniaus Aleksandro Puðkino vidurinë mokykla				.	
+1099015	1099015	Vilniaus Karoliniðkiø muzikos mokykla				.	
+1099016	1099016	Vilniaus lopðelis-darþelis „Medynëlis“				.	
+1099017	1099017	Vilniaus lopðelis-darþelis „Sakalëlis“				.	
+1099018	1099018	Vilniaus lopðelis-darþelis „Auðrinë“				.	
+1099019	1099019	Vilniaus lopðelis-darþelis „Pelenë“				.	
+1099020	1099020	Vilniaus lopðelis-darþelis „Rûta“				.	
+1099021	1099021	Vilniaus „Varpo“ suaugusiøjø vidurinë mokykla				.	
+1099022	1099022	Vilniaus lopðelio-darþelio „Prie pasakø parko“				.	
+1099023	1099023	Vilniaus lopðelis-darþelis „Þemuogëlë“				.	
+1099024	1099024	Vilniaus darþelis-mokykla „Ramunëlë“				.	
+1099025	1099025	Vilniaus „Sietyno“ sporto mokykla				.	
+1099026	1099026	Vilniaus lopðelis-darþelis „Vilija“				.	
+1099027	1099027	Vilniaus Salomëjos Nëries gimnazija				.	
+1099028	1099028	Vilniaus Algirdo muzikos mokykla				.	
+1099029	1099029	Vilniaus darþelis-mokykla „Lokiukas“				.	
+1099030	1099030	Vilniaus Vaduvos darþelis-mokykla				.	
+1099031	1099031	Vilniaus Joachimo Lelevelio vidurinë mokykla				.	
+1099032	1099032	Vilniaus vaikø ir jaunimo klubas „Þirmûnai“				.	
+1099033	1099033	Vilniaus Mikalojaus Daukðos vidurinë mokykla				.	
+1099034	1099034	Vilniaus „Laisvës“ gimnazija				.	
+1099035	1099035	Vilniaus Vilnies pagrindinë mokykla				.	
+1099036	1099036	Vilniaus Karoliniðkiø gimnazija				.	
+109T	109T	Saugaus miesto departamentas (suminis)				.	
+11000	11000	Grigiðkiø seniûnija				.	
+1100000	1100000	Turto departamentas				.	
+1100001	1100001	Neetatiniai darbuotojai (KIS)				.	
+1100100	1100100	Apskaitos ir sutarèiø skyrius				.	
+1100101	1100101	Programavimo poskyris				.	
+1100102	1100102	Technologijø ir sistemø poskyris				.	
+1100103	1100103	Telekomunikacijø  poskyris				.	
+1100200	1100200	Turto valdymo ir privatizavimo skyrius			2010-05-01	.	
+1100300	1100300	Verslo ir paslaugø skyrius				.	
+1100301	1100301	Programavimo poskyris				.	
+1100302	1100302	Projektø poskyris				.	
+110T	110T	Turto departamentas (suminis)				.	
+11100	11100	Justiniðkiø seniûnija				.	
+11200	11200	Karoliniðkiø seniûnija				.	
+11300	11300	Lazdynø seniûnija				.	
+11400	11400	Naujamiesèio seniûnija				.	
+11500	11500	Naujininkø seniûnija				.	
+11600	11600	Naujosios Vilnios seniûnija				.	
+11700	11700	Paneriø seniûnija				.	
+11800	11800	Paðilaièiø seniûnija				.	
+11900	11900	Pilaitës seniûnija				.	
+12000	12000	Rasø seniûnija				.	
+1200000	1200000	Kontrolieriaus tarnyba				.	
+12100	12100	Senamiesèio seniûnija				.	
+12200	12200	Ðeðkinës seniûnija				.	
+12300	12300	Ðnipiðkiø seniûnija				.	
+12400	12400	Verkiø seniûnija				.	
+12500	12500	Vilkpëdës seniûnija				.	
+12600	12600	Virðuliðkiø seniûnija				.	
+12700	12700	Þirmûnø seniûnija				.	
+12800	12800	Þvëryno seniûnija				.	
+12900	12900	Neetatiniai darbuotojai (valytojai)				.	
+13000	13000	Autoriniai darbai (Seniûnijos)				.	
+1300000	1300000	Mero institucija				.	
+1300100	1300100	Tarybos nariai				.	
+13200	13200	Aprûpinimo skyrius				.	
+13201	13201	Eksploatacijos poskyris				.	
+13202	13202	Tiekimo poskyris				.	
+13203	13203	Transporto poskyris				.	
+13300	13300	Dokumentø valdymo skyrius				.	
+13301	13301	Administracijos sekretoriatas				.	
+13400	13400	Informaciniø technologijø skyrius				.	
+13401	13401	Programavimo poskyris				.	
+13402	13402	Projektø valdymo poskyris				.	
+13403	13403	Sistemø poskyris				.	
+13404	13404	Telekomunikacijø poskyris				.	
+13406	13406	Technologijø poskyris				.	
+13500	13500	Strateginio valdymo skyrius				.	
+13501	13501	Planavimo poskyris				.	
+13502	13502	Procesø valdymo poskyris				.	
+14000	14000	Aplinkos ir energetikos departamentas	*			.Taip	
+1400000	1400000	Tarybos sekretoriatas				.	
+1400100	1400100	Vieðøjø ryðiø skyrius				.	
+1400200	1400200	Rinkodaros ir vieðøjø ryðiø skyrius				.	
+14100	14100	Apskaitos ir sutarèiø skyrius				.	
+14101	14101	Apskaitos poskyris				.	
+14102	14102	Sutarèiø poskyris				.	
+14200	14200	Turto valdymo ir privatizavimo skyrius				.	
+14201	14201	Ámoniø valdymo poskyris				.	
+14202	14202	Privatizavimo poskyris				.	
+14203	14203	Turto valdymo poskyris				.	
+14204	14204	Þemës nuomos mokesèio administravimo poskyris				.	
+14300	14300	Verslo ir paslaugø skyrius				.	
+14301	14301	Licencijavimo poskyris				.	
+14302	14302	Verslo organizavimo poskyris				.	
+14303	14303	Reklamos poskyris				.	
+15000	15000	E. MIESTO DEPARTAMENTAS	*			.Taip	
+1500000	1500000	Palangos poilsio namai „Jûros vilnis“				.	
+16000	16000	Saugaus miesto departamentas	*			.Taip	
+18103	18103	Inþineriniø tinklø poskyris				.	
+18201	18201	Statiniø naudojimo prieþiûros poskyris				.	
+18301	18301	Eksploatacijos poskyris				.	
+18304	18304	Projektavimo poskyris				.	
+188649078	188649078	Vilniaus miesto savivaldybës kontrolës ir audito tarnyba	*			.Taip	
+188701240	188701240	Miesto plëtros departamentas	*			.Taip	
+188708377	188708377	Finansø departamentas	*			.Taip	
+188710061	188710061	Vilniaus miesto savivaldybës administracija	*			.Taip	
+188712831	188712831	Socialiniø reikalø ir sveikatos departamentas	*			.Taip	
+188751791	188751791	Miesto ûkio ir transporto departamentas	*			.Taip	
+190003328	190003328	Vilniaus Mykolo Birþiðkos gimnazija	*	2013-01-01		.	
+190007344	190007344	Vilniaus Naujininkø mokykla	*	2013-01-01		.	
+191663134	191663134	Justino Vienoþinskio dailës m-kla	*			.	
+191665142	191665142	Vilniaus Antakalnio atviras jaunimo centras	*			.	
+191665338	191665338	Vilniaus atviras jaunimo centras „Mes“	*			.	
+191743947	191743947	Privati ikimokyklinë ástaiga Vieðoji ástaiga SG8	*			.	
+191897571	191897571	Privati ikimokyklinë ástaiga Þydø lopðelis-darþelis Menachemo namai				.	
+195007889	195007889	Vilniaus Taikos progimnazija	*			.	
+1994006	1994006	Ðvietimo skyrius (deleguota) 16.2.19.40.D				.	
+1994085	1994085	Miestovaizdþio skyrius /deleguota/ 16*2*17*32*D				.	
+20000	20000	Finansø departamentas				.	
+200000	200000	Kontrolieriaus tarnyba				.	
+2000001	2000001	Administracija (departamentas)				.	
+20100	20100	Biudþeto skyrius				.	
+20101	20101	Apskaitos ir atskaitomybës poskyris				.	
+20102	20102	Finansavimo poskyris				.	
+20103	20103	Finansiniø iðtekliø ir iðlaidø poskyris				.	
+20104	20104	Planavimo poskyris				.	
+20105	20105	Skolinimosi ir finansiniø ásipareigojimø administravimo poskyris				.	
+20200	20200	Ekonominës analizës skyrius				.	
+20201	20201	Investicijø poskyris				.	
+20300	20300	Mokesèiø skyrius				.	
+288735820	288735820	Kultûros, sporto ir turizmo departamentas	*			.Taip	
+30000	30000	Kultûros ir ugdymo departamentas				.	
+300000	300000	Mero institucija				.	
+300021830	300021830	VÐÁ „Balseliai“ (privati ikimokyklinë ástaiga)	*			.	
+300100	300100	Tarybos nariai				.	
+300513956	300513956	VðÁ "Mokykla vaikams"				.	
+300776494	300776494	VÐÁ vaikø darþelis „Namelis medyje“ (privati ikimokyklinë ástaiga)	*			.	
+300883820	300883820	VðÁ "Namø darþelis"	*	2013-01-01		.	
+300913594	300913594	VðÁ Metø laikai ikimokyklinë privati ástaiga				.	
+30100	30100	Ástaigø administravimo skyrius				.	
+301534654	301534654	Turto valdymo ir verslo paslaugø departamentas	*			.Taip	
+301695465	301695465	UAB „SMP service“ (privati ikimokyklinë ástaiga)	*		2012-12-31	.	
+30200	30200	Jaunimo reikalø skyrius				.	
+30227941	30227941	DUKU Privati ikimokyklinë ástaiga VðÁ	*			.	
+302442881	302442881	Privati ikimokyklinë ástaiga Vieðoji ástaiga „Vilniaus Montessori“ Vilnius  Montessori pre-School	*			.	
+302498613	302498613	Privati ikimokyklinë ástaiga Vieðoji ástaiga VÐÁ Dienos centras Boruþëlës	*			.	
+302517063	302517063	VÐÁ „SAULËS ZUIKUÈIAI“ (privati ikimokyklinë ástaiga)	*			.	
+302520038	302520038	Privati ikimokyklinë ástaiga Vieðoji ástaiga Klauþada	*			.	
+302522904	302522904	Jono Basanavièiaus gimnazija	*			.	
+302525035	302525035	Vaikystës institutas Privati ikimokyklinë ástaiga VðÁ	*			.	
+302544815	302544815	Privati ikimokyklinë ástaiga Vieðoji ástaiga Zebriukas	*			.	
+302553262	302553262	Privati ikimokyklinë ástaiga Vieðoji ástaiga Ðvietimo ir ugdymo centras	*			.	
+302557111	302557111	Privati ikimokyklinë ástaiga Vieðoji ástaiga Vaikystës takas	*			.	
+302562877	302562877	Privati ikimokyklinë ástaiga Vieðoji ástaiga Mano darþelis				.	
+302571221	302571221	Privati ikimokyklinë ástaiga Vieðoji ástaiga Bajorø vaikø lopðelis-darþelis Ðypsenëlë	*			.	
+302589995	302589995	Balsiø pagrindinë mokykla				.	
+302592863	302592863	Privati ikimokyklinë ástaiga Vieðoji ástaiga Baltupiø darþelis	*			.	
+302593755	302593755	Privati ikimokyklinë ástaiga Vieðoji ástaiga Balsiø darþelis	*			.	
+302602019	302602019	Privati ikimokyklinë ástaiga UAB Vaikystës Sodas	*			.	
+302637276	302637276	VÐÁ „Vaiko medis“	*			.	
+302659212	302659212	VÐÁ „Sauluþës vaikai“ (privati ikimokyklinë ástaiga)	*			.	
+302701526	302701526	VÐÁ „Paþinimo medis“	*			.	
+302787322	302787322	VÐÁ „Atradimø namai“ (privati ikimokyklinë ástaiga)	*			.	
+302799036	302799036	VÐÁ „Vaivorykðtës tako“ pagrindinës mokyklos Vilniaus filialas	*			.	
+302804355	302804355	Taikomøjø mokslø licëjus, VÐÁ (privati pagrindinë mokykla)	*			.	
+302817872	302817872	Vilniaus Antakalnio gimnazija	*			.	
+302818006	302818006	Vilniaus Antakalnio progimnazija	*			.	
+302823722	302823722	Vilniaus centro vidurinë mokykla	*			.	
+302850897	302850897	VÐÁ „Ðiuolaikinës mokyklos centras“ (privati vidurinë mokykla)	*	2012-09-01		.	
+302851682	302851682	VÐÁ mokykla „Menachemo namai“ (privati vidurinë mokykla)	*			.	
+302937850	302937850	Vieðoji ástaiga "Maþasis trinapolis"	*	2013-07-01		.	
+302991855	302991855	VðÁ "Geniukas"	*	2013-01-01		.	
+30300	30300	Kultûros ir meno skyrius				.	
+30301	30301	Menø vadybos poskyris				.	
+30302	30302	Projektø vadybos poskyris				.	
+30400	30400	Kûno kultûros ir sporto skyrius				.	
+30401	30401	Organizavimo ir strategijos poskyris				.	
+30402	30402	Sporto ir baziø plëtros poskyris				.	
+30500	30500	Planavimo ir apskaitos skyrius				.	
+30600	30600	Ðvietimo skyrius				.	
+30601	30601	Neformaliojo ðvietimo poskyris				.	
+30602	30602	Ðvietimo analizës ir planavimo poskyris				.	
+30603	30603	Ðvietimo organizavimo poskyris				.	
+30604	30604	Vadybinës ir pedagoginës veiklos iðorës audito poskyris				.	
+30700	30700	Turizmo ir miesto ávaizdþio skyrius				.	
+40000	40000	Miesto ûkio departamentas				.	
+400000	400000	Personalo departamentas	*			.	
+400100	400100	Vieðøjø ryðiø skyrius				.	
+400200	400200	Rinkodaros ir vieðøjø ryðiø skyrius				.	
+40100	40100	Eismo organizavimo skyrius				.	
+40101	40101	Eismo valdymo poskyris				.	
+40102	40102	Kontrolës poskyris				.	
+40103	40103	Vieðojo transporto poskyris				.	
+40104	40104	Þemës darbø prieþiûros poskyris				.	
+40200	40200	Energetikos ir statiniø skyrius				.	
+40201	40201	Energetikos poskyris				.	
+40202	40202	Pastatø administravimo poskyris				.	
+40203	40203	Statiniø naudojimo prieþiûros poskyris				.	
+40300	40300	Infrastruktûros projektø skyrius				.	
+40301	40301	Eksploatacijos poskyris				.	
+40302	40302	Investiciniø projektø poskyris				.	
+40303	40303	Sàlygø iðdavimo ir projektø derinimo poskyris				.	
+40304	40304	Statybos ir rekonstrukcijos poskyris				.	
+40400	40400	Miesto tvarkymo skyrius				.	
+40401	40401	Komunalinio ûkio poskyris				.	
+40402	40402	Teritorijø tvarkymo poskyris				.	
+40403	40403	Þeldynø poskyris				.	
+40500	40500	Planavimo ir apskaitos skyrius				.	
+40501	40501	Apskaitos ir analizës poskyris				.	
+40502	40502	Investicijø apskaitos poskyris				.	
+40503	40503	Planavimo ir sutarèiø poskyris				.	
+50000	50000	Miesto plëtros departamentas				.	
+500000	500000	Palangos poilsio namai „Jûros vilnis“				.	
+50100	50100	Bendrojo ir specialiojo planavimo skyrius				.	
+50101	50101	Bendrojo planavimo poskyris				.	
+50200	50200	Detaliojo planavimo skyrius				.	
+50201	50201	Miesto centrinës teritorijos poskyris				.	
+50202	50202	Miesto pietinës teritorijos poskyris				.	
+50203	50203	Miesto rytinës teritorijos poskyris				.	
+50204	50204	Miesto ðiaurinës teritorijos poskyris				.	
+50205	50205	Miesto vakarinës teritorijos poskyris				.	
+50300	50300	Plëtros projektø skyrius				.	
+50301	50301	Miesto projektø poskyris				.	
+50302	50302	Tarptautiniø projektø poskyris				.	
+50400	50400	Sàlygø savado skyrius				.	
+50401	50401	Inþineriniø sàlygø poskyris				.	
+50402	50402	Sàvado rengimo poskyris				.	
+50500	50500	Statybø leidimø skyrius				.	
+50501	50501	Dokumentø kontrolës poskyris				.	
+50502	50502	Leidimø áforminimo poskyris				.	
+50503	50503	Projektø patikrinimo poskyris				.	
+50600	50600	Miestovaizdþio skyrius				.	
+50601	50601	Miesto estetikos poskyris				.	
+50602	50602	Þeldynø poskyris				.	
+50700	50700	Þemës duomenø administravimo skyrius				.	
+50701	50701	Þemës administravimo poskyris				.	
+50702	50702	Geodezijos ir kartografijos poskyris				.	
+50703	50703	Þemës privatizavimo ir nuomos poskyris				.	
+50704	50704	Þemës restitucijos poskyris				.	
+50800	50800	Kultûros paveldo skyrius				.	
+50900	50900	Planavimo ir apskaitos skyrius				.	
+5132	5132	Privatizavimo fondas	*			.Taip	
+60000	60000	Ekonomikos ir investicijø departamentas	*			.Taip	
+60100	60100	Civilinës saugos skyrius				.	
+60200	60200	Karo prievolës administravimo skyrius				.	
+60300	60300	Valstybinës kalbos kontrolës skyrius				.	
+60400	60400	Vieðosios tvarkos skyrius				.	
+60401	60401	Kontrolës poskyris				.	
+70000	70000	Teisës departamentas	*			.	
+70100	70100	Civilinës metrikacijos skyrius				.	
+70200	70200	Juridinis skyrius				.	
+70201	70201	Nuosavybës teisiø atkûrimo poskyris				.	
+70202	70202	Sutarèiø derinimo poskyris				.	
+70211	70211	Nuomotojai				.	
+70212	70212	Nuomuotojai				.	
+70300	70300	Teisës taikymo skyrius				.	
+70400	70400	Teisinës pagalbos skyrius				.	
+70500	70500	Dokumentø skyrius				.	
+80000	80000	Personalo departamentas				.	
+80100	80100	Apskaitos ir organizavimo skyrius				.	
+80200	80200	Kompetencijos ir ugdymo skyrius				.	
+80300	80300	Etikos ir nusiþengimø tyrimo skyrius				.	
+80400	80400	Archyvas				.	
+80500	80500	Interesantø aptarnavimo skyrius				.	
+80501	80501	Leidimø ir komunikacijos poskyris				.	
+80502	80502	Priimamasis				.	
+80503	80503	Pirmasis poskyris				.	
+80504	80504	Antrasis poskyris				.	
+80505	80505	Treèiasis poskyris				.	
+80506	80506	Leidimø poskyris				.	
+80507	80507	Informacijos poskyris				.	
+90000	90000	Socialiniø reikalø departamentas				.	
+90100	90100	Planavimo ir apskaitos skyrius				.	
+90200	90200	Socialinës paramos skyrius				.	
+90201	90201	Socialinio darbo poskyris				.	
+90202	90202	Socialiniø paslaugø planavimo ir prieþiûros poskyris				.	
+90300	90300	Socialinio bûsto skyrius				.	
+90400	90400	Socialiniø projektø skyrius				.	
+90500	90500	Sveikatos skyrius				.	
+90600	90600	Vaikø teisiø apsaugos skyrius				.	
+90601	90601	Duomenø valdymo ir analizës poskyris				.	
+90602	90602	Globos ir ávaikinimo poskyris				.	
+90603	90603	Vaiko ir ðeimos prieþiûros poskyris				.	
+90604	90604	Vaiko teisiø atstovavimo poskyris				.	
+90605	90605	Seniûnijø inspektoriø ir mobiliosios pagalbos poskyris				.	
+994006	994006	Ðvietimo skyrius (deleguota) 16.2.19.40.D				.	
+994085	994085	Miestovaizdþio skyrius /deleguota/ 16*2*17*32*D				.	
+AD	AD	Vilniaus miesto savivaldybës administracija				.Taip	
+ADMIN	ADMIN	ADMIN Ataskaitoms				.Taip	
+BRD	BRD	Bendrøjø reikalø departamentas				.Taip	
+BS	BS	Biudþeto skyrius				.Taip	
+FD	FD	Finansø departamentas				.Taip	
+KUD	KUD	Kultûros, sporto ir turizmo departamentas				.Taip	
+MPD	MPD	Miesto plëtros departamentas				.Taip	
+MÛD	MÛD	Miesto ûkio ir transporto departamentas				.Taip	
+SANT	SANT	Antakalnio seniûnija				.Taip	
+SFAB	SFAB	Fabijoniðkiø seniûnija				.Taip	
+SGRI	SGRI	Grigiðkiø seniûnija				.Taip	
+SJUS	SJUS	Justiniðkiø seniûnija				.Taip	
+SKAR	SKAR	Karoliniðkiø seniûnija				.Taip	
+SLAZ	SLAZ	Lazdynø seniûnija				.Taip	
+SNAU	SNAU	Naujamiesèio seniûnija				.Taip	
+SNJN	SNJN	Naujininkø seniûnija				.Taip	
+SNVL	SNVL	Naujosios Vilnios seniûnija				.Taip	
+SPAN	SPAN	Paneriø seniûnija				.Taip	
+SPAÐ	SPAÐ	Paðilaièiø seniûnija				.Taip	
+SPIL	SPIL	Pilaitës seniûnija				.Taip	
+SRAS	SRAS	Rasø seniûnija				.Taip	
+SRD	SRD	Socialiniø reikalø ir sveikatos departamentas				.Taip	
+SSEN	SSEN	Senamiesèio seniûnija				.Taip	
+SVER	SVER	Verkiø seniûnija				.Taip	
+SVIL	SVIL	Vilkpëdës seniûnija				.Taip	
+SVIR	SVIR	Virðuliðkiø seniûnija				.Taip	
+SÐEÐ	SÐEÐ	Ðeðkinës seniûnija				.Taip	
+SÐNI	SÐNI	Ðnipiðkiø seniûnija				.Taip	
+SÞIR	SÞIR	Þirmûnø seniûnija				.Taip	
+SÞVË	SÞVË	Þvëryno seniûnija				.Taip	
+T	T	Ið viso (suminëms sàskaitoms)	*			.	
+TD	TD	Turto valdymo ir verslo paslaugø departamentas				.Taip	
+TD_AED	TD_AED	Turto Ekonom departamentas	*			.Taip	
+ÐD	ÐD	Ðvietimo departamentas				.Taip	

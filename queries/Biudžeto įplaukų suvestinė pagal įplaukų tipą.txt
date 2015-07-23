@@ -1,0 +1,34 @@
+Tokia informacija yra detalizuojama dikoverineje ataskaitoje "Biudþeto áplaukø suvestinë pagal áplaukø tipà", pridedu uz 2015 metus.
+
+SQL-as:
+
+
+---CREATE OR REPLACE VIEW XX_DISC_GS_KITOS_IPLAUKOS AS
+SELECT
+              cash.org_id,
+              org.name AS departamento_pav,
+              cash.remittance_bank_account_id AS bank_account_id,
+              bac.bank_account_name,
+              bac.bank_account_num,
+              cash.receipt_date,
+              cash.receipt_number,
+              cash.receivables_trx_id AS activity_id,
+              act.name AS activity_name,
+              act.description AS activity_description,
+              act.attribute1 AS act_iplauku_saltinis,
+              fvtl.description AS act_ipl_saltinio_pav,
+              fv.attribute1 AS act_ipl_saltinio_eil_nr,
+              act.attribute2 AS act_imokos_kodas,
+              act.attribute3 AS act_eiles_nr,
+              cash.amount AS amount,
+              cash.cash_receipt_id AS receipt_id
+     FROM ar.ar_cash_receipts_all cash
+          INNER JOIN hr.hr_all_organization_units org ON org.organization_id = cash.org_id
+          INNER JOIN ap.ap_bank_accounts_all bac ON bac.bank_account_id = cash.remittance_bank_account_id
+          INNER JOIN ar.ar_receivables_trx_all act ON act.receivables_trx_id = cash.receivables_trx_id
+          LEFT OUTER JOIN applsys.fnd_flex_values fv ON fv.flex_value_set_id = 1010782 AND fv.flex_value = act.attribute1
+          LEFT OUTER JOIN applsys.fnd_flex_values_tl fvtl ON fvtl.flex_value_id = fv.flex_value_id AND fvtl.language = userenv('LANG')
+     WHERE cash.set_of_books_id = 5013 --- 5013 EUR kaupimo 1001 LTL kaupimo
+           AND cash.status <> 'REV'
+           AND cash.type = 'MISC'
+           AND cash.receipt_date >= to_date('2015-01-01','yyyy-mm-dd')

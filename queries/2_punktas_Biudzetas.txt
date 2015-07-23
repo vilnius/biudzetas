@@ -1,0 +1,107 @@
+----------------------------------------------> 2015 VMS III K. BIUDZETAS EUR /------------------------------------------------
+select * from vms.xx_disc_biudzeto_sumos
+WHERE biudzetas LIKE '2015 VMS III K.'   ----2015 1/12 SAU E; 2015 2/12 VAS E;  2015 M VMS PROJ; 2015 VMS; 2015 VMS I K.; 2015 VMS II K.
+order by Asignavimu_valdytojas
+============================================================
+
+---create or replace view xx_disc_biudzeto_sumos as
+select bud.budget_name biudzetas,
+       c.segment1 asignavimu_valdytojas,                   MIN(av.description) AS av_description,  -- #1
+       c.segment3 fin_saltinis,                                     MIN(fin.description) AS fin_description,  -- #1
+       c.segment4 priemone,                                       MIN(priem.description) AS priem_description,  -- #1
+       MIN(SUBSTR(c.segment4,1,2)) AS programa,  MIN(prog.description) AS prog_description,  -- #1
+       MIN(SUBSTR(c.segment4,1,6)) AS tikslas,       MIN(tiksl.description) AS tiksl_description,  -- #1
+       c.segment5 funkcine_klas,                     MIN(funk.description) AS funk_description,
+       c.segment6 ekonomine_klas,                             MIN(ekon.description) AS ekon_description,  -- #1
+       MIN(ekon.ATTRIBUTE1) AS ekon_tipas,
+       c.segment7 samata,                                            MIN(sam.description) AS sam_description, -- #1
+       c.segment8 prog_vykd,                             MIN(prv.description) AS prog_vykd_description,  -- #3
+
+       to_number(SUM(nvl(b.period_net_dr, 0) - nvl(b.period_net_cr, 0))) metine_suma,
+       --1 stulpelis
+        to_number(SUM(case when substr(b.period_name,1,3) IN ('SAU', 'VAS', 'KOV') THEN
+       nvl(b.period_net_dr, 0) - nvl(b.period_net_cr, 0)
+       ELSE NULL
+       END)) I_ketv,
+       --2 stulpelis
+        to_number(SUM(case when substr(b.period_name,1,3) IN ('BAL', 'GEG', 'BIR') THEN
+       nvl(b.period_net_dr, 0) - nvl(b.period_net_cr, 0)
+       ELSE NULL
+       END)) II_ketv,
+       --3 stulpelis
+        to_number(SUM(case when substr(b.period_name,1,3) IN ('LIE', 'RGP', 'RGS') THEN
+       nvl(b.period_net_dr, 0) - nvl(b.period_net_cr, 0)
+       ELSE NULL
+       END)) III_ketv,
+       --4 stulpelis
+        to_number(SUM(case when substr(b.period_name,1,3) IN ('SPL', 'LAP', 'GRD', 'KOR') THEN
+       nvl(b.period_net_dr, 0) - nvl(b.period_net_cr, 0)
+       ELSE NULL
+       END)) IV_ketv
+from gl_code_combinations_kfv c, gl_balances b,
+        gl_budget_versions bud,
+        fnd_flex_values_vl av,                  -- #1
+        fnd_flex_values_vl fin,                 -- #1
+        fnd_flex_values_vl priem,            -- #1
+        fnd_flex_values_vl prog,              -- #1
+        fnd_flex_values_vl tiksl,               -- #1
+        fnd_flex_values_vl funk,               -- #1
+        fnd_flex_values_vl ekon,              -- #1
+        fnd_flex_values_vl sam,                -- #1
+        fnd_flex_values_vl prv                -- #3
+ where b.code_combination_id = c.code_combination_id
+   and b.budget_version_id = bud.budget_version_id
+
+   AND av.flex_value_set_id = 1009712  AND av.flex_value = c.segment1   -- Asignavimo valdytojo join -- #1
+   AND fin.flex_value_set_id = 1009714 AND fin.flex_value = c.segment3  -- Finansavimo saltinio join    -- #1
+   AND priem.flex_value_set_id = 1009715 AND priem.flex_value = c.segment4 -- Programa (priemonë) saltinio join -- #1
+   AND prog.flex_value_set_id(+) = 1009715 AND prog.flex_value(+) = SUBSTR(c.segment4,1,2) -- Programa (2 simb) saltinio join   -- #1 #4
+   AND tiksl.flex_value_set_id(+) = 1009715 AND tiksl.flex_value(+) = SUBSTR(c.segment4,1,6) -- Programa (6 simb) saltinio join -- #1 #4
+   AND funk.flex_value_set_id = 1009716 AND funk.flex_value = c.segment5 -- Funkcinë klas. join -- #1
+   AND ekon.flex_value_set_id = 1009717 AND ekon.flex_value = c.segment6 -- Ekonominë klas. join -- #1
+   AND sam.flex_value_set_id = 1009718 AND sam.flex_value = c.segment7  -- Samatos join    -- #1
+   AND prv.flex_value_set_id = 1009719 AND prv.flex_value = c.segment8  -- Programos_vykdytojas join    -- #3
+
+   and c.segment6 not like '0%'
+   and c.segment6 not like '1%'
+   and c.segment6 not like '%P%'
+
+   and c.summary_flag = 'N'
+   and ekon.ATTRIBUTE1 <> 'PAJAMOS'
+
+ group by bud.budget_name,
+       c.segment1,
+       c.segment3,
+       c.segment4,
+       c.segment5,
+       c.segment6,
+       c.segment7,
+       c.segment8 --#3
+HAVING
+       -- #4
+       SUM(case when substr(b.period_name,1,3) IN ('SAU', 'VAS', 'KOV') THEN
+               nvl(b.period_net_dr, 0) - nvl(b.period_net_cr, 0)
+               ELSE 0
+       END)<> 0
+       OR
+       SUM(case when substr(b.period_name,1,3) IN ('BAL', 'GEG', 'BIR') THEN
+                nvl(b.period_net_dr, 0) - nvl(b.period_net_cr, 0)
+                ELSE 0
+       END) <> 0
+       OR
+       SUM(case when substr(b.period_name,1,3) IN ('LIE', 'RGP', 'RGS') THEN
+                nvl(b.period_net_dr, 0) - nvl(b.period_net_cr, 0)
+                ELSE 0
+       END) <> 0
+       OR
+       SUM(case when substr(b.period_name,1,3) IN ('SPL', 'LAP', 'GRD', 'KOR') THEN
+                nvl(b.period_net_dr, 0) - nvl(b.period_net_cr, 0)
+                ELSE NULL
+       END) <>0
+
+
+-- 2009-06-22. Andrius Borysevicius. Ádejau DK saskaitos segmentu descriptionus.   #1
+-- 2009-06-25. Ignas Ligionis. Perraðyta uþklausa nuo gl_je_lines prie gl_balances
+-- 2010-03-02. Ignas Ligionis. Pridetas Programu vykdytojo segmentas. #3
+-- 2010-04-02. Ilma Ivanauskaite. Jungiant programos ne pilna koda () padarytas outer join'as, nes tokiu programu nera reiksmiu sarase
+-- 2011-07-22. Andrius Borysevièius. Idetas filtras tam, kad nerodytu tu eiluciu, kuriose visi stulpeliai yra nuliniai #4

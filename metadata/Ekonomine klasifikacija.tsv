@@ -1,0 +1,1117 @@
+Reikðmë	Iðversta reikðmë	Apraðas	Ájungtas	Nuo	Iki	[  ]	
+0000000000000000	0000000000000000	Nedetalizuojama	*			.KITOS.2.Ne	
+1.	1.	PAJAMOS	*			..6.	
+1.1.	1.1.	Mokesèiai	*			..7.	
+1.1.1.	1.1.1.	Pajamø ir pelno mokesèiai	*			..8.	
+1.1.1.1.	1.1.1.1.	Gyventojø pajamø mokestis	*			..9.	
+1.1.1.1.1.	1.1.1.1.1.	Gyventojø pajamø mokestis, ið viso (4+5+6)	*			..10.	
+1.1.1.1.1.1.	1.1.1.1.1.1.	Gyventojø pajamø mokestis	*			..11.	
+1.1.1.1.1.1.1.	1.1.1.1.1.1.1.	Gyventojø pajamø mokestis (gautas ið VMI)	*			.PAJAMOS.12.	
+1.1.1.1.1.1.2.	1.1.1.1.1.1.2.	Gyventojø pajamø mokestis savivaldybiø iðlaidø struktûros skirtumams iðlyginti	*			.PAJAMOS.13.	
+1.1.1.1.1.1.3.	1.1.1.1.1.1.3.	Gyventojø pajamø mokestis savivaldybiø pajamoms ið gyventojø pajamø mokesèio iðlyginti	*			.PAJAMOS.14.	
+1.1.1.2.	1.1.1.2.	Pelno mokestis	*			..15.	
+1.1.1.2.1.	1.1.1.2.1.	Pelno mokestis	*			..16.	
+1.1.1.2.1.1.	1.1.1.2.1.1.	Pelno mokestis	*			.PAJAMOS.17.	
+1.1.1.3.	1.1.1.3.	Socialinis mokestis	*			..18.	
+1.1.1.3.1.	1.1.1.3.1.	Socialinis mokestis	*			..19.	
+1.1.1.3.1.1.	1.1.1.3.1.1.	Socialinis mokestis	*			.PAJAMOS.20.	
+1.1.2.	1.1.2.	Darbo jëgos ir atlyginimo mokesèiai	*			..21.	
+1.1.2.1.	1.1.2.1.	Ámokos á Garantiná fondà	*			..22.	
+1.1.2.1.1.	1.1.2.1.1.	Ámokos á Garantiná fondà	*			..23.	
+1.1.2.1.1.1.	1.1.2.1.1.1.	Ámokos á Garantiná fondà	*			.PAJAMOS.24.	
+1.1.2.2.	1.1.2.2.	Ámokos á Privalomàjá sveikatos draudimo fondà      	*			.PAJAMOS.25.	
+1.1.2.2.1.	1.1.2.2.1.	Privalomojo sveikatos draudimo ámokos, administruojamos Valstybinio socialinio draudimo fondo valdybos      	*			.PAJAMOS.26.	
+1.1.2.2.1.1.	1.1.2.2.1.1.	Privalomojo sveikatos draudimo ámokos, administruojamos Valstybinio socialinio draudimo fondo valdybos	*			.PAJAMOS.27.	
+1.1.2.2.2.	1.1.2.2.2.	Privalomojo sveikatos draudimo ámokos, administruojamos Valstybinës mokesèiø inspekcijos	*			.PAJAMOS.28.	
+1.1.2.2.2.1.	1.1.2.2.2.1.	Privalomojo sveikatos draudimo ámokos, administruojamos Valstybinës mokesèiø inspekcijos	*			.PAJAMOS.29.	
+1.1.3.	1.1.3.	Turto mokesèiai	*			..30.	
+1.1.3.1.	1.1.3.1.	Þemës mokestis	*			..31.	
+1.1.3.1.1.	1.1.3.1.1.	Þemës mokestis	*			..32.	
+1.1.3.1.1.1.	1.1.3.1.1.1.	Fiziniø asmenø mokestis	*			.PAJAMOS.33.	
+1.1.3.1.1.2.	1.1.3.1.1.2.	Juridiniø asmenø mokestis	*			.PAJAMOS.34.	
+1.1.3.2.	1.1.3.2.	Paveldimo turto mokestis	*			..35.	
+1.1.3.2.1.	1.1.3.2.1.	Paveldimo turto mokestis	*			..36.	
+1.1.3.2.1.1.	1.1.3.2.1.1.	Paveldimo turto mokestis	*			.PAJAMOS.37.	
+1.1.3.3.	1.1.3.3.	Nekilnojamojo turto mokestis	*			..38.	
+1.1.3.3.1.	1.1.3.3.1.	Nekilnojamojo turto mokestis	*			..39.	
+1.1.3.3.1.1.	1.1.3.3.1.1.	Fiziniø asmenø mokestis	*			.PAJAMOS.40.	
+1.1.3.3.1.2.	1.1.3.3.1.2.	Juridiniø asmenø mokestis	*			.PAJAMOS.41.	
+1.1.4.	1.1.4.	Prekiø ir paslaugø mokesèiai	*			..42.	
+1.1.4.1.	1.1.4.1.	Pridëtinës vertës mokestis	*			..43.	
+1.1.4.1.1.	1.1.4.1.1.	Pridëtinës vertës mokestis	*			..44.	
+1.1.4.1.1.1.	1.1.4.1.1.1.	Pridëtinës vertës mokestis, gautas ið importuotojø	*			.PAJAMOS.45.	
+1.1.4.1.1.2.	1.1.4.1.1.2.	Pridëtinës vertës mokestis, gautas ið kitø asmenø	*			.PAJAMOS.46.	
+1.1.4.2.	1.1.4.2.	Atskaitymai nuo pajamø pagal Lietuvos Respublikos miðkø ástatymà	*			..47.	
+1.1.4.2.1.	1.1.4.2.1.	Atskaitymai nuo pajamø pagal Lietuvos Respublikos miðkø ástatymà	*			..48.	
+1.1.4.2.1.1.	1.1.4.2.1.1.	Atskaitymai nuo pajamø pagal Lietuvos Respublikos miðkø ástatymà	*			.PAJAMOS.49.	
+1.1.4.3.	1.1.4.3.	Akcizai	*			..50.	
+1.1.4.3.1.	1.1.4.3.1.	Akcizai	*			..51.	
+1.1.4.3.1.1.	1.1.4.3.1.1.	Akcizai, gauti ið importuotojø	*			.PAJAMOS.52.	
+1.1.4.3.1.2.	1.1.4.3.1.2.	Akcizai, gauti ið kitø asmenø	*			.PAJAMOS.53.	
+1.1.4.4.	1.1.4.4.	Cukraus sektoriaus mokesèiai	*			..54.	
+1.1.4.4.1.	1.1.4.4.1.	Cukraus sektoriaus mokesèiai	*			..55.	
+1.1.4.4.1.1.	1.1.4.4.1.1.	Cukraus sektoriaus mokesèiai	*			.PAJAMOS.56.	
+1.1.4.5.	1.1.4.5.	Loterijø ir azartiniø loðimø mokestis	*			..57.	
+1.1.4.5.1.	1.1.4.5.1.	Loterijø ir azartiniø loðimø mokestis	*			..58.	
+1.1.4.5.1.1.	1.1.4.5.1.1.	Loterijø ir azartiniø loðimø mokestis	*			.PAJAMOS.59.	
+1.1.4.6.	1.1.4.6.	Transporto priemoniø mokesèiai	*			..60.	
+1.1.4.6.1.	1.1.4.6.1.	Transporto priemoniø mokesèiai	*			..61.	
+1.1.4.6.1.1.	1.1.4.6.1.1.	Transporto priemoniø mokesèiai	*			.PAJAMOS.62.	
+1.1.4.7.	1.1.4.7.	Kiti mokesèiai uþ naudojimàsi prekëmis arba uþ leidimà naudotis prekëmis arba verstis veikla	*			..63.	
+1.1.4.7.1.	1.1.4.7.1.	Mokesèiai uþ aplinkos terðimà	*			..64.	
+1.1.4.7.1.1.	1.1.4.7.1.1.	Mokesèiai uþ aplinkos terðimà	*			.PAJAMOS.65.	
+1.1.4.7.2.	1.1.4.7.2.	Rinkliavos	*			..66.	
+1.1.4.7.2.1.	1.1.4.7.2.1.	Valstybës rinkliavos	*			.PAJAMOS.67.	
+1.1.4.7.2.2.	1.1.4.7.2.2.	Vietinës rinkliavos	*			.PAJAMOS.68.	
+1.1.4.7.3.	1.1.4.7.3.	Mokesèiai uþ pramoninës nuosavybës objektø registravimà	*			..69.	
+1.1.4.7.3.1.	1.1.4.7.3.1.	Mokesèiai uþ pramoninës nuosavybës objektø registravimà	*			.PAJAMOS.70.	
+1.1.5.	1.1.5.	Tarptautinës prekybos ir sandoriø mokesèiai	*			..71.	
+1.1.5.1.	1.1.5.1.	Tarptautinës prekybos ir sandoriø mokesèiai	*			..72.	
+1.1.5.1.1.	1.1.5.1.1.	Muitai ir kiti importo mokesèiai, iðskyrus PVM ir akcizus	*			..73.	
+1.1.5.1.1.1.	1.1.5.1.1.1.	Muitai ir kiti importo mokesèiai, iðskyrus PVM ir akcizus	*			.PAJAMOS.74.	
+1.1.5.1.2.	1.1.5.1.2.	Eksporto mokesèiai	*			..75.	
+1.1.5.1.2.1.	1.1.5.1.2.1.	Eksporto mokesèiai	*			.PAJAMOS.76.	
+1.1.5.1.3.	1.1.5.1.3.	Kiti tarptautinës prekybos ir sandoriø mokesèiai	*			..77.	
+1.1.5.1.3.1.	1.1.5.1.3.1.	Kiti tarptautinës prekybos ir sandoriø mokesèiai	*			.PAJAMOS.78.	
+1.2.	1.2.	Socialinës ámokos	*			..79.	
+1.2.1.	1.2.1.	Faktinës socialinës ámokos	*			..80.	
+1.2.1.1.	1.2.1.1.	Darbdaviø faktinës socialinës ámokos	*			..81.	
+1.2.1.1.1.	1.2.1.1.1.	Darbdaviø faktinës socialinës ámokos	*			..82.	
+1.2.1.1.1.1.	1.2.1.1.1.1.	Privalomos	*			.PAJAMOS.83.	
+1.2.1.1.1.2.	1.2.1.1.1.2.	Savanoriðkos	*			.PAJAMOS.84.	
+1.2.1.2.	1.2.1.2.	Dirbanèiøjø faktinës socialinës ámokos	*			..85.	
+1.2.1.2.1.	1.2.1.2.1.	Dirbanèiøjø faktinës socialinës ámokos	*			..86.	
+1.2.1.2.1.1.	1.2.1.2.1.1.	Privalomos	*			.PAJAMOS.87.	
+1.2.1.2.1.2.	1.2.1.2.1.2.	Savanoriðkos	*			.PAJAMOS.88.	
+1.2.1.3.	1.2.1.3.	Gyventojø, besiverèianèiø individualia veikla ir nedirbanèiø, socialinës ámokos	*			..89.	
+1.2.1.3.1.	1.2.1.3.1.	Gyventojø, besiverèianèiø individualia veikla ir nedirbanèiø, socialinës ámokos	*			..90.	
+1.2.1.3.1.1.	1.2.1.3.1.1.	Privalomos	*			.PAJAMOS.91.	
+1.2.1.3.1.2.	1.2.1.3.1.2.	Savanoriðkos	*			.PAJAMOS.92.	
+1.3.	1.3.	Dotacijos	*			..93.	
+1.3.1.	1.3.1.	Dotacijos ið uþsienio ðaliø	*			..94.	
+1.3.1.1.	1.3.1.1.	Einamiesiems tikslams	*			..95.	
+1.3.1.1.1.	1.3.1.1.1.	Einamiesiems tikslams	*			..96.	
+1.3.1.1.1.1.	1.3.1.1.1.1.	Einamiesiems tikslams	*			.PAJAMOS.97.	
+1.3.1.2.	1.3.1.2.	Kapitalui formuoti	*			..98.	
+1.3.1.2.1.	1.3.1.2.1.	Kapitalui formuoti	*			..99.	
+1.3.1.2.1.1.	1.3.1.2.1.1.	Kapitalui formuoti	*			.PAJAMOS.100.	
+1.3.2.	1.3.2.	Dotacijos ið tarptautiniø organizacijø	*			..101.	
+1.3.2.1.	1.3.2.1.	Einamiesiems tikslams	*			..102.	
+1.3.2.1.1.	1.3.2.1.1.	Einamiesiems tikslams	*			..103.	
+1.3.2.1.1.1.	1.3.2.1.1.1.	Einamiesiems tikslams	*			.PAJAMOS.104.	
+1.3.2.2.	1.3.2.2.	Kapitalui formuoti	*			..105.	
+1.3.2.2.1.	1.3.2.2.1.	Kapitalui formuoti	*			..106.	
+1.3.2.2.1.1.	1.3.2.2.1.1.	Kapitalui formuoti	*			.PAJAMOS.107.	
+1.3.3.	1.3.3.	Europos Sàjungos finansinës paramos lëðos	*			..108.	
+1.3.3.1.	1.3.3.1.	Einamiesiems tikslams	*			..109.	
+1.3.3.1.1.	1.3.3.1.1.	Einamiesiems tikslams	*			..110.	
+1.3.3.1.1.1.	1.3.3.1.1.1.	Einamiesiems tikslams	*			.PAJAMOS.111.	
+1.3.3.2.	1.3.3.2.	Kapitalui formuoti	*			..112.	
+1.3.3.2.1.	1.3.3.2.1.	Kapitalui formuoti	*			..113.	
+1.3.3.2.1.1.	1.3.3.2.1.1.	Kapitalui formuoti	*			.PAJAMOS.114.	
+1.3.4.	1.3.4.	Dotacijos ið kitø valdymo lygiø	*			..115.	
+1.3.4.1.	1.3.4.1.	Einamiesiems tikslams	*			..116.	
+1.3.4.1.1.	1.3.4.1.1.	Einamiesiems tikslams	*			..117.	
+1.3.4.1.1.1.	1.3.4.1.1.1.	Speciali tikslinë dotacija	*			..118.	
+1.3.4.1.1.1.A.	1.3.4.1.1.1.A.	Valstybinëms (perduotoms savivaldybëms) funkcijoms atlikti	*			.PAJAMOS.119.	
+1.3.4.1.1.1.B.	1.3.4.1.1.1.B.	Mokinio krepðeliui finansuoti	*			.PAJAMOS.120.	
+1.3.4.1.1.1.C.	1.3.4.1.1.1.C.	Kita tikslinë dotacija	*			.PAJAMOS.121.	
+1.3.4.1.1.2.	1.3.4.1.1.2.	Bendrosios dotacijos kompensacija	*			.PAJAMOS.122.	
+1.3.4.1.1.3.	1.3.4.1.1.3.	Bendroji dotacija	*			.PAJAMOS.123.	
+1.3.4.1.1.4.	1.3.4.1.1.4.	Kitos dotacijos ir lëðos ið kitø valdymo lygiø	*			.PAJAMOS.124.	
+1.3.4.2.	1.3.4.2.	Kapitalui formuoti	*			..125.	
+1.3.4.2.1.	1.3.4.2.1.	Kapitalui formuoti	*			..126.	
+1.3.4.2.1.1.	1.3.4.2.1.1.	Speciali tikslinë dotacija	*			.PAJAMOS.127.	
+1.3.4.2.1.1.A.	1.3.4.2.1.1.A.	Valstybinëms (perduotoms savivaldybëms) funkcijoms atlikti	*			.PAJAMOS.128.	
+1.3.4.2.1.1.B.	1.3.4.2.1.1.B.	Mokinio krepðeliui finansuoti	*			.PAJAMOS.129.	
+1.3.4.2.1.1.C.	1.3.4.2.1.1.C.	Valstybës investicijø programoje numatytiems projektams finansuoti	*			.PAJAMOS.130.	
+1.3.4.2.1.1.D.	1.3.4.2.1.1.D.	Kita tikslinë dotacija	*			.PAJAMOS.131.	
+1.3.4.2.1.2.	1.3.4.2.1.2.	Bendrosios dotacijos kompensacija	*			.PAJAMOS.132.	
+1.3.4.2.1.3.	1.3.4.2.1.3.	Bendroji dotacija	*			.PAJAMOS.133.	
+1.3.4.2.1.4.	1.3.4.2.1.4.	Kitos dotacijos ir lëðos ið kitø valdymo lygiø	*			.PAJAMOS.134.	
+1.4.	1.4.	Kitos pajamos	*			..135.	
+1.4.1.	1.4.1.	Turto pajamos	*			..136.	
+1.4.1.1.	1.4.1.1.	Palûkanos	*			..137.	
+1.4.1.1.1.	1.4.1.1.1.	Palûkanos uþ paskolas	*			..138.	
+1.4.1.1.1.1.	1.4.1.1.1.1.	Kitø valdymo lygiø (savivaldybiø, „Sodros“, nebiudþetiniø fondø)	*			.PAJAMOS.139.	
+1.4.1.1.1.2.	1.4.1.1.1.2.	Kitø subjektø	*			.PAJAMOS.140.	
+1.4.1.1.2.	1.4.1.1.2.	Palûkanos uþ depozitus	*			..141.	
+1.4.1.1.2.1.	1.4.1.1.2.1.	Palûkanos uþ depozitus	*			.PAJAMOS.142.	
+1.4.1.1.3.	1.4.1.1.3.	Palûkanos uþ vertybinius popierius (iðskyrus akcijas)	*			..143.	
+1.4.1.1.3.1.	1.4.1.1.3.1.	Palûkanos uþ vertybinius popierius (iðskyrus akcijas)	*			.PAJAMOS.144.	
+1.4.1.1.4.	1.4.1.1.4.	Finansinës nuomos (lizingo) palûkanos	*			..145.	
+1.4.1.1.4.1.	1.4.1.1.4.1.	Finansinës nuomos (lizingo) palûkanos	*			.PAJAMOS.146.	
+1.4.1.2.	1.4.1.2.	Dividendai	*			..147.	
+1.4.1.2.1.	1.4.1.2.1.	Dividendai	*			..148.	
+1.4.1.2.1.1.	1.4.1.2.1.1.	Lietuvos banko likutinis pelnas	*			.PAJAMOS.149.	
+1.4.1.2.1.2.	1.4.1.2.1.2.	Dividendai	*			.PAJAMOS.150.	
+1.4.1.2.1.3.	1.4.1.2.1.3.	Pajamos ið valstybës ámoniø pelno dalies	*			.PAJAMOS.151.	
+1.4.1.3.	1.4.1.3.	Draudimo polisø savininkø pajamos	*			..152.	
+1.4.1.3.1.	1.4.1.3.1.	Draudimo polisø savininkø pajamos	*			..153.	
+1.4.1.3.1.1.	1.4.1.3.1.1.	Draudimo polisø savininkø pajamos	*			.PAJAMOS.154.	
+1.4.1.4.	1.4.1.4.	Nuoma	*			..155.	
+1.4.1.4.1.	1.4.1.4.1.	Nuomos mokestis uþ valstybinæ þemæ ir valstybinio vidaus vandenø fondo vandens telkinius	*			..156.	
+1.4.1.4.1.1.	1.4.1.4.1.1.	Fiziniø asmenø	*			.PAJAMOS.157.	
+1.4.1.4.1.2.	1.4.1.4.1.2.	Juridiniø asmenø	*			.PAJAMOS.158.	
+1.4.1.4.2.	1.4.1.4.2.	Mokesèiai uþ valstybinius gamtos iðteklius	*			..159.	
+1.4.1.4.2.1.	1.4.1.4.2.1.	Mokestis uþ medþiojamøjø gyvûnø iðteklius      	*			.PAJAMOS.160.	
+1.4.1.4.2.2.	1.4.1.4.2.2.	Kiti mokesèiai uþ valstybinius gamtos iðteklius	*			.PAJAMOS.161.	
+1.4.1.4.3.	1.4.1.4.3.	Naftos ir dujø iðtekliø mokestis	*			..162.	
+1.4.1.4.3.1.	1.4.1.4.3.1.	Naftos ir dujø iðtekliø mokestis	*			.PAJAMOS.163.	
+1.4.1.4.4.	1.4.1.4.4.	Mokestis uþ valstybës turto naudojimà patikëjimo teise	*			..164.	
+1.4.1.4.4.1.	1.4.1.4.4.1.	Mokestis uþ valstybës turto naudojimà patikëjimo teise	*			.PAJAMOS.165.	
+1.4.2.	1.4.2.	Pajamos uþ prekes ir paslaugas	*			..166.	
+1.4.2.1.	1.4.2.1.	Pajamos uþ prekes ir paslaugas	*			..167.	
+1.4.2.1.1.	1.4.2.1.1.	Pajamos uþ prekes ir paslaugas	*			..168.	
+1.4.2.1.1.1.	1.4.2.1.1.1.	Pajamos uþ prekes ir paslaugas	*			.PAJAMOS.169.	
+1.4.2.1.2.	1.4.2.1.2.	Pajamos uþ patalpø nuomà	*			..170.	
+1.4.2.1.2.1.	1.4.2.1.2.1.	Pajamos uþ patalpø nuomà	*			.PAJAMOS.171.	
+1.4.2.1.3.	1.4.2.1.3.	Konsulinis mokestis	*			..172.	
+1.4.2.1.3.1.	1.4.2.1.3.1.	Konsulinis mokestis	*			.PAJAMOS.173.	
+1.4.2.1.4.	1.4.2.1.4.	Pajamos uþ atsitiktines paslaugas	*			..174.	
+1.4.2.1.4.1.	1.4.2.1.4.1.	Pajamos uþ atsitiktines paslaugas	*			.PAJAMOS.175.	
+1.4.2.1.5.	1.4.2.1.5.	Ámokos	*			..176.	
+1.4.2.1.5.1.	1.4.2.1.5.1.	Ámokos uþ mokslà aukðtosiose mokyklose	*			.PAJAMOS.177.	
+1.4.2.1.5.2.	1.4.2.1.5.2.	Ámokos uþ iðlaikymà ðvietimo, socialinës apsaugos ir kitose ástaigose	*			.PAJAMOS.178.	
+1.4.2.1.6.	1.4.2.1.6.	Þyminis mokestis	*			..179.	
+1.4.2.1.6.1.	1.4.2.1.6.1.	Þyminis mokestis	*			.PAJAMOS.180.	
+1.4.2.1.6.2.	1.4.2.1.6.2.	Kitos biudþeto pajamos	*			.KITOS.181.	
+1.4.2.1.7.	1.4.2.1.7.	Kitos pajamos	*			..182.	
+1.4.2.1.7.1.	1.4.2.1.7.1.	Pajamos uþ leidimø ir kitø dokumentø iðdavimà	*			.PAJAMOS.183.	
+1.4.2.1.7.2.	1.4.2.1.7.2.	Kitos pajamos	*			.PAJAMOS.184.	
+1.4.3.	1.4.3.	Pajamos ið baudø ir konfiskacijos	*			..185.	
+1.4.3.1.	1.4.3.1.	Pajamos ið baudø ir konfiskacijos	*			..186.	
+1.4.3.1.1.	1.4.3.1.1.	Pajamos ið baudø ir konfiskacijos	*			..187.	
+1.4.3.1.1.1.	1.4.3.1.1.1.	Pajamos ið baudø pagal Administraciniø teisës paþeidimø kodeksà	*			.PAJAMOS.188.	
+1.4.3.1.1.2.	1.4.3.1.1.2.	Pajamos ið baudø uþ pavëluotus atsiskaitymus	*	2014-06-26		.PAJAMOS.189.	
+1.4.3.1.1.3.	1.4.3.1.1.3.	Delspinigiai	*	2014-06-26		.PAJAMOS.190.	
+1.4.3.1.1.4.	1.4.3.1.1.4.	Pajamos ið konfiskacijos	*	2014-06-26		.PAJAMOS.191.	
+1.4.3.1.1.5.	1.4.3.1.1.5.	Kitos netesybos	*	2014-06-26		.PAJAMOS.192.	
+1.4.3.2.	1.4.3.2.	Pajamos ið baudø ir konfiskacijos uþ aplinkos terðimà	*			..193.	
+1.4.3.2.1.	1.4.3.2.1.	Pajamos ið baudø ir konfiskacijos uþ aplinkos terðimà	*			..194.	
+1.4.3.2.1.1.	1.4.3.2.1.1.	Pajamos ið baudø uþ aplinkos terðimà	*			.PAJAMOS.195.	
+1.4.3.2.1.2.	1.4.3.2.1.2.	Pajamos ið konfiskacijos	*	2014-06-26		.PAJAMOS.196.	
+1.4.3.3.	1.4.3.3.	Pajamos ið baudø ir konfiskacijos pagal Þuvininkystës ástatymà	*	2014-06-26		..197.	
+1.4.3.3.1.	1.4.3.3.1.	Pajamos ið baudø ir konfiskacijos pagal Þuvininkystës ástatymà	*	2014-06-26		..198.	
+1.4.3.3.1.1.	1.4.3.3.1.1.	Pajamos ið baudø pagal Þuvininkystës ástatymà	*	2014-06-26		.PAJAMOS.199.	
+1.4.3.3.1.2.	1.4.3.3.1.2.	Pajamos iø konfiskacijos	*	2014-06-26		.PAJAMOS.200.	
+1.4.4.	1.4.4.	Perduodamos lëðos, kitos nei dotacijos	*			..201.	
+1.4.4.1.	1.4.4.1.	Einamiesiems tikslams	*			..202.	
+1.4.4.1.1.	1.4.4.1.1.	Einamiesiems tikslams	*			..203.	
+1.4.4.1.1.1.	1.4.4.1.1.1.	Einamiesiems tikslams	*			.PAJAMOS.204.	
+1.4.4.2.	1.4.4.2.	Kapitalui formuoti	*			..205.	
+1.4.4.2.1.	1.4.4.2.1.	Kapitalui formuoti	*			..206.	
+1.4.4.2.1.1.	1.4.4.2.1.1.	Kapitalui formuoti	*			.PAJAMOS.207.	
+1.4.5.	1.4.5.	Kitos neiðvardytos pajamos	*			..208.	
+1.4.5.1.	1.4.5.1.	Kitos neiðvardytos pajamos	*			..209.	
+1.4.5.1.1.	1.4.5.1.1.	Valstybës kontrolës, savivaldybës kontrolieriaus pasiûlymu pervestos sumos	*			..210.	
+1.4.5.1.1.1.	1.4.5.1.1.1.	Valstybës kontrolës, savivaldybës kontrolieriaus pasiûlymu pervestos sumos	*			.PAJAMOS.211.	
+1.4.5.1.2.	1.4.5.1.2.	Þala, atsiradusi dël valdþios institucijø neteisëtø veiksmø, iðieðkota regreso tvarka ið kaltø asmenø	*			..212.	
+1.4.5.1.2.1.	1.4.5.1.2.1.	Þala, atsiradusi dël valdþios institucijø neteisëtø veiksmø, iðieðkota regreso tvarka ið kaltø asmenø	*			.PAJAMOS.213.	
+1.4.5.1.3.	1.4.5.1.3.	Ið tabako bendroviø gaunamos lëðos	*			..214.	
+1.4.5.1.3.1.	1.4.5.1.3.1.	Ið tabako bendroviø gaunamos lëðos	*			.PAJAMOS.215.	
+1.4.5.1.4.	1.4.5.1.4.	Kitos neiðvardytos pajamos	*			..216.	
+1.4.5.1.4.1.	1.4.5.1.4.1.	Kitos neiðvardytos pajamos	*			.PAJAMOS.217.	
+2.	2.	IÐLAIDOS	*			..218.	
+2.1.	2.1.	Darbo uþmokestis ir socialinis draudimas	*			..220.	
+2.1.1.	2.1.1.	Darbo uþmokestis	*			..222.	
+2.1.1.1.1.1.	2.1.1.1.1.1.	Darbo uþmokestis pinigais	*			.DU.224.	
+2.1.1.1.1.1.A.	2.1.1.1.1.1.A.	ið jø:  valstybës tarnautojø darbo uþmokestis	*			.DU.225.	
+2.1.1.1.1.1.B.	2.1.1.1.1.1.B.	     pedagogø darbo uþmokestis	*			.DU.226.	
+2.1.1.1.1.1.C.	2.1.1.1.1.1.C.	     socialiniø darbuotojø darbo uþmokestis	*			.DU.227.	
+2.1.1.1.1.1.D.	2.1.1.1.1.1.D.	     kultûros darbuotojø darbo uþmokestis	*			.DU.228.	
+2.1.1.1.1.1.E.	2.1.1.1.1.1.E.	     medicinos darbuotojø darbo uþmokestis	*			.DU.229.	
+2.1.1.1.1.1.F.	2.1.1.1.1.1.F.	     kitø neiðvardintø darbuotojø darbo uþmokestis	*			.DU.230.	
+2.1.1.1.1.1.T.	2.1.1.1.1.1.T.	Darbo uþmokestis: ið viso				.DU.231.	
+2.1.1.1.1.1B	2.1.1.1.1.1B	Darbo uþmokestis pinigais	*			..223.Ne	
+2.1.1.1.1.2.	2.1.1.1.1.2.	Pajamos natûra	*			.DU.232.	
+2.1.1B	2.1.1B	Darbo uþmokestis				..221.Ne	
+2.1.2.	2.1.2.	Socialinio draudimo ámokos	*			..233.	
+2.1.2.1.1.1.	2.1.2.1.1.1.	Socialinio draudimo ámokos	*			.KITOS.234.	
+2.1.B	2.1.B	Darbo uþmokestis ir socialinis draudimas	*			..219.Ne	
+2.2.	2.2.	Prekiø ir paslaugø naudojimas	*			..236.	
+2.2.1.	2.2.1.	Prekiø ir paslaugø naudojimas	*			..237.	
+2.2.1.1.1.	2.2.1.1.1.	Prekiø ir paslaugø naudojimas	*			..238.	
+2.2.1.1.1.1.	2.2.1.1.1.1.	Mityba	*			.KITOS.240.	
+2.2.1.1.1.10.	2.2.1.1.1.10.	Kitos prekës	*			.KITOS.247.Taip	
+2.2.1.1.1.11.	2.2.1.1.1.11.	Komandiruotës (transporto, apgyvendinimo, ryðio ir kitos komandiruotës iðlaidos)	*			.KITOS.248.	
+2.2.1.1.1.12.	2.2.1.1.1.12.	Miestø ir gyvenvieèiø vieðasis ûkis	*			.KITOS.249.	
+2.2.1.1.1.13.	2.2.1.1.1.13.	Vandentiekis ir kanalizacija (nenaudojamas)	*		2014-06-26	.KITOS.240.	
+2.2.1.1.1.14.	2.2.1.1.1.14.	Ilgalaikio materialiojo ir nematerialiojo turto nuoma (áskaitant veiklos nuomà)	*			.KITOS.250.	
+2.2.1.1.1.15.	2.2.1.1.1.15.	Ilgalaikio materialiojo turto einamasis remontas	*			.KITOS.251.	
+2.2.1.1.1.16.	2.2.1.1.1.16.	Kvalifikacijos këlimas	*			.KITOS.252.	
+2.2.1.1.1.17.	2.2.1.1.1.17.	Apmokëjimas ekspertams ir konsultantams	*			.KITOS.253.	
+2.2.1.1.1.18.	2.2.1.1.1.18.	Apmokëjimas uþ turto vertinimo paslaugas	*			.KITOS.254.	
+2.2.1.1.1.19.	2.2.1.1.1.19.	Veiklos nuoma	*			.KITOS.255.	
+2.2.1.1.1.2.	2.2.1.1.1.2.	Medikamentai (ir darbuotojø sveikatos tikrinimas)	*			.KITOS.241.	
+2.2.1.1.1.20.	2.2.1.1.1.20.	Komunalinës paslaugos	*			.KITOS.256.	
+2.2.1.1.1.20.1.	2.2.1.1.1.20.1.	Ðildymas	*			.KITOS.258.	
+2.2.1.1.1.20.2.	2.2.1.1.1.20.2.	Elektros energija	*			.KITOS.259.	
+2.2.1.1.1.20.3.	2.2.1.1.1.20.3.	Vandentiekis ir kanalizacija	*			.KITOS.260.	
+2.2.1.1.1.20.4.	2.2.1.1.1.20.4.	Ðiukðliø iðveþimas	*			.KITOS.261.	
+2.2.1.1.1.20.D	2.2.1.1.1.20.D	Komunalinës paslaugos	*			.KITOS.257.Ne	
+2.2.1.1.1.20D	2.2.1.1.1.20D	Komunalinës paslaugos				.KITOS.239.Ne	
+2.2.1.1.1.3.	2.2.1.1.1.3.	Ðildymas (nenaudojamas)	*		2011-02-22	.KITOS.231.	
+2.2.1.1.1.30.	2.2.1.1.1.30.	Kitos paslaugos	*			..262.	
+2.2.1.1.1.30.A.	2.2.1.1.1.30.A.	Laidø kûrimas	*			.KITOS.272.	
+2.2.1.1.1.30.AU.	2.2.1.1.1.30.AU.	Aukciono dalyvio mokestis	*		2010-11-30	.KITOS.250.Taip	
+2.2.1.1.1.30.B.	2.2.1.1.1.30.B.	Teismo iðlaidos	*			.KITOS.273.	
+2.2.1.1.1.30.BP.	2.2.1.1.1.30.BP.	Butø privatizavimo lëðos	*			.KITOS.263.	
+2.2.1.1.1.30.C.	2.2.1.1.1.30.C.	Tarybos projektø finansavimas	*			.KITOS.274.	
+2.2.1.1.1.30.D.	2.2.1.1.1.30.D.	Skalbimo paslaugos	*			.KITOS.275.	
+2.2.1.1.1.30.DE.	2.2.1.1.1.30.DE.	Deponentai	*			.KITOS.264.	
+2.2.1.1.1.30.DR.	2.2.1.1.1.30.DR.	Darbo rinka	*			.KITOS.265.	
+2.2.1.1.1.30.E.	2.2.1.1.1.30.E.	Neþinybinë apsauga	*			.KITOS.276.	
+2.2.1.1.1.30.F.	2.2.1.1.1.30.F.	Europos Sàjungos paramos koordinavimas	*			.KITOS.277.	
+2.2.1.1.1.30.G.	2.2.1.1.1.30.G.	Gëlës	*			.KITOS.278.	
+2.2.1.1.1.30.GR.	2.2.1.1.1.30.GR.	Gyvûnø registracijos lëðos	*		2010-05-31	.KITOS.253.	
+2.2.1.1.1.30.H.	2.2.1.1.1.30.H.	Delegacijos	*			.KITOS.279.	
+2.2.1.1.1.30.I.	2.2.1.1.1.30.I.	Ðiukðliø iðveþimas	*			.KITOS.280.	
+2.2.1.1.1.30.K.	2.2.1.1.1.30.K.	Kitos iðlaidos	*			.KITOS.282.	
+2.2.1.1.1.30.L.	2.2.1.1.1.30.L.	Kitos iðlaidos	*			.KITOS.283.	
+2.2.1.1.1.30.M.	2.2.1.1.1.30.M.	Sveèiø maitinimas	*			.KITOS.284.	
+2.2.1.1.1.30.N.	2.2.1.1.1.30.N.	Savivaldybiø asociacijos nario mokestis	*			.KITOS.285.	
+2.2.1.1.1.30.O.	2.2.1.1.1.30.O.	Renginiø organizavimas	*			.KITOS.286.	
+2.2.1.1.1.30.P.	2.2.1.1.1.30.P.	Pastatø ir statiniø remontas	*			.KITOS.287.	
+2.2.1.1.1.30.PA.	2.2.1.1.1.30.PA.	Parama	*			.KITOS.266.	
+2.2.1.1.1.30.R.	2.2.1.1.1.30.R.	Rinkimø lëðos	*			.KITOS.288.	
+2.2.1.1.1.30.S.	2.2.1.1.1.30.S.	suvenyrai	*			.KITOS.289.	
+2.2.1.1.1.30.SA.	2.2.1.1.1.30.SA.	Konkurso lëðos ( aprûpinimo skyrius)	*		2010-05-31	.KITOS.255.	
+2.2.1.1.1.30.SB.	2.2.1.1.1.30.SB.	Konkurso lëðos ( aplinkos apsaugos skyrius)	*			.KITOS.267.	
+2.2.1.1.1.30.SI.	2.2.1.1.1.30.SI.	Konkurso lëðos (informatikos skyrius)	*			.KITOS.268.	
+2.2.1.1.1.30.SK.	2.2.1.1.1.30.SK.	Konkurso lëðos	*			.KITOS.269.	
+2.2.1.1.1.30.ST.	2.2.1.1.1.30.ST.	Konkurso lëðos (tvarkos palaikymo skyrius)	*			.KITOS.270.	
+2.2.1.1.1.30.SV.	2.2.1.1.1.30.SV.	Konkurso lëðos (vieðøjø pirkimø skyrius)	*			.KITOS.271.	
+2.2.1.1.1.30.T.	2.2.1.1.1.30.T.	Vertimai	*			.KITOS.290.	
+2.2.1.1.1.30.U.	2.2.1.1.1.30.U.	Kitos iðlaidos KIS ,,Savivaldybë"	*			.KITOS.291.	
+2.2.1.1.1.30.V.	2.2.1.1.1.30.V.	Valymo darbai	*			.KITOS.292.	
+2.2.1.1.1.30.W.	2.2.1.1.1.30.W.	Savivaldybës korupcijos prevencijos programos vykdymas	*			.KITOS.293.	
+2.2.1.1.1.30.Y.	2.2.1.1.1.30.Y.	Vilniaus miesto savivaldybës atstovybës steigimas Briuselyje	*			.KITOS.281.	
+2.2.1.1.1.30.Z.	2.2.1.1.1.30.Z.	Kitos iðlaidos	*			.KITOS.294.	
+2.2.1.1.1.31.	2.2.1.1.1.31.	Asignavimø valdytojo pervedamos lëðos nepavaldþioms biudþetinëms ástaigoms ir kitiems subjektams pavedimams vykdyti	*			.KITOS.295.	
+2.2.1.1.1.4.	2.2.1.1.1.4.	Elektros energija (nenaudojamas)	*		2011-02-22	.KITOS.232.	
+2.2.1.1.1.5.	2.2.1.1.1.5.	Ryðiø paslaugos	*			.KITOS.242.	
+2.2.1.1.1.6.	2.2.1.1.1.6.	Transporto iðlaikymas	*			.KITOS.243.	
+2.2.1.1.1.7.	2.2.1.1.1.7.	Apranga ir patalynë	*			.KITOS.244.	
+2.2.1.1.1.8.	2.2.1.1.1.8.	Spaudiniai	*			.KITOS.245.	
+2.2.1.1.1.9.	2.2.1.1.1.9.	Ginklai ir karinë áranga	*			.KITOS.246.	
+2.2.B	2.2.B	Prekiø ir paslaugø naudojimas	*			..235.Ne	
+2.3.	2.3.	Turto iðlaidos	*			..297.	
+2.3.1.	2.3.1.	Palûkanos	*			..298.	
+2.3.1.1.	2.3.1.1.	Nerezidentams	*			..299.	
+2.3.1.1.1.	2.3.1.1.1.	Nerezidentams	*			..300.	
+2.3.1.1.1.1.	2.3.1.1.1.1.	Asignavimø valdytojø sumokëtos palûkanos	*			.KITOS.301.	
+2.3.1.1.1.3.	2.3.1.1.1.3.	Savivaldybiø sumokëtos palûkanos (nerezidentams)	*			.KITOS.302.	
+2.3.1.2.	2.3.1.2.	Rezidentams, kitiems nei valdþios sektorius (tik uþ tiesioginæ skolà)	*			..303.	
+2.3.1.2.1.1.	2.3.1.2.1.1.	Asignavimø valdytojø sumokëtos palûkanos	*			.KITOS.304.	
+2.3.1.2.1.3.	2.3.1.2.1.3.	Savivaldybiø sumokëtos palûkanos	*			.KITOS.305.	
+2.3.1.3.	2.3.1.3.	Kitiems valdymo lygiams	*			..306.	
+2.3.1.3.1.1.	2.3.1.3.1.1.	Valstybës biudþetui	*			.KITOS.307.	
+2.3.1.3.1.2.	2.3.1.3.1.2.	Savivaldybiø biudþetams	*			.KITOS.308.	
+2.3.1.3.1.3.	2.3.1.3.1.3.	Nebiudþetiniams fondams	*			.KITOS.309.	
+2.3.2.	2.3.2.	Nuoma	*			..310.	
+2.3.2.1.1.1.	2.3.2.1.1.1.	Nuoma uþ þemæ, þemës gelmiø iðteklius ir kità atsirandantá gamtoje turtà	*			.KITOS.311.	
+2.3.B	2.3.B	Turto iðlaidos	*			..296.Ne	
+2.4.	2.4.	Subsidijos	*			..313.	
+2.4.1.	2.4.1.	Subsidijos ið biudþeto lëðø	*			..314.	
+2.4.1.1.1.2.	2.4.1.1.1.2.	Subsidijos gaminiams	*			.KITOS.315.	
+2.4.1.1.1.3.	2.4.1.1.1.3.	Subsidijos gamybai	*			.KITOS.316.	
+2.4.B	2.4.B	Subsidijos	*			..312.Ne	
+2.5.	2.5.	Dotacijos	*			..318.	
+2.5.1.	2.5.1.	Dotacijos uþsienio valstybëms	*			..319.	
+2.5.1.1.1.1.	2.5.1.1.1.1.	Einamiesiems tikslams	*			.KITOS.320.	
+2.5.1.1.1.2.	2.5.1.1.1.2.	Kapitalui formuoti	*			.KITOS.321.	
+2.5.2.	2.5.2.	Dotacijos tarptautinëms organizacijoms	*			..322.	
+2.5.2.1.1.1.	2.5.2.1.1.1.	Einamiesiems tikslams	*			.KITOS.323.	
+2.5.2.1.1.2.	2.5.2.1.1.2.	Kapitalui formuoti	*			.KITOS.324.	
+2.5.3.	2.5.3.	Dotacijos kitiems valdymo lygiams	*			..325.	
+2.5.3.1.1.1.	2.5.3.1.1.1.	Einamiesiems tikslams	*			.KITOS.326.	
+2.5.3.1.1.2.	2.5.3.1.1.2.	Kapitalui formuoti	*			.KITOS.327.	
+2.5.B	2.5.B	Dotacijos	*			..317.Ne	
+2.6.B	2.6.B	Nenaudojama				..328.Ne	
+2.7.	2.7.	Socialinës iðmokos (paðalpos)	*			..330.	
+2.7.2.	2.7.2.	Socialinë parama (socialinës paramos paðalpos)	*			.KITOS.331.	
+2.7.2.1.1.1.	2.7.2.1.1.1.	Socialinë parama pinigais	*			.KITOS.332.	
+2.7.2.1.1.1.A.	2.7.2.1.1.1.A.	 ið jø : nemokamas moksleiviø maitinimas	*			.KITOS.333.	
+2.7.2.1.1.1.B.	2.7.2.1.1.1.B.	           kompensacijos uþ ðildymà	*			.KITOS.334.	
+2.7.2.1.1.1.C.	2.7.2.1.1.1.C.	           kompensacijos uþ karðtà vandená	*			.KITOS.335.	
+2.7.2.1.1.1.D.	2.7.2.1.1.1.D.	           kompensacijos uþ ðaltà vandená	*			.KITOS.336.	
+2.7.2.1.1.1.E.	2.7.2.1.1.1.E.	           vaþiavimo keleiviniu transportu lengvatos	*			.KITOS.337.	
+2.7.2.1.1.1.F.	2.7.2.1.1.1.F.	kita neiðvardinta parama	*			.KITOS.338.	
+2.7.2.1.1.2.	2.7.2.1.1.2.	Socialinë parama natûra	*			.KITOS.339.	
+2.7.3.	2.7.3.	Darbdaviø socialinë parama	*			..340.	
+2.7.3.1.1.1.	2.7.3.1.1.1.	Darbdaviø socialinë parama pinigais	*			.KITOS.341.	
+2.7.3.1.1.2.	2.7.3.1.1.2.	Darbdaviø socialinë parama natûra	*			.KITOS.342.	
+2.7.B	2.7.B	Socialinës iðmokos (paðalpos)	*			..329.Ne	
+2.8.	2.8.	Kitos iðlaidos	*			..344.	
+2.8.1.	2.8.1.	Kitos iðlaidos	*			..345.	
+2.8.1.1.	2.8.1.1.	Einamiesiems tikslams	*			..346.	
+2.8.1.1.1.1.	2.8.1.1.1.1.	Stipendijoms	*			.KITOS.347.	
+2.8.1.1.1.2.	2.8.1.1.1.2.	Kitiems einamiesiems tikslams	*			.KITOS.348.	
+2.8.1.2.	2.8.1.2.	Kapitalui formuoti	*			..349.	
+2.8.1.2.1.	2.8.1.2.1.	Pervedamos lëðos (kapitalui formuoti)	*			.KITOS.350.	
+2.8.1.2.1.1.	2.8.1.2.1.1.	Pervedamos lëðos (kapitalui formuoti)	*			.KITOS.351.	
+2.8.B	2.8.B	Kitos iðlaidos	*			..343.Ne	
+2.9.	2.9.	Pervedamos Europos Sàjungos, kitos tarptautinës finansinës paramos ir bendrojo finansavimo lëðos	*			..353.	
+2.9.1.	2.9.1.	Subsidijos ið Europos Sàjungos ir kitos tarptautinës finansinës paramos lëðø (ne valdþios sektoriui)	*			..354.	
+2.9.1.1.	2.9.1.1.	Subsidijos	*			..355.	
+2.9.1.1.1.	2.9.1.1.1.	Subsidijos	*			..356.	
+2.9.1.1.1.1.	2.9.1.1.1.1.	Subsidijos	*			.KITOS.357.	
+2.9.2.	2.9.2.	Pervedamos Europos Sàjungos, kitos tarptautinës finansinës paramos ir bendrojo finansavimo lëðos	*			..358.	
+2.9.2.1.	2.9.2.1.	Einamiesiems tikslams	*			..359.	
+2.9.2.1.1.	2.9.2.1.1.	Einamiesiems tikslams	*			..360.	
+2.9.2.1.1.1.	2.9.2.1.1.1.	Einamiesiems tikslams savivaldybëms	*			.KITOS.361.	
+2.9.2.1.1.2.	2.9.2.1.1.2.	Einamiesiems tikslams kitiems valdþios sektoriaus subjektams	*			.KITOS.362.	
+2.9.2.1.1.3.	2.9.2.1.1.3.	Einamiesiems tikslams ne valdþios sektoriui	*			.KITOS.363.	
+2.9.2.2.	2.9.2.2.	Kapitalui formuoti	*			..364.	
+2.9.2.2.1.1.	2.9.2.2.1.1.	Investicijos skirtos savivaldybëms	*			.KITOS.365.	
+2.9.2.2.1.2.	2.9.2.2.1.2.	Investicijos kitiems valdþios sektoriaus subjektams	*			.KITOS.366.	
+2.9.2.2.1.3.	2.9.2.2.1.3.	Investicijos ne valdþios sektoriui	*			.KITOS.367.	
+2.9.B	2.9.B	Pervedamos Europos Sàjungos finansinës paramos ir bendrojo finansavimo lëðos	*			..352.Ne	
+2B	2B	IÐLAIDOS				..4.Ne	
+3.	3.	SANDORIAI DËL MATERIALIOJO IR NEMATERIALIOJO TURTO BEI FINANSINIØ ÁSIPAREIGOJIMØ VYKDYMAS	*			..370.	
+3.1.	3.1.	MATERIALIOJO IR NEMATERIALIOJO TURTO ÁSIGIJIMO IÐLAIDOS	*			.TURTUI.374.	
+3.1.1.	3.1.1.	Ilgalaikio materialiojo turto kûrimas ir ásigijimas	*			.TURTUI.378.	
+3.1.1.1.	3.1.1.1.	Þemë	*			.TURTUI.381.	
+3.1.1.1.1.	3.1.1.1.1.	Þemë	*			.TURTUI.384.	
+3.1.1.1.1.1.	3.1.1.1.1.1.	Þemë	*			.TURTUI.386.	
+3.1.1.1.1.1.D	3.1.1.1.1.1.D	3.1.1.1.1.1.D	*			..387.Ne	
+3.1.1.1.1.1.I.	3.1.1.1.1.1.I.	Þemë	*		2011-05-16	.TURTUI.375.	
+3.1.1.1.1.1.P.	3.1.1.1.1.1.P.	Þemë	*			.PAJAMOS.388.	
+3.1.1.1.1.2.	3.1.1.1.1.2.	Þemës gelmiø iðtekliai	*		2014-06-26	.TURTUI.379.	
+3.1.1.1.1.2.D	3.1.1.1.1.2.D	3.1.1.1.1.2.D	*		2014-06-26	..380.Ne	
+3.1.1.1.1.2.I.	3.1.1.1.1.2.I.	Þemës gelmiø iðtekliai	*		2011-05-16	.TURTUI.378.Taip	
+3.1.1.1.1.2.P.	3.1.1.1.1.2.P.	Þemës gelmiø iðtekliai	*		2014-06-26	.PAJAMOS.381.	
+3.1.1.1.1.3.	3.1.1.1.1.3.	Kitas atsirandantis gamtoje turtas	*		2014-06-26	.TURTUI.382.	
+3.1.1.1.1.3.D	3.1.1.1.1.3.D	3.1.1.1.1.3.D	*		2014-06-26	..383.Ne	
+3.1.1.1.1.3.I.	3.1.1.1.1.3.I.	Kitas atsirandantis gamtoje turtas	*		2011-05-16	.TURTUI.381.Taip	
+3.1.1.1.1.3.P.	3.1.1.1.1.3.P.	Kitas atsirandantis gamtoje turtas	*		2014-06-26	.PAJAMOS.384.	
+3.1.1.1.1.P.	3.1.1.1.1.P.	Þemë ir þemës gelmiø iðtekliai	*			..385.	
+3.1.1.1.I.	3.1.1.1.I.	Þemë	*			..382.Ne	
+3.1.1.1.P.	3.1.1.1.P.	Þemë	*			..383.	
+3.1.1.2.	3.1.1.2.	Pastatai ir statiniai	*			.TURTUI.389.	
+3.1.1.2.1.	3.1.1.2.1.	Pastatai ir statiniai	*			.TURTUI.392.	
+3.1.1.2.1.1.	3.1.1.2.1.1.	Gyvenamieji namai	*			.TURTUI.394.	
+3.1.1.2.1.1.D	3.1.1.2.1.1.D	3.1.1.2.1.1.D	*			..395.Ne	
+3.1.1.2.1.1.I.	3.1.1.2.1.1.I.	Gyvenamieji namai	*		2011-05-16	.TURTUI.390.Taip	
+3.1.1.2.1.1.P.	3.1.1.2.1.1.P.	Gyvenamieji namai	*			.PAJAMOS.396.	
+3.1.1.2.1.2.	3.1.1.2.1.2.	Negyvenamieji pastatai	*			.TURTUI.397.	
+3.1.1.2.1.2.D	3.1.1.2.1.2.D	3.1.1.2.1.2.D	*			..398.Ne	
+3.1.1.2.1.2.I.	3.1.1.2.1.2.I.	Negyvenamieji pastatai	*		2011-05-16	.TURTUI.394.Taip	
+3.1.1.2.1.2.P.	3.1.1.2.1.2.P.	Negyvenamieji pastatai	*		2010-12-31	.PAJAMOS.395.	
+3.1.1.2.1.3.	3.1.1.2.1.3.	Kiti pastatai ir statiniai	*			.TURTUI.399.	
+3.1.1.2.1.3.D	3.1.1.2.1.3.D	3.1.1.2.1.3.D	*			..400.Ne	
+3.1.1.2.1.3.I.	3.1.1.2.1.3.I.	Kiti pastatai ir statiniai	*		2011-05-16	.TURTUI.398.Taip	
+3.1.1.2.1.3.P.	3.1.1.2.1.3.P.	Kiti pastatai ir statiniai	*			.PAJAMOS.401.	
+3.1.1.2.1.P.	3.1.1.2.1.P.	Pastatai ir statiniai	*			..393.	
+3.1.1.2.I.	3.1.1.2.I.	Pastatai ir statiniai	*			..390.Ne	
+3.1.1.2.P.	3.1.1.2.P.	Pastatø ir statiniø realizavimo pajamos	*			..391.	
+3.1.1.3.	3.1.1.3.	Maðinos ir árenginiai	*			.TURTUI.402.	
+3.1.1.3.1.	3.1.1.3.1.	Maðinos ir árenginiai	*			.TURTUI.405.	
+3.1.1.3.1.1.	3.1.1.3.1.1.	Transporto priemonës	*			.TURTUI.407.	
+3.1.1.3.1.1.D	3.1.1.3.1.1.D	3.1.1.3.1.1.D	*			..408.Ne	
+3.1.1.3.1.1.I.	3.1.1.3.1.1.I.	Transporto priemonës	*		2011-05-16	.TURTUI.407.	
+3.1.1.3.1.1.P.	3.1.1.3.1.1.P.	Transporto priemonës	*			.PAJAMOS.409.	
+3.1.1.3.1.2.	3.1.1.3.1.2.	Kitos maðinos ir árenginiai	*			.TURTUI.411.	
+3.1.1.3.1.2.D	3.1.1.3.1.2.D	3.1.1.3.1.2.D	*			..410.Ne	
+3.1.1.3.1.2.I.	3.1.1.3.1.2.I.	Kitos maðinos ir árenginiai	*		2011-05-16	.TURTUI.411.	
+3.1.1.3.1.2.P.	3.1.1.3.1.2.P.	Kitos maðinos ir árenginiai	*			.PAJAMOS.412.	
+3.1.1.3.1.3.	3.1.1.3.1.3.	Ginklai ir karinë áranga	*	2014-06-26		.TURTUI.413.	
+3.1.1.3.1.P.	3.1.1.3.1.P.	Maðinos ir árenginiai	*			..406.	
+3.1.1.3.I.	3.1.1.3.I.	Maðinos ir árenginiai	*			..403.Ne	
+3.1.1.3.P.	3.1.1.3.P.	Maðinø ir árenginiø realizavimo pajamos	*			..404.	
+3.1.1.4.	3.1.1.4.	Vertybës	*			.TURTUI.414.	
+3.1.1.4.1.	3.1.1.4.1.	Vertybës	*			.TURTUI.417.	
+3.1.1.4.1.1.	3.1.1.4.1.1.	Muziejinës vertybës	*			.TURTUI.420.	
+3.1.1.4.1.1.D	3.1.1.4.1.1.D	3.1.1.4.1.1.D	*			..419.Ne	
+3.1.1.4.1.1.I.	3.1.1.4.1.1.I.	Muziejinës vertybës	*		2011-05-16	.TURTUI.420.	
+3.1.1.4.1.1.P.	3.1.1.4.1.1.P.	Muziejinës vertybës	*			.PAJAMOS.421.	
+3.1.1.4.1.2.	3.1.1.4.1.2.	Antikvariniai ir kiti meno kûriniai	*			.TURTUI.422.	
+3.1.1.4.1.2.D	3.1.1.4.1.2.D	3.1.1.4.1.2.D	*			..423.Ne	
+3.1.1.4.1.2.I.	3.1.1.4.1.2.I.	Antikvariniai ir kiti meno kûriniai	*		2011-05-16	.TURTUI.424.	
+3.1.1.4.1.2.P.	3.1.1.4.1.2.P.	Antikvariniai ir kiti meno kûriniai	*			.PAJAMOS.424.	
+3.1.1.4.1.3.	3.1.1.4.1.3.	Kitos vertybës	*			.TURTUI.426.	
+3.1.1.4.1.3.D	3.1.1.4.1.3.D	3.1.1.4.1.3.D	*			..425.Ne	
+3.1.1.4.1.3.I.	3.1.1.4.1.3.I.	Kitos vertybës	*		2011-05-16	.TURTUI.428.	
+3.1.1.4.1.3.P.	3.1.1.4.1.3.P.	Kitos vertybës	*			.PAJAMOS.427.	
+3.1.1.4.1.P.	3.1.1.4.1.P.	Vertybës	*			..418.	
+3.1.1.4.I.	3.1.1.4.I.	Vertybës	*			..415.Ne	
+3.1.1.4.P.	3.1.1.4.P.	Vertybiø realizavimo pajamos	*			..416.	
+3.1.1.5.	3.1.1.5.	Kitas ilgalaikis materialusis turtas	*			..428.	
+3.1.1.5.1.	3.1.1.5.1.	Kitas ilgalaikis materialusis turtas	*			..431.	
+3.1.1.5.1.1.	3.1.1.5.1.1.	Kitas ilgalaikis materialusis turtas	*			.TURTUI.433.	
+3.1.1.5.1.1.P.	3.1.1.5.1.1.P.	Kitas ilgalaikis materialusis turtas	*			.PAJAMOS.434.	
+3.1.1.5.1.2.	3.1.1.5.1.2.	Vaismedþiai ir kiti daugiameèiai sodiniai	*		2014-06-26	.TURTUI.431.	
+3.1.1.5.1.2.D	3.1.1.5.1.2.D	3.1.1.5.1.2.D	*		2014-06-26	..432.Ne	
+3.1.1.5.1.2.I.	3.1.1.5.1.2.I.	Vaismedþiai ir kiti daugiameèiai sodiniai	*		2011-05-16	.TURTUI.438.	
+3.1.1.5.1.2.P.	3.1.1.5.1.2.P.	Vaismedþiai ir kiti daugiameèiai sodiniai	*		2014-06-26	.PAJAMOS.433.	
+3.1.1.5.1.3.	3.1.1.5.1.3.	Kitas ilgalaikis materialusis turtas	*			.TURTUI.436.	
+3.1.1.5.1.3.D	3.1.1.5.1.3.D	3.1.1.5.1.3.D	*			..435.Ne	
+3.1.1.5.1.3.I.	3.1.1.5.1.3.I.	Kitas ilgalaikis materialusis turtas	*		2011-05-16	.TURTUI.442.	
+3.1.1.5.1.3.P.	3.1.1.5.1.3.P.	Kitas ilgalaikis materialusis turtas	*			.PAJAMOS.437.	
+3.1.1.5.1.P.	3.1.1.5.1.P.	Kitas ilgalaikis materialusis turtas	*			..432.	
+3.1.1.5.I.	3.1.1.5.I.	Kitas ilgalaikis materialusis turtas	*			..429.Ne	
+3.1.1.5.P.	3.1.1.5.P.	Kito ilgalaikio materialiojo turto realizavimo	*			..430.	
+3.1.1.I.	3.1.1.I.	Ilgalaikio materialiojo turto kûrimas ir ásigijimas	*			..379.Ne	
+3.1.1.P.	3.1.1.P.	Ilgalaikio materialiojo turto realizavimo pajamos	*			..380.	
+3.1.2.	3.1.2.	Nematerialiojo turto kûrimas ir ásigijimas	*			.TURTUI.438.	
+3.1.2.1.	3.1.2.1.	Nematerialusis turtas	*			.TURTUI.441.	
+3.1.2.1.1.	3.1.2.1.1.	Nematerialusis turtas	*			.TURTUI.444.	
+3.1.2.1.1.1.	3.1.2.1.1.1.	Naudingøjø iðkasenø þvalgymo darbai	*			.TURTUI.446.	
+3.1.2.1.1.1.D	3.1.2.1.1.1.D	3.1.2.1.1.1.D	*			..447.Ne	
+3.1.2.1.1.1.I.	3.1.2.1.1.1.I.	Naudingøjø iðkasenø þvalgymo darbai	*		2011-05-16	.TURTUI.454.	
+3.1.2.1.1.1.P.	3.1.2.1.1.1.P.	Naudingøjø iðkasenø þvalgymo darbai	*			.PAJAMOS.448.	
+3.1.2.1.1.2.	3.1.2.1.1.2.	Kompiuterinë programinë áranga, kompiuterinës programinës árangos licencijos	*			.TURTUI.449.	
+3.1.2.1.1.2.D	3.1.2.1.1.2.D	3.1.2.1.1.2.D	*			..450.Ne	
+3.1.2.1.1.2.I.	3.1.2.1.1.2.I.	Kompiuterinë programinë áranga, kompiuterinës programinës árangos licencijos	*		2011-05-16	.TURTUI.458.	
+3.1.2.1.1.2.P.	3.1.2.1.1.2.P.	Kompiuterinë programinë áranga	*			.PAJAMOS.451.	
+3.1.2.1.1.3.	3.1.2.1.1.3.	Patentai	*			.TURTUI.452.	
+3.1.2.1.1.3.D	3.1.2.1.1.3.D	3.1.2.1.1.3.D	*			..453.Ne	
+3.1.2.1.1.3.I.	3.1.2.1.1.3.I.	Patentai	*		2011-05-16	.TURTUI.462.	
+3.1.2.1.1.3.P.	3.1.2.1.1.3.P.	Patentai, licencijos	*			.PAJAMOS.454.	
+3.1.2.1.1.4.	3.1.2.1.1.4.	Literatûros ir meno kûriniai	*			.TURTUI.455.	
+3.1.2.1.1.4.D	3.1.2.1.1.4.D	3.1.2.1.1.4.D	*			..456.Ne	
+3.1.2.1.1.4.I.	3.1.2.1.1.4.I.	Literatûros ir meno kûriniai	*		2011-05-16	.TURTUI.466.	
+3.1.2.1.1.4.P.	3.1.2.1.1.4.P.	Literatûros ir meno kûriniai	*			.PAJAMOS.457.	
+3.1.2.1.1.5.	3.1.2.1.1.5.	Kitas nematerialusis turtas	*			.TURTUI.458.	
+3.1.2.1.1.5.D	3.1.2.1.1.5.D	3.1.2.1.1.5.D	*			..459.Ne	
+3.1.2.1.1.5.I.	3.1.2.1.1.5.I.	Kitas nematerialusis turtas	*		2011-05-16	.TURTUI.470.	
+3.1.2.1.1.5.P.	3.1.2.1.1.5.P.	Kitas nematerialusis turtas	*			.PAJAMOS.460.	
+3.1.2.1.1.P.	3.1.2.1.1.P.	Nematerialusis turtas	*			..445.	
+3.1.2.1.I.	3.1.2.1.I.	Nematerialusis turtas	*			..442.Ne	
+3.1.2.1.P.	3.1.2.1.P.	Nematerialiojo turto realizavimo pajamos	*			..443.	
+3.1.2.I.	3.1.2.I.	Nematerialiojo turto kûrimas ir ásigijimas	*			..439.Ne	
+3.1.2.P.	3.1.2.P.	Nematerialiojo turto realizavimo pajamos	*			..440.	
+3.1.3.	3.1.3.	Atsargø kûrimas ir ásigijimas	*			.TURTUI.461.	
+3.1.3.1.	3.1.3.1.	Strateginës ir nelieèiamosios atsargos	*			.TURTUI.463.	
+3.1.3.1.1.	3.1.3.1.1.	Strateginës ir nelieèiamosios atsargos	*			.TURTUI.465.	
+3.1.3.1.1.1.	3.1.3.1.1.1.	Strateginës ir nelieèiamosios atsargos	*			.TURTUI.467.	
+3.1.3.1.1.1.P.	3.1.3.1.1.1.P.	Strateginës ir nelieèiamosios atsargos	*			.PAJAMOS.468.	
+3.1.3.1.1.P.	3.1.3.1.1.P.	Strateginës ir nelieèiamosios atsargos	*			..466.	
+3.1.3.1.P.	3.1.3.1.P.	Strateginës ir nelieèiamosios atsargos	*			..464.	
+3.1.3.2.	3.1.3.2.	Kitos atsargos	*			.TURTUI.469.	
+3.1.3.2.1.	3.1.3.2.1.	Kitos atsargos	*			.TURTUI.471.	
+3.1.3.2.1.1.	3.1.3.2.1.1.	Þaliavos ir medþiagos	*			.TURTUI.473.	
+3.1.3.2.1.1.P.	3.1.3.2.1.1.P.	Þaliavos ir medþiagos	*			.PAJAMOS.474.	
+3.1.3.2.1.2.	3.1.3.2.1.2.	Nebaigta gamyba	*			.TURTUI.475.	
+3.1.3.2.1.2.P.	3.1.3.2.1.2.P.	Nebaigta gamyba	*			.PAJAMOS.476.	
+3.1.3.2.1.3.	3.1.3.2.1.3.	Pagaminta produkcija	*			.TURTUI.477.	
+3.1.3.2.1.3.P.	3.1.3.2.1.3.P.	Pagaminta produkcija	*			.PAJAMOS.478.	
+3.1.3.2.1.4.	3.1.3.2.1.4.	Pirktos prekës, skirtos parduoti	*			.TURTUI.479.	
+3.1.3.2.1.4.P.	3.1.3.2.1.4.P.	Pirktos prekës, skirtos parduoti	*			.PAJAMOS.480.	
+3.1.3.2.1.5.	3.1.3.2.1.5.	Karinës atsargos	*	2014-06-26		.TURTUI.481.	
+3.1.3.2.1.P.	3.1.3.2.1.P.	Kitos atsargos	*			..472.	
+3.1.3.2.P.	3.1.3.2.P.	Kitos atsargos	*			..470.	
+3.1.3.P.	3.1.3.P.	Atsargø realizavimo pajamos	*			..462.	
+3.1.4.	3.1.4.	Ilgalaikio turto ásigijimas finansinës nuomos (lizingo) bûdu	*			.TURTUI.482.	
+3.1.4.1.	3.1.4.1.	Ilgalaikio turto ásigijimas finansinës nuomos (lizingo) bûdu	*			.TURTUI.484.	
+3.1.4.1.1.	3.1.4.1.1.	Ilgalaikio turto ásigijimas finansinës nuomos (lizingo) bûdu	*			.TURTUI.486.	
+3.1.4.1.1.1.	3.1.4.1.1.1.	Ilgalaikio turto ásigijimas finansinës nuomos (lizingo) bûdu	*			.TURTUI.487.	
+3.1.4.1.1.1.D	3.1.4.1.1.1.D	3.1.4.1.1.1.D	*			..488.Ne	
+3.1.4.1.1.1.I.	3.1.4.1.1.1.I.	Ilgalaikio turto ásigijimas finansinës nuomos (lizingo) bûdu	*		2011-05-16	.TURTUI.500.	
+3.1.4.1.1.I.	3.1.4.1.1.I.	Ilgalaikio turto ásigijimas finansinës nuomos (lizingo) bûdu	*		2011-05-16	.TURTUI.497.	
+3.1.4.1.I.	3.1.4.1.I.	Ilgalaikio turto ásigijimas finansinës nuomos (lizingo) bûdu      	*			..485.Ne	
+3.1.4.I.	3.1.4.I.	Ilgalaikio turto ásigijimas finansinës nuomos (lizingo) bûdu	*			..483.Ne	
+3.1.5.	3.1.5.	Biologinis turtas ir mineraliniai iðtekliai	*			.TURTUI.489.	
+3.1.5.1.	3.1.5.1.	Biologinis turtas ir mineraliniai iðtekliai	*			.TURTUI.491.	
+3.1.5.1.1.	3.1.5.1.1.	Biologinis turtas ir mineraliniai iðtekliai	*			.TURTUI.493.	
+3.1.5.1.1.1.	3.1.5.1.1.1.	Þemës gelmiø iðtekliai	*			.TURTUI.495.	
+3.1.5.1.1.1.D	3.1.5.1.1.1.D	3.1.5.1.1.1.D	*			..496.Ne	
+3.1.5.1.1.1.I.	3.1.5.1.1.1.I.	Þemës gelmiø iðtekliai	*		2011-05-16	.TURTUI.509.	
+3.1.5.1.1.2.	3.1.5.1.1.2.	Gyvuliai ir kiti gyvûnai	*			.TURTUI.497.	
+3.1.5.1.1.2.D	3.1.5.1.1.2.D	3.1.5.1.1.2.D	*			..498.Ne	
+3.1.5.1.1.2.I.	3.1.5.1.1.2.I.	Gyvuliai ir kiti gyvûnai	*		2011-05-16	.TURTUI.512.	
+3.1.5.1.1.3.	3.1.5.1.1.3.	Vaismedþiai ir kiti daugiameèiai sodiniai	*			.TURTUI.500.	
+3.1.5.1.1.3.D	3.1.5.1.1.3.D	3.1.5.1.1.3.D	*			..499.Ne	
+3.1.5.1.1.3.I.	3.1.5.1.1.3.I.	Vaismedþiai ir kiti daugiameèiai sodiniai	*		2011-05-16	.TURTUI.515.	
+3.1.5.1.1.I.	3.1.5.1.1.I.	Biologinis turtas ir mineraliniai iðtekliai	*			.TURTUI.494.Ne	
+3.1.5.1.I.	3.1.5.1.I.	Biologinis turtas ir mineraliniai iðtekliai	*			.TURTUI.492.Ne	
+3.1.5.I.	3.1.5.I.	Biologinis turtas ir mineraliniai iðtekliai	*			.TURTUI.490.Ne	
+3.1.I.	3.1.I.	Materialiojo ir nematerialiojo turto ásigijimo iðlaidos	*			..376.Ne	
+3.1.I.B	3.1.I.B	Materialiojo ir nematerialiojo turto ásigijimo iðlaidos	*			..375.Ne	
+3.1.P.	3.1.P.	Materialiojo ir nematerialiojo turto realizavimo pajamos	*			..377.	
+3.2.	3.2.	FINANSINIO TURTO ÁSIGIJIMO IÐLAIDOS (PERSKOLINIMAS)	*			.TURTUI.501.	
+3.2.1.	3.2.1.	Vidaus	*			.TURTUI.505.	
+3.2.1.1.	3.2.1.1.	Grynieji pinigai ir indëliai banke (nacionaline valiuta)	*			.TURTUI.508.	
+3.2.1.1.1.	3.2.1.1.1.	Grynieji pinigai ir indëliai banke (nacionaline valiuta)	*			.TURTUI.510.	
+3.2.1.1.1.1.	3.2.1.1.1.1.	Grynieji pinigai	*			.TURTUI.512.	
+3.2.1.1.1.1.P.	3.2.1.1.1.1.P.	Grynieji pinigai	*			.PAJAMOS.513.	
+3.2.1.1.1.2.	3.2.1.1.1.2.	Pervedamieji indëliai (pinigai bankuose)	*			.TURTUI.514.	
+3.2.1.1.1.2.P.	3.2.1.1.1.2.P.	Pervedamieji indëliai (pinigai bankuose)	*			.PAJAMOS.515.	
+3.2.1.1.1.3.	3.2.1.1.1.3.	Kiti ilgalaikiai indëliai (pinigai bankuose)	*			.TURTUI.516.	
+3.2.1.1.1.3.P.	3.2.1.1.1.3.P.	Kiti indëliai (pinigai bankuose)	*			.PAJAMOS.517.	
+3.2.1.1.1.4.	3.2.1.1.1.4.	Kiti trumpalaikiai indëliai (pinigai bankuose)	*			.TURTUI.518.	
+3.2.1.1.1.P.	3.2.1.1.1.P.	Grynieji pinigai ir indëliai banke	*			..511.	
+3.2.1.1.P.	3.2.1.1.P.	Grynieji pinigai ir indëliai banke	*			..509.	
+3.2.1.2.	3.2.1.2.	Vertybiniai popieriai (ásigyti), iðskyrus akcijas	*			.TURTUI.519.	
+3.2.1.2.1.	3.2.1.2.1.	Vertybiniai popieriai (ásigyti), iðskyrus akcijas	*			.TURTUI.521.	
+3.2.1.2.1.1.	3.2.1.2.1.1.	Trumpalaikiai	*			.TURTUI.523.	
+3.2.1.2.1.1.P.	3.2.1.2.1.1.P.	Trumpalaikiai	*			.PAJAMOS.524.	
+3.2.1.2.1.2.	3.2.1.2.1.2.	Ilgalaikiai	*			.TURTUI.525.	
+3.2.1.2.1.2.P.	3.2.1.2.1.2.P.	Ilgalaikiai	*			.PAJAMOS.526.	
+3.2.1.2.1.P.	3.2.1.2.1.P.	Vertybiniai popieriai (parduoti), iðskyrus akcijas	*			..522.	
+3.2.1.2.P.	3.2.1.2.P.	Vertybiniai popieriai (parduoti), iðskyrus akcijas	*			..520.	
+3.2.1.3.	3.2.1.3.	Iðvestinës finansinës priemonës	*			.TURTUI.527.	
+3.2.1.3.1.	3.2.1.3.1.	Iðvestinës finansinës priemonës	*			.TURTUI.529.	
+3.2.1.3.1.1.	3.2.1.3.1.1.	Trumpalaikës	*			.TURTUI.531.	
+3.2.1.3.1.1.P.	3.2.1.3.1.1.P.	Iðvestinës finansinës priemonës	*			.PAJAMOS.532.	
+3.2.1.3.1.2.	3.2.1.3.1.2.	Ilgalaikës	*			.TURTUI.533.	
+3.2.1.3.1.P.	3.2.1.3.1.P.	Iðvestinës finansinës priemonës	*			..530.	
+3.2.1.3.P.	3.2.1.3.P.	Iðvestinës finansinës priemonës	*			..528.	
+3.2.1.4.	3.2.1.4.	Paskolos (suteiktos)	*			.TURTUI.534.	
+3.2.1.4.1.	3.2.1.4.1.	Paskolos (suteiktos)	*			.TURTUI.537.	
+3.2.1.4.1.1.	3.2.1.4.1.1.	Trumpalaikës	*			.TURTUI.540.	
+3.2.1.4.1.1.D	3.2.1.4.1.1.D	3.2.1.4.1.1.D	*			..539.Ne	
+3.2.1.4.1.1.I.	3.2.1.4.1.1.I.	Trumpalaikës	*		2011-05-16	.KITOS.554.	
+3.2.1.4.1.1.P.	3.2.1.4.1.1.P.	Trumpalaikës	*			.PAJAMOS.541.	
+3.2.1.4.1.2.	3.2.1.4.1.2.	Ilgalaikës	*			.TURTUI.542.	
+3.2.1.4.1.2.D	3.2.1.4.1.2.D	3.2.1.4.1.2.D	*			..543.Ne	
+3.2.1.4.1.2.I.	3.2.1.4.1.2.I.	Ilgalaikës	*		2011-05-16	.KITOS.558.	
+3.2.1.4.1.2.P.	3.2.1.4.1.2.P.	Ilgalaikës	*			.PAJAMOS.544.	
+3.2.1.4.1.P.	3.2.1.4.1.P.	Paskolos (surinktos)	*			..538.	
+3.2.1.4.I.	3.2.1.4.I.	Paskolos (suteiktos)	*			..535.Ne	
+3.2.1.4.P.	3.2.1.4.P.	Paskolos (surinktos)	*			..536.	
+3.2.1.5.	3.2.1.5.	Akcijos (ásigytos) ir kitas nuosavas kapitalas	*			.TURTUI.545.	
+3.2.1.5.1.	3.2.1.5.1.	Akcijos (ásigytos) ir kitas nuosavas kapitalas	*			.TURTUI.548.	
+3.2.1.5.1.1.	3.2.1.5.1.1.	Akcijos (ásigytos) ir kitas nuosavas kapitalas	*			.TURTUI.550.	
+3.2.1.5.1.1.D	3.2.1.5.1.1.D	3.2.1.5.1.1.D	*			..551.Ne	
+3.2.1.5.1.1.I.	3.2.1.5.1.1.I.	Akcijos (ásigytos) ir kitas nuosavas kapitalas	*		2011-05-16	.KITOS.567.	
+3.2.1.5.1.1.P.	3.2.1.5.1.1.P.	Akcijos (parduotos) ir kitas nuosavas	*			.PAJAMOS.552.	
+3.2.1.5.1.P.	3.2.1.5.1.P.	Akcijos (parduotos) ir kitas nuosavas	*			..549.	
+3.2.1.5.I.	3.2.1.5.I.	Akcijos (ásigytos) ir kitas nuosavas kapitalas	*			..546.Ne	
+3.2.1.5.P.	3.2.1.5.P.	Akcijos (parduotos) ir kitas nuosavas	*			..547.	
+3.2.1.6.	3.2.1.6.	Draudimo techniniai atidëjiniai	*			.TURTUI.553.	
+3.2.1.6.1.	3.2.1.6.1.	Draudimo techniniai atidëjiniai	*			.TURTUI.555.	
+3.2.1.6.1.1.	3.2.1.6.1.1.	Draudimo techniniai atidëjiniai	*			.TURTUI.557.	
+3.2.1.6.1.1.P.	3.2.1.6.1.1.P.	Draudimo techniniai atidëjiniai	*			.PAJAMOS.558.	
+3.2.1.6.1.P.	3.2.1.6.1.P.	Draudimo techniniai atidëjiniai	*			..556.	
+3.2.1.6.P.	3.2.1.6.P.	Draudimo techniniai atidëjiniai	*			..554.	
+3.2.1.7.	3.2.1.7.	Kitos mokëtinos sumos	*			.TURTUI.559.	
+3.2.1.7.1.	3.2.1.7.1.	Kitos mokëtinos sumos	*			.TURTUI.562.	
+3.2.1.7.1.1.	3.2.1.7.1.1.	Trumpalaikës	*			.TURTUI.564.	
+3.2.1.7.1.1.D	3.2.1.7.1.1.D	3.2.1.7.1.1.D	*			..565.Ne	
+3.2.1.7.1.1.I.	3.2.1.7.1.1.I.	Kitos mokëtinos sumos	*		2011-05-16	.KITOS.582.	
+3.2.1.7.1.1.P.	3.2.1.7.1.1.P.	Kitos gautinos sumos	*			.PAJAMOS.566.	
+3.2.1.7.1.2.	3.2.1.7.1.2.	Ilgalaikës	*			.TURTUI.567.	
+3.2.1.7.1.P.	3.2.1.7.1.P.	Kitos gautinos sumos	*			..563.	
+3.2.1.7.I.	3.2.1.7.I.	Kitos mokëtinos sumos	*			..560.Ne	
+3.2.1.7.P.	3.2.1.7.P.	Kitos gautinos sumos	*			..561.	
+3.2.1.I.	3.2.1.I.	Vidaus	*			..506.Ne	
+3.2.1.P.	3.2.1.P.	Vidaus	*			..507.	
+3.2.2.	3.2.2.	Uþsienio	*			.TURTUI.568.	
+3.2.2.1.	3.2.2.1.	Grynieji pinigai ir indëliai banke (uþsienio valiuta)	*			.TURTUI.571.	
+3.2.2.1.1.	3.2.2.1.1.	Grynieji pinigai ir indëliai banke (uþsienio valiuta)	*			.TURTUI.573.	
+3.2.2.1.1.1.	3.2.2.1.1.1.	Grynieji pinigai	*			.TURTUI.575.	
+3.2.2.1.1.1.P.	3.2.2.1.1.1.P.	Grynieji pinigai	*			.PAJAMOS.576.	
+3.2.2.1.1.2.	3.2.2.1.1.2.	Pervedamieji indëliai (pinigai bankuose)	*			.TURTUI.577.	
+3.2.2.1.1.2.P.	3.2.2.1.1.2.P.	Pervedamieji indëliai (pinigai bankuose)	*			.PAJAMOS.578.	
+3.2.2.1.1.3.	3.2.2.1.1.3.	Kiti ilgalaikiai indëliai (pinigai bankuose)	*			.TURTUI.579.	
+3.2.2.1.1.3.P.	3.2.2.1.1.3.P.	Kiti indëliai (pinigai bankuose)	*			.PAJAMOS.580.	
+3.2.2.1.1.4.	3.2.2.1.1.4.	Kiti trumpalaikiai indëliai (pinigai bankuose)	*			.TURTUI.581.	
+3.2.2.1.1.P.	3.2.2.1.1.P.	Grynieji pinigai ir indëliai banke	*			..574.	
+3.2.2.1.P.	3.2.2.1.P.	Grynieji pinigai ir indëliai banke	*			..572.	
+3.2.2.2.	3.2.2.2.	Vertybiniai popieriai (ásigyti), iðskyrus akcijas	*			.TURTUI.582.	
+3.2.2.2.1.	3.2.2.2.1.	Vertybiniai popieriai (ásigyti), iðskyrus akcijas	*			.TURTUI.584.	
+3.2.2.2.1.1.	3.2.2.2.1.1.	Trumpalaikiai	*			.TURTUI.586.	
+3.2.2.2.1.1.P.	3.2.2.2.1.1.P.	Trumpalaikiai	*			.PAJAMOS.587.	
+3.2.2.2.1.2.	3.2.2.2.1.2.	Ilgalaikiai	*			.TURTUI.588.	
+3.2.2.2.1.2.P.	3.2.2.2.1.2.P.	Ilgalaikiai	*			.PAJAMOS.589.	
+3.2.2.2.1.P.	3.2.2.2.1.P.	Vertybiniai popieriai (parduoti), iðskyrus akcijas	*			..585.	
+3.2.2.2.P.	3.2.2.2.P.	Vertybiniai popieriai (parduoti), iðskyrus akcijas	*			..583.	
+3.2.2.3.	3.2.2.3.	Iðvestinës finansinës priemonës	*			.TURTUI.590.	
+3.2.2.3.1.	3.2.2.3.1.	Iðvestinës finansinës priemonës	*			.TURTUI.592.	
+3.2.2.3.1.1.	3.2.2.3.1.1.	Trumpalaikës	*			.TURTUI.594.	
+3.2.2.3.1.1.P.	3.2.2.3.1.1.P.	Iðvestinës finansinës priemonës	*			.PAJAMOS.595.	
+3.2.2.3.1.2.	3.2.2.3.1.2.	Ilgalaikës	*			.TURTUI.596.	
+3.2.2.3.1.P.	3.2.2.3.1.P.	Iðvestinës finansinës priemonës	*			..593.	
+3.2.2.3.P.	3.2.2.3.P.	Iðvestinës finansinës priemonës	*			..591.	
+3.2.2.4.	3.2.2.4.	Paskolos (suteiktos)	*			.TURTUI.597.	
+3.2.2.4.1.	3.2.2.4.1.	Paskolos (suteiktos)	*			.TURTUI.599.	
+3.2.2.4.1.1.	3.2.2.4.1.1.	Trumpalaikës	*			.TURTUI.601.	
+3.2.2.4.1.1.P.	3.2.2.4.1.1.P.	Trumpalaikës	*			.PAJAMOS.602.	
+3.2.2.4.1.2.	3.2.2.4.1.2.	Ilgalaikës	*			.TURTUI.603.	
+3.2.2.4.1.2.P.	3.2.2.4.1.2.P.	Ilgalaikës	*			.PAJAMOS.604.	
+3.2.2.4.1.P.	3.2.2.4.1.P.	Paskolos (surinktos)	*			..600.	
+3.2.2.4.P.	3.2.2.4.P.	Paskolos (surinktos)	*			..598.	
+3.2.2.5.	3.2.2.5.	Akcijos (ásigytos) ir kitas nuosavas kapitalas	*			.TURTUI.605.	
+3.2.2.5.1.	3.2.2.5.1.	Akcijos (ásigytos) ir kitas nuosavas kapitalas	*			.TURTUI.608.	
+3.2.2.5.1.1.	3.2.2.5.1.1.	Akcijos (ásigytos) ir kitas nuosavas kapitalas	*			.TURTUI.610.	
+3.2.2.5.1.1.D	3.2.2.5.1.1.D	3.2.2.5.1.1.D	*			..611.Ne	
+3.2.2.5.1.1.I.	3.2.2.5.1.1.I.	Akcijos (ásigytos) ir kitas nuosavas kapitalas	*		2011-05-16	.KITOS.626.	
+3.2.2.5.1.1.P.	3.2.2.5.1.1.P.	Akcijos (parduotos) ir kitas nuosavas	*			.PAJAMOS.612.	
+3.2.2.5.1.P.	3.2.2.5.1.P.	Akcijos (parduotos) ir kitas nuosavas	*			..609.	
+3.2.2.5.I.	3.2.2.5.I.	Akcijos (ásigytos) ir kitas nuosavas kapitalas	*			..606.Ne	
+3.2.2.5.P.	3.2.2.5.P.	Akcijos (parduotos) ir kitas nuosavas	*			..607.	
+3.2.2.6.	3.2.2.6.	Draudimo techniniai atidëjiniai	*			.TURTUI.613.	
+3.2.2.6.1.	3.2.2.6.1.	Draudimo techniniai atidëjiniai	*			.TURTUI.615.	
+3.2.2.6.1.1.	3.2.2.6.1.1.	Draudimo techniniai atidëjiniai	*			.TURTUI.617.	
+3.2.2.6.1.1.P.	3.2.2.6.1.1.P.	Draudimo techniniai atidëjiniai	*			.PAJAMOS.618.	
+3.2.2.6.1.P.	3.2.2.6.1.P.	Draudimo techniniai atidëjiniai	*			..616.	
+3.2.2.6.P.	3.2.2.6.P.	Draudimo techniniai atidëjiniai	*			..614.	
+3.2.2.7.	3.2.2.7.	Kitos mokëtinos sumos	*			.TURTUI.619.	
+3.2.2.7.1.	3.2.2.7.1.	Kitos mokëtinos sumos	*			.TURTUI.622.	
+3.2.2.7.1.1.	3.2.2.7.1.1.	Trumpalaikës	*			.TURTUI.624.	
+3.2.2.7.1.1.D	3.2.2.7.1.1.D	3.2.2.7.1.1.D	*			..625.Ne	
+3.2.2.7.1.1.I.	3.2.2.7.1.1.I.	Kitos mokëtinos sumos	*		2011-05-16	.KITOS.641.	
+3.2.2.7.1.1.P.	3.2.2.7.1.1.P.	Kitos gautinos sumos	*			.PAJAMOS.626.	
+3.2.2.7.1.2.	3.2.2.7.1.2.	Ilgalaikës	*			.TURTUI.627.	
+3.2.2.7.1.P.	3.2.2.7.1.P.	Kitos gautinos sumos	*			..623.	
+3.2.2.7.I.	3.2.2.7.I.	Kitos mokëtinos sumos	*			..620.Ne	
+3.2.2.7.P.	3.2.2.7.P.	Kitos gautinos sumos	*			..621.	
+3.2.2.I.	3.2.2.I.	Uþsienio	*			..569.Ne	
+3.2.2.P.	3.2.2.P.	Uþsienio	*			..570.	
+3.2.I.	3.2.I.	Finansinio turto ásigijimo iðlaidos (perskolinimas)	*			..502.Ne	
+3.2.I.B	3.2.I.B	Finansinio turto ásigijimo iðlaidos (perskolinimas)	*			..503.Ne	
+3.2.P.	3.2.P.	Sandoriai dël finansinio turto	*			..504.	
+3.3.	3.3.	IÐLAIDOS DËL FINANSINIØ ÁSIPAREIGOJIMØ VYKDYMO (PASKOLØ GRÀÞINIMAS)	*			.TURTUI.628.	
+3.3.1.	3.3.1.	Vidaus	*			.TURTUI.632.	
+3.3.1.1.	3.3.1.1.	Grynieji pinigai ir indëliai banke (nacionaline valiuta)	*			.TURTUI.635.	
+3.3.1.1.1.	3.3.1.1.1.	Grynieji pinigai ir indëliai banke (nacionaline valiuta)	*			.TURTUI.637.	
+3.3.1.1.1.1.	3.3.1.1.1.1.	Grynieji pinigai	*			.TURTUI.639.	
+3.3.1.1.1.1.P.	3.3.1.1.1.1.P.	Grynieji pinigai	*			.PAJAMOS.640.	
+3.3.1.1.1.2.	3.3.1.1.1.2.	Pervedamieji indëliai (pinigai bankuose)	*			.TURTUI.641.	
+3.3.1.1.1.2.P.	3.3.1.1.1.2.P.	Pervedamieji indëliai (pinigai bankuose)	*			.PAJAMOS.642.	
+3.3.1.1.1.3.	3.3.1.1.1.3.	Kiti indëliai (pinigai bankuose)	*			.TURTUI.643.	
+3.3.1.1.1.3.P.	3.3.1.1.1.3.P.	Kiti indëliai (pinigai bankuose)	*			.PAJAMOS.644.	
+3.3.1.1.1.P.	3.3.1.1.1.P.	Grynieji pinigai ir indëliai banke	*			..638.	
+3.3.1.1.P.	3.3.1.1.P.	Grynieji pinigai ir indëliai banke	*			..636.	
+3.3.1.2.	3.3.1.2.	Vertybiniai popieriai (iðpirkti), iðskyrus akcijas	*			.TURTUI.645.	
+3.3.1.2.1.	3.3.1.2.1.	Vertybiniai popieriai (iðpirkti), iðskyrus akcijas	*			.TURTUI.647.	
+3.3.1.2.1.1.	3.3.1.2.1.1.	Trumpalaikiai	*			.TURTUI.649.	
+3.3.1.2.1.1.P.	3.3.1.2.1.1.P.	Trumpalaikiai	*			.PAJAMOS.650.	
+3.3.1.2.1.2.	3.3.1.2.1.2.	Ilgalaikiai	*			.TURTUI.651.	
+3.3.1.2.1.2.P.	3.3.1.2.1.2.P.	Ilgalaikiai	*			.PAJAMOS.652.	
+3.3.1.2.1.P.	3.3.1.2.1.P.	Vertybiniai popieriai (iðleisti), iðskyrus akcijas	*			..648.	
+3.3.1.2.P.	3.3.1.2.P.	Vertybiniai popieriai (iðleisti), iðskyrus akcijas	*			..646.	
+3.3.1.3.	3.3.1.3.	Iðvestinës finansinës priemonës	*			.TURTUI.653.	
+3.3.1.3.1.	3.3.1.3.1.	Iðvestinës finansinës priemonës	*			.TURTUI.655.	
+3.3.1.3.1.1.	3.3.1.3.1.1.	Trumpalaikës	*			.TURTUI.657.	
+3.3.1.3.1.1.P.	3.3.1.3.1.1.P.	Iðvestinës finansinës priemonës	*			.PAJAMOS.658.	
+3.3.1.3.1.2.	3.3.1.3.1.2.	Ilgalaikës	*			.TURTUI.659.	
+3.3.1.3.1.P.	3.3.1.3.1.P.	Iðvestinës finansinës priemonës	*			..656.	
+3.3.1.3.P.	3.3.1.3.P.	Iðvestinës finansinës priemonës	*			..654.	
+3.3.1.4.	3.3.1.4.	Paskolos (gràþintinos)	*			.TURTUI.660.	
+3.3.1.4.1.	3.3.1.4.1.	Paskolos (gràþintinos)	*			.TURTUI.663.	
+3.3.1.4.1.1.	3.3.1.4.1.1.	Trumpalaikës	*			.TURTUI.665.	
+3.3.1.4.1.1.D	3.3.1.4.1.1.D	3.3.1.4.1.1.D	*			..666.Ne	
+3.3.1.4.1.1.I.	3.3.1.4.1.1.I.	Trumpalaikës	*		2011-05-16	.KITOS.681.	
+3.3.1.4.1.1.P.	3.3.1.4.1.1.P.	Trumpalaikës ið valstybës biudþeto	*			.PAJAMOS.667.	
+3.3.1.4.1.2.	3.3.1.4.1.2.	Ilgalaikës	*			.TURTUI.669.	
+3.3.1.4.1.2.D	3.3.1.4.1.2.D	3.3.1.4.1.2.D	*			..668.Ne	
+3.3.1.4.1.2.I.	3.3.1.4.1.2.I.	Ilgalaikës	*		2011-05-16	.KITOS.685.	
+3.3.1.4.1.2.P.	3.3.1.4.1.2.P.	Ilgalaikës	*			.PAJAMOS.670.	
+3.3.1.4.1.P.	3.3.1.4.1.P.	Paskolos (gautos)	*			..664.	
+3.3.1.4.I.	3.3.1.4.I.	Paskolos (gràþintinos)	*			..661.Ne	
+3.3.1.4.P.	3.3.1.4.P.	Paskolos (gautos)	*			..662.	
+3.3.1.5.	3.3.1.5.	Akcijos (parduotos) ir kitas nuosavas kapitalas	*			.TURTUI.671.	
+3.3.1.5.1.	3.3.1.5.1.	Akcijos (parduotos) ir kitas nuosavas kapitalas	*			.TURTUI.674.	
+3.3.1.5.1.1.	3.3.1.5.1.1.	Akcijos (parduotos) ir kitas nuosavas kapitalas	*			.TURTUI.676.	
+3.3.1.5.1.1.D	3.3.1.5.1.1.D	3.3.1.5.1.1.D	*			..677.Ne	
+3.3.1.5.1.1.I.	3.3.1.5.1.1.I.	Akcijos (parduotos) ir kitas nuosavas kapitalas	*		2011-05-16	.KITOS.694.	
+3.3.1.5.1.1.P.	3.3.1.5.1.1.P.	Akcijos (iðleistos) ir kitas nuosavas	*			.PAJAMOS.678.	
+3.3.1.5.1.P.	3.3.1.5.1.P.	Akcijos (iðleistos) ir kitas nuosavas	*			..675.	
+3.3.1.5.I.	3.3.1.5.I.	Akcijos (parduotos) ir kitas nuosavas kapitalas	*			..672.Ne	
+3.3.1.5.P.	3.3.1.5.P.	Akcijos (iðleistos) ir kitas nuosavas	*			..673.	
+3.3.1.6.	3.3.1.6.	Draudimo techniniai atidëjiniai	*			.TURTUI.679.	
+3.3.1.6.1.	3.3.1.6.1.	Draudimo techniniai atidëjiniai	*			.TURTUI.681.	
+3.3.1.6.1.1.	3.3.1.6.1.1.	Draudimo techniniai atidëjiniai	*			.TURTUI.683.	
+3.3.1.6.1.1.P.	3.3.1.6.1.1.P.	Draudimo techniniai atidëjiniai	*			.PAJAMOS.684.	
+3.3.1.6.1.P.	3.3.1.6.1.P.	Draudimo techniniai atidëjiniai	*			..682.	
+3.3.1.6.P.	3.3.1.6.P.	Draudimo techniniai atidëjiniai	*			..680.	
+3.3.1.7.	3.3.1.7.	Kitos mokëtinos sumos	*			.TURTUI.685.	
+3.3.1.7.1.	3.3.1.7.1.	Kitos mokëtinos sumos	*			.TURTUI.687.	
+3.3.1.7.1.1.	3.3.1.7.1.1.	Trumpalaikës	*			.TURTUI.689.	
+3.3.1.7.1.1.P.	3.3.1.7.1.1.P.	Kitos gautinos sumos	*			.PAJAMOS.690.	
+3.3.1.7.1.2.	3.3.1.7.1.2.	Ilgalaikës	*			.TURTUI.691.	
+3.3.1.7.1.P.	3.3.1.7.1.P.	Kitos gautinos sumos	*			..688.	
+3.3.1.7.P.	3.3.1.7.P.	Kitos gautinos sumos	*			..686.	
+3.3.1.I.	3.3.1.I.	Vidaus	*			..633.Ne	
+3.3.1.P.	3.3.1.P.	Vidaus	*			..634.	
+3.3.2.	3.3.2.	Uþsienio	*			.TURTUI.692.	
+3.3.2.1.	3.3.2.1.	Grynieji pinigai ir indëliai banke (uþsienio valiuta)	*			.TURTUI.695.	
+3.3.2.1.1.	3.3.2.1.1.	Grynieji pinigai ir indëliai banke (uþsienio valiuta)	*			.TURTUI.697.	
+3.3.2.1.1.1.	3.3.2.1.1.1.	Grynieji pinigai	*			.TURTUI.699.	
+3.3.2.1.1.1.P.	3.3.2.1.1.1.P.	Grynieji pinigai	*			.PAJAMOS.700.	
+3.3.2.1.1.2.	3.3.2.1.1.2.	Pervedamieji indëliai (pinigai bankuose)	*			.TURTUI.701.	
+3.3.2.1.1.2.P.	3.3.2.1.1.2.P.	Pervedamieji indëliai (pinigai bankuose)	*			.PAJAMOS.702.	
+3.3.2.1.1.3.	3.3.2.1.1.3.	Kiti indëliai (pinigai bankuose)	*			.TURTUI.703.	
+3.3.2.1.1.3.P.	3.3.2.1.1.3.P.	Kiti indëliai (pinigai bankuose)	*			.PAJAMOS.704.	
+3.3.2.1.1.P.	3.3.2.1.1.P.	Grynieji pinigai ir indëliai banke	*			..698.	
+3.3.2.1.P.	3.3.2.1.P.	Grynieji pinigai ir indëliai banke	*			..696.	
+3.3.2.2.	3.3.2.2.	Vertybiniai popieriai (iðpirkti), iðskyrus akcijas	*			.TURTUI.705.	
+3.3.2.2.1.	3.3.2.2.1.	Vertybiniai popieriai (iðpirkti), iðskyrus akcijas	*			.TURTUI.707.	
+3.3.2.2.1.1.	3.3.2.2.1.1.	Trumpalaikiai	*			.TURTUI.709.	
+3.3.2.2.1.1.P.	3.3.2.2.1.1.P.	Trumpalaikiai	*			.PAJAMOS.710.	
+3.3.2.2.1.2.	3.3.2.2.1.2.	Ilgalaikiai	*			.TURTUI.711.	
+3.3.2.2.1.2.P.	3.3.2.2.1.2.P.	Ilgalaikiai	*			.PAJAMOS.712.	
+3.3.2.2.1.P.	3.3.2.2.1.P.	Vertybiniai popieriai (iðleisti), iðskyrus akcijas	*			..708.	
+3.3.2.2.P.	3.3.2.2.P.	Vertybiniai popieriai (iðleisti), iðskyrus akcijas	*			..706.	
+3.3.2.3.	3.3.2.3.	Iðvestinës finansinës priemonës	*			.TURTUI.713.	
+3.3.2.3.1.	3.3.2.3.1.	Iðvestinës finansinës priemonës	*			.TURTUI.715.	
+3.3.2.3.1.1.	3.3.2.3.1.1.	Trumpalaikës	*			.TURTUI.717.	
+3.3.2.3.1.1.P.	3.3.2.3.1.1.P.	Iðvestinës finansinës priemonës	*			.PAJAMOS.718.	
+3.3.2.3.1.2.	3.3.2.3.1.2.	Ilgalaikës	*			.TURTUI.719.	
+3.3.2.3.1.P.	3.3.2.3.1.P.	Iðvestinës finansinës priemonës	*			..716.	
+3.3.2.3.P.	3.3.2.3.P.	Iðvestinës finansinës priemonës	*			..714.	
+3.3.2.4.	3.3.2.4.	Paskolos (gràþintinos)	*			.TURTUI.720.	
+3.3.2.4.1.	3.3.2.4.1.	Paskolos (gràþintinos)	*			.TURTUI.723.	
+3.3.2.4.1.1.	3.3.2.4.1.1.	Trumpalaikës	*			.TURTUI.726.	
+3.3.2.4.1.1.D	3.3.2.4.1.1.D	3.3.2.4.1.1.D	*			..725.Ne	
+3.3.2.4.1.1.I.	3.3.2.4.1.1.I.	Trumpalaikës	*		2011-05-16	.KITOS.742.	
+3.3.2.4.1.1.P.	3.3.2.4.1.1.P.	Trumpalaikës	*			.PAJAMOS.727.	
+3.3.2.4.1.2.	3.3.2.4.1.2.	Ilgalaikës	*			.TURTUI.729.	
+3.3.2.4.1.2.D	3.3.2.4.1.2.D	3.3.2.4.1.2.D	*			..728.Ne	
+3.3.2.4.1.2.I.	3.3.2.4.1.2.I.	Ilgalaikës	*		2011-05-16	.KITOS.746.	
+3.3.2.4.1.2.P.	3.3.2.4.1.2.P.	Ilgalaikës	*			.PAJAMOS.730.	
+3.3.2.4.1.P.	3.3.2.4.1.P.	Paskolos (gautos)	*			..724.	
+3.3.2.4.I.	3.3.2.4.I.	Paskolos (gràþintinos)	*			..721.Ne	
+3.3.2.4.P.	3.3.2.4.P.	Paskolos (gautos)	*			..722.	
+3.3.2.5.	3.3.2.5.	Akcijos (parduotos) ir kitas nuosavas kapitalas	*			.TURTUI.731.	
+3.3.2.5.1.	3.3.2.5.1.	Akcijos (parduotos) ir kitas nuosavas kapitalas	*			.TURTUI.733.	
+3.3.2.5.1.1.	3.3.2.5.1.1.	Akcijos (parduotos) ir kitas nuosavas kapitalas	*			.TURTUI.735.	
+3.3.2.5.1.1.P.	3.3.2.5.1.1.P.	Akcijos (iðleistos) ir kitas nuosavas	*			.PAJAMOS.736.	
+3.3.2.5.1.P.	3.3.2.5.1.P.	Akcijos (iðleistos) ir kitas nuosavas	*			..734.	
+3.3.2.5.P.	3.3.2.5.P.	Akcijos (iðleistos) ir kitas nuosavas	*			..732.	
+3.3.2.6.	3.3.2.6.	Draudimo techniniai atidëjiniai	*			.TURTUI.737.	
+3.3.2.6.1.	3.3.2.6.1.	Draudimo techniniai atidëjiniai	*			.TURTUI.739.	
+3.3.2.6.1.1.	3.3.2.6.1.1.	Draudimo techniniai atidëjiniai	*			.TURTUI.741.	
+3.3.2.6.1.1.P.	3.3.2.6.1.1.P.	Draudimo techniniai atidëjiniai	*			.PAJAMOS.742.	
+3.3.2.6.1.P.	3.3.2.6.1.P.	Draudimo techniniai atidëjiniai	*			..740.	
+3.3.2.6.P.	3.3.2.6.P.	Draudimo techniniai atidëjiniai	*			..738.	
+3.3.2.7.	3.3.2.7.	Kitos mokëtinos sumos	*			.TURTUI.743.	
+3.3.2.7.1.	3.3.2.7.1.	Kitos mokëtinos sumos	*			.TURTUI.746.	
+3.3.2.7.1.1.	3.3.2.7.1.1.	Kitos mokëtinos sumos	*			.TURTUI.748.	
+3.3.2.7.1.1.D	3.3.2.7.1.1.D	3.3.2.7.1.1.D	*			..749.Ne	
+3.3.2.7.1.1.I.	3.3.2.7.1.1.I.	Kitos mokëtinos sumos	*		2011-05-16	.KITOS.767.	
+3.3.2.7.1.1.P.	3.3.2.7.1.1.P.	Kitos gautinos sumos	*			.PAJAMOS.750.	
+3.3.2.7.1.P.	3.3.2.7.1.P.	Kitos gautinos sumos	*			..747.	
+3.3.2.7.I.	3.3.2.7.I.	Kitos mokëtinos sumos	*			..744.Ne	
+3.3.2.7.P.	3.3.2.7.P.	Kitos gautinos sumos	*			..745.	
+3.3.2.I.	3.3.2.I.	Uþsienio	*			..693.Ne	
+3.3.2.P.	3.3.2.P.	Uþsienio				..694.	
+3.3.I.	3.3.I.	Iðlaidos dël finansiniø ásipareigojimø vykdymo (paskolø gràþinimas)	*			..629.Ne	
+3.3.I.B	3.3.I.B	Iðlaidos dël finansiniø ásipareigojimø vykdymo (paskolø gràþinimas)	*			..630.Ne	
+3.3.P.	3.3.P.	Finansiniø ásipareigojimø prisiëmimo (skolinimosi) pajamos	*			..631.	
+3.B	3.B	SANDORIAI DËL MATERIALIOJO IR NEMATERIALIOJO TURTO BEI FINANSINIØ ÁSIPAREIGOJIMØ PRISIËMIMAS	*			..369.Ne	
+3.I.	3.I.	SANDORIAI DËL MATERIALIOJO IR NEMATERIALIOJO TURTO BEI FINANSINIØ ÁSIPAREIGOJIMØ VYKDYMAS	*			..372.Ne	
+3.IB	3.IB	SANDORIAI DËL MATERIALIOJO IR NEMATERIALIOJO TURTO BEI FINANSINIØ ÁSIPAREIGOJIMØ VYKDYMAS				..371.Ne	
+3.P.	3.P.	SANDORIAI DËL MATERIALIOJO IR NEMATERIALIOJO TURTO BEI FINANSINIØ ÁSIPAREIGOJIMØ PRISIËMIMAS	*			..373.	
+3.PB	3.PB	SANDORIAI DËL MATERIALIOJO IR NEMATERIALIOJO TURTO BEI FINANSINIØ ÁSIPAREIGOJIMØ PRISIËMIMAS				..368.Ne	
+4.	4.	SANDORIAI DËL MATERIALIOJO IR NEMATERIALIOJO TURTO BEI FINANSINIØ ÁSIPAREIGOJIMØ PRISIËMIMAS	*			.PAJAMOS.751.	
+4.1.	4.1.	MATERIALIOJO IR NEMATERIALIOJO TURTO REALIZAVIMO PAJAMOS	*			.PAJAMOS.753.	
+4.1.1.	4.1.1.	Ilgalaikio materialiojo turto realizavimo pajamos	*			.PAJAMOS.755.	
+4.1.1.1.	4.1.1.1.	Þemë	*			.PAJAMOS.757.	
+4.1.1.1.1.	4.1.1.1.1.	Þemë	*			.PAJAMOS.759.	
+4.1.1.1.1.1.	4.1.1.1.1.1.	Þemë	*			.PAJAMOS.761.	
+4.1.1.1.1.1.P.	4.1.1.1.1.1.P.	Þemë				.PAJAMOS.762.	
+4.1.1.1.1.P.	4.1.1.1.1.P.	Þemë				.PAJAMOS.760.	
+4.1.1.1.P.	4.1.1.1.P.	Þemë				.PAJAMOS.758.	
+4.1.1.2.	4.1.1.2.	Pastatø ir statiniø realizavimo pajamos	*			.PAJAMOS.763.	
+4.1.1.2.1.	4.1.1.2.1.	Pastatai ir statiniai	*			.PAJAMOS.765.	
+4.1.1.2.1.1.	4.1.1.2.1.1.	Gyvenamieji namai	*			.PAJAMOS.767.	
+4.1.1.2.1.1.P.	4.1.1.2.1.1.P.	Gyvenamieji namai				.PAJAMOS.768.	
+4.1.1.2.1.2.	4.1.1.2.1.2.	Negyvenamieji pastatai	*			.PAJAMOS.769.	
+4.1.1.2.1.2.P.	4.1.1.2.1.2.P.	Negyvenamieji pastatai				.PAJAMOS.770.	
+4.1.1.2.1.3.	4.1.1.2.1.3.	Kiti pastatai ir statiniai	*			.PAJAMOS.771.	
+4.1.1.2.1.3.P.	4.1.1.2.1.3.P.	Kiti pastatai ir statiniai				.PAJAMOS.772.	
+4.1.1.2.1.P.	4.1.1.2.1.P.	Pastatai ir statiniai				.PAJAMOS.766.	
+4.1.1.2.P.	4.1.1.2.P.	Pastatø ir statiniø realizavimo pajamos				.PAJAMOS.764.	
+4.1.1.3.	4.1.1.3.	Maðinø ir árenginiø realizavimo pajamos	*			.PAJAMOS.773.	
+4.1.1.3.1.	4.1.1.3.1.	Maðinos ir árenginiai	*			.PAJAMOS.775.	
+4.1.1.3.1.1.	4.1.1.3.1.1.	Transporto priemonës	*			.PAJAMOS.777.	
+4.1.1.3.1.1.P.	4.1.1.3.1.1.P.	Transporto priemonës				.PAJAMOS.778.	
+4.1.1.3.1.2.	4.1.1.3.1.2.	Kitos maðinos ir árenginiai	*			.PAJAMOS.779.	
+4.1.1.3.1.2.P.	4.1.1.3.1.2.P.	Kitos maðinos ir árenginiai				.PAJAMOS.780.	
+4.1.1.3.1.P.	4.1.1.3.1.P.	Maðinos ir árenginiai				.PAJAMOS.776.	
+4.1.1.3.P.	4.1.1.3.P.	Maðinø ir árenginiø realizavimo pajamos				.PAJAMOS.774.	
+4.1.1.4.	4.1.1.4.	Vertybiø realizavimo pajamos	*			.PAJAMOS.781.	
+4.1.1.4.1.	4.1.1.4.1.	Vertybës	*			.PAJAMOS.783.	
+4.1.1.4.1.1.	4.1.1.4.1.1.	Muziejinës vertybës	*			.PAJAMOS.785.	
+4.1.1.4.1.1.P.	4.1.1.4.1.1.P.	Muziejinës vertybës				.PAJAMOS.786.	
+4.1.1.4.1.2.	4.1.1.4.1.2.	Antikvariniai ir kiti meno kûriniai	*			.PAJAMOS.787.	
+4.1.1.4.1.2.P.	4.1.1.4.1.2.P.	Antikvariniai ir kiti meno kûriniai				.PAJAMOS.788.	
+4.1.1.4.1.3.	4.1.1.4.1.3.	Kitos vertybës	*			.PAJAMOS.789.	
+4.1.1.4.1.3.P.	4.1.1.4.1.3.P.	Kitos vertybës				.PAJAMOS.790.	
+4.1.1.4.1.P.	4.1.1.4.1.P.	Vertybës				.PAJAMOS.784.	
+4.1.1.4.P.	4.1.1.4.P.	Vertybiø realizavimo pajamos				.PAJAMOS.782.	
+4.1.1.5.	4.1.1.5.	Kito ilgalaikio materialiojo turto realizavimo pajamos	*			.PAJAMOS.791.	
+4.1.1.5.1.	4.1.1.5.1.	Kito ilgalaikio materialiojo turto realizavimo pajamos	*			.PAJAMOS.793.	
+4.1.1.5.1.1.	4.1.1.5.1.1.	Kito ilgalaikio materialiojo turto realizavimo pajamos	*			.PAJAMOS.795.	
+4.1.1.5.1.1.P.	4.1.1.5.1.1.P.	Kito ilgalaikio materialiojo turto realizavimo pajamos				.PAJAMOS.796.	
+4.1.1.5.1.P.	4.1.1.5.1.P.	Kito ilgalaikio materialiojo turto realizavimo pajamos				.PAJAMOS.794.	
+4.1.1.5.P.	4.1.1.5.P.	Kito ilgalaikio materialiojo turto realizavimo pajamos				.PAJAMOS.792.	
+4.1.1.P.	4.1.1.P.	Ilgalaikio materialiojo turto realizavimo pajamos				.PAJAMOS.756.	
+4.1.2.	4.1.2.	Nematerialiojo turto realizavimo pajamos	*			.PAJAMOS.797.	
+4.1.2.1.	4.1.2.1.	Nematerialiojo turto realizavimo pajamos	*			.PAJAMOS.799.	
+4.1.2.1.1.	4.1.2.1.1.	Nematerialusis turtas	*			.PAJAMOS.801.	
+4.1.2.1.1.1.	4.1.2.1.1.1.	Naudingøjø iðkasenø þvalgymo darbai	*			.PAJAMOS.803.	
+4.1.2.1.1.1.P.	4.1.2.1.1.1.P.	Naudingøjø iðkasenø þvalgymo darbai				.PAJAMOS.804.	
+4.1.2.1.1.2.	4.1.2.1.1.2.	Kompiuterinë programinë áranga	*			.PAJAMOS.805.	
+4.1.2.1.1.2.P.	4.1.2.1.1.2.P.	Kompiuterinë programinë áranga				.PAJAMOS.806.	
+4.1.2.1.1.3.	4.1.2.1.1.3.	Patentai, licencijos	*			.PAJAMOS.807.	
+4.1.2.1.1.3.P.	4.1.2.1.1.3.P.	Patentai, licencijos				.PAJAMOS.808.	
+4.1.2.1.1.4.	4.1.2.1.1.4.	Literatûros ir meno kûriniai	*			.PAJAMOS.809.	
+4.1.2.1.1.4.P.	4.1.2.1.1.4.P.	Literatûros ir meno kûriniai				.PAJAMOS.810.	
+4.1.2.1.1.5.	4.1.2.1.1.5.	Kitas nematerialusis turtas	*			.PAJAMOS.811.	
+4.1.2.1.1.5.P.	4.1.2.1.1.5.P.	Kitas nematerialusis turtas				.PAJAMOS.812.	
+4.1.2.1.1.P.	4.1.2.1.1.P.	Nematerialusis turtas				.PAJAMOS.802.	
+4.1.2.1.P.	4.1.2.1.P.	Nematerialiojo turto realizavimo pajamos				.PAJAMOS.800.	
+4.1.2.P.	4.1.2.P.	Nematerialiojo turto realizavimo pajamos				.PAJAMOS.798.	
+4.1.3.	4.1.3.	Atsargø realizavimo pajamos	*			.PAJAMOS.813.	
+4.1.3.1.	4.1.3.1.	Strateginës ir nelieèiamosios atsargos	*			.PAJAMOS.815.	
+4.1.3.1.1.	4.1.3.1.1.	Strateginës ir nelieèiamosios atsargos	*			.PAJAMOS.817.	
+4.1.3.1.1.1.	4.1.3.1.1.1.	Strateginës ir nelieèiamosios atsargos	*			.PAJAMOS.819.	
+4.1.3.1.1.1.P.	4.1.3.1.1.1.P.	Strateginës ir nelieèiamosios atsargos				.PAJAMOS.820.	
+4.1.3.1.1.P.	4.1.3.1.1.P.	Strateginës ir nelieèiamosios atsargos				.PAJAMOS.818.	
+4.1.3.1.P.	4.1.3.1.P.	Strateginës ir nelieèiamosios atsargos				.PAJAMOS.816.	
+4.1.3.2.	4.1.3.2.	Kitos atsargos	*			.PAJAMOS.821.	
+4.1.3.2.1.	4.1.3.2.1.	Kitos atsargos	*			.PAJAMOS.823.	
+4.1.3.2.1.1.	4.1.3.2.1.1.	Þaliavos ir medþiagos	*			.PAJAMOS.825.	
+4.1.3.2.1.1.P.	4.1.3.2.1.1.P.	Þaliavos ir medþiagos				.PAJAMOS.826.	
+4.1.3.2.1.2.	4.1.3.2.1.2.	Nebaigta gamyba	*			.PAJAMOS.827.	
+4.1.3.2.1.2.P.	4.1.3.2.1.2.P.	Nebaigta gamyba				.PAJAMOS.828.	
+4.1.3.2.1.3.	4.1.3.2.1.3.	Pagaminta produkcija	*			.PAJAMOS.829.	
+4.1.3.2.1.3.P.	4.1.3.2.1.3.P.	Pagaminta produkcija				.PAJAMOS.830.	
+4.1.3.2.1.4.	4.1.3.2.1.4.	Pirktos prekës, skirtos parduoti	*			.PAJAMOS.831.	
+4.1.3.2.1.4.P.	4.1.3.2.1.4.P.	Pirktos prekës, skirtos parduoti				.PAJAMOS.832.	
+4.1.3.2.1.P.	4.1.3.2.1.P.	Kitos atsargos				.PAJAMOS.824.	
+4.1.3.2.P.	4.1.3.2.P.	Kitos atsargos				.PAJAMOS.822.	
+4.1.3.P.	4.1.3.P.	Atsargø realizavimo pajamos				.PAJAMOS.814.	
+4.1.4.	4.1.4.	Pajamos uþ biologiná turtà ir mineralinius iðteklius	*			.PAJAMOS.833.	
+4.1.4.1.	4.1.4.1.	Pajamos uþ biologiná turtà ir mineralinius iðteklius	*			.PAJAMOS.835.	
+4.1.4.1.1.	4.1.4.1.1.	Pajamos uþ biologiná turtà ir mineralinius iðteklius	*			.PAJAMOS.837.	
+4.1.4.1.1.1.	4.1.4.1.1.1.	Þemës gelmiø iðtekliai	*			.PAJAMOS.839.	
+4.1.4.1.1.1.P.	4.1.4.1.1.1.P.	Þemës gelmiø iðtekliai				.PAJAMOS.840.	
+4.1.4.1.1.2.	4.1.4.1.1.2.	Gyvuliai ir kiti gyvûnai	*			.PAJAMOS.841.	
+4.1.4.1.1.2.P.	4.1.4.1.1.2.P.	Gyvuliai ir kiti gyvûnai				.PAJAMOS.842.	
+4.1.4.1.1.3.	4.1.4.1.1.3.	Vaismedþiai ir kiti daugiameèiai sodiniai	*			.PAJAMOS.843.	
+4.1.4.1.1.3.P.	4.1.4.1.1.3.P.	Vaismedþiai ir kiti daugiameèiai sodiniai				.PAJAMOS.844.	
+4.1.4.1.1.P.	4.1.4.1.1.P.	Pajamos uþ biologiná turtà ir mineralinius iðteklius				.PAJAMOS.838.	
+4.1.4.1.P.	4.1.4.1.P.	Pajamos uþ biologiná turtà ir mineralinius iðteklius				.PAJAMOS.836.	
+4.1.4.P.	4.1.4.P.	Pajamos uþ biologiná turtà ir mineralinius iðteklius				.PAJAMOS.834.	
+4.1.P.	4.1.P.	Ilgalaikio materialiojo turto realizavimo pajamos				..754.	
+4.2.	4.2.	Finansinio turto pardavimo pajamos (paskolø surinkimas)	*			.PAJAMOS.845.	
+4.2.1.	4.2.1.	Vidaus	*			.PAJAMOS.847.	
+4.2.1.1.	4.2.1.1.	Grynieji pinigai ir indëliai banke (nacionaline valiuta)	*			.PAJAMOS.849.	
+4.2.1.1.1.	4.2.1.1.1.	Grynieji pinigai ir indëliai banke (nacionaline valiuta)	*			.PAJAMOS.851.	
+4.2.1.1.1.1.	4.2.1.1.1.1.	Grynieji pinigai	*			.PAJAMOS.853.	
+4.2.1.1.1.1.P.	4.2.1.1.1.1.P.	Grynieji pinigai				.PAJAMOS.854.	
+4.2.1.1.1.2.	4.2.1.1.1.2.	Pervedamieji indëliai (pinigai bankuose)	*			.PAJAMOS.855.	
+4.2.1.1.1.2.P.	4.2.1.1.1.2.P.	Pervedamieji indëliai (pinigai bankuose)				.PAJAMOS.856.	
+4.2.1.1.1.3.	4.2.1.1.1.3.	Kiti ilgalaikiai indëliai (pinigai bankuose)	*			.PAJAMOS.857.	
+4.2.1.1.1.3.P.	4.2.1.1.1.3.P.	Kiti indëliai (pinigai bankuose)				.PAJAMOS.858.	
+4.2.1.1.1.4.	4.2.1.1.1.4.	Kiti trumpalaikiai indëliai (pinigai bankuose)	*			.PAJAMOS.859.	
+4.2.1.1.1.P.	4.2.1.1.1.P.	Grynieji pinigai ir indëliai banke (nacionaline valiuta)				.PAJAMOS.852.	
+4.2.1.1.P.	4.2.1.1.P.	Grynieji pinigai ir indëliai banke (nacionaline valiuta)				.PAJAMOS.850.	
+4.2.1.2.	4.2.1.2.	Vertybiniai popieriai (parduoti), iðskyrus akcijas	*			.PAJAMOS.860.	
+4.2.1.2.1.	4.2.1.2.1.	Vertybiniai popieriai (parduoti), iðskyrus akcijas	*			.PAJAMOS.862.	
+4.2.1.2.1.1.	4.2.1.2.1.1.	Trumpalaikiai	*			.PAJAMOS.864.	
+4.2.1.2.1.1.P.	4.2.1.2.1.1.P.	Trumpalaikiai				.PAJAMOS.865.	
+4.2.1.2.1.2.	4.2.1.2.1.2.	Ilgalaikiai	*			.PAJAMOS.866.	
+4.2.1.2.1.2.P.	4.2.1.2.1.2.P.	Ilgalaikiai				.PAJAMOS.867.	
+4.2.1.2.1.P.	4.2.1.2.1.P.	Vertybiniai popieriai (parduoti), iðskyrus akcijas				.PAJAMOS.863.	
+4.2.1.2.P.	4.2.1.2.P.	Vertybiniai popieriai (parduoti), iðskyrus akcijas				.PAJAMOS.861.	
+4.2.1.3.	4.2.1.3.	Iðvestinës finansinës priemonës	*			.PAJAMOS.868.	
+4.2.1.3.1.	4.2.1.3.1.	Iðvestinës finansinës priemonës	*			.PAJAMOS.870.	
+4.2.1.3.1.1.	4.2.1.3.1.1.	Trumpalaikës	*			.PAJAMOS.872.	
+4.2.1.3.1.1.P.	4.2.1.3.1.1.P.	Iðvestinës finansinës priemonës				.PAJAMOS.873.	
+4.2.1.3.1.2.	4.2.1.3.1.2.	Ilgalaikiai	*			.PAJAMOS.874.	
+4.2.1.3.1.P.	4.2.1.3.1.P.	Iðvestinës finansinës priemonës				.PAJAMOS.871.	
+4.2.1.3.P.	4.2.1.3.P.	Iðvestinës finansinës priemonës				.PAJAMOS.869.	
+4.2.1.4.	4.2.1.4.	Paskolos (surinktos)	*			.PAJAMOS.875.	
+4.2.1.4.1.	4.2.1.4.1.	Paskolos (surinktos)	*			.PAJAMOS.877.	
+4.2.1.4.1.1.	4.2.1.4.1.1.	Trumpalaikës	*			.PAJAMOS.879.	
+4.2.1.4.1.1.P.	4.2.1.4.1.1.P.	Trumpalaikës				.PAJAMOS.880.	
+4.2.1.4.1.2.	4.2.1.4.1.2.	Ilgalaikës	*			.PAJAMOS.881.	
+4.2.1.4.1.2.P.	4.2.1.4.1.2.P.	Ilgalaikës				.PAJAMOS.882.	
+4.2.1.4.1.P.	4.2.1.4.1.P.	Paskolos (surinktos)				.PAJAMOS.878.	
+4.2.1.4.P.	4.2.1.4.P.	Paskolos (surinktos)				.PAJAMOS.876.	
+4.2.1.5.	4.2.1.5.	Akcijos (parduotos) ir kitas nuosavas kapitalas	*			.PAJAMOS.883.	
+4.2.1.5.1.	4.2.1.5.1.	Akcijos (parduotos) ir kitas nuosavas kapitalas	*			.PAJAMOS.885.	
+4.2.1.5.1.1.	4.2.1.5.1.1.	Akcijos (parduotos) ir kitas nuosavas kapitalas	*			.PAJAMOS.887.	
+4.2.1.5.1.1.P.	4.2.1.5.1.1.P.	Akcijos (parduotos) ir kitas nuosavas kapitalas				.PAJAMOS.888.	
+4.2.1.5.1.P.	4.2.1.5.1.P.	Akcijos (parduotos) ir kitas nuosavas kapitalas				.PAJAMOS.886.	
+4.2.1.5.P.	4.2.1.5.P.	Akcijos (parduotos) ir kitas nuosavas kapitalas				.PAJAMOS.884.	
+4.2.1.6.	4.2.1.6.	Draudimo techniniai atidëjiniai	*			.PAJAMOS.889.	
+4.2.1.6.1.	4.2.1.6.1.	Draudimo techniniai atidëjiniai	*			.PAJAMOS.891.	
+4.2.1.6.1.1.	4.2.1.6.1.1.	Draudimo techniniai atidëjiniai	*			.PAJAMOS.893.	
+4.2.1.6.1.1.P.	4.2.1.6.1.1.P.	Draudimo techniniai atidëjiniai				.PAJAMOS.894.	
+4.2.1.6.1.P.	4.2.1.6.1.P.	Draudimo techniniai atidëjiniai				.PAJAMOS.892.	
+4.2.1.6.P.	4.2.1.6.P.	Draudimo techniniai atidëjiniai				.PAJAMOS.890.	
+4.2.1.7.	4.2.1.7.	Kitos gautinos sumos	*			.PAJAMOS.895.	
+4.2.1.7.1.	4.2.1.7.1.	Kitos gautinos sumos	*			.PAJAMOS.897.	
+4.2.1.7.1.1.	4.2.1.7.1.1.	Trumpalaikës	*			.PAJAMOS.899.	
+4.2.1.7.1.1.P.	4.2.1.7.1.1.P.	Kitos gautinos sumos				.PAJAMOS.900.	
+4.2.1.7.1.2.	4.2.1.7.1.2.	Ilgalaikës	*			.PAJAMOS.901.	
+4.2.1.7.1.P.	4.2.1.7.1.P.	Kitos gautinos sumos				.PAJAMOS.898.	
+4.2.1.7.P.	4.2.1.7.P.	Kitos gautinos sumos				.PAJAMOS.896.	
+4.2.1.P.	4.2.1.P.	Vidaus				.PAJAMOS.848.	
+4.2.2.	4.2.2.	Uþsienio	*			.PAJAMOS.902.	
+4.2.2.1.	4.2.2.1.	Grynieji pinigai ir indëliai banke (uþsienio valiuta)	*			.PAJAMOS.904.	
+4.2.2.1.1.	4.2.2.1.1.	Grynieji pinigai ir indëliai banke (uþsienio valiuta)	*			.PAJAMOS.906.	
+4.2.2.1.1.1.	4.2.2.1.1.1.	Grynieji pinigai	*			.PAJAMOS.908.	
+4.2.2.1.1.1.P.	4.2.2.1.1.1.P.	Grynieji pinigai				.PAJAMOS.909.	
+4.2.2.1.1.2.	4.2.2.1.1.2.	Pervedamieji indëliai (pinigai bankuose)	*			.PAJAMOS.910.	
+4.2.2.1.1.2.P.	4.2.2.1.1.2.P.	Pervedamieji indëliai (pinigai bankuose)				.PAJAMOS.911.	
+4.2.2.1.1.3.	4.2.2.1.1.3.	Kiti ilgalaikiai indëliai (pinigai bankuose)	*			.PAJAMOS.912.	
+4.2.2.1.1.3.P.	4.2.2.1.1.3.P.	Kiti indëliai (pinigai bankuose)				.PAJAMOS.913.	
+4.2.2.1.1.4.	4.2.2.1.1.4.	Kiti trumpalaikiai indëliai (pinigai bankuose)	*			.PAJAMOS.914.	
+4.2.2.1.1.P.	4.2.2.1.1.P.	Grynieji pinigai ir indëliai banke (uþsienio valiuta)				.PAJAMOS.907.	
+4.2.2.1.P.	4.2.2.1.P.	Grynieji pinigai ir indëliai banke (uþsienio valiuta)				.PAJAMOS.905.	
+4.2.2.2.	4.2.2.2.	Vertybiniai popieriai (parduoti), iðskyrus akcijas	*			.PAJAMOS.915.	
+4.2.2.2.1.	4.2.2.2.1.	Vertybiniai popieriai (parduoti), iðskyrus akcijas	*			.PAJAMOS.917.	
+4.2.2.2.1.1.	4.2.2.2.1.1.	Trumpalaikiai	*			.PAJAMOS.919.	
+4.2.2.2.1.1.P.	4.2.2.2.1.1.P.	Trumpalaikiai				.PAJAMOS.920.	
+4.2.2.2.1.2.	4.2.2.2.1.2.	Ilgalaikiai	*			.PAJAMOS.921.	
+4.2.2.2.1.2.P.	4.2.2.2.1.2.P.	Ilgalaikiai				.PAJAMOS.922.	
+4.2.2.2.1.P.	4.2.2.2.1.P.	Vertybiniai popieriai (parduoti), iðskyrus akcijas				.PAJAMOS.918.	
+4.2.2.2.P.	4.2.2.2.P.	Vertybiniai popieriai (parduoti), iðskyrus akcijas				.PAJAMOS.916.	
+4.2.2.3.	4.2.2.3.	Iðvestinës finansinës priemonës	*			.PAJAMOS.923.	
+4.2.2.3.1.	4.2.2.3.1.	Iðvestinës finansinës priemonës	*			.PAJAMOS.925.	
+4.2.2.3.1.1.	4.2.2.3.1.1.	Trumpalaikës	*			.PAJAMOS.927.	
+4.2.2.3.1.1.P.	4.2.2.3.1.1.P.	Iðvestinës finansinës priemonës				.PAJAMOS.928.	
+4.2.2.3.1.2.	4.2.2.3.1.2.	Ilgalaikës	*			.PAJAMOS.929.	
+4.2.2.3.1.P.	4.2.2.3.1.P.	Iðvestinës finansinës priemonës				.PAJAMOS.926.	
+4.2.2.3.P.	4.2.2.3.P.	Iðvestinës finansinës priemonës				.PAJAMOS.924.	
+4.2.2.4.	4.2.2.4.	Paskolos (surinktos)	*			.PAJAMOS.930.	
+4.2.2.4.1.	4.2.2.4.1.	Paskolos (surinktos)	*			.PAJAMOS.932.	
+4.2.2.4.1.1.	4.2.2.4.1.1.	Trumpalaikës	*			.PAJAMOS.934.	
+4.2.2.4.1.1.P.	4.2.2.4.1.1.P.	Trumpalaikës				.PAJAMOS.935.	
+4.2.2.4.1.2.	4.2.2.4.1.2.	Ilgalaikës	*			.PAJAMOS.936.	
+4.2.2.4.1.2.P.	4.2.2.4.1.2.P.	Ilgalaikës				.PAJAMOS.937.	
+4.2.2.4.1.P.	4.2.2.4.1.P.	Paskolos (surinktos)				.PAJAMOS.933.	
+4.2.2.4.P.	4.2.2.4.P.	Paskolos (surinktos)				.PAJAMOS.931.	
+4.2.2.5.	4.2.2.5.	Akcijos (parduotos) ir kitas nuosavas kapitalas	*			.PAJAMOS.938.	
+4.2.2.5.1.	4.2.2.5.1.	Akcijos (parduotos) ir kitas nuosavas kapitalas	*			.PAJAMOS.940.	
+4.2.2.5.1.1.	4.2.2.5.1.1.	Akcijos (parduotos) ir kitas nuosavas kapitalas	*			.PAJAMOS.942.	
+4.2.2.5.1.1.P.	4.2.2.5.1.1.P.	Akcijos (parduotos) ir kitas nuosavas kapitalas				.PAJAMOS.943.	
+4.2.2.5.1.P.	4.2.2.5.1.P.	Akcijos (parduotos) ir kitas nuosavas kapitalas				.PAJAMOS.941.	
+4.2.2.5.P.	4.2.2.5.P.	Akcijos (parduotos) ir kitas nuosavas kapitalas				.PAJAMOS.939.	
+4.2.2.6.	4.2.2.6.	Draudimo techniniai atidëjiniai	*			.PAJAMOS.944.	
+4.2.2.6.1.	4.2.2.6.1.	Draudimo techniniai atidëjiniai	*			.PAJAMOS.946.	
+4.2.2.6.1.1.	4.2.2.6.1.1.	Draudimo techniniai atidëjiniai	*			.PAJAMOS.948.	
+4.2.2.6.1.1.P.	4.2.2.6.1.1.P.	Draudimo techniniai atidëjiniai				.PAJAMOS.949.	
+4.2.2.6.1.P.	4.2.2.6.1.P.	Draudimo techniniai atidëjiniai				.PAJAMOS.947.	
+4.2.2.6.P.	4.2.2.6.P.	Draudimo techniniai atidëjiniai				.PAJAMOS.945.	
+4.2.2.7.	4.2.2.7.	Kitos gautinos sumos	*			.PAJAMOS.950.	
+4.2.2.7.1.	4.2.2.7.1.	Kitos gautinos sumos	*			.PAJAMOS.952.	
+4.2.2.7.1.1.	4.2.2.7.1.1.	Trumpalaikës	*			.PAJAMOS.954.	
+4.2.2.7.1.1.P.	4.2.2.7.1.1.P.	Kitos gautinos sumos				.PAJAMOS.955.	
+4.2.2.7.1.2.	4.2.2.7.1.2.	Ilgalaikës	*			.PAJAMOS.956.	
+4.2.2.7.1.P.	4.2.2.7.1.P.	Kitos gautinos sumos				.PAJAMOS.953.	
+4.2.2.7.P.	4.2.2.7.P.	Kitos gautinos sumos				.PAJAMOS.951.	
+4.2.2.P.	4.2.2.P.	Uþsienio				.PAJAMOS.903.	
+4.2.P.	4.2.P.	Sandoriai dël finansinio turto				.PAJAMOS.846.	
+4.3.	4.3.	Finansiniø ásipareigojimø prisiëmimo (skolinimosi) pajamos	*			.PAJAMOS.957.	
+4.3.1.	4.3.1.	Vidaus	*			.PAJAMOS.959.	
+4.3.1.1.	4.3.1.1.	Grynieji pinigai ir indëliai banke (nacionaline valiuta)	*			.PAJAMOS.961.	
+4.3.1.1.1.	4.3.1.1.1.	Grynieji pinigai ir indëliai banke (nacionaline valiuta)	*			.PAJAMOS.963.	
+4.3.1.1.1.1.	4.3.1.1.1.1.	Grynieji pinigai	*			.PAJAMOS.965.	
+4.3.1.1.1.1.P.	4.3.1.1.1.1.P.	Grynieji pinigai				.PAJAMOS.966.	
+4.3.1.1.1.2.	4.3.1.1.1.2.	Pervedamieji indëliai (pinigai bankuose)	*			.PAJAMOS.967.	
+4.3.1.1.1.2.P.	4.3.1.1.1.2.P.	Pervedamieji indëliai (pinigai bankuose)				.PAJAMOS.968.	
+4.3.1.1.1.3.	4.3.1.1.1.3.	Kiti indëliai (pinigai bankuose)	*			.PAJAMOS.969.	
+4.3.1.1.1.3.P.	4.3.1.1.1.3.P.	Kiti indëliai (pinigai bankuose)				.PAJAMOS.970.	
+4.3.1.1.1.P.	4.3.1.1.1.P.	Grynieji pinigai ir indëliai banke (nacionaline valiuta)				.PAJAMOS.964.	
+4.3.1.1.P.	4.3.1.1.P.	Grynieji pinigai ir indëliai banke (nacionaline valiuta)				.PAJAMOS.962.	
+4.3.1.2.	4.3.1.2.	Vertybiniai popieriai (iðleisti), iðskyrus akcijas	*			.PAJAMOS.971.	
+4.3.1.2.1.	4.3.1.2.1.	Vertybiniai popieriai (iðleisti), iðskyrus akcijas	*			.PAJAMOS.973.	
+4.3.1.2.1.1.	4.3.1.2.1.1.	Trumpalaikiai	*			.PAJAMOS.975.	
+4.3.1.2.1.1.P.	4.3.1.2.1.1.P.	Trumpalaikiai				.PAJAMOS.976.	
+4.3.1.2.1.2.	4.3.1.2.1.2.	Ilgalaikiai	*			.PAJAMOS.977.	
+4.3.1.2.1.2.P.	4.3.1.2.1.2.P.	Ilgalaikiai				.PAJAMOS.978.	
+4.3.1.2.1.P.	4.3.1.2.1.P.	Vertybiniai popieriai (iðleisti), iðskyrus akcijas				.PAJAMOS.974.	
+4.3.1.2.P.	4.3.1.2.P.	Vertybiniai popieriai (iðleisti), iðskyrus akcijas				.PAJAMOS.972.	
+4.3.1.3.	4.3.1.3.	Iðvestinës finansinës priemonës	*			.PAJAMOS.979.	
+4.3.1.3.1.	4.3.1.3.1.	Iðvestinës finansinës priemonës	*			.PAJAMOS.981.	
+4.3.1.3.1.1.	4.3.1.3.1.1.	Iðvestinës finansinës priemonës	*			.PAJAMOS.983.	
+4.3.1.3.1.1.P.	4.3.1.3.1.1.P.	Iðvestinës finansinës priemonës				.PAJAMOS.984.	
+4.3.1.3.1.P.	4.3.1.3.1.P.	Iðvestinës finansinës priemonës				.PAJAMOS.982.	
+4.3.1.3.P.	4.3.1.3.P.	Iðvestinës finansinës priemonës				.PAJAMOS.980.	
+4.3.1.4.	4.3.1.4.	Paskolos (gautos)	*			.PAJAMOS.985.	
+4.3.1.4.1.	4.3.1.4.1.	Paskolos (gautos)	*			.PAJAMOS.987.	
+4.3.1.4.1.1.	4.3.1.4.1.1.	Trumpalaikës	*			.PAJAMOS.989.	
+4.3.1.4.1.1.A.	4.3.1.4.1.1.A.	Trumpalaikës	*			.PAJAMOS.990.	
+4.3.1.4.1.1.B.	4.3.1.4.1.1.B.	Trumpalaikës ið valstybës biudþeto	*			.PAJAMOS.991.	
+4.3.1.4.1.1.P.	4.3.1.4.1.1.P.	Trumpalaikës				.PAJAMOS.992.	
+4.3.1.4.1.2.	4.3.1.4.1.2.	Ilgalaikës	*			.PAJAMOS.993.	
+4.3.1.4.1.2.P.	4.3.1.4.1.2.P.	Ilgalaikës				.PAJAMOS.994.	
+4.3.1.4.1.P.	4.3.1.4.1.P.	Paskolos (gautos)				.PAJAMOS.988.	
+4.3.1.4.P.	4.3.1.4.P.	Paskolos (gautos)				.PAJAMOS.986.	
+4.3.1.5.	4.3.1.5.	Akcijos (iðleistos) ir kitas nuosavas kapitalas	*			.PAJAMOS.995.	
+4.3.1.5.1.	4.3.1.5.1.	Akcijos (iðleistos) ir kitas nuosavas kapitalas	*			.PAJAMOS.997.	
+4.3.1.5.1.1.	4.3.1.5.1.1.	Akcijos (iðleistos) ir kitas nuosavas kapitalas	*			.PAJAMOS.999.	
+4.3.1.5.1.1.P.	4.3.1.5.1.1.P.	Akcijos (iðleistos) ir kitas nuosavas kapitalas				.PAJAMOS.1000.	
+4.3.1.5.1.P.	4.3.1.5.1.P.	Akcijos (iðleistos) ir kitas nuosavas kapitalas				.PAJAMOS.998.	
+4.3.1.5.P.	4.3.1.5.P.	Akcijos (iðleistos) ir kitas nuosavas kapitalas				.PAJAMOS.996.	
+4.3.1.6.	4.3.1.6.	Draudimo techniniai atidëjiniai	*			.PAJAMOS.1001.	
+4.3.1.6.1.	4.3.1.6.1.	Draudimo techniniai atidëjiniai	*			.PAJAMOS.1003.	
+4.3.1.6.1.1.	4.3.1.6.1.1.	Draudimo techniniai atidëjiniai	*			.PAJAMOS.1005.	
+4.3.1.6.1.1.P.	4.3.1.6.1.1.P.	Draudimo techniniai atidëjiniai				.PAJAMOS.1006.	
+4.3.1.6.1.P.	4.3.1.6.1.P.	Draudimo techniniai atidëjiniai				.PAJAMOS.1004.	
+4.3.1.6.P.	4.3.1.6.P.	Draudimo techniniai atidëjiniai				.PAJAMOS.1002.	
+4.3.1.7.	4.3.1.7.	Kitos gautinos sumos	*			.PAJAMOS.1007.	
+4.3.1.7.1.	4.3.1.7.1.	Kitos gautinos sumos	*			.PAJAMOS.1009.	
+4.3.1.7.1.1.	4.3.1.7.1.1.	Trumpalaikës	*			.PAJAMOS.1011.	
+4.3.1.7.1.1.P.	4.3.1.7.1.1.P.	Kitos gautinos sumos				.PAJAMOS.1012.	
+4.3.1.7.1.2.	4.3.1.7.1.2.	Ilgalaikës	*			.PAJAMOS.1013.	
+4.3.1.7.1.P.	4.3.1.7.1.P.	Kitos gautinos sumos				.PAJAMOS.1010.	
+4.3.1.7.P.	4.3.1.7.P.	Kitos gautinos sumos				.PAJAMOS.1008.	
+4.3.1.P.	4.3.1.P.	Vidaus				.PAJAMOS.960.	
+4.3.2.	4.3.2.	Uþsienio	*			.TURTUI.1014.	
+4.3.2.1.	4.3.2.1.	Grynieji pinigai ir indëliai banke (uþsienio valiuta)	*			.PAJAMOS.1016.	
+4.3.2.1.1.	4.3.2.1.1.	Grynieji pinigai ir indëliai banke (uþsienio valiuta)	*			.PAJAMOS.1018.	
+4.3.2.1.1.1.	4.3.2.1.1.1.	Grynieji pinigai	*			.PAJAMOS.1020.	
+4.3.2.1.1.1.P.	4.3.2.1.1.1.P.	Grynieji pinigai				.PAJAMOS.1021.	
+4.3.2.1.1.2.	4.3.2.1.1.2.	Pervedamieji indëliai (pinigai bankuose)	*			.PAJAMOS.1022.	
+4.3.2.1.1.2.P.	4.3.2.1.1.2.P.	Pervedamieji indëliai (pinigai bankuose)				.PAJAMOS.1023.	
+4.3.2.1.1.3.	4.3.2.1.1.3.	Kiti indëliai (pinigai bankuose)	*			.PAJAMOS.1024.	
+4.3.2.1.1.3.P.	4.3.2.1.1.3.P.	Kiti indëliai (pinigai bankuose)				.PAJAMOS.1025.	
+4.3.2.1.1.P.	4.3.2.1.1.P.	Grynieji pinigai ir indëliai banke (uþsienio valiuta)				.PAJAMOS.1019.	
+4.3.2.1.P.	4.3.2.1.P.	Grynieji pinigai ir indëliai banke (uþsienio valiuta)				.PAJAMOS.1017.	
+4.3.2.2.	4.3.2.2.	Vertybiniai popieriai (iðleisti), iðskyrus akcijas	*			.PAJAMOS.1026.	
+4.3.2.2.1.	4.3.2.2.1.	Vertybiniai popieriai (iðleisti), iðskyrus akcijas	*			.PAJAMOS.1028.	
+4.3.2.2.1.1.	4.3.2.2.1.1.	Trumpalaikiai	*			.PAJAMOS.1030.	
+4.3.2.2.1.1.P.	4.3.2.2.1.1.P.	Trumpalaikiai				.PAJAMOS.1031.	
+4.3.2.2.1.2.	4.3.2.2.1.2.	Ilgalaikiai	*			.PAJAMOS.1032.	
+4.3.2.2.1.2.P.	4.3.2.2.1.2.P.	Ilgalaikiai				.PAJAMOS.1033.	
+4.3.2.2.1.P.	4.3.2.2.1.P.	Vertybiniai popieriai (iðleisti), iðskyrus akcijas				.PAJAMOS.1029.	
+4.3.2.2.P.	4.3.2.2.P.	Vertybiniai popieriai (iðleisti), iðskyrus akcijas				.PAJAMOS.1027.	
+4.3.2.3.	4.3.2.3.	Iðvestinës finansinës priemonës	*			.PAJAMOS.1034.	
+4.3.2.3.1.	4.3.2.3.1.	Iðvestinës finansinës priemonës	*			.PAJAMOS.1036.	
+4.3.2.3.1.1.	4.3.2.3.1.1.	Iðvestinës finansinës priemonës	*			.PAJAMOS.1038.	
+4.3.2.3.1.1.P.	4.3.2.3.1.1.P.	Iðvestinës finansinës priemonës				.PAJAMOS.1039.	
+4.3.2.3.1.P.	4.3.2.3.1.P.	Iðvestinës finansinës priemonës				.PAJAMOS.1037.	
+4.3.2.3.P.	4.3.2.3.P.	Iðvestinës finansinës priemonës				.PAJAMOS.1035.	
+4.3.2.4.	4.3.2.4.	Paskolos (gautos)	*			.PAJAMOS.1040.	
+4.3.2.4.1.	4.3.2.4.1.	Paskolos (gautos)	*			.PAJAMOS.1042.	
+4.3.2.4.1.1.	4.3.2.4.1.1.	Trumpalaikës	*			.PAJAMOS.1044.	
+4.3.2.4.1.1.P.	4.3.2.4.1.1.P.	Trumpalaikës				.PAJAMOS.1045.	
+4.3.2.4.1.2.	4.3.2.4.1.2.	Ilgalaikës	*			.PAJAMOS.1046.	
+4.3.2.4.1.2.P.	4.3.2.4.1.2.P.	Ilgalaikës				.PAJAMOS.1047.	
+4.3.2.4.1.P.	4.3.2.4.1.P.	Paskolos (gautos)				.PAJAMOS.1043.	
+4.3.2.4.P.	4.3.2.4.P.	Paskolos (gautos)				.PAJAMOS.1041.	
+4.3.2.5.	4.3.2.5.	Akcijos (iðleistos) ir kitas nuosavas kapitalas	*			.PAJAMOS.1048.	
+4.3.2.5.1.	4.3.2.5.1.	Akcijos (iðleistos) ir kitas nuosavas kapitalas	*			.PAJAMOS.1050.	
+4.3.2.5.1.1.	4.3.2.5.1.1.	Akcijos (iðleistos) ir kitas nuosavas kapitalas	*			.PAJAMOS.1052.	
+4.3.2.5.1.1.P.	4.3.2.5.1.1.P.	Akcijos (iðleistos) ir kitas nuosavas kapitalas				.PAJAMOS.1053.	
+4.3.2.5.1.P.	4.3.2.5.1.P.	Akcijos (iðleistos) ir kitas nuosavas kapitalas				.PAJAMOS.1051.	
+4.3.2.5.P.	4.3.2.5.P.	Akcijos (iðleistos) ir kitas nuosavas kapitalas				.PAJAMOS.1049.	
+4.3.2.6.	4.3.2.6.	Draudimo techniniai atidëjiniai	*			.PAJAMOS.1054.	
+4.3.2.6.1.	4.3.2.6.1.	Draudimo techniniai atidëjiniai	*			.PAJAMOS.1056.	
+4.3.2.6.1.1.	4.3.2.6.1.1.	Draudimo techniniai atidëjiniai	*			.PAJAMOS.1058.	
+4.3.2.6.1.1.P.	4.3.2.6.1.1.P.	Draudimo techniniai atidëjiniai				.PAJAMOS.1059.	
+4.3.2.6.1.P.	4.3.2.6.1.P.	Draudimo techniniai atidëjiniai				.PAJAMOS.1057.	
+4.3.2.6.P.	4.3.2.6.P.	Draudimo techniniai atidëjiniai				.PAJAMOS.1055.	
+4.3.2.7.	4.3.2.7.	Kitos gautinos sumos	*			.TURTUI.1060.	
+4.3.2.7.1.	4.3.2.7.1.	Kitos gautinos sumos	*			.TURTUI.1062.	
+4.3.2.7.1.1.	4.3.2.7.1.1.	Kitos gautinos sumos	*			.TURTUI.1064.	
+4.3.2.7.1.1.P.	4.3.2.7.1.1.P.	Kitos gautinos sumos				.PAJAMOS.1065.	
+4.3.2.7.1.P.	4.3.2.7.1.P.	Kitos gautinos sumos				.PAJAMOS.1063.	
+4.3.2.7.P.	4.3.2.7.P.	Kitos gautinos sumos				.PAJAMOS.1061.	
+4.3.2.P.	4.3.2.P.	Uþsienio				.PAJAMOS.1015.	
+4.3.P.	4.3.P.	Finansiniø ásipareigojimø prisiëmimo (skolinimosi) pajamos				.PAJAMOS.958.	
+4.P.	4.P.	SANDORIAI DËL MATERIALIOJO IR NEMATERIALIOJO TURTO BEI FINANSINIØ ÁSIPAREIGOJIMØ PRISIËMIMAS				.PAJAMOS.752.	
+B	B	Ekonominë klasifikacija (bendrai)				..1.	
+NB	NB	Nedetalizuojama				..5.Ne	
+T	T	Ið viso (suminëms sàskaitoms)	*			..3.Ne	
