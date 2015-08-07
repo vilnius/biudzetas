@@ -54,11 +54,11 @@ from gl_code_combinations_kfv c, gl_balances b,
 
    AND av.flex_value_set_id = 1009712  AND av.flex_value = c.segment1   -- Asignavimo valdytojo join -- #1
    AND fin.flex_value_set_id = 1009714 AND fin.flex_value = c.segment3  -- Finansavimo saltinio join    -- #1
-   AND priem.flex_value_set_id = 1009715 AND priem.flex_value = c.segment4 -- Programa (priemonë) saltinio join -- #1
+   AND priem.flex_value_set_id = 1009715 AND priem.flex_value = c.segment4 -- Programa (priemonÃ«) saltinio join -- #1
    AND prog.flex_value_set_id(+) = 1009715 AND prog.flex_value(+) = SUBSTR(c.segment4,1,2) -- Programa (2 simb) saltinio join   -- #1 #4
    AND tiksl.flex_value_set_id(+) = 1009715 AND tiksl.flex_value(+) = SUBSTR(c.segment4,1,6) -- Programa (6 simb) saltinio join -- #1 #4
-   AND funk.flex_value_set_id = 1009716 AND funk.flex_value = c.segment5 -- Funkcinë klas. join -- #1
-   AND ekon.flex_value_set_id = 1009717 AND ekon.flex_value = c.segment6 -- Ekonominë klas. join -- #1
+   AND funk.flex_value_set_id = 1009716 AND funk.flex_value = c.segment5 -- FunkcinÃ« klas. join -- #1
+   AND ekon.flex_value_set_id = 1009717 AND ekon.flex_value = c.segment6 -- EkonominÃ« klas. join -- #1
    AND sam.flex_value_set_id = 1009718 AND sam.flex_value = c.segment7  -- Samatos join    -- #1
    AND prv.flex_value_set_id = 1009719 AND prv.flex_value = c.segment8  -- Programos_vykdytojas join    -- #3
 
@@ -98,10 +98,3 @@ HAVING
                 nvl(b.period_net_dr, 0) - nvl(b.period_net_cr, 0)
                 ELSE NULL
        END) <>0
-
-
--- 2009-06-22. Andrius Borysevicius. Ádejau DK saskaitos segmentu descriptionus.   #1
--- 2009-06-25. Ignas Ligionis. Perraðyta uþklausa nuo gl_je_lines prie gl_balances
--- 2010-03-02. Ignas Ligionis. Pridetas Programu vykdytojo segmentas. #3
--- 2010-04-02. Ilma Ivanauskaite. Jungiant programos ne pilna koda () padarytas outer join'as, nes tokiu programu nera reiksmiu sarase
--- 2011-07-22. Andrius Borysevièius. Idetas filtras tam, kad nerodytu tu eiluciu, kuriose visi stulpeliai yra nuliniai #4
