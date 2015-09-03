@@ -1,2 +1,3 @@
-# biudzetas
-Atviri savivaldybės biudžeto duomenys
+# Atviri savivaldybės biudžeto duomenys
+
+Labai tingiu rašyt readme :(
