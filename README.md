@@ -6,3 +6,6 @@
  * [Didžiąją knygą](https://github.com/vilnius/biudzetas/tree/master/dk)
  * [Klasifikatorius](https://github.com/vilnius/biudzetas/tree/master/metadata)
  * [Duomenų šaltinių suformavimo užklausas](https://github.com/vilnius/biudzetas/tree/master/queries)
+
+
+Duomenys atnaujinami kiekvieną dieną ~01:00.
