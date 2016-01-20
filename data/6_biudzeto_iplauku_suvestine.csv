@@ -1,5 +1,6 @@
 IPLAUKU_DATA;SALTINIO_PAV;IMOKOS_KODAI;APRASYMAS;SUMA
 02-NOV-15;02-NOV-15;VMI;VMI;37;37;"Pajamos iš mokesčių inspekcijos";"Pajamos iš mokesčių inspekcijos";206.31;206.31
+19-JAN-16;19-JAN-16;VMI;VMI;37;37;"Pajamos iš mokesčių inspekcijos";"Pajamos iš mokesčių inspekcijos";15.02;15.02
 21-OCT-15;21-OCT-15;VMI;VMI;37;37;"Pajamos iš mokesčių inspekcijos";"Pajamos iš mokesčių inspekcijos";83.73;83.73
 14-JAN-16;14-JAN-16;VMI;VMI;37;37;"Pajamos iš mokesčių inspekcijos";"Pajamos iš mokesčių inspekcijos";.66;.66
 22-SEP-15;22-SEP-15;VMI;VMI;37;37;"Pajamos iš mokesčių inspekcijos";"Pajamos iš mokesčių inspekcijos";20.21;20.21
@@ -184,6 +185,7 @@ IPLAUKU_DATA;SALTINIO_PAV;IMOKOS_KODAI;APRASYMAS;SUMA
 12-JAN-15;12-JAN-15;VMI;VMI;37;37;"Pajamos iš mokesčių inspekcijos";"Pajamos iš mokesčių inspekcijos";.08;.08
 17-DEC-15;17-DEC-15;VMI;VMI;22K;22K;"Pajamos iš mokesčių inspekcijos";"Pajamos iš mokesčių inspekcijos";863977.73;863977.73
 02-NOV-15;02-NOV-15;VMI;VMI;22K;22K;"Pajamos iš mokesčių inspekcijos";"Pajamos iš mokesčių inspekcijos";1352669.34;1352669.34
+19-JAN-16;19-JAN-16;VMI;VMI;22K;22K;"Pajamos iš mokesčių inspekcijos";"Pajamos iš mokesčių inspekcijos";679177.76;679177.76
 22-DEC-15;22-DEC-15;VMI;VMI;22K;22K;"Pajamos iš mokesčių inspekcijos";"Pajamos iš mokesčių inspekcijos";482162.96;482162.96
 09-NOV-15;09-NOV-15;VMI;VMI;22K;22K;"Pajamos iš mokesčių inspekcijos";"Pajamos iš mokesčių inspekcijos";896400.85;896400.85
 27-OCT-15;27-OCT-15;VMI;VMI;22K;22K;"Pajamos iš mokesčių inspekcijos";"Pajamos iš mokesčių inspekcijos";334743.03;334743.03
@@ -1570,6 +1572,7 @@ IPLAUKU_DATA;SALTINIO_PAV;IMOKOS_KODAI;APRASYMAS;SUMA
 14-APR-15;14-APR-15;FM;FM;SV77F;SV77F;"Pajamos iš finansų ministerijos";"Pajamos iš finansų ministerijos";293264;293264
 27-FEB-15;27-FEB-15;FM;FM;SV77F;SV77F;"Pajamos iš finansų ministerijos";"Pajamos iš finansų ministerijos";208089.12;208089.12
 15-JAN-15;15-JAN-15;FM;FM;SV77F;SV77F;"Pajamos iš finansų ministerijos";"Pajamos iš finansų ministerijos";90577.88;90577.88
+19-JAN-16;19-JAN-16;FM;FM;;;"Pajamos iš finansų ministerijos";"Pajamos iš finansų ministerijos";442000;442000
 26-OCT-15;26-OCT-15;FM;FM;;;"Pajamos iš finansų ministerijos";"Pajamos iš finansų ministerijos";3334;3334
 21-JUL-15;21-JUL-15;FM;FM;;;"Pajamos iš finansų ministerijos";"Pajamos iš finansų ministerijos";6065;6065
 16-APR-15;16-APR-15;FM;FM;;;"Pajamos iš finansų ministerijos";"Pajamos iš finansų ministerijos";5500;5500
