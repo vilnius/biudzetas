@@ -16,6 +16,7 @@ IPLAUKU_DATA;SALTINIO_PAV;IMOKOS_KODAI;APRASYMAS;SUMA
 03-MAR-16;VMI;37;"Pajamos iš mokesčių inspekcijos";3908.56
 26-FEB-16;VMI;37;"Pajamos iš mokesčių inspekcijos";13196.01
 14-JAN-16;VMI;37;"Pajamos iš mokesčių inspekcijos";.66
+17-MAR-16;VMI;37;"Pajamos iš mokesčių inspekcijos";2236.38
 22-SEP-15;VMI;37;"Pajamos iš mokesčių inspekcijos";20.21
 09-SEP-15;VMI;37;"Pajamos iš mokesčių inspekcijos";7.3
 10-AUG-15;VMI;37;"Pajamos iš mokesčių inspekcijos";4.66
@@ -330,6 +331,8 @@ IPLAUKU_DATA;SALTINIO_PAV;IMOKOS_KODAI;APRASYMAS;SUMA
 29-DEC-15;VMI;22K;"Pajamos iš mokesčių inspekcijos";1268490.55
 16-DEC-15;VMI;22K;"Pajamos iš mokesčių inspekcijos";3284573.2
 03-DEC-15;VMI;22K;"Pajamos iš mokesčių inspekcijos";356257.42
+17-MAR-16;VMI;22K;"Pajamos iš mokesčių inspekcijos";992244.47
+17-MAR-16;VMI;22K;"Pajamos iš mokesčių inspekcijos";38771.11
 05-JAN-16;VMI;22K;"Pajamos iš mokesčių inspekcijos";46.42
 05-JAN-16;VMI;22K;"Pajamos iš mokesčių inspekcijos";212.16
 06-JAN-16;VMI;22K;"Pajamos iš mokesčių inspekcijos";1699.38
@@ -1237,6 +1240,7 @@ IPLAUKU_DATA;SALTINIO_PAV;IMOKOS_KODAI;APRASYMAS;SUMA
 19-MAY-15;KITOS;100;"Kitos pajamos";4.28
 07-JAN-15;KITOS;100;"Kitos pajamos";1.18
 02-JAN-15;KITOS;100;"Kitos pajamos";.12
+17-MAR-16;KITOS;96;"Kitos pajamos";58715.4
 10-MAR-16;KITOS;96;"Kitos pajamos";772082.93
 16-NOV-15;KITOS;96;"Kitos pajamos";439000
 24-NOV-15;KITOS;96;"Kitos pajamos";142766.57
@@ -1440,6 +1444,7 @@ IPLAUKU_DATA;SALTINIO_PAV;IMOKOS_KODAI;APRASYMAS;SUMA
 29-DEC-15;KITOS;97;"Kitos pajamos";5084.63
 29-DEC-15;KITOS;97;"Kitos pajamos";696.43
 02-MAR-16;KITOS;97;"Kitos pajamos";1900
+16-MAR-16;KITOS;97;"Kitos pajamos";291.03
 19-OCT-15;KITOS;97;"Kitos pajamos";5600
 23-JUN-15;KITOS;97;"Kitos pajamos";4500
 08-MAR-16;KITOS;97;"Kitos pajamos";790.12
@@ -1962,6 +1967,7 @@ IPLAUKU_DATA;SALTINIO_PAV;IMOKOS_KODAI;APRASYMAS;SUMA
 09-OCT-15;FM;2M18;"Pajamos iš finansų ministerijos";116718.72
 30-SEP-15;FM;2M18;"Pajamos iš finansų ministerijos";16671.83
 02-NOV-15;FM;2M18;"Pajamos iš finansų ministerijos";105672.84
+17-MAR-16;"FM STD";33;"Specialios tikslinės dotacijos";150000
 07-OCT-15;"FM STD";33;"Specialios tikslinės dotacijos";359338
 11-JAN-16;"FM STD";33;"Specialios tikslinės dotacijos";502800
 27-MAR-15;"FM STD";33;"Specialios tikslinės dotacijos";97970
