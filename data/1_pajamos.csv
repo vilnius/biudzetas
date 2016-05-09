@@ -1,4 +1,5 @@
 ORG_ID,DEPARTAMENTO_PAV,BANK_ACCOUNT_ID,BANK_ACCOUNT_NAME,BANK_ACCOUNT_NUM,RECEIPT_DATE,RECEIPT_NUMBER,ACTIVITY_ID,ACTIVITY_NAME,ACTIVITY_DESCRIPTION,ACT_IPLAUKU_SALTINIS,ACT_IPL_SALTINIO_PAV,ACT_IPL_SALTINIO_EIL_NR,ACT_IMOKOS_KODAS,ACT_EILES_NR,AMOUNT,RECEIPT_ID
+1366,"Biudžeto skyrius EUR",99929,"32773 EUR biudž",LT954010042403632773,06-MAY-16,FC1382799981,5684,223K,"Nedetalizuotos pajamos",VMI,"Pajamos iš mokesčių inspekcijos",1,22K,,1313715.98,2151108
 1366,"Biudžeto skyrius EUR",99929,"32773 EUR biudž",LT954010042403632773,05-MAY-16,FC1381742955,5684,223K,"Nedetalizuotos pajamos",VMI,"Pajamos iš mokesčių inspekcijos",1,22K,,27691.66,2150004
 1366,"Biudžeto skyrius EUR",99929,"32773 EUR biudž",LT954010042403632773,05-MAY-16,FC1381733228,5684,223K,"Nedetalizuotos pajamos",VMI,"Pajamos iš mokesčių inspekcijos",1,22K,,372912.24,2150002
 1366,"Biudžeto skyrius EUR",99929,"32773 EUR biudž",LT954010042403632773,04-MAY-16,FC1380675875,5684,223K,"Nedetalizuotos pajamos",VMI,"Pajamos iš mokesčių inspekcijos",1,22K,,424604.66,2149013
@@ -484,6 +485,7 @@ ORG_ID,DEPARTAMENTO_PAV,BANK_ACCOUNT_ID,BANK_ACCOUNT_NAME,BANK_ACCOUNT_NUM,RECEI
 1366,"Biudžeto skyrius EUR",99929,"32773 EUR biudž",LT954010042403632773,12-JAN-15,FC889916467,5684,223K,"Nedetalizuotos pajamos",VMI,"Pajamos iš mokesčių inspekcijos",1,22K,,37900.57,1643078
 1366,"Biudžeto skyrius EUR",99929,"32773 EUR biudž",LT954010042403632773,12-JAN-15,FC889724793,5684,223K,"Nedetalizuotos pajamos",VMI,"Pajamos iš mokesčių inspekcijos",1,22K,,47928.56,1643077
 1366,"Biudžeto skyrius EUR",99929,"32773 EUR biudž",LT954010042403632773,07-MAR-16,FC1324135144,5670,"84. BIUD.: VMI: Atsarg. real.","Atsargų realizavimo pajamos",VMI,"Pajamos iš mokesčių inspekcijos",1,84,,8600,2080965
+1366,"Biudžeto skyrius EUR",99929,"32773 EUR biudž",LT954010042403632773,06-MAY-16,FC1383120517,5659,"39. BIUD.: VMI: Viet. R.","Vietinės rinkliavos",VMI,"Pajamos iš mokesčių inspekcijos",1,39,,.6,2151110
 1366,"Biudžeto skyrius EUR",99929,"32773 EUR biudž",LT954010042403632773,04-MAY-16,FC1380418156,5659,"39. BIUD.: VMI: Viet. R.","Vietinės rinkliavos",VMI,"Pajamos iš mokesčių inspekcijos",1,39,,5.8,2149010
 1366,"Biudžeto skyrius EUR",99929,"32773 EUR biudž",LT954010042403632773,02-MAY-16,FC1378291779,5659,"39. BIUD.: VMI: Viet. R.","Vietinės rinkliavos",VMI,"Pajamos iš mokesčių inspekcijos",1,39,,2.9,2147815
 1366,"Biudžeto skyrius EUR",99929,"32773 EUR biudž",LT954010042403632773,02-MAY-16,FC1378069383,5659,"39. BIUD.: VMI: Viet. R.","Vietinės rinkliavos",VMI,"Pajamos iš mokesčių inspekcijos",1,39,,1.4,2147813
@@ -1730,6 +1732,8 @@ ORG_ID,DEPARTAMENTO_PAV,BANK_ACCOUNT_ID,BANK_ACCOUNT_NAME,BANK_ACCOUNT_NUM,RECEI
 1366,"Biudžeto skyrius EUR",99903,"Biudžetinė sąskaita (5077) EUR",LT937044060001235077,14-JAN-15,20150114/2,5611,"BIUD.: APLINKOS APSAUGA: UAB","Aplinkos apsauga",KITOS,"Kitos pajamos",2,90,1,516,1643245
 1366,"Biudžeto skyrius EUR",99903,"Biudžetinė sąskaita (5077) EUR",LT937044060001235077,14-JAN-15,20150114/5,5611,"BIUD.: APLINKOS APSAUGA: UAB","Aplinkos apsauga",KITOS,"Kitos pajamos",2,90,1,301.21,1643242
 1366,"Biudžeto skyrius EUR",99903,"Biudžetinė sąskaita (5077) EUR",LT937044060001235077,12-JAN-15,20150112/1,5611,"BIUD.: APLINKOS APSAUGA: UAB","Aplinkos apsauga",KITOS,"Kitos pajamos",2,90,1,301.2,1643025
+1366,"Biudžeto skyrius EUR",99929,"32773 EUR biudž",LT954010042403632773,06-MAY-16,FC1383155234,5600,"BIUD.: KITOS PAJAMOS","Kitos pajamos",KITOS,"Kitos pajamos",2,91,,4268,2151111
+1366,"Biudžeto skyrius EUR",99929,"32773 EUR biudž",LT954010042403632773,06-MAY-16,FC1383001095,5600,"BIUD.: KITOS PAJAMOS","Kitos pajamos",KITOS,"Kitos pajamos",2,91,,105,2151109
 1366,"Biudžeto skyrius EUR",99929,"32773 EUR biudž",LT954010042403632773,04-MAY-16,FC1380403179,5600,"BIUD.: KITOS PAJAMOS","Kitos pajamos",KITOS,"Kitos pajamos",2,91,,50.16,2149009
 1366,"Biudžeto skyrius EUR",99929,"32773 EUR biudž",LT954010042403632773,03-MAY-16,FC1379249479,5600,"BIUD.: KITOS PAJAMOS","Kitos pajamos",KITOS,"Kitos pajamos",2,91,,12,2148283
 1366,"Biudžeto skyrius EUR",99929,"32773 EUR biudž",LT954010042403632773,02-MAY-16,FC1378444175,5600,"BIUD.: KITOS PAJAMOS","Kitos pajamos",KITOS,"Kitos pajamos",2,91,,4009,2147820
@@ -11558,6 +11562,10 @@ ORG_ID,DEPARTAMENTO_PAV,BANK_ACCOUNT_ID,BANK_ACCOUNT_NAME,BANK_ACCOUNT_NUM,RECEI
 1363,"Administracija EUR",99765,"DNB LT07 4010 0424 0007 0286",LT074010042400070286,05-FEB-15,20150205/1,5498,"DU išmokėjimas","DU išmokėjimas (kliringas)",,,,,,-2128.03,1688873
 1363,"Administracija EUR",99765,"DNB LT07 4010 0424 0007 0286",LT074010042400070286,20-JAN-15,20150120/1,5498,"DU išmokėjimas","DU išmokėjimas (kliringas)",,,,,,-780,1646632
 1363,"Administracija EUR",99765,"DNB LT07 4010 0424 0007 0286",LT074010042400070286,22-JAN-15,20150122/1,5498,"DU išmokėjimas","DU išmokėjimas (kliringas)",,,,,,-358.8,1646581
+1363,"Administracija EUR",99764,"DU 5000",LT094010042403635000,06-MAY-16,20160506/1,5498,"DU išmokėjimas","DU išmokėjimas (kliringas)",,,,,,-665.96,2151107
+1363,"Administracija EUR",99764,"DU 5000",LT094010042403635000,06-MAY-16,20160506/2,5498,"DU išmokėjimas","DU išmokėjimas (kliringas)",,,,,,-1239.12,2151106
+1363,"Administracija EUR",99764,"DU 5000",LT094010042403635000,06-MAY-16,20160506/3,5498,"DU išmokėjimas","DU išmokėjimas (kliringas)",,,,,,-540.9,2151105
+1363,"Administracija EUR",99764,"DU 5000",LT094010042403635000,06-MAY-16,20160506/7,5498,"DU išmokėjimas","DU išmokėjimas (kliringas)",,,,,,-139.56,2151104
 1363,"Administracija EUR",99764,"DU 5000",LT094010042403635000,05-MAY-16,20160505/186,5498,"DU išmokėjimas","DU išmokėjimas (kliringas)",,,,,,-276.04,2149914
 1363,"Administracija EUR",99764,"DU 5000",LT094010042403635000,05-MAY-16,20160505/187,5498,"DU išmokėjimas","DU išmokėjimas (kliringas)",,,,,,-300.84,2149913
 1363,"Administracija EUR",99764,"DU 5000",LT094010042403635000,05-MAY-16,20160505/188,5498,"DU išmokėjimas","DU išmokėjimas (kliringas)",,,,,,-291.53,2149912
@@ -19926,6 +19934,8 @@ ORG_ID,DEPARTAMENTO_PAV,BANK_ACCOUNT_ID,BANK_ACCOUNT_NAME,BANK_ACCOUNT_NUM,RECEI
 1363,"Administracija EUR",102186,"LT 0396 EUR EID",LT827180300001130396,30-JUN-15,525354321,5490,"Palūkanų pajamos","Palūkanų pajamos",,,,,,.41,1843666
 1363,"Administracija EUR",102186,"LT 0396 EUR EID",LT827180300001130396,30-MAR-15,505056544,5490,"Palūkanų pajamos","Palūkanų pajamos",,,,,,.57,1743182
 1363,"Administracija EUR",107716,"LT 0460 EUR AFMSK",LT037180300001130460,30-DEC-15,PAL,5490,"Palūkanų pajamos","Palūkanų pajamos",,,,,,1.98,2018131
+1363,"Administracija EUR",99711,"TD Lėšos už prekes ir paslaug. 5116",LT107044060001235116,04-MAY-16,20160504/2,5489,"Banko paslaugos","Banko paslaugos",,,,,,-.21,2151113
+1363,"Administracija EUR",99711,"TD Lėšos už prekes ir paslaug. 5116",LT107044060001235116,06-MAY-16,20160506/4,5489,"Banko paslaugos","Banko paslaugos",,,,,,-.21,2151118
 1363,"Administracija EUR",99711,"TD Lėšos už prekes ir paslaug. 5116",LT107044060001235116,02-MAY-16,20160502/2,5489,"Banko paslaugos","Banko paslaugos",,,,,,-.21,2146793
 1363,"Administracija EUR",99711,"TD Lėšos už prekes ir paslaug. 5116",LT107044060001235116,01-MAY-16,20160501/1,5489,"Banko paslaugos","Banko paslaugos",,,,,,-.29,2145411
 1363,"Administracija EUR",99711,"TD Lėšos už prekes ir paslaug. 5116",LT107044060001235116,28-APR-16,20160428/2,5489,"Banko paslaugos","Banko paslaugos",,,,,,-.21,2144226
@@ -19959,7 +19969,42 @@ ORG_ID,DEPARTAMENTO_PAV,BANK_ACCOUNT_ID,BANK_ACCOUNT_NAME,BANK_ACCOUNT_NUM,RECEI
 1363,"Administracija EUR",99707,"KŪD Spec./Nebiudž lėšos 2571",LT917044060001362571,02-MAR-16,20160302/6,5489,"Banko paslaugos","Banko paslaugos",,,,,,-.21,2128761
 1363,"Administracija EUR",99707,"KŪD Spec./Nebiudž lėšos 2571",LT917044060001362571,02-MAR-16,20160302/4,5489,"Banko paslaugos","Banko paslaugos",,,,,,-.21,2128760
 1363,"Administracija EUR",99707,"KŪD Spec./Nebiudž lėšos 2571",LT917044060001362571,02-MAR-16,20160302/2,5489,"Banko paslaugos","Banko paslaugos",,,,,,-.21,2128759
-1363,"Administracija EUR",108320,"LT 1612 Mok. sk. rinkliava už leidimus prekiauti",LT897044060008071612,02-MAR-16,"Banko paslaugos(prek)",5489,"Banko paslaugos","Banko paslaugos",,,,,,.29,2150414
+1363,"Administracija EUR",108323,"LT 9667 Mok. sk. rinkliava už leidimus komerciniam renginiam",LT522140030003679667,29-FEB-16,7,5489,"Banko paslaugos","Banko paslaugos",,,,,,-.29,2151661
+1363,"Administracija EUR",108323,"LT 9667 Mok. sk. rinkliava už leidimus komerciniam renginiam",LT522140030003679667,03-FEB-16,20160203/2,5489,"Banko paslaugos","Banko paslaugos",,,,,,-.35,2151660
+1363,"Administracija EUR",108325,"LT 9641 Mok. sk. rinkliava už leidimus prekiauti",LT752140030003679641,29-MAR-16,20160329/18,5489,"Banko paslaugos","Banko paslaugos",,,,,,-.35,2151725
+1363,"Administracija EUR",108325,"LT 9641 Mok. sk. rinkliava už leidimus prekiauti",LT752140030003679641,29-MAR-16,8,5489,"Banko paslaugos","Banko paslaugos",,,,,,-.29,2151724
+1363,"Administracija EUR",108325,"LT 9641 Mok. sk. rinkliava už leidimus prekiauti",LT752140030003679641,29-MAR-16,20160329/14,5489,"Banko paslaugos","Banko paslaugos",,,,,,-.35,2151723
+1363,"Administracija EUR",108325,"LT 9641 Mok. sk. rinkliava už leidimus prekiauti",LT752140030003679641,29-MAR-16,20160329/12,5489,"Banko paslaugos","Banko paslaugos",,,,,,-.35,2151722
+1363,"Administracija EUR",108325,"LT 9641 Mok. sk. rinkliava už leidimus prekiauti",LT752140030003679641,29-MAR-16,20160329/10,5489,"Banko paslaugos","Banko paslaugos",,,,,,-.35,2151721
+1363,"Administracija EUR",108325,"LT 9641 Mok. sk. rinkliava už leidimus prekiauti",LT752140030003679641,29-MAR-16,20160329/8,5489,"Banko paslaugos","Banko paslaugos",,,,,,-.35,2151720
+1363,"Administracija EUR",108325,"LT 9641 Mok. sk. rinkliava už leidimus prekiauti",LT752140030003679641,29-MAR-16,20160329/6,5489,"Banko paslaugos","Banko paslaugos",,,,,,-.35,2151718
+1363,"Administracija EUR",108325,"LT 9641 Mok. sk. rinkliava už leidimus prekiauti",LT752140030003679641,29-MAR-16,20160329/4,5489,"Banko paslaugos","Banko paslaugos",,,,,,-.35,2151717
+1363,"Administracija EUR",108325,"LT 9641 Mok. sk. rinkliava už leidimus prekiauti",LT752140030003679641,29-MAR-16,20160329/2,5489,"Banko paslaugos","Banko paslaugos",,,,,,-.35,2151716
+1363,"Administracija EUR",108325,"LT 9641 Mok. sk. rinkliava už leidimus prekiauti",LT752140030003679641,23-MAR-16,20160323/6,5489,"Banko paslaugos","Banko paslaugos",,,,,,-.35,2151713
+1363,"Administracija EUR",108325,"LT 9641 Mok. sk. rinkliava už leidimus prekiauti",LT752140030003679641,23-MAR-16,20160323/4,5489,"Banko paslaugos","Banko paslaugos",,,,,,-.35,2151711
+1363,"Administracija EUR",108325,"LT 9641 Mok. sk. rinkliava už leidimus prekiauti",LT752140030003679641,23-MAR-16,20160323/2,5489,"Banko paslaugos","Banko paslaugos",,,,,,-.35,2151710
+1363,"Administracija EUR",108325,"LT 9641 Mok. sk. rinkliava už leidimus prekiauti",LT752140030003679641,21-MAR-16,20160321/4,5489,"Banko paslaugos","Banko paslaugos",,,,,,-.35,2151708
+1363,"Administracija EUR",108325,"LT 9641 Mok. sk. rinkliava už leidimus prekiauti",LT752140030003679641,21-MAR-16,20160321/2,5489,"Banko paslaugos","Banko paslaugos",,,,,,-.35,2151707
+1363,"Administracija EUR",108325,"LT 9641 Mok. sk. rinkliava už leidimus prekiauti",LT752140030003679641,14-MAR-16,20160314/4,5489,"Banko paslaugos","Banko paslaugos",,,,,,-.35,2151706
+1363,"Administracija EUR",108325,"LT 9641 Mok. sk. rinkliava už leidimus prekiauti",LT752140030003679641,14-MAR-16,20160314/2,5489,"Banko paslaugos","Banko paslaugos",,,,,,-.35,2151705
+1363,"Administracija EUR",108325,"LT 9641 Mok. sk. rinkliava už leidimus prekiauti",LT752140030003679641,04-MAR-16,20160304/2,5489,"Banko paslaugos","Banko paslaugos",,,,,,-.35,2151704
+1363,"Administracija EUR",108325,"LT 9641 Mok. sk. rinkliava už leidimus prekiauti",LT752140030003679641,29-FEB-16,5,5489,"Banko paslaugos","Banko paslaugos",,,,,,-.29,2151703
+1363,"Administracija EUR",108325,"LT 9641 Mok. sk. rinkliava už leidimus prekiauti",LT752140030003679641,26-FEB-16,20160226/2,5489,"Banko paslaugos","Banko paslaugos",,,,,,-.35,2151702
+1363,"Administracija EUR",108325,"LT 9641 Mok. sk. rinkliava už leidimus prekiauti",LT752140030003679641,24-FEB-16,20160224/2,5489,"Banko paslaugos","Banko paslaugos",,,,,,-.35,2151701
+1363,"Administracija EUR",108325,"LT 9641 Mok. sk. rinkliava už leidimus prekiauti",LT752140030003679641,22-FEB-16,20160222/4,5489,"Banko paslaugos","Banko paslaugos",,,,,,-.35,2151700
+1363,"Administracija EUR",108325,"LT 9641 Mok. sk. rinkliava už leidimus prekiauti",LT752140030003679641,22-FEB-16,20160222/2,5489,"Banko paslaugos","Banko paslaugos",,,,,,-.35,2151699
+1363,"Administracija EUR",108325,"LT 9641 Mok. sk. rinkliava už leidimus prekiauti",LT752140030003679641,19-FEB-16,20160219/2,5489,"Banko paslaugos","Banko paslaugos",,,,,,-.35,2151698
+1363,"Administracija EUR",108325,"LT 9641 Mok. sk. rinkliava už leidimus prekiauti",LT752140030003679641,18-FEB-16,20160218/2,5489,"Banko paslaugos","Banko paslaugos",,,,,,-.35,2151697
+1363,"Administracija EUR",108325,"LT 9641 Mok. sk. rinkliava už leidimus prekiauti",LT752140030003679641,17-FEB-16,20160217/6,5489,"Banko paslaugos","Banko paslaugos",,,,,,-.35,2151696
+1363,"Administracija EUR",108325,"LT 9641 Mok. sk. rinkliava už leidimus prekiauti",LT752140030003679641,17-FEB-16,20160217/4,5489,"Banko paslaugos","Banko paslaugos",,,,,,-.35,2151695
+1363,"Administracija EUR",108325,"LT 9641 Mok. sk. rinkliava už leidimus prekiauti",LT752140030003679641,17-FEB-16,20160217/2,5489,"Banko paslaugos","Banko paslaugos",,,,,,-.35,2151694
+1363,"Administracija EUR",108325,"LT 9641 Mok. sk. rinkliava už leidimus prekiauti",LT752140030003679641,15-FEB-16,20160215/2,5489,"Banko paslaugos","Banko paslaugos",,,,,,-.35,2151693
+1363,"Administracija EUR",108325,"LT 9641 Mok. sk. rinkliava už leidimus prekiauti",LT752140030003679641,29-JAN-16,2,5489,"Banko paslaugos","Banko paslaugos",,,,,,-.29,2151611
+1363,"Administracija EUR",108325,"LT 9641 Mok. sk. rinkliava už leidimus prekiauti",LT752140030003679641,28-JAN-16,20160128/2,5489,"Banko paslaugos","Banko paslaugos",,,,,,-.35,2151610
+1363,"Administracija EUR",108325,"LT 9641 Mok. sk. rinkliava už leidimus prekiauti",LT752140030003679641,27-JAN-16,20160127/2,5489,"Banko paslaugos","Banko paslaugos",,,,,,-.35,2151609
+1363,"Administracija EUR",108325,"LT 9641 Mok. sk. rinkliava už leidimus prekiauti",LT752140030003679641,21-JAN-16,20160121/2,5489,"Banko paslaugos","Banko paslaugos",,,,,,-.35,2151608
+1363,"Administracija EUR",108325,"LT 9641 Mok. sk. rinkliava už leidimus prekiauti",LT752140030003679641,18-JAN-16,20160118/3,5489,"Banko paslaugos","Banko paslaugos",,,,,,-.35,2151607
+1363,"Administracija EUR",108320,"LT 1612 Mok. sk. rinkliava už leidimus prekiauti",LT897044060008071612,02-MAR-16,20160302/1,5489,"Banko paslaugos","Banko paslaugos",,,,,,-.29,2151149
 1363,"Administracija EUR",108320,"LT 1612 Mok. sk. rinkliava už leidimus prekiauti",LT897044060008071612,02-MAR-16,20160302/11,5489,"Banko paslaugos","Banko paslaugos",,,,,,-.21,2148301
 1363,"Administracija EUR",108320,"LT 1612 Mok. sk. rinkliava už leidimus prekiauti",LT897044060008071612,02-MAR-16,20160302/15,5489,"Banko paslaugos","Banko paslaugos",,,,,,-.21,2148300
 1363,"Administracija EUR",108320,"LT 1612 Mok. sk. rinkliava už leidimus prekiauti",LT897044060008071612,02-MAR-16,20160302/17,5489,"Banko paslaugos","Banko paslaugos",,,,,,-.21,2148299
@@ -20152,7 +20197,8 @@ ORG_ID,DEPARTAMENTO_PAV,BANK_ACCOUNT_ID,BANK_ACCOUNT_NAME,BANK_ACCOUNT_NUM,RECEI
 1363,"Administracija EUR",108320,"LT 1612 Mok. sk. rinkliava už leidimus prekiauti",LT897044060008071612,14-JAN-16,20160114/18,5489,"Banko paslaugos","Banko paslaugos",,,,,,-.21,2057593
 1363,"Administracija EUR",108320,"LT 1612 Mok. sk. rinkliava už leidimus prekiauti",LT897044060008071612,14-JAN-16,20160114/20,5489,"Banko paslaugos","Banko paslaugos",,,,,,-.21,2057592
 1363,"Administracija EUR",108320,"LT 1612 Mok. sk. rinkliava už leidimus prekiauti",LT897044060008071612,14-JAN-16,20160114/4,5489,"Banko paslaugos","Banko paslaugos",,,,,,-.21,2057591
-1363,"Administracija EUR",108321,"LT 1616 Mok. sk. rinkliava už leidimus reklamai",LT787044060008071616,02-MAR-16,"Banko paslaugos",5489,"Banko paslaugos","Banko paslaugos",,,,,,.29,2150237
+1363,"Administracija EUR",108321,"LT 1616 Mok. sk. rinkliava už leidimus reklamai",LT787044060008071616,02-MAR-16,20160302/1,5489,"Banko paslaugos","Banko paslaugos",,,,,,-.29,2151148
+1363,"Administracija EUR",108321,"LT 1616 Mok. sk. rinkliava už leidimus reklamai",LT787044060008071616,02-MAR-16,20160302/1,5489,"Banko paslaugos","Banko paslaugos",,,,,,.29,2151147
 1363,"Administracija EUR",108321,"LT 1616 Mok. sk. rinkliava už leidimus reklamai",LT787044060008071616,02-MAR-16,20160302/3,5489,"Banko paslaugos","Banko paslaugos",,,,,,-.21,2146656
 1363,"Administracija EUR",108321,"LT 1616 Mok. sk. rinkliava už leidimus reklamai",LT787044060008071616,15-MAR-16,20160315/4,5489,"Banko paslaugos","Banko paslaugos",,,,,,-.21,2145728
 1363,"Administracija EUR",108321,"LT 1616 Mok. sk. rinkliava už leidimus reklamai",LT787044060008071616,15-MAR-16,20160315/6,5489,"Banko paslaugos","Banko paslaugos",,,,,,-.21,2145727
@@ -20256,11 +20302,70 @@ ORG_ID,DEPARTAMENTO_PAV,BANK_ACCOUNT_ID,BANK_ACCOUNT_NAME,BANK_ACCOUNT_NUM,RECEI
 1363,"Administracija EUR",108319,"LT 1611 Mok. sk. rinkliava už leidimus kasinėjimui",LT197044060008071611,29-FEB-16,20160229/3,5489,"Banko paslaugos","Banko paslaugos",,,,,,-.21,2138268
 1363,"Administracija EUR",108319,"LT 1611 Mok. sk. rinkliava už leidimus kasinėjimui",LT197044060008071611,29-JAN-16,20160129/2,5489,"Banko paslaugos","Banko paslaugos",,,,,,-.21,2053022
 1363,"Administracija EUR",108319,"LT 1611 Mok. sk. rinkliava už leidimus kasinėjimui",LT197044060008071611,26-JAN-16,20160126/2,5489,"Banko paslaugos","Banko paslaugos",,,,,,-.21,2051371
+1363,"Administracija EUR",108324,"LT 9654 Mok. sk. rinkliava už leidimus reklamai",LT152140030003679654,29-FEB-16,6,5489,"Banko paslaugos","Banko paslaugos",,,,,,-.29,2151929
+1363,"Administracija EUR",108324,"LT 9654 Mok. sk. rinkliava už leidimus reklamai",LT152140030003679654,29-FEB-16,20160229/2,5489,"Banko paslaugos","Banko paslaugos",,,,,,-.35,2151928
+1363,"Administracija EUR",108324,"LT 9654 Mok. sk. rinkliava už leidimus reklamai",LT152140030003679654,26-FEB-16,20160226/4,5489,"Banko paslaugos","Banko paslaugos",,,,,,-.35,2151927
+1363,"Administracija EUR",108324,"LT 9654 Mok. sk. rinkliava už leidimus reklamai",LT152140030003679654,26-FEB-16,20160226/2,5489,"Banko paslaugos","Banko paslaugos",,,,,,-.35,2151926
+1363,"Administracija EUR",108324,"LT 9654 Mok. sk. rinkliava už leidimus reklamai",LT152140030003679654,29-MAR-16,9,5489,"Banko paslaugos","Banko paslaugos",,,,,,-.29,2151744
+1363,"Administracija EUR",108324,"LT 9654 Mok. sk. rinkliava už leidimus reklamai",LT152140030003679654,29-MAR-16,20160329/2,5489,"Banko paslaugos","Banko paslaugos",,,,,,-.35,2151743
+1363,"Administracija EUR",108324,"LT 9654 Mok. sk. rinkliava už leidimus reklamai",LT152140030003679654,21-MAR-16,20160321/2,5489,"Banko paslaugos","Banko paslaugos",,,,,,-.35,2151742
+1363,"Administracija EUR",108324,"LT 9654 Mok. sk. rinkliava už leidimus reklamai",LT152140030003679654,18-MAR-16,20160318/7,5489,"Banko paslaugos","Banko paslaugos",,,,,,-.35,2151741
+1363,"Administracija EUR",108324,"LT 9654 Mok. sk. rinkliava už leidimus reklamai",LT152140030003679654,18-MAR-16,20160318/5,5489,"Banko paslaugos","Banko paslaugos",,,,,,-.35,2151740
+1363,"Administracija EUR",108324,"LT 9654 Mok. sk. rinkliava už leidimus reklamai",LT152140030003679654,18-MAR-16,20160318/3,5489,"Banko paslaugos","Banko paslaugos",,,,,,-.35,2151739
+1363,"Administracija EUR",108324,"LT 9654 Mok. sk. rinkliava už leidimus reklamai",LT152140030003679654,17-MAR-16,20160317/3,5489,"Banko paslaugos","Banko paslaugos",,,,,,-.35,2151738
+1363,"Administracija EUR",108324,"LT 9654 Mok. sk. rinkliava už leidimus reklamai",LT152140030003679654,16-MAR-16,20160316/3,5489,"Banko paslaugos","Banko paslaugos",,,,,,-.35,2151737
+1363,"Administracija EUR",108324,"LT 9654 Mok. sk. rinkliava už leidimus reklamai",LT152140030003679654,15-MAR-16,20160315/2,5489,"Banko paslaugos","Banko paslaugos",,,,,,-.35,2151736
+1363,"Administracija EUR",108324,"LT 9654 Mok. sk. rinkliava už leidimus reklamai",LT152140030003679654,14-MAR-16,20160314/4,5489,"Banko paslaugos","Banko paslaugos",,,,,,-.35,2151735
+1363,"Administracija EUR",108324,"LT 9654 Mok. sk. rinkliava už leidimus reklamai",LT152140030003679654,14-MAR-16,20160314/2,5489,"Banko paslaugos","Banko paslaugos",,,,,,-.35,2151734
+1363,"Administracija EUR",108324,"LT 9654 Mok. sk. rinkliava už leidimus reklamai",LT152140030003679654,29-JAN-16,3,5489,"Banko paslaugos","Banko paslaugos",,,,,,-.29,2151637
+1363,"Administracija EUR",108324,"LT 9654 Mok. sk. rinkliava už leidimus reklamai",LT152140030003679654,27-JAN-16,20160127/3,5489,"Banko paslaugos","Banko paslaugos",,,,,,-.35,2151636
+1363,"Administracija EUR",108324,"LT 9654 Mok. sk. rinkliava už leidimus reklamai",LT152140030003679654,26-JAN-16,20160126/4,5489,"Banko paslaugos","Banko paslaugos",,,,,,-.35,2151634
+1363,"Administracija EUR",108324,"LT 9654 Mok. sk. rinkliava už leidimus reklamai",LT152140030003679654,26-JAN-16,20160126/2,5489,"Banko paslaugos","Banko paslaugos",,,,,,-.35,2151633
+1363,"Administracija EUR",108324,"LT 9654 Mok. sk. rinkliava už leidimus reklamai",LT152140030003679654,22-JAN-16,20160122/3,5489,"Banko paslaugos","Banko paslaugos",,,,,,-.35,2151632
+1363,"Administracija EUR",108324,"LT 9654 Mok. sk. rinkliava už leidimus reklamai",LT152140030003679654,20-JAN-16,20160120/2,5489,"Banko paslaugos","Banko paslaugos",,,,,,-.35,2151631
+1363,"Administracija EUR",108324,"LT 9654 Mok. sk. rinkliava už leidimus reklamai",LT152140030003679654,19-JAN-16,20160119/2,5489,"Banko paslaugos","Banko paslaugos",,,,,,-.35,2151630
+1363,"Administracija EUR",108324,"LT 9654 Mok. sk. rinkliava už leidimus reklamai",LT152140030003679654,15-JAN-16,20160115/2,5489,"Banko paslaugos","Banko paslaugos",,,,,,-.35,2151629
+1363,"Administracija EUR",108324,"LT 9654 Mok. sk. rinkliava už leidimus reklamai",LT152140030003679654,14-JAN-16,20160114/2,5489,"Banko paslaugos","Banko paslaugos",,,,,,-.35,2151628
+1363,"Administracija EUR",108324,"LT 9654 Mok. sk. rinkliava už leidimus reklamai",LT152140030003679654,12-JAN-16,20160112/2,5489,"Banko paslaugos","Banko paslaugos",,,,,,-.35,2151627
+1363,"Administracija EUR",108324,"LT 9654 Mok. sk. rinkliava už leidimus reklamai",LT152140030003679654,11-JAN-16,20160111/3,5489,"Banko paslaugos","Banko paslaugos",,,,,,-.35,2151626
+1363,"Administracija EUR",108324,"LT 9654 Mok. sk. rinkliava už leidimus reklamai",LT152140030003679654,25-FEB-16,20160225/2,5489,"Banko paslaugos","Banko paslaugos",,,,,,-.35,2151925
+1363,"Administracija EUR",108324,"LT 9654 Mok. sk. rinkliava už leidimus reklamai",LT152140030003679654,24-FEB-16,20160224/2,5489,"Banko paslaugos","Banko paslaugos",,,,,,-.35,2151924
+1363,"Administracija EUR",108324,"LT 9654 Mok. sk. rinkliava už leidimus reklamai",LT152140030003679654,19-FEB-16,20160219/2,5489,"Banko paslaugos","Banko paslaugos",,,,,,-.35,2151923
+1363,"Administracija EUR",108324,"LT 9654 Mok. sk. rinkliava už leidimus reklamai",LT152140030003679654,15-FEB-16,20160215/2,5489,"Banko paslaugos","Banko paslaugos",,,,,,-.35,2151922
+1363,"Administracija EUR",108324,"LT 9654 Mok. sk. rinkliava už leidimus reklamai",LT152140030003679654,11-FEB-16,20160211/2,5489,"Banko paslaugos","Banko paslaugos",,,,,,-.35,2151921
+1363,"Administracija EUR",108324,"LT 9654 Mok. sk. rinkliava už leidimus reklamai",LT152140030003679654,09-FEB-16,20160209/2,5489,"Banko paslaugos","Banko paslaugos",,,,,,-.35,2151920
+1363,"Administracija EUR",108324,"LT 9654 Mok. sk. rinkliava už leidimus reklamai",LT152140030003679654,08-FEB-16,20160208/4,5489,"Banko paslaugos","Banko paslaugos",,,,,,-.35,2151919
+1363,"Administracija EUR",108324,"LT 9654 Mok. sk. rinkliava už leidimus reklamai",LT152140030003679654,08-FEB-16,20160208/2,5489,"Banko paslaugos","Banko paslaugos",,,,,,-.35,2151918
+1363,"Administracija EUR",108324,"LT 9654 Mok. sk. rinkliava už leidimus reklamai",LT152140030003679654,05-FEB-16,20160205/4,5489,"Banko paslaugos","Banko paslaugos",,,,,,-.35,2151917
+1363,"Administracija EUR",108324,"LT 9654 Mok. sk. rinkliava už leidimus reklamai",LT152140030003679654,05-FEB-16,20160205/2,5489,"Banko paslaugos","Banko paslaugos",,,,,,-.35,2151916
+1363,"Administracija EUR",108324,"LT 9654 Mok. sk. rinkliava už leidimus reklamai",LT152140030003679654,03-FEB-16,20160203/2,5489,"Banko paslaugos","Banko paslaugos",,,,,,-.35,2151915
+1363,"Administracija EUR",108324,"LT 9654 Mok. sk. rinkliava už leidimus reklamai",LT152140030003679654,02-FEB-16,20160202/12,5489,"Banko paslaugos","Banko paslaugos",,,,,,-.35,2151914
+1363,"Administracija EUR",108324,"LT 9654 Mok. sk. rinkliava už leidimus reklamai",LT152140030003679654,02-FEB-16,20160202/10,5489,"Banko paslaugos","Banko paslaugos",,,,,,-.35,2151913
+1363,"Administracija EUR",108324,"LT 9654 Mok. sk. rinkliava už leidimus reklamai",LT152140030003679654,10-MAR-16,20160310/2,5489,"Banko paslaugos","Banko paslaugos",,,,,,-.35,2151733
+1363,"Administracija EUR",108324,"LT 9654 Mok. sk. rinkliava už leidimus reklamai",LT152140030003679654,08-MAR-16,20160308/4,5489,"Banko paslaugos","Banko paslaugos",,,,,,-.35,2151732
+1363,"Administracija EUR",108324,"LT 9654 Mok. sk. rinkliava už leidimus reklamai",LT152140030003679654,08-MAR-16,20160308/2,5489,"Banko paslaugos","Banko paslaugos",,,,,,-.35,2151731
+1363,"Administracija EUR",108324,"LT 9654 Mok. sk. rinkliava už leidimus reklamai",LT152140030003679654,04-MAR-16,20160304/2,5489,"Banko paslaugos","Banko paslaugos",,,,,,-.35,2151730
+1363,"Administracija EUR",108324,"LT 9654 Mok. sk. rinkliava už leidimus reklamai",LT152140030003679654,03-MAR-16,20160303/4,5489,"Banko paslaugos","Banko paslaugos",,,,,,-.35,2151729
+1363,"Administracija EUR",108324,"LT 9654 Mok. sk. rinkliava už leidimus reklamai",LT152140030003679654,03-MAR-16,20160303/2,5489,"Banko paslaugos","Banko paslaugos",,,,,,-.35,2151728
+1363,"Administracija EUR",108324,"LT 9654 Mok. sk. rinkliava už leidimus reklamai",LT152140030003679654,02-MAR-16,20160302/2,5489,"Banko paslaugos","Banko paslaugos",,,,,,-.35,2151727
+1363,"Administracija EUR",108324,"LT 9654 Mok. sk. rinkliava už leidimus reklamai",LT152140030003679654,01-MAR-16,20160301/2,5489,"Banko paslaugos","Banko paslaugos",,,,,,-.35,2151726
 1363,"Administracija EUR",108322,"LT 1671 Mok. sk. rinkliava už leidimus komerciniam renginiam",LT487044060008071671,15-MAR-16,20160315/2,5489,"Banko paslaugos","Banko paslaugos",,,,,,-.21,2143356
 1363,"Administracija EUR",108322,"LT 1671 Mok. sk. rinkliava už leidimus komerciniam renginiam",LT487044060008071671,17-FEB-16,20160217/2,5489,"Banko paslaugos","Banko paslaugos",,,,,,-.21,2142709
 1363,"Administracija EUR",108322,"LT 1671 Mok. sk. rinkliava už leidimus komerciniam renginiam",LT487044060008071671,12-FEB-16,20160212/2,5489,"Banko paslaugos","Banko paslaugos",,,,,,-.21,2142706
 1363,"Administracija EUR",108322,"LT 1671 Mok. sk. rinkliava už leidimus komerciniam renginiam",LT487044060008071671,29-FEB-16,20160229/2,5489,"Banko paslaugos","Banko paslaugos",,,,,,-.21,2142711
 1363,"Administracija EUR",108322,"LT 1671 Mok. sk. rinkliava už leidimus komerciniam renginiam",LT487044060008071671,29-JAN-16,20160129/2,5489,"Banko paslaugos","Banko paslaugos",,,,,,-.21,2051333
+1363,"Administracija EUR",108326,"LT 9638 Mok. sk. rinkliava už leidimus kasinėjimui",LT592140030003679638,31-MAR-16,20160331/2,5489,"Banko paslaugos","Banko paslaugos",,,,,,-.35,2151749
+1363,"Administracija EUR",108326,"LT 9638 Mok. sk. rinkliava už leidimus kasinėjimui",LT592140030003679638,29-MAR-16,20160329/2,5489,"Banko paslaugos","Banko paslaugos",,,,,,-.35,2151748
+1363,"Administracija EUR",108326,"LT 9638 Mok. sk. rinkliava už leidimus kasinėjimui",LT592140030003679638,14-MAR-16,20160314/2,5489,"Banko paslaugos","Banko paslaugos",,,,,,-.35,2151747
+1363,"Administracija EUR",108326,"LT 9638 Mok. sk. rinkliava už leidimus kasinėjimui",LT592140030003679638,04-MAR-16,20160304/2,5489,"Banko paslaugos","Banko paslaugos",,,,,,-.35,2151746
+1363,"Administracija EUR",108326,"LT 9638 Mok. sk. rinkliava už leidimus kasinėjimui",LT592140030003679638,03-MAR-16,20160303/2,5489,"Banko paslaugos","Banko paslaugos",,,,,,-.35,2151745
+1363,"Administracija EUR",108326,"LT 9638 Mok. sk. rinkliava už leidimus kasinėjimui",LT592140030003679638,29-FEB-16,4,5489,"Banko paslaugos","Banko paslaugos",,,,,,-.29,2151692
+1363,"Administracija EUR",108326,"LT 9638 Mok. sk. rinkliava už leidimus kasinėjimui",LT592140030003679638,26-FEB-16,20160226/2,5489,"Banko paslaugos","Banko paslaugos",,,,,,-.35,2151691
+1363,"Administracija EUR",108326,"LT 9638 Mok. sk. rinkliava už leidimus kasinėjimui",LT592140030003679638,15-FEB-16,20160215/2,5489,"Banko paslaugos","Banko paslaugos",,,,,,-.35,2151690
+1363,"Administracija EUR",108326,"LT 9638 Mok. sk. rinkliava už leidimus kasinėjimui",LT592140030003679638,09-FEB-16,20160209/2,5489,"Banko paslaugos","Banko paslaugos",,,,,,-.35,2151689
+1363,"Administracija EUR",108326,"LT 9638 Mok. sk. rinkliava už leidimus kasinėjimui",LT592140030003679638,01-FEB-16,20160201/2,5489,"Banko paslaugos","Banko paslaugos",,,,,,-.35,2151688
+1363,"Administracija EUR",108326,"LT 9638 Mok. sk. rinkliava už leidimus kasinėjimui",LT592140030003679638,21-JAN-16,20160121/2,5489,"Banko paslaugos","Banko paslaugos",,,,,,-.35,2151517
+1363,"Administracija EUR",108326,"LT 9638 Mok. sk. rinkliava už leidimus kasinėjimui",LT592140030003679638,29-JAN-16,1,5489,"Banko paslaugos","Banko paslaugos",,,,,,-.29,2151414
 1363,"Administracija EUR",99697,"MŪD Nebiudžetinė LT81...1749",LT817044060001181749,15-APR-16,0237420160415000300178828,5476,"Grąžinamos lėšos (apyvartinis fondas) KŪD","Grąžinamos lėšos (apyvartinis fondas) KŪD",,,,,,2.58,2129617
 1363,"Administracija EUR",99697,"MŪD Nebiudžetinė LT81...1749",LT817044060001181749,15-APR-16,0237420160415000300174583,5476,"Grąžinamos lėšos (apyvartinis fondas) KŪD","Grąžinamos lėšos (apyvartinis fondas) KŪD",,,,,,344.36,2129611
 1363,"Administracija EUR",99697,"MŪD Nebiudžetinė LT81...1749",LT817044060001181749,18-JAN-16,0237420160118000300038017,5476,"Grąžinamos lėšos (apyvartinis fondas) KŪD","Grąžinamos lėšos (apyvartinis fondas) KŪD",,,,,,344.36,2045596
@@ -20977,6 +21082,24 @@ ORG_ID,DEPARTAMENTO_PAV,BANK_ACCOUNT_ID,BANK_ACCOUNT_NAME,BANK_ACCOUNT_NUM,RECEI
 1366,"Biudžeto skyrius EUR",99929,"32773 EUR biudž",LT954010042403632773,24-SEP-15,0152670228,5607,"KITA: Banko mokesčiai","KITA: Banko mokesčiai",,,,,,-.35,1908805
 1366,"Biudžeto skyrius EUR",99929,"32773 EUR biudž",LT954010042403632773,23-SEP-15,5152660166,5607,"KITA: Banko mokesčiai","KITA: Banko mokesčiai",,,,,,-.35,1907911
 1366,"Biudžeto skyrius EUR",99929,"32773 EUR biudž",LT954010042403632773,22-SEP-15,0152650423,5607,"KITA: Banko mokesčiai","KITA: Banko mokesčiai",,,,,,-.35,1906809
+1366,"Biudžeto skyrius EUR",99903,"Biudžetinė sąskaita (5077) EUR",LT937044060001235077,06-MAY-16,20160506/19,5607,"KITA: Banko mokesčiai","KITA: Banko mokesčiai",,,,,,-.21,2151146
+1366,"Biudžeto skyrius EUR",99903,"Biudžetinė sąskaita (5077) EUR",LT937044060001235077,06-MAY-16,20160506/18,5607,"KITA: Banko mokesčiai","KITA: Banko mokesčiai",,,,,,-.21,2151145
+1366,"Biudžeto skyrius EUR",99903,"Biudžetinė sąskaita (5077) EUR",LT937044060001235077,06-MAY-16,20160506/17,5607,"KITA: Banko mokesčiai","KITA: Banko mokesčiai",,,,,,-.21,2151144
+1366,"Biudžeto skyrius EUR",99903,"Biudžetinė sąskaita (5077) EUR",LT937044060001235077,06-MAY-16,20160506/16,5607,"KITA: Banko mokesčiai","KITA: Banko mokesčiai",,,,,,-.21,2151143
+1366,"Biudžeto skyrius EUR",99903,"Biudžetinė sąskaita (5077) EUR",LT937044060001235077,06-MAY-16,296,5607,"KITA: Banko mokesčiai","KITA: Banko mokesčiai",,,,,,-.21,2151142
+1366,"Biudžeto skyrius EUR",99903,"Biudžetinė sąskaita (5077) EUR",LT937044060001235077,06-MAY-16,5230,5607,"KITA: Banko mokesčiai","KITA: Banko mokesčiai",,,,,,-.21,2151141
+1366,"Biudžeto skyrius EUR",99903,"Biudžetinė sąskaita (5077) EUR",LT937044060001235077,06-MAY-16,20160506/12,5607,"KITA: Banko mokesčiai","KITA: Banko mokesčiai",,,,,,-.15,2151140
+1366,"Biudžeto skyrius EUR",99903,"Biudžetinė sąskaita (5077) EUR",LT937044060001235077,06-MAY-16,20160506/11,5607,"KITA: Banko mokesčiai","KITA: Banko mokesčiai",,,,,,-.15,2151139
+1366,"Biudžeto skyrius EUR",99903,"Biudžetinė sąskaita (5077) EUR",LT937044060001235077,06-MAY-16,20160506/10,5607,"KITA: Banko mokesčiai","KITA: Banko mokesčiai",,,,,,-.15,2151138
+1366,"Biudžeto skyrius EUR",99903,"Biudžetinė sąskaita (5077) EUR",LT937044060001235077,06-MAY-16,20160506/9,5607,"KITA: Banko mokesčiai","KITA: Banko mokesčiai",,,,,,-.15,2151137
+1366,"Biudžeto skyrius EUR",99903,"Biudžetinė sąskaita (5077) EUR",LT937044060001235077,06-MAY-16,20160506/8,5607,"KITA: Banko mokesčiai","KITA: Banko mokesčiai",,,,,,-.21,2151136
+1366,"Biudžeto skyrius EUR",99903,"Biudžetinė sąskaita (5077) EUR",LT937044060001235077,06-MAY-16,20160506/7,5607,"KITA: Banko mokesčiai","KITA: Banko mokesčiai",,,,,,-.21,2151135
+1366,"Biudžeto skyrius EUR",99903,"Biudžetinė sąskaita (5077) EUR",LT937044060001235077,06-MAY-16,20160506/6,5607,"KITA: Banko mokesčiai","KITA: Banko mokesčiai",,,,,,-.21,2151134
+1366,"Biudžeto skyrius EUR",99903,"Biudžetinė sąskaita (5077) EUR",LT937044060001235077,06-MAY-16,20160506/5,5607,"KITA: Banko mokesčiai","KITA: Banko mokesčiai",,,,,,-.21,2151133
+1366,"Biudžeto skyrius EUR",99903,"Biudžetinė sąskaita (5077) EUR",LT937044060001235077,06-MAY-16,O161270685783429,5607,"KITA: Banko mokesčiai","KITA: Banko mokesčiai",,,,,,-.21,2151132
+1366,"Biudžeto skyrius EUR",99903,"Biudžetinė sąskaita (5077) EUR",LT937044060001235077,06-MAY-16,O161270685784829,5607,"KITA: Banko mokesčiai","KITA: Banko mokesčiai",,,,,,-.21,2151131
+1366,"Biudžeto skyrius EUR",99903,"Biudžetinė sąskaita (5077) EUR",LT937044060001235077,06-MAY-16,O161270685781879,5607,"KITA: Banko mokesčiai","KITA: Banko mokesčiai",,,,,,-.21,2151130
+1366,"Biudžeto skyrius EUR",99903,"Biudžetinė sąskaita (5077) EUR",LT937044060001235077,06-MAY-16,20160506/1,5607,"KITA: Banko mokesčiai","KITA: Banko mokesčiai",,,,,,-.21,2151129
 1366,"Biudžeto skyrius EUR",99903,"Biudžetinė sąskaita (5077) EUR",LT937044060001235077,05-MAY-16,20160505/22,5607,"KITA: Banko mokesčiai","KITA: Banko mokesčiai",,,,,,-.21,2150218
 1366,"Biudžeto skyrius EUR",99903,"Biudžetinė sąskaita (5077) EUR",LT937044060001235077,05-MAY-16,7155,5607,"KITA: Banko mokesčiai","KITA: Banko mokesčiai",,,,,,-.21,2150217
 1366,"Biudžeto skyrius EUR",99903,"Biudžetinė sąskaita (5077) EUR",LT937044060001235077,05-MAY-16,7026,5607,"KITA: Banko mokesčiai","KITA: Banko mokesčiai",,,,,,-.21,2150216
