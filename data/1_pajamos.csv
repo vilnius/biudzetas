@@ -11569,6 +11569,16 @@ ORG_ID,DEPARTAMENTO_PAV,BANK_ACCOUNT_ID,BANK_ACCOUNT_NAME,BANK_ACCOUNT_NUM,RECEI
 1363,"Administracija EUR",99765,"DNB LT07 4010 0424 0007 0286",LT074010042400070286,05-FEB-15,20150205/1,5498,"DU išmokėjimas","DU išmokėjimas (kliringas)",,,,,,-2128.03,1688873
 1363,"Administracija EUR",99765,"DNB LT07 4010 0424 0007 0286",LT074010042400070286,20-JAN-15,20150120/1,5498,"DU išmokėjimas","DU išmokėjimas (kliringas)",,,,,,-780,1646632
 1363,"Administracija EUR",99765,"DNB LT07 4010 0424 0007 0286",LT074010042400070286,22-JAN-15,20150122/1,5498,"DU išmokėjimas","DU išmokėjimas (kliringas)",,,,,,-358.8,1646581
+1363,"Administracija EUR",99764,"DU 5000",LT094010042403635000,10-MAY-16,20160510/9,5498,"DU išmokėjimas","DU išmokėjimas (kliringas)",,,,,,-1113.99,2153751
+1363,"Administracija EUR",99764,"DU 5000",LT094010042403635000,10-MAY-16,20160510/1,5498,"DU išmokėjimas","DU išmokėjimas (kliringas)",,,,,,-2030.33,2153750
+1363,"Administracija EUR",99764,"DU 5000",LT094010042403635000,10-MAY-16,20160510/2,5498,"DU išmokėjimas","DU išmokėjimas (kliringas)",,,,,,-300,2153749
+1363,"Administracija EUR",99764,"DU 5000",LT094010042403635000,10-MAY-16,20160510/3,5498,"DU išmokėjimas","DU išmokėjimas (kliringas)",,,,,,-336.03,2153748
+1363,"Administracija EUR",99764,"DU 5000",LT094010042403635000,10-MAY-16,20160510/5,5498,"DU išmokėjimas","DU išmokėjimas (kliringas)",,,,,,-6755.32,2153747
+1363,"Administracija EUR",99764,"DU 5000",LT094010042403635000,10-MAY-16,20160510/6,5498,"DU išmokėjimas","DU išmokėjimas (kliringas)",,,,,,-770.61,2153746
+1363,"Administracija EUR",99764,"DU 5000",LT094010042403635000,10-MAY-16,20160510/7,5498,"DU išmokėjimas","DU išmokėjimas (kliringas)",,,,,,-1114.75,2153745
+1363,"Administracija EUR",99764,"DU 5000",LT094010042403635000,10-MAY-16,20160510/8,5498,"DU išmokėjimas","DU išmokėjimas (kliringas)",,,,,,-626.57,2153744
+1363,"Administracija EUR",99764,"DU 5000",LT094010042403635000,10-MAY-16,20160510/4,5498,"DU išmokėjimas","DU išmokėjimas (kliringas)",,,,,,-647.88,2153743
+1363,"Administracija EUR",99764,"DU 5000",LT094010042403635000,10-MAY-16,20160510/10,5498,"DU išmokėjimas","DU išmokėjimas (kliringas)",,,,,,-204.04,2153742
 1363,"Administracija EUR",99764,"DU 5000",LT094010042403635000,09-MAY-16,20160509/2,5498,"DU išmokėjimas","DU išmokėjimas (kliringas)",,,,,,-320.73,2151953
 1363,"Administracija EUR",99764,"DU 5000",LT094010042403635000,09-MAY-16,20160509/1,5498,"DU išmokėjimas","DU išmokėjimas (kliringas)",,,,,,-429.72,2151952
 1363,"Administracija EUR",99764,"DU 5000",LT094010042403635000,06-MAY-16,20160506/1,5498,"DU išmokėjimas","DU išmokėjimas (kliringas)",,,,,,-665.96,2151107
@@ -19943,6 +19953,7 @@ ORG_ID,DEPARTAMENTO_PAV,BANK_ACCOUNT_ID,BANK_ACCOUNT_NAME,BANK_ACCOUNT_NUM,RECEI
 1363,"Administracija EUR",102186,"LT 0396 EUR EID",LT827180300001130396,30-JUN-15,525354321,5490,"Palūkanų pajamos","Palūkanų pajamos",,,,,,.41,1843666
 1363,"Administracija EUR",102186,"LT 0396 EUR EID",LT827180300001130396,30-MAR-15,505056544,5490,"Palūkanų pajamos","Palūkanų pajamos",,,,,,.57,1743182
 1363,"Administracija EUR",107716,"LT 0460 EUR AFMSK",LT037180300001130460,30-DEC-15,PAL,5490,"Palūkanų pajamos","Palūkanų pajamos",,,,,,1.98,2018131
+1363,"Administracija EUR",99711,"TD Lėšos už prekes ir paslaug. 5116",LT107044060001235116,09-MAY-16,20160509/2,5489,"Banko paslaugos","Banko paslaugos",,,,,,-.21,2153827
 1363,"Administracija EUR",99711,"TD Lėšos už prekes ir paslaug. 5116",LT107044060001235116,04-MAY-16,20160504/2,5489,"Banko paslaugos","Banko paslaugos",,,,,,-.21,2151113
 1363,"Administracija EUR",99711,"TD Lėšos už prekes ir paslaug. 5116",LT107044060001235116,06-MAY-16,20160506/4,5489,"Banko paslaugos","Banko paslaugos",,,,,,-.21,2151118
 1363,"Administracija EUR",99711,"TD Lėšos už prekes ir paslaug. 5116",LT107044060001235116,02-MAY-16,20160502/2,5489,"Banko paslaugos","Banko paslaugos",,,,,,-.21,2146793
