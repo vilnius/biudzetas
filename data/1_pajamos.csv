@@ -1,4 +1,5 @@
 ORG_ID,DEPARTAMENTO_PAV,BANK_ACCOUNT_ID,BANK_ACCOUNT_NAME,BANK_ACCOUNT_NUM,RECEIPT_DATE,RECEIPT_NUMBER,ACTIVITY_ID,ACTIVITY_NAME,ACTIVITY_DESCRIPTION,ACT_IPLAUKU_SALTINIS,ACT_IPL_SALTINIO_PAV,ACT_IPL_SALTINIO_EIL_NR,ACT_IMOKOS_KODAS,ACT_EILES_NR,AMOUNT,RECEIPT_ID
+1366,"Biudžeto skyrius EUR",99929,"32773 EUR biudž",LT954010042403632773,18-MAY-16,FC1394727816,5684,223K,"Nedetalizuotos pajamos",VMI,"Pajamos iš mokesčių inspekcijos",1,22K,,904222.08,2165714
 1366,"Biudžeto skyrius EUR",99929,"32773 EUR biudž",LT954010042403632773,17-MAY-16,FC1393180192,5684,223K,"Nedetalizuotos pajamos",VMI,"Pajamos iš mokesčių inspekcijos",1,22K,,1897505.03,2164062
 1366,"Biudžeto skyrius EUR",99929,"32773 EUR biudž",LT954010042403632773,16-MAY-16,FC1392118420,5684,223K,"Nedetalizuotos pajamos",VMI,"Pajamos iš mokesčių inspekcijos",1,22K,,2877752.38,2162128
 1366,"Biudžeto skyrius EUR",99929,"32773 EUR biudž",LT954010042403632773,13-MAY-16,FC1389640793,5684,223K,"Nedetalizuotos pajamos",VMI,"Pajamos iš mokesčių inspekcijos",1,22K,,1198351.17,2161512
@@ -494,6 +495,7 @@ ORG_ID,DEPARTAMENTO_PAV,BANK_ACCOUNT_ID,BANK_ACCOUNT_NAME,BANK_ACCOUNT_NUM,RECEI
 1366,"Biudžeto skyrius EUR",99929,"32773 EUR biudž",LT954010042403632773,12-JAN-15,FC889916467,5684,223K,"Nedetalizuotos pajamos",VMI,"Pajamos iš mokesčių inspekcijos",1,22K,,37900.57,1643078
 1366,"Biudžeto skyrius EUR",99929,"32773 EUR biudž",LT954010042403632773,12-JAN-15,FC889724793,5684,223K,"Nedetalizuotos pajamos",VMI,"Pajamos iš mokesčių inspekcijos",1,22K,,47928.56,1643077
 1366,"Biudžeto skyrius EUR",99929,"32773 EUR biudž",LT954010042403632773,07-MAR-16,FC1324135144,5670,"84. BIUD.: VMI: Atsarg. real.","Atsargų realizavimo pajamos",VMI,"Pajamos iš mokesčių inspekcijos",1,84,,8600,2080965
+1366,"Biudžeto skyrius EUR",99929,"32773 EUR biudž",LT954010042403632773,18-MAY-16,FC1394306767,5659,"39. BIUD.: VMI: Viet. R.","Vietinės rinkliavos",VMI,"Pajamos iš mokesčių inspekcijos",1,39,,8.7,2165713
 1366,"Biudžeto skyrius EUR",99929,"32773 EUR biudž",LT954010042403632773,17-MAY-16,FC1393044536,5659,"39. BIUD.: VMI: Viet. R.","Vietinės rinkliavos",VMI,"Pajamos iš mokesčių inspekcijos",1,39,,8.5,2164061
 1366,"Biudžeto skyrius EUR",99929,"32773 EUR biudž",LT954010042403632773,16-MAY-16,FC1392511222,5659,"39. BIUD.: VMI: Viet. R.","Vietinės rinkliavos",VMI,"Pajamos iš mokesčių inspekcijos",1,39,,188190.68,2162129
 1366,"Biudžeto skyrius EUR",99929,"32773 EUR biudž",LT954010042403632773,09-MAY-16,FC1385216842,5659,"39. BIUD.: VMI: Viet. R.","Vietinės rinkliavos",VMI,"Pajamos iš mokesčių inspekcijos",1,39,,110545.94,2152276
@@ -635,6 +637,7 @@ ORG_ID,DEPARTAMENTO_PAV,BANK_ACCOUNT_ID,BANK_ACCOUNT_NAME,BANK_ACCOUNT_NUM,RECEI
 1366,"Biudžeto skyrius EUR",99929,"32773 EUR biudž",LT954010042403632773,27-JAN-16,FC1285126386,5659,"39. BIUD.: VMI: Viet. R.","Vietinės rinkliavos",VMI,"Pajamos iš mokesčių inspekcijos",1,39,,2.3,2037261
 1366,"Biudžeto skyrius EUR",99929,"32773 EUR biudž",LT954010042403632773,27-JAN-16,FC1285120996,5659,"39. BIUD.: VMI: Viet. R.","Vietinės rinkliavos",VMI,"Pajamos iš mokesčių inspekcijos",1,39,,2.9,2037260
 1366,"Biudžeto skyrius EUR",99929,"32773 EUR biudž",LT954010042403632773,21-JAN-16,FC1280291679,5659,"39. BIUD.: VMI: Viet. R.","Vietinės rinkliavos",VMI,"Pajamos iš mokesčių inspekcijos",1,39,,47.3,2031760
+1366,"Biudžeto skyrius EUR",99929,"32773 EUR biudž",LT954010042403632773,18-MAY-16,FC1394736914,5655,"37. BIUD.: VMI: APL","Mokesčiai už aplinkos teršimą",VMI,"Pajamos iš mokesčių inspekcijos",1,37,,39.28,2165715
 1366,"Biudžeto skyrius EUR",99929,"32773 EUR biudž",LT954010042403632773,17-MAY-16,FC1393183604,5655,"37. BIUD.: VMI: APL","Mokesčiai už aplinkos teršimą",VMI,"Pajamos iš mokesčių inspekcijos",1,37,,83593.11,2164063
 1366,"Biudžeto skyrius EUR",99929,"32773 EUR biudž",LT954010042403632773,16-MAY-16,FC1392108026,5655,"37. BIUD.: VMI: APL","Mokesčiai už aplinkos teršimą",VMI,"Pajamos iš mokesčių inspekcijos",1,37,,118.89,2162127
 1366,"Biudžeto skyrius EUR",99929,"32773 EUR biudž",LT954010042403632773,13-MAY-16,FC1389635173,5655,"37. BIUD.: VMI: APL","Mokesčiai už aplinkos teršimą",VMI,"Pajamos iš mokesčių inspekcijos",1,37,,1.41,2161511
@@ -1316,6 +1319,7 @@ ORG_ID,DEPARTAMENTO_PAV,BANK_ACCOUNT_ID,BANK_ACCOUNT_NAME,BANK_ACCOUNT_NUM,RECEI
 1366,"Biudžeto skyrius EUR",99929,"32773 EUR biudž",LT954010042403632773,26-FEB-15,FC937552184,5633,"BIUD.: PAJAMOS: Žemės nuoma","Žemės nuoma",KITOS,"Kitos pajamos",2,95,,23443,1696862
 1366,"Biudžeto skyrius EUR",99929,"32773 EUR biudž",LT954010042403632773,29-JAN-15,FC907372057,5633,"BIUD.: PAJAMOS: Žemės nuoma","Žemės nuoma",KITOS,"Kitos pajamos",2,95,,13450,1646710
 1366,"Biudžeto skyrius EUR",99929,"32773 EUR biudž",LT954010042403632773,29-JAN-15,FC907359984,5633,"BIUD.: PAJAMOS: Žemės nuoma","Žemės nuoma",KITOS,"Kitos pajamos",2,95,,15512,1646709
+1366,"Biudžeto skyrius EUR",99942,LT267180300001130337,LT267180300001130337,18-MAY-16,595176511,5630,"BIUD.: Spec. lėšos","Pajamos už atsitiktines paslaugas (PLC)",KITOS,"Kitos pajamos",2,97,,500,2165757
 1366,"Biudžeto skyrius EUR",99942,LT267180300001130337,LT267180300001130337,11-MAY-16,593647210,5630,"BIUD.: Spec. lėšos","Pajamos už atsitiktines paslaugas (PLC)",KITOS,"Kitos pajamos",2,97,,729.8,2162045
 1366,"Biudžeto skyrius EUR",99942,LT267180300001130337,LT267180300001130337,11-MAY-16,593647206,5630,"BIUD.: Spec. lėšos","Pajamos už atsitiktines paslaugas (PLC)",KITOS,"Kitos pajamos",2,97,,1400,2162043
 1366,"Biudžeto skyrius EUR",99942,LT267180300001130337,LT267180300001130337,04-MAY-16,592000392,5630,"BIUD.: Spec. lėšos","Pajamos už atsitiktines paslaugas (PLC)",KITOS,"Kitos pajamos",2,97,,740.18,2149626
@@ -11605,6 +11609,45 @@ ORG_ID,DEPARTAMENTO_PAV,BANK_ACCOUNT_ID,BANK_ACCOUNT_NAME,BANK_ACCOUNT_NUM,RECEI
 1363,"Administracija EUR",99765,"DNB LT07 4010 0424 0007 0286",LT074010042400070286,05-FEB-15,20150205/1,5498,"DU išmokėjimas","DU išmokėjimas (kliringas)",,,,,,-2128.03,1688873
 1363,"Administracija EUR",99765,"DNB LT07 4010 0424 0007 0286",LT074010042400070286,20-JAN-15,20150120/1,5498,"DU išmokėjimas","DU išmokėjimas (kliringas)",,,,,,-780,1646632
 1363,"Administracija EUR",99765,"DNB LT07 4010 0424 0007 0286",LT074010042400070286,22-JAN-15,20150122/1,5498,"DU išmokėjimas","DU išmokėjimas (kliringas)",,,,,,-358.8,1646581
+1363,"Administracija EUR",99764,"DU 5000",LT094010042403635000,18-MAY-16,20160518/9,5498,"DU išmokėjimas","DU išmokėjimas (kliringas)",,,,,,-205,2165755
+1363,"Administracija EUR",99764,"DU 5000",LT094010042403635000,18-MAY-16,20160518/10,5498,"DU išmokėjimas","DU išmokėjimas (kliringas)",,,,,,-200,2165754
+1363,"Administracija EUR",99764,"DU 5000",LT094010042403635000,18-MAY-16,20160518/11,5498,"DU išmokėjimas","DU išmokėjimas (kliringas)",,,,,,-200,2165753
+1363,"Administracija EUR",99764,"DU 5000",LT094010042403635000,18-MAY-16,20160518/12,5498,"DU išmokėjimas","DU išmokėjimas (kliringas)",,,,,,-200,2165752
+1363,"Administracija EUR",99764,"DU 5000",LT094010042403635000,18-MAY-16,20160518/13,5498,"DU išmokėjimas","DU išmokėjimas (kliringas)",,,,,,-175,2165751
+1363,"Administracija EUR",99764,"DU 5000",LT094010042403635000,18-MAY-16,20160518/14,5498,"DU išmokėjimas","DU išmokėjimas (kliringas)",,,,,,-175,2165750
+1363,"Administracija EUR",99764,"DU 5000",LT094010042403635000,18-MAY-16,20160518/15,5498,"DU išmokėjimas","DU išmokėjimas (kliringas)",,,,,,-145,2165749
+1363,"Administracija EUR",99764,"DU 5000",LT094010042403635000,18-MAY-16,20160518/16,5498,"DU išmokėjimas","DU išmokėjimas (kliringas)",,,,,,-140,2165748
+1363,"Administracija EUR",99764,"DU 5000",LT094010042403635000,18-MAY-16,20160518/17,5498,"DU išmokėjimas","DU išmokėjimas (kliringas)",,,,,,-140,2165747
+1363,"Administracija EUR",99764,"DU 5000",LT094010042403635000,18-MAY-16,20160518/24,5498,"DU išmokėjimas","DU išmokėjimas (kliringas)",,,,,,-6648.73,2165746
+1363,"Administracija EUR",99764,"DU 5000",LT094010042403635000,18-MAY-16,20160518/25,5498,"DU išmokėjimas","DU išmokėjimas (kliringas)",,,,,,-741.28,2165745
+1363,"Administracija EUR",99764,"DU 5000",LT094010042403635000,18-MAY-16,20160518/26,5498,"DU išmokėjimas","DU išmokėjimas (kliringas)",,,,,,-675.31,2165744
+1363,"Administracija EUR",99764,"DU 5000",LT094010042403635000,18-MAY-16,20160518/2,5498,"DU išmokėjimas","DU išmokėjimas (kliringas)",,,,,,-190,2165743
+1363,"Administracija EUR",99764,"DU 5000",LT094010042403635000,18-MAY-16,20160518/18,5498,"DU išmokėjimas","DU išmokėjimas (kliringas)",,,,,,-290,2165742
+1363,"Administracija EUR",99764,"DU 5000",LT094010042403635000,18-MAY-16,20160518/19,5498,"DU išmokėjimas","DU išmokėjimas (kliringas)",,,,,,-260,2165741
+1363,"Administracija EUR",99764,"DU 5000",LT094010042403635000,18-MAY-16,20160518/20,5498,"DU išmokėjimas","DU išmokėjimas (kliringas)",,,,,,-230,2165740
+1363,"Administracija EUR",99764,"DU 5000",LT094010042403635000,18-MAY-16,20160518/21,5498,"DU išmokėjimas","DU išmokėjimas (kliringas)",,,,,,-200,2165739
+1363,"Administracija EUR",99764,"DU 5000",LT094010042403635000,18-MAY-16,20160518/22,5498,"DU išmokėjimas","DU išmokėjimas (kliringas)",,,,,,-175,2165738
+1363,"Administracija EUR",99764,"DU 5000",LT094010042403635000,18-MAY-16,20160518/23,5498,"DU išmokėjimas","DU išmokėjimas (kliringas)",,,,,,-200,2165737
+1363,"Administracija EUR",99764,"DU 5000",LT094010042403635000,18-MAY-16,20160518/27,5498,"DU išmokėjimas","DU išmokėjimas (kliringas)",,,,,,-737.54,2165736
+1363,"Administracija EUR",99764,"DU 5000",LT094010042403635000,18-MAY-16,20160518/28,5498,"DU išmokėjimas","DU išmokėjimas (kliringas)",,,,,,-172.13,2165735
+1363,"Administracija EUR",99764,"DU 5000",LT094010042403635000,18-MAY-16,20160518/6,5498,"DU išmokėjimas","DU išmokėjimas (kliringas)",,,,,,-220,2165756
+1363,"Administracija EUR",99764,"DU 5000",LT094010042403635000,18-MAY-16,20160518/29,5498,"DU išmokėjimas","DU išmokėjimas (kliringas)",,,,,,-169.67,2165734
+1363,"Administracija EUR",99764,"DU 5000",LT094010042403635000,18-MAY-16,20160518/30,5498,"DU išmokėjimas","DU išmokėjimas (kliringas)",,,,,,-134.59,2165733
+1363,"Administracija EUR",99764,"DU 5000",LT094010042403635000,18-MAY-16,20160518/31,5498,"DU išmokėjimas","DU išmokėjimas (kliringas)",,,,,,-143.58,2165732
+1363,"Administracija EUR",99764,"DU 5000",LT094010042403635000,18-MAY-16,20160518/32,5498,"DU išmokėjimas","DU išmokėjimas (kliringas)",,,,,,-132.68,2165731
+1363,"Administracija EUR",99764,"DU 5000",LT094010042403635000,18-MAY-16,20160518/33,5498,"DU išmokėjimas","DU išmokėjimas (kliringas)",,,,,,-58.88,2165730
+1363,"Administracija EUR",99764,"DU 5000",LT094010042403635000,18-MAY-16,20160518/34,5498,"DU išmokėjimas","DU išmokėjimas (kliringas)",,,,,,-112.27,2165729
+1363,"Administracija EUR",99764,"DU 5000",LT094010042403635000,18-MAY-16,20160518/35,5498,"DU išmokėjimas","DU išmokėjimas (kliringas)",,,,,,-12.27,2165728
+1363,"Administracija EUR",99764,"DU 5000",LT094010042403635000,18-MAY-16,20160518/36,5498,"DU išmokėjimas","DU išmokėjimas (kliringas)",,,,,,-12.1,2165727
+1363,"Administracija EUR",99764,"DU 5000",LT094010042403635000,18-MAY-16,20160518/37,5498,"DU išmokėjimas","DU išmokėjimas (kliringas)",,,,,,-70.58,2165726
+1363,"Administracija EUR",99764,"DU 5000",LT094010042403635000,18-MAY-16,20160518/38,5498,"DU išmokėjimas","DU išmokėjimas (kliringas)",,,,,,-69.58,2165725
+1363,"Administracija EUR",99764,"DU 5000",LT094010042403635000,18-MAY-16,20160518/39,5498,"DU išmokėjimas","DU išmokėjimas (kliringas)",,,,,,-10.23,2165724
+1363,"Administracija EUR",99764,"DU 5000",LT094010042403635000,18-MAY-16,20160518/1,5498,"DU išmokėjimas","DU išmokėjimas (kliringas)",,,,,,-20087,2165723
+1363,"Administracija EUR",99764,"DU 5000",LT094010042403635000,18-MAY-16,20160518/3,5498,"DU išmokėjimas","DU išmokėjimas (kliringas)",,,,,,-300,2165722
+1363,"Administracija EUR",99764,"DU 5000",LT094010042403635000,18-MAY-16,20160518/4,5498,"DU išmokėjimas","DU išmokėjimas (kliringas)",,,,,,-300,2165721
+1363,"Administracija EUR",99764,"DU 5000",LT094010042403635000,18-MAY-16,20160518/5,5498,"DU išmokėjimas","DU išmokėjimas (kliringas)",,,,,,-220,2165720
+1363,"Administracija EUR",99764,"DU 5000",LT094010042403635000,18-MAY-16,20160518/8,5498,"DU išmokėjimas","DU išmokėjimas (kliringas)",,,,,,-205,2165719
+1363,"Administracija EUR",99764,"DU 5000",LT094010042403635000,18-MAY-16,20160518/7,5498,"DU išmokėjimas","DU išmokėjimas (kliringas)",,,,,,-205,2165718
 1363,"Administracija EUR",99764,"DU 5000",LT094010042403635000,17-MAY-16,20160517/4,5498,"DU išmokėjimas","DU išmokėjimas (kliringas)",,,,,,-1227.86,2164078
 1363,"Administracija EUR",99764,"DU 5000",LT094010042403635000,17-MAY-16,20160517/1,5498,"DU išmokėjimas","DU išmokėjimas (kliringas)",,,,,,-1304.19,2164077
 1363,"Administracija EUR",99764,"DU 5000",LT094010042403635000,17-MAY-16,20160517/3,5498,"DU išmokėjimas","DU išmokėjimas (kliringas)",,,,,,-765.53,2164076
