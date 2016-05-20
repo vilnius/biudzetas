@@ -33,6 +33,7 @@ IPLAUKU_DATA;SALTINIO_PAV;IMOKOS_KODAI;APRASYMAS;SUMA
 03-MAR-16;VMI;37;"Pajamos iš mokesčių inspekcijos";3908.56
 26-FEB-16;VMI;37;"Pajamos iš mokesčių inspekcijos";13196.01
 14-JAN-16;VMI;37;"Pajamos iš mokesčių inspekcijos";.66
+19-MAY-16;VMI;37;"Pajamos iš mokesčių inspekcijos";23.18
 10-MAR-16;VMI;37;"Pajamos iš mokesčių inspekcijos";1060.11
 21-MAR-16;VMI;37;"Pajamos iš mokesčių inspekcijos";1247.87
 18-MAR-16;VMI;37;"Pajamos iš mokesčių inspekcijos";414.4
@@ -463,6 +464,7 @@ IPLAUKU_DATA;SALTINIO_PAV;IMOKOS_KODAI;APRASYMAS;SUMA
 29-DEC-15;VMI;22K;"Pajamos iš mokesčių inspekcijos";1268490.55
 16-DEC-15;VMI;22K;"Pajamos iš mokesčių inspekcijos";3284573.2
 03-DEC-15;VMI;22K;"Pajamos iš mokesčių inspekcijos";356257.42
+19-MAY-16;VMI;22K;"Pajamos iš mokesčių inspekcijos";374703.69
 06-APR-16;VMI;22K;"Pajamos iš mokesčių inspekcijos";1321356.36
 06-APR-16;VMI;22K;"Pajamos iš mokesčių inspekcijos";86676.08
 06-APR-16;VMI;22K;"Pajamos iš mokesčių inspekcijos";218504.73
@@ -1739,6 +1741,7 @@ IPLAUKU_DATA;SALTINIO_PAV;IMOKOS_KODAI;APRASYMAS;SUMA
 29-DEC-15;KITOS;97;"Kitos pajamos";2108.09
 29-DEC-15;KITOS;97;"Kitos pajamos";5084.63
 29-DEC-15;KITOS;97;"Kitos pajamos";696.43
+19-MAY-16;KITOS;97;"Kitos pajamos";500
 20-APR-16;KITOS;97;"Kitos pajamos";526.8
 20-APR-16;KITOS;97;"Kitos pajamos";1200
 02-MAR-16;KITOS;97;"Kitos pajamos";1900
@@ -1900,6 +1903,8 @@ IPLAUKU_DATA;SALTINIO_PAV;IMOKOS_KODAI;APRASYMAS;SUMA
 02-NOV-15;KITOS;98;"Kitos pajamos";7431.48
 29-DEC-15;KITOS;98;"Kitos pajamos";15150.96
 27-OCT-15;KITOS;98;"Kitos pajamos";18011.1
+19-MAY-16;KITOS;98;"Kitos pajamos";14900
+19-MAY-16;KITOS;98;"Kitos pajamos";1000
 03-MAR-16;KITOS;98;"Kitos pajamos";146
 08-FEB-16;KITOS;98;"Kitos pajamos";879867.49
 08-FEB-16;KITOS;98;"Kitos pajamos";9184.03
@@ -2137,6 +2142,7 @@ IPLAUKU_DATA;SALTINIO_PAV;IMOKOS_KODAI;APRASYMAS;SUMA
 08-FEB-16;KITOS;;"Kitos pajamos";3106
 29-DEC-15;KITOS;;"Kitos pajamos";5601.87
 29-DEC-15;KITOS;;"Kitos pajamos";59584.7
+19-MAY-16;KITOS;;"Kitos pajamos";2215
 20-APR-16;KITOS;;"Kitos pajamos";3349.29
 02-MAR-16;KITOS;;"Kitos pajamos";3000
 19-OCT-15;KITOS;;"Kitos pajamos";9453.18
