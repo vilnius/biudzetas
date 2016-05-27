@@ -3,6 +3,7 @@ IPLAUKU_DATA;SALTINIO_PAV;IMOKOS_KODAI;APRASYMAS;SUMA
 18-MAY-16;VMI;37;"Pajamos iš mokesčių inspekcijos";39.28
 10-MAY-16;VMI;37;"Pajamos iš mokesčių inspekcijos";49.5
 04-MAY-16;VMI;37;"Pajamos iš mokesčių inspekcijos";148.43
+26-MAY-16;VMI;37;"Pajamos iš mokesčių inspekcijos";89.91
 03-MAY-16;VMI;37;"Pajamos iš mokesčių inspekcijos";33.96
 20-APR-16;VMI;37;"Pajamos iš mokesčių inspekcijos";220.49
 13-APR-16;VMI;37;"Pajamos iš mokesčių inspekcijos";56.18
@@ -256,6 +257,7 @@ IPLAUKU_DATA;SALTINIO_PAV;IMOKOS_KODAI;APRASYMAS;SUMA
 12-JAN-15;VMI;37;"Pajamos iš mokesčių inspekcijos";.08
 18-MAY-16;VMI;39;"Pajamos iš mokesčių inspekcijos";8.7
 04-MAY-16;VMI;39;"Pajamos iš mokesčių inspekcijos";5.8
+26-MAY-16;VMI;39;"Pajamos iš mokesčių inspekcijos";4.3
 20-APR-16;VMI;39;"Pajamos iš mokesčių inspekcijos";8.5
 01-APR-16;VMI;39;"Pajamos iš mokesčių inspekcijos";1.4
 02-MAY-16;VMI;39;"Pajamos iš mokesčių inspekcijos";2.9
@@ -403,6 +405,7 @@ IPLAUKU_DATA;SALTINIO_PAV;IMOKOS_KODAI;APRASYMAS;SUMA
 18-MAY-16;VMI;22K;"Pajamos iš mokesčių inspekcijos";904222.08
 04-MAY-16;VMI;22K;"Pajamos iš mokesčių inspekcijos";424604.66
 04-MAY-16;VMI;22K;"Pajamos iš mokesčių inspekcijos";267491.6
+26-MAY-16;VMI;22K;"Pajamos iš mokesčių inspekcijos";95100.24
 03-MAY-16;VMI;22K;"Pajamos iš mokesčių inspekcijos";719364.9
 03-MAY-16;VMI;22K;"Pajamos iš mokesčių inspekcijos";2490060.15
 20-APR-16;VMI;22K;"Pajamos iš mokesčių inspekcijos";404287.53
@@ -914,6 +917,10 @@ IPLAUKU_DATA;SALTINIO_PAV;IMOKOS_KODAI;APRASYMAS;SUMA
 12-MAY-16;KITOS;91;"Kitos pajamos";1735.36
 11-MAY-16;KITOS;91;"Kitos pajamos";27.3
 04-MAY-16;KITOS;91;"Kitos pajamos";50.16
+26-MAY-16;KITOS;91;"Kitos pajamos";388.41
+26-MAY-16;KITOS;91;"Kitos pajamos";5.49
+26-MAY-16;KITOS;91;"Kitos pajamos";189.75
+26-MAY-16;KITOS;91;"Kitos pajamos";79.75
 03-MAY-16;KITOS;91;"Kitos pajamos";12.44
 03-MAY-16;KITOS;91;"Kitos pajamos";689.71
 03-MAY-16;KITOS;91;"Kitos pajamos";120.55
@@ -965,7 +972,6 @@ IPLAUKU_DATA;SALTINIO_PAV;IMOKOS_KODAI;APRASYMAS;SUMA
 24-MAY-16;KITOS;91;"Kitos pajamos";867.68
 24-MAY-16;KITOS;91;"Kitos pajamos";161
 24-MAY-16;KITOS;91;"Kitos pajamos";100
-24-MAY-16;KITOS;91;"Kitos pajamos";244.32
 21-APR-16;KITOS;91;"Kitos pajamos";30
 24-MAR-16;KITOS;91;"Kitos pajamos";5.49
 26-FEB-16;KITOS;91;"Kitos pajamos";123.21
@@ -1568,6 +1574,7 @@ IPLAUKU_DATA;SALTINIO_PAV;IMOKOS_KODAI;APRASYMAS;SUMA
 31-MAR-16;KITOS;94;"Kitos pajamos";1507.14
 15-FEB-16;KITOS;94;"Kitos pajamos";144.81
 09-NOV-15;KITOS;94;"Kitos pajamos";116.02
+24-MAY-16;KITOS;94;"Kitos pajamos";244.32
 20-APR-16;KITOS;94;"Kitos pajamos";47500
 20-APR-16;KITOS;94;"Kitos pajamos";41200
 08-APR-16;KITOS;94;"Kitos pajamos";286.97
