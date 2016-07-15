@@ -109,6 +109,7 @@ IPLAUKU_DATA;SALTINIO_PAV;IMOKOS_KODAI;APRASYMAS;SUMA
 07-SEP-15;VMI;37;"Pajamos iš mokesčių inspekcijos";22.26
 06-AUG-15;VMI;37;"Pajamos iš mokesčių inspekcijos";19.43
 11-JUN-15;VMI;37;"Pajamos iš mokesčių inspekcijos";142.18
+14-JUL-16;VMI;37;"Pajamos iš mokesčių inspekcijos";104.52
 08-JUL-16;VMI;37;"Pajamos iš mokesčių inspekcijos";10.38
 27-MAY-16;VMI;37;"Pajamos iš mokesčių inspekcijos";74.09
 15-APR-16;VMI;37;"Pajamos iš mokesčių inspekcijos";81.62
@@ -727,6 +728,7 @@ IPLAUKU_DATA;SALTINIO_PAV;IMOKOS_KODAI;APRASYMAS;SUMA
 20-JUL-15;VMI;22K;"Pajamos iš mokesčių inspekcijos";302989.1
 20-JUL-15;VMI;22K;"Pajamos iš mokesčių inspekcijos";793849.78
 11-JUN-15;VMI;22K;"Pajamos iš mokesčių inspekcijos";589166.26
+14-JUL-16;VMI;22K;"Pajamos iš mokesčių inspekcijos";869999.76
 08-JUL-16;VMI;22K;"Pajamos iš mokesčių inspekcijos";1181619.42
 27-MAY-16;VMI;22K;"Pajamos iš mokesčių inspekcijos";167683.89
 28-APR-16;VMI;22K;"Pajamos iš mokesčių inspekcijos";700831.38
@@ -1591,6 +1593,7 @@ IPLAUKU_DATA;SALTINIO_PAV;IMOKOS_KODAI;APRASYMAS;SUMA
 25-APR-16;KITOS;90;"Kitos pajamos";828
 22-FEB-16;KITOS;90;"Kitos pajamos";7500
 07-SEP-15;KITOS;90;"Kitos pajamos";603
+14-JUL-16;KITOS;90;"Kitos pajamos";486
 18-NOV-15;KITOS;90;"Kitos pajamos";2160
 12-OCT-15;KITOS;90;"Kitos pajamos";4044
 12-OCT-15;KITOS;90;"Kitos pajamos";888
@@ -2673,6 +2676,7 @@ IPLAUKU_DATA;SALTINIO_PAV;IMOKOS_KODAI;APRASYMAS;SUMA
 10-JUL-15;"FM STD";65;"Specialios tikslinės dotacijos";89447
 10-MAY-16;"FM STD";65;"Specialios tikslinės dotacijos";145500
 11-JAN-16;"FM STD";65;"Specialios tikslinės dotacijos";114900
+14-JUL-16;"FM STD";65;"Specialios tikslinės dotacijos";91960
 11-APR-16;"FM STD";65;"Specialios tikslinės dotacijos";145500
 10-APR-15;"FM STD";65;"Specialios tikslinės dotacijos";169950
 10-SEP-15;"FM STD";65;"Specialios tikslinės dotacijos";92522
