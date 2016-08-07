@@ -1248,12 +1248,15 @@ ORG_ID;PASKOLOS_DAVEJAS;SUTARTIES_NR;PASKOLOS_KLASIFIKACIJA;SKOLOS_TIPAS;VALIUTA
 1366;"OP Corporate Bank plc";580760;S;PASKOLA;EUR;"Op/ gavimas/2";2016;201607;11-JUL-16;Įsipareigojimas;Standard;"Op/ gavimas/2";Įsipareigojimas;289163.66
 1366;"OP Corporate Bank plc";580760;S;PASKOLA;EUR;OP/gavimas/03;2016;201607;18-JUL-16;Įsipareigojimas;Standard;OP/gavimas/03;Įsipareigojimas;315078.88
 1366;"SIA ""UniCredit Leasing""";3300018-01;S;PALUKANOS;EUR;3300018-01/2016/07;2016;201607;25-JUL-16;Įsipareigojimas;Standard;3300018-01/2016/07;Įsipareigojimas;15415.27
-1366;"OP Corporate Bank plc";580760;S;PASKOLA;EUR;OP/gavimas/04;2016;201607;27-JUL-16;Įsipareigojimas;Standard;OP/gavimas/04;Įsipareigojimas;880797.59
 1366;"OP Corporate Bank plc";580760;S;PALUKANOS;EUR;"pal /657";2016;201607;28-JUL-16;Įsipareigojimas;Standard;"pal /657";Įsipareigojimas;7585.39
 1366;"DNB bankas, AB";"K-240 2012-931";S;PALUKANOS;EUR;931/2016/07;2016;201607;29-JUL-16;Įsipareigojimas;Standard;931/2016/07;Įsipareigojimas;13016.74
 1366;"DNB bankas, AB";K-2400-213-1485;S;PALUKANOS;EUR;1485/2016/07;2016;201607;29-JUL-16;Įsipareigojimas;Standard;1485/2016/07;Įsipareigojimas;10741.38
 1366;"DNB bankas, AB";K-2400-2012-566;S;PALUKANOS;EUR;566/2016/07;2016;201607;29-JUL-16;Įsipareigojimas;Standard;566/2016/07;Įsipareigojimas;10284.14
 1366;"DNB bankas, AB";K-2400-2012-902;S;PALUKANOS;EUR;902/2016/07;2016;201607;29-JUL-16;Įsipareigojimas;Standard;902/2016/07;Įsipareigojimas;22086.21
+1366;"OP Corporate Bank plc";580760;S;PASKOLA;EUR;"OP/gavimas 04";2016;201607;27-JUL-16;Įsipareigojimas;Standard;"OP/gavimas 04";Įsipareigojimas;880797.59
+1366;"OP Corporate Bank plc";580760;S;PASKOLA;EUR;"Op gavimas/05";2016;201608;03-AUG-16;Įsipareigojimas;Standard;"Op gavimas/05";Įsipareigojimas;526253.07
+1366;"SEB bankas";A64-19(3.4.-FN-1);S;PALUKANOS;EUR;SEBA64-19/2016/08;2016;201608;08-AUG-16;Įsipareigojimas;Standard;SEBA64-19/2016/08;Įsipareigojimas;34622.39
+1366;"Šiaulių bankas, AB";KS-2015-003-03;S;PALUKANOS;EUR;003/2016/08;2016;201608;05-AUG-16;Įsipareigojimas;Standard;003/2016/08;Įsipareigojimas;70118.66
 112;"Valstybinė mokesčių inspekcija prie LRFM";;;SAVIVALDYBES_PRISIIMTA_SKOLA;LTL;"AVMI Nr. 14-11-1";2008;200802;29-FEB-08;Mokėjimas;Standard;9;Mokėjimas;-32610
 113;"Nordea finance Lithuania, UAB";20040205;V;PALUKANOS;LTL;95842.;2008;200801;25-JAN-08;Mokėjimas;Standard;4;Mokėjimas;-31329.81
 113;"Swedbank lizingas, UAB";LT026493;V;PALUKANOS;LTL;0001674448;2008;200801;25-JAN-08;Mokėjimas;Standard;2;Mokėjimas;-96530.78
@@ -1583,6 +1586,7 @@ ORG_ID;PASKOLOS_DAVEJAS;SUTARTIES_NR;PASKOLOS_KLASIFIKACIJA;SKOLOS_TIPAS;VALIUTA
 1366;"DNB bankas, AB";"K-240 2012-931";S;PALUKANOS;EUR;931/2016/05;2016;201605;30-MAY-16;Mokėjimas;Standard;10727;Mokėjimas;-14363.3
 1366;"DNB bankas, AB";K-2400-2012-566;S;PALUKANOS;EUR;566/2016/05/2;2016;201605;30-MAY-16;Mokėjimas;Standard;10728;Mokėjimas;-11348.02
 1366;"DNB bankas, AB";K-2400-2012-902;S;PALUKANOS;EUR;902/06-29;2016;201606;29-JUN-16;Mokėjimas;Standard;11018;Mokėjimas;-22847.81
+1366;"SEB bankas";A64-19(3.4.-FN-1);S;PASKOLA;EUR;"SEB A64-19";2016;201608;08-AUG-16;Mokėjimas;Standard;10000510;Mokėjimas;-1387308.85
 112;"Valstybinė mokesčių inspekcija prie LRFM";;;SAVIVALDYBES_PRISIIMTA_SKOLA;LTL;"AVMI Nr. 14-11-1";2008;200801;31-JAN-08;Mokėjimas;Standard;2;Mokėjimas;-32610
 112;"Valstybinė mokesčių inspekcija prie LRFM";14-09-41;S;PALUKANOS;LTL;4211;2008;200804;30-APR-08;Mokėjimas;Standard;61;Mokėjimas;-1956.6
 119;"Nordea Bank AB Lietuvos skyrius";KS04/07/05;S;PALUKANOS;LTL;Nordea/05;2009;200905;04-MAY-09;Mokėjimas;Standard;905;Mokėjimas;-32447.03
@@ -2142,6 +2146,8 @@ ORG_ID;PASKOLOS_DAVEJAS;SUTARTIES_NR;PASKOLOS_KLASIFIKACIJA;SKOLOS_TIPAS;VALIUTA
 1366;"DNB bankas, AB";K-2400-213-1485;S;PALUKANOS;EUR;1485/16/30;2016;201605;30-MAY-16;Mokėjimas;Standard;10724;Mokėjimas;-11852.56
 1366;"DNB bankas, AB";K-2400-2012-902;S;PALUKANOS;EUR;902/2016/05;2016;201605;30-MAY-16;Mokėjimas;Standard;10726;Mokėjimas;-24370.99
 1366;"SIA ""UniCredit Leasing""";3300018-01;S;PALUKANOS;EUR;3300018/2016/06;2016;201606;22-JUN-16;Mokėjimas;Standard;10936;Mokėjimas;-18168
+1366;"SEB bankas";A64-19(3.4.-FN-1);S;PALUKANOS;EUR;SEBA64-19/2016/08;2016;201608;08-AUG-16;Mokėjimas;Standard;10000511;Mokėjimas;-34622.39
+1366;"Šiaulių bankas, AB";KS-2015-003-03;S;PALUKANOS;EUR;003/2016/08;2016;201608;05-AUG-16;Mokėjimas;Standard;11316;Mokėjimas;-70118.66
 112;"Valstybinė mokesčių inspekcija prie LRFM";14-09-41;S;PALUKANOS;LTL;4389;2008;200805;30-MAY-08;Mokėjimas;Standard;57;Mokėjimas;-1855.8
 112;"UniCredit Bank AS LT";64;S;PALUKANOS;LTL;4440;2008;200806;13-JUN-08;Mokėjimas;Standard;60;Mokėjimas;-129540.32
 113;"Swedbank lizingas, UAB";LT026492;V;LIZINGAS;LTL;LT026492/2;2008;200812;31-DEC-08;Mokėjimas;Standard;56;Mokėjimas;-667481.35
