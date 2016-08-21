@@ -1253,10 +1253,11 @@ ORG_ID;PASKOLOS_DAVEJAS;SUTARTIES_NR;PASKOLOS_KLASIFIKACIJA;SKOLOS_TIPAS;VALIUTA
 1366;"DNB bankas, AB";K-2400-213-1485;S;PALUKANOS;EUR;1485/2016/07;2016;201607;29-JUL-16;Įsipareigojimas;Standard;1485/2016/07;Įsipareigojimas;10741.38
 1366;"DNB bankas, AB";K-2400-2012-566;S;PALUKANOS;EUR;566/2016/07;2016;201607;29-JUL-16;Įsipareigojimas;Standard;566/2016/07;Įsipareigojimas;10284.14
 1366;"DNB bankas, AB";K-2400-2012-902;S;PALUKANOS;EUR;902/2016/07;2016;201607;29-JUL-16;Įsipareigojimas;Standard;902/2016/07;Įsipareigojimas;22086.21
-1366;"OP Corporate Bank plc";580760;S;PASKOLA;EUR;"OP/gavimas 04";2016;201607;27-JUL-16;Įsipareigojimas;Standard;"OP/gavimas 04";Įsipareigojimas;880797.59
-1366;"OP Corporate Bank plc";580760;S;PASKOLA;EUR;"Op gavimas/05";2016;201608;03-AUG-16;Įsipareigojimas;Standard;"Op gavimas/05";Įsipareigojimas;526253.07
 1366;"SEB bankas";A64-19(3.4.-FN-1);S;PALUKANOS;EUR;SEBA64-19/2016/08;2016;201608;08-AUG-16;Įsipareigojimas;Standard;SEBA64-19/2016/08;Įsipareigojimas;34622.39
 1366;"Šiaulių bankas, AB";KS-2015-003-03;S;PALUKANOS;EUR;003/2016/08;2016;201608;05-AUG-16;Įsipareigojimas;Standard;003/2016/08;Įsipareigojimas;70118.66
+1366;"OP Corporate Bank plc";580760;S;PASKOLA;EUR;OP/gavimas06;2016;201607;22-JUL-16;Įsipareigojimas;Standard;OP/gavimas06;Įsipareigojimas;458608.65
+1366;"OP Corporate Bank plc";580760;S;PASKOLA;EUR;OP/gavimas/05;2016;201607;27-JUL-16;Įsipareigojimas;Standard;OP/gavimas/05;Įsipareigojimas;880797.59
+1366;"OP Corporate Bank plc";580760;S;PASKOLA;EUR;Gavimas/06;2016;201608;03-AUG-16;Įsipareigojimas;Standard;Gavimas/06;Įsipareigojimas;526253.07
 112;"Valstybinė mokesčių inspekcija prie LRFM";;;SAVIVALDYBES_PRISIIMTA_SKOLA;LTL;"AVMI Nr. 14-11-1";2008;200802;29-FEB-08;Mokėjimas;Standard;9;Mokėjimas;-32610
 113;"Nordea finance Lithuania, UAB";20040205;V;PALUKANOS;LTL;95842.;2008;200801;25-JAN-08;Mokėjimas;Standard;4;Mokėjimas;-31329.81
 113;"Swedbank lizingas, UAB";LT026493;V;PALUKANOS;LTL;0001674448;2008;200801;25-JAN-08;Mokėjimas;Standard;2;Mokėjimas;-96530.78
