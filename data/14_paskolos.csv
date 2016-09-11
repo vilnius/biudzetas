@@ -1266,6 +1266,9 @@ ORG_ID;PASKOLOS_DAVEJAS;SUTARTIES_NR;PASKOLOS_KLASIFIKACIJA;SKOLOS_TIPAS;VALIUTA
 1366;"DNB bankas, AB";"K-240 2012-931";S;PALUKANOS;EUR;2016/931/08;2016;201608;30-AUG-16;Įsipareigojimas;Standard;2016/931/08;Įsipareigojimas;13121.49
 1366;"DNB bankas, AB";"K-240 2012-931";S;PALUKANOS;EUR;2016/931/02/08;2016;201608;30-AUG-16;Įsipareigojimas;Standard;2016/931/02/08;Įsipareigojimas;1690.67
 1366;"OP Corporate Bank plc";580760;S;PALUKANOS;EUR;palūk/08;2016;201608;26-AUG-16;Įsipareigojimas;Standard;palūk/08;Įsipareigojimas;10011.41
+1366;"Šiaulių bankas, AB";KS-2015-003-03;S;PALUKANOS;EUR;0003/2016/09;2016;201609;05-SEP-16;Įsipareigojimas;Standard;0003/2016/09;Įsipareigojimas;67448.42
+1366;"OP Corporate Bank plc";580760;S;PASKOLA;EUR;gavimas/2016;2016;201608;31-AUG-16;Įsipareigojimas;Standard;gavimas/2016;Įsipareigojimas;651828.49
+1366;"OP Corporate Bank plc";580760;S;PASKOLA;EUR;gavimas/9;2016;201609;07-SEP-16;Įsipareigojimas;Standard;gavimas/9;Įsipareigojimas;1071508.53
 112;"Valstybinė mokesčių inspekcija prie LRFM";;;SAVIVALDYBES_PRISIIMTA_SKOLA;LTL;"AVMI Nr. 14-11-1";2008;200802;29-FEB-08;Mokėjimas;Standard;9;Mokėjimas;-32610
 113;"Nordea finance Lithuania, UAB";20040205;V;PALUKANOS;LTL;95842.;2008;200801;25-JAN-08;Mokėjimas;Standard;4;Mokėjimas;-31329.81
 113;"Swedbank lizingas, UAB";LT026493;V;PALUKANOS;LTL;0001674448;2008;200801;25-JAN-08;Mokėjimas;Standard;2;Mokėjimas;-96530.78
@@ -2512,6 +2515,7 @@ ORG_ID;PASKOLOS_DAVEJAS;SUTARTIES_NR;PASKOLOS_KLASIFIKACIJA;SKOLOS_TIPAS;VALIUTA
 1366;"DNB bankas, AB";K-2400-213-1485;S;PALUKANOS;EUR;1485/2016/07;2016;201607;29-JUL-16;Mokėjimas;Standard;11260;Mokėjimas;-10741.38
 1366;"OP Corporate Bank plc";580760;S;PALUKANOS;EUR;palūk/08;2016;201608;26-AUG-16;Mokėjimas;Standard;11456;Mokėjimas;-10011.41
 1366;"DNB bankas, AB";"K-240 2012-931";S;PALUKANOS;EUR;2016/931/08;2016;201608;30-AUG-16;Mokėjimas;Standard;11454;Mokėjimas;-13121.49
+1366;"Šiaulių bankas, AB";KS-2015-003-03;S;PALUKANOS;EUR;0003/2016/09;2016;201609;05-SEP-16;Mokėjimas;Standard;11534;Mokėjimas;-67448.42
 112;"Valstybinė mokesčių inspekcija prie LRFM";14-09-41;S;PALUKANOS;LTL;3863;2008;200801;31-JAN-08;Mokėjimas;Standard;1;Mokėjimas;-2475.1
 112;"Valstybinė mokesčių inspekcija prie LRFM";14-09-41;S;PALUKANOS;LTL;4493;2008;200806;30-JUN-08;Mokėjimas;Standard;65;Mokėjimas;-1760.91
 119;ERPB;22826;S;PALUKANOS;EUR;22826/2;2009;200905;04-MAY-09;Mokėjimas;Standard;8;Mokėjimas;-36582.78
