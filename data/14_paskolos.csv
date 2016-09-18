@@ -1269,6 +1269,7 @@ ORG_ID;PASKOLOS_DAVEJAS;SUTARTIES_NR;PASKOLOS_KLASIFIKACIJA;SKOLOS_TIPAS;VALIUTA
 1366;"Šiaulių bankas, AB";KS-2015-003-03;S;PALUKANOS;EUR;0003/2016/09;2016;201609;05-SEP-16;Įsipareigojimas;Standard;0003/2016/09;Įsipareigojimas;67448.42
 1366;"OP Corporate Bank plc";580760;S;PASKOLA;EUR;gavimas/2016;2016;201608;31-AUG-16;Įsipareigojimas;Standard;gavimas/2016;Įsipareigojimas;651828.49
 1366;"OP Corporate Bank plc";580760;S;PASKOLA;EUR;gavimas/9;2016;201609;07-SEP-16;Įsipareigojimas;Standard;gavimas/9;Įsipareigojimas;1071508.53
+1366;"OP Corporate Bank plc";580760;S;PASKOLA;EUR;gavimas/2016/10;2016;201609;15-SEP-16;Įsipareigojimas;Standard;gavimas/2016/10;Įsipareigojimas;65493.06
 112;"Valstybinė mokesčių inspekcija prie LRFM";;;SAVIVALDYBES_PRISIIMTA_SKOLA;LTL;"AVMI Nr. 14-11-1";2008;200802;29-FEB-08;Mokėjimas;Standard;9;Mokėjimas;-32610
 113;"Nordea finance Lithuania, UAB";20040205;V;PALUKANOS;LTL;95842.;2008;200801;25-JAN-08;Mokėjimas;Standard;4;Mokėjimas;-31329.81
 113;"Swedbank lizingas, UAB";LT026493;V;PALUKANOS;LTL;0001674448;2008;200801;25-JAN-08;Mokėjimas;Standard;2;Mokėjimas;-96530.78
