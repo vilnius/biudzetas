@@ -1,6 +1,7 @@
 IPLAUKU_DATA;SALTINIO_PAV;IMOKOS_KODAI;APRASYMAS;SUMA
 18-MAY-16;VMI;37;"Pajamos iš mokesčių inspekcijos";39.28
 10-MAY-16;VMI;37;"Pajamos iš mokesčių inspekcijos";49.5
+11-OCT-16;VMI;37;"Pajamos iš mokesčių inspekcijos";22.05
 28-SEP-16;VMI;37;"Pajamos iš mokesčių inspekcijos";164.31
 21-SEP-16;VMI;37;"Pajamos iš mokesčių inspekcijos";7.08
 24-AUG-16;VMI;37;"Pajamos iš mokesčių inspekcijos";116.02
@@ -552,6 +553,7 @@ IPLAUKU_DATA;SALTINIO_PAV;IMOKOS_KODAI;APRASYMAS;SUMA
 17-JUN-16;VMI;22K;"Pajamos iš mokesčių inspekcijos";567028.57
 03-JUN-16;VMI;22K;"Pajamos iš mokesčių inspekcijos";316361.27
 18-MAY-16;VMI;22K;"Pajamos iš mokesčių inspekcijos";904222.08
+11-OCT-16;VMI;22K;"Pajamos iš mokesčių inspekcijos";778718.23
 06-OCT-16;VMI;22K;"Pajamos iš mokesčių inspekcijos";878055.26
 28-SEP-16;VMI;22K;"Pajamos iš mokesčių inspekcijos";190960.43
 21-SEP-16;VMI;22K;"Pajamos iš mokesčių inspekcijos";901127.98
@@ -2050,6 +2052,7 @@ IPLAUKU_DATA;SALTINIO_PAV;IMOKOS_KODAI;APRASYMAS;SUMA
 24-MAR-15;KITOS;96;"Kitos pajamos";896318.56
 04-MAR-15;KITOS;96;"Kitos pajamos";475249.57
 16-MAY-16;KITOS;94;"Kitos pajamos";144.81
+11-OCT-16;KITOS;94;"Kitos pajamos";435
 04-OCT-16;KITOS;94;"Kitos pajamos";14900
 28-SEP-16;KITOS;94;"Kitos pajamos";4396.28
 07-SEP-16;KITOS;94;"Kitos pajamos";13600
@@ -3090,6 +3093,7 @@ IPLAUKU_DATA;SALTINIO_PAV;IMOKOS_KODAI;APRASYMAS;SUMA
 09-OCT-15;FM;2M18;"Pajamos iš finansų ministerijos";116718.72
 30-SEP-15;FM;2M18;"Pajamos iš finansų ministerijos";16671.83
 02-NOV-15;FM;2M18;"Pajamos iš finansų ministerijos";105672.84
+11-OCT-16;"FM STD";33;"Specialios tikslinės dotacijos";359800
 11-JUL-16;"FM STD";33;"Specialios tikslinės dotacijos";509900
 17-MAR-16;"FM STD";33;"Specialios tikslinės dotacijos";150000
 07-OCT-15;"FM STD";33;"Specialios tikslinės dotacijos";359338
@@ -3156,6 +3160,7 @@ IPLAUKU_DATA;SALTINIO_PAV;IMOKOS_KODAI;APRASYMAS;SUMA
 10-MAR-15;"FM STD";65;"Specialios tikslinės dotacijos";187839
 10-FEB-15;"FM STD";65;"Specialios tikslinės dotacijos";187839
 12-JAN-15;"FM STD";65;"Specialios tikslinės dotacijos";161005
+11-OCT-16;"FM STD";66;"Specialios tikslinės dotacijos";332200
 10-AUG-16;"FM STD";66;"Specialios tikslinės dotacijos";274300
 09-JUN-16;"FM STD";66;"Specialios tikslinės dotacijos";274000
 09-SEP-16;"FM STD";66;"Specialios tikslinės dotacijos";290500
