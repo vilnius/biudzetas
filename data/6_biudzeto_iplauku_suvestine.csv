@@ -361,6 +361,10 @@ IPLAUKU_DATA;SALTINIO_PAV;IMOKOS_KODAI;APRASYMAS;SUMA
 17-MAY-16;VMI;39;"Pajamos iš mokesčių inspekcijos";8.5
 31-MAR-16;VMI;39;"Pajamos iš mokesčių inspekcijos";115794.48
 31-MAR-16;VMI;39;"Pajamos iš mokesčių inspekcijos";4.3
+27-OCT-16;VMI;39;"Pajamos iš mokesčių inspekcijos";1450
+27-OCT-16;VMI;39;"Pajamos iš mokesčių inspekcijos";38200
+27-OCT-16;VMI;39;"Pajamos iš mokesčių inspekcijos";108000
+27-OCT-16;VMI;39;"Pajamos iš mokesčių inspekcijos";19000
 03-OCT-16;VMI;39;"Pajamos iš mokesčių inspekcijos";7874.44
 29-AUG-16;VMI;39;"Pajamos iš mokesčių inspekcijos";62164.54
 29-JUL-16;VMI;39;"Pajamos iš mokesčių inspekcijos";33938.59
@@ -368,6 +372,9 @@ IPLAUKU_DATA;SALTINIO_PAV;IMOKOS_KODAI;APRASYMAS;SUMA
 17-FEB-16;VMI;39;"Pajamos iš mokesčių inspekcijos";49.3
 17-FEB-16;VMI;39;"Pajamos iš mokesčių inspekcijos";50
 15-FEB-16;VMI;39;"Pajamos iš mokesčių inspekcijos";36071.56
+27-OCT-16;VMI;39;"Pajamos iš mokesčių inspekcijos";2700
+27-OCT-16;VMI;39;"Pajamos iš mokesčių inspekcijos";10400
+27-OCT-16;VMI;39;"Pajamos iš mokesčių inspekcijos";73200
 05-SEP-16;VMI;39;"Pajamos iš mokesčių inspekcijos";26860.12
 08-FEB-16;VMI;39;"Pajamos iš mokesčių inspekcijos";11.6
 26-SEP-16;VMI;39;"Pajamos iš mokesčių inspekcijos";71679.43
@@ -676,6 +683,7 @@ IPLAUKU_DATA;SALTINIO_PAV;IMOKOS_KODAI;APRASYMAS;SUMA
 09-NOV-15;VMI;22K;"Pajamos iš mokesčių inspekcijos";896400.85
 27-OCT-15;VMI;22K;"Pajamos iš mokesčių inspekcijos";334743.03
 15-OCT-15;VMI;22K;"Pajamos iš mokesčių inspekcijos";1257885.37
+27-OCT-16;VMI;22K;"Pajamos iš mokesčių inspekcijos";362085.34
 20-SEP-16;VMI;22K;"Pajamos iš mokesčių inspekcijos";360878.61
 05-SEP-16;VMI;22K;"Pajamos iš mokesčių inspekcijos";88826.65
 05-SEP-16;VMI;22K;"Pajamos iš mokesčių inspekcijos";469595.58
@@ -1328,6 +1336,7 @@ IPLAUKU_DATA;SALTINIO_PAV;IMOKOS_KODAI;APRASYMAS;SUMA
 20-JAN-16;KITOS;91;"Kitos pajamos";708.49
 20-JAN-16;KITOS;91;"Kitos pajamos";13.98
 17-DEC-15;KITOS;91;"Kitos pajamos";.04
+27-OCT-16;KITOS;91;"Kitos pajamos";115.6
 24-OCT-16;KITOS;91;"Kitos pajamos";20
 20-SEP-16;KITOS;91;"Kitos pajamos";17.15
 15-SEP-16;KITOS;91;"Kitos pajamos";30
@@ -1876,6 +1885,7 @@ IPLAUKU_DATA;SALTINIO_PAV;IMOKOS_KODAI;APRASYMAS;SUMA
 08-JUN-16;KITOS;90;"Kitos pajamos";2091
 09-AUG-16;KITOS;90;"Kitos pajamos";3042
 27-APR-16;KITOS;90;"Kitos pajamos";2092
+27-OCT-16;KITOS;90;"Kitos pajamos";2142
 23-AUG-16;KITOS;90;"Kitos pajamos";480
 03-OCT-16;KITOS;90;"Kitos pajamos";1308
 26-SEP-16;KITOS;90;"Kitos pajamos";1399
@@ -2321,9 +2331,12 @@ IPLAUKU_DATA;SALTINIO_PAV;IMOKOS_KODAI;APRASYMAS;SUMA
 29-FEB-16;KITOS;93;"Kitos pajamos";99883
 27-APR-16;KITOS;93;"Kitos pajamos";63366
 27-APR-16;KITOS;93;"Kitos pajamos";150142
+27-OCT-16;KITOS;93;"Kitos pajamos";138100
 27-OCT-15;KITOS;93;"Kitos pajamos";141000
 27-OCT-15;KITOS;93;"Kitos pajamos";141000
 27-OCT-15;KITOS;93;"Kitos pajamos";7000
+27-OCT-16;KITOS;93;"Kitos pajamos";5800
+27-OCT-16;KITOS;93;"Kitos pajamos";66000
 26-AUG-16;KITOS;93;"Kitos pajamos";44610
 26-AUG-16;KITOS;93;"Kitos pajamos";7160
 28-JUL-16;KITOS;93;"Kitos pajamos";134000
@@ -2492,8 +2505,10 @@ IPLAUKU_DATA;SALTINIO_PAV;IMOKOS_KODAI;APRASYMAS;SUMA
 29-FEB-16;KITOS;95;"Kitos pajamos";334.67
 16-JUN-16;KITOS;95;"Kitos pajamos";796.22
 31-MAR-16;KITOS;95;"Kitos pajamos";300
+27-OCT-16;KITOS;95;"Kitos pajamos";302000
 09-NOV-15;KITOS;95;"Kitos pajamos";210000
 09-NOV-15;KITOS;95;"Kitos pajamos";80000
+27-OCT-16;KITOS;95;"Kitos pajamos";81900
 30-SEP-16;KITOS;95;"Kitos pajamos";62066.5
 30-SEP-16;KITOS;95;"Kitos pajamos";19799.43
 10-MAR-16;KITOS;95;"Kitos pajamos";17000
@@ -3378,6 +3393,7 @@ IPLAUKU_DATA;SALTINIO_PAV;IMOKOS_KODAI;APRASYMAS;SUMA
 06-OCT-16;PASKOLA;;"Paskola pinigų srautams subalansuoti";526493.63
 05-OCT-16;PASKOLA;;"Paskola pinigų srautams subalansuoti";421042.79
 03-AUG-16;PASKOLA;;"Paskola pinigų srautams subalansuoti";526253.07
+28-OCT-16;PASKOLA;;"Paskola pinigų srautams subalansuoti";278293.28
 28-SEP-16;PASKOLA;;"Paskola pinigų srautams subalansuoti";164823.84
 07-SEP-16;PASKOLA;;"Paskola pinigų srautams subalansuoti";1071508.53
 18-JUL-16;PASKOLA;;"Paskola pinigų srautams subalansuoti";315078.88
