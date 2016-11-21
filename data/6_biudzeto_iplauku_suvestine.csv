@@ -610,6 +610,7 @@ IPLAUKU_DATA;SALTINIO_PAV;IMOKOS_KODAI;APRASYMAS;SUMA
 09-JUN-16;VMI;22K;"Pajamos iš mokesčių inspekcijos";618404.6
 04-MAY-16;VMI;22K;"Pajamos iš mokesčių inspekcijos";424604.66
 04-MAY-16;VMI;22K;"Pajamos iš mokesčių inspekcijos";267491.6
+18-NOV-16;VMI;22K;"Pajamos iš mokesčių inspekcijos";505942
 05-OCT-16;VMI;22K;"Pajamos iš mokesčių inspekcijos";598263.37
 12-SEP-16;VMI;22K;"Pajamos iš mokesčių inspekcijos";11083.18
 12-SEP-16;VMI;22K;"Pajamos iš mokesčių inspekcijos";519102.45
@@ -2289,6 +2290,7 @@ IPLAUKU_DATA;SALTINIO_PAV;IMOKOS_KODAI;APRASYMAS;SUMA
 23-OCT-15;KITOS;94;"Kitos pajamos";247
 06-OCT-15;KITOS;94;"Kitos pajamos";141.19
 08-JUL-15;KITOS;94;"Kitos pajamos";265.49
+18-NOV-16;KITOS;94;"Kitos pajamos";5520
 22-SEP-16;KITOS;94;"Kitos pajamos";23900
 08-SEP-16;KITOS;94;"Kitos pajamos";19900
 26-AUG-16;KITOS;94;"Kitos pajamos";20869.28
@@ -3245,6 +3247,7 @@ IPLAUKU_DATA;SALTINIO_PAV;IMOKOS_KODAI;APRASYMAS;SUMA
 30-MAR-16;FM;2M17;"Pajamos iš finansų ministerijos";261000
 23-DEC-15;FM;2M17;"Pajamos iš finansų ministerijos";126940
 07-NOV-16;FM;2M18;"Pajamos iš finansų ministerijos";103000
+18-NOV-16;FM;2M18;"Pajamos iš finansų ministerijos";18649.08
 07-SEP-16;FM;2M18;"Pajamos iš finansų ministerijos";103000
 26-SEP-16;FM;2M18;"Pajamos iš finansų ministerijos";216038.73
 15-JUN-16;FM;2M18;"Pajamos iš finansų ministerijos";290000
@@ -3508,6 +3511,7 @@ IPLAUKU_DATA;SALTINIO_PAV;IMOKOS_KODAI;APRASYMAS;SUMA
 09-NOV-16;PASKOLA;;"Paskola pinigų srautams subalansuoti";453196.03
 23-SEP-16;PASKOLA;;"Paskola pinigų srautams subalansuoti";82520.1
 13-JUN-16;PASKOLA;;"Paskola pinigų srautams subalansuoti";5229808.59
+21-NOV-16;PASKOLA;;"Paskola pinigų srautams subalansuoti";169021.88
 06-OCT-16;PASKOLA;;"Paskola pinigų srautams subalansuoti";526493.63
 05-OCT-16;PASKOLA;;"Paskola pinigų srautams subalansuoti";421042.79
 03-AUG-16;PASKOLA;;"Paskola pinigų srautams subalansuoti";526253.07
