@@ -456,6 +456,14 @@ IPLAUKU_DATA;SALTINIO_PAV;IMOKOS_KODAI;APRASYMAS;SUMA
 30-MAY-16;VMI;39;"Pajamos iš mokesčių inspekcijos";15800
 05-FEB-16;VMI;39;"Pajamos iš mokesčių inspekcijos";1.8
 05-FEB-16;VMI;39;"Pajamos iš mokesčių inspekcijos";90
+30-NOV-16;VMI;39;"Pajamos iš mokesčių inspekcijos";3300
+30-NOV-16;VMI;39;"Pajamos iš mokesčių inspekcijos";9600
+30-NOV-16;VMI;39;"Pajamos iš mokesčių inspekcijos";9500
+30-NOV-16;VMI;39;"Pajamos iš mokesčių inspekcijos";54500
+30-NOV-16;VMI;39;"Pajamos iš mokesčių inspekcijos";19486.68
+30-NOV-16;VMI;39;"Pajamos iš mokesčių inspekcijos";9500
+30-NOV-16;VMI;39;"Pajamos iš mokesčių inspekcijos";7600
+30-NOV-16;VMI;39;"Pajamos iš mokesčių inspekcijos";6800
 30-MAY-16;VMI;39;"Pajamos iš mokesčių inspekcijos";2.9
 23-MAY-16;VMI;39;"Pajamos iš mokesčių inspekcijos";181191.47
 14-JUN-16;VMI;39;"Pajamos iš mokesčių inspekcijos";1.99
@@ -863,6 +871,8 @@ IPLAUKU_DATA;SALTINIO_PAV;IMOKOS_KODAI;APRASYMAS;SUMA
 17-JUN-15;VMI;22K;"Pajamos iš mokesčių inspekcijos";143820.81
 17-JUN-15;VMI;22K;"Pajamos iš mokesčių inspekcijos";417427.22
 17-JUN-15;VMI;22K;"Pajamos iš mokesčių inspekcijos";250473.52
+30-NOV-16;VMI;22K;"Pajamos iš mokesčių inspekcijos";8117.68
+30-NOV-16;VMI;22K;"Pajamos iš mokesčių inspekcijos";425742.25
 02-SEP-16;VMI;22K;"Pajamos iš mokesčių inspekcijos";97989.08
 02-SEP-16;VMI;22K;"Pajamos iš mokesčių inspekcijos";28899.23
 02-SEP-16;VMI;22K;"Pajamos iš mokesčių inspekcijos";998.81
@@ -1548,6 +1558,9 @@ IPLAUKU_DATA;SALTINIO_PAV;IMOKOS_KODAI;APRASYMAS;SUMA
 27-AUG-15;KITOS;91;"Kitos pajamos";800
 27-AUG-15;KITOS;91;"Kitos pajamos";407.83
 31-AUG-15;KITOS;91;"Kitos pajamos";200
+30-NOV-16;KITOS;91;"Kitos pajamos";886.24
+30-NOV-16;KITOS;91;"Kitos pajamos";13.7
+30-NOV-16;KITOS;91;"Kitos pajamos";3074.4
 02-SEP-16;KITOS;91;"Kitos pajamos";30
 02-SEP-16;KITOS;91;"Kitos pajamos";886.24
 02-SEP-16;KITOS;91;"Kitos pajamos";30
@@ -2113,6 +2126,7 @@ IPLAUKU_DATA;SALTINIO_PAV;IMOKOS_KODAI;APRASYMAS;SUMA
 21-APR-16;KITOS;100;"Kitos pajamos";768.68
 08-FEB-16;KITOS;100;"Kitos pajamos";246.13
 10-OCT-16;KITOS;100;"Kitos pajamos";25.08
+30-NOV-16;KITOS;100;"Kitos pajamos";792.03
 30-JUL-16;KITOS;100;"Kitos pajamos";586.22
 04-JUL-16;KITOS;100;"Kitos pajamos";39.67
 06-APR-16;KITOS;100;"Kitos pajamos";28.84
@@ -2772,6 +2786,8 @@ IPLAUKU_DATA;SALTINIO_PAV;IMOKOS_KODAI;APRASYMAS;SUMA
 31-MAR-16;KITOS;98;"Kitos pajamos";5777.72
 02-MAR-16;KITOS;98;"Kitos pajamos";20085.15
 02-MAR-16;KITOS;98;"Kitos pajamos";3980
+29-NOV-16;KITOS;98;"Kitos pajamos";4812.46
+29-NOV-16;KITOS;98;"Kitos pajamos";21257.72
 29-JUL-16;KITOS;98;"Kitos pajamos";59391.83
 29-JUL-16;KITOS;98;"Kitos pajamos";7211.4
 29-JUL-16;KITOS;98;"Kitos pajamos";798518.06
@@ -3170,6 +3186,7 @@ IPLAUKU_DATA;SALTINIO_PAV;IMOKOS_KODAI;APRASYMAS;SUMA
 17-NOV-16;KITOS;;"Kitos pajamos";240
 15-SEP-16;KITOS;;"Kitos pajamos";303.4
 10-NOV-16;KITOS;;"Kitos pajamos";87.81
+01-DEC-16;KITOS;;"Kitos pajamos";3000000
 10-JUL-15;FM;"SV 67";"Pajamos iš finansų ministerijos";602233
 05-OCT-15;FM;"SV 60";"Pajamos iš finansų ministerijos";596915
 30-JUN-15;FM;"SV 68";"Pajamos iš finansų ministerijos";974740
@@ -3237,6 +3254,7 @@ IPLAUKU_DATA;SALTINIO_PAV;IMOKOS_KODAI;APRASYMAS;SUMA
 15-JUL-16;FM;;"Pajamos iš finansų ministerijos";596214
 12-FEB-16;FM;;"Pajamos iš finansų ministerijos";483480
 23-SEP-16;FM;;"Pajamos iš finansų ministerijos";844177
+30-NOV-16;FM;;"Pajamos iš finansų ministerijos";157678
 30-SEP-16;FM;;"Pajamos iš finansų ministerijos";128683
 29-APR-16;FM;;"Pajamos iš finansų ministerijos";529294
 18-APR-16;FM;;"Pajamos iš finansų ministerijos";652490
@@ -3297,6 +3315,7 @@ IPLAUKU_DATA;SALTINIO_PAV;IMOKOS_KODAI;APRASYMAS;SUMA
 11-DEC-15;FM;2M18;"Pajamos iš finansų ministerijos";331845.83
 02-DEC-15;FM;2M18;"Pajamos iš finansų ministerijos";231761.66
 30-OCT-15;FM;2M18;"Pajamos iš finansų ministerijos";70690.39
+30-NOV-16;FM;2M18;"Pajamos iš finansų ministerijos";82576.99
 07-AUG-15;FM;2M18;"Pajamos iš finansų ministerijos";105502.13
 25-AUG-16;FM;2M18;"Pajamos iš finansų ministerijos";103000
 25-OCT-16;FM;2M18;"Pajamos iš finansų ministerijos";10384.28
