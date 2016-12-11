@@ -1318,6 +1318,8 @@ ORG_ID;PASKOLOS_DAVEJAS;SUTARTIES_NR;PASKOLOS_KLASIFIKACIJA;SKOLOS_TIPAS;VALIUTA
 1366;"DNB bankas, AB";"K-240 2012-931";S;PALUKANOS;EUR;2016/931/11;2016;201611;29-NOV-16;Įsipareigojimas;Standard;2016/931/11;Įsipareigojimas;13465.59
 1366;"OP Corporate Bank plc";580760;S;PASKOLA;EUR;op/gavimas/26;2016;201612;02-DEC-16;Įsipareigojimas;Standard;op/gavimas/26;Įsipareigojimas;130392.41
 1366;"OP Corporate Bank plc";580760;S;PASKOLA;EUR;op/gavimas/25;2016;201611;30-NOV-16;Įsipareigojimas;Standard;op/gavimas/25;Įsipareigojimas;363774.45
+1366;"Šiaulių bankas, AB";KS-2015-003-03;S;PALUKANOS;EUR;0003/2016/12;2016;201612;05-DEC-16;Įsipareigojimas;Standard;0003/2016/12;Įsipareigojimas;62305.72
+1366;"OP Corporate Bank plc";580760;S;PASKOLA;EUR;op/gavimas/27;2016;201612;08-DEC-16;Įsipareigojimas;Standard;op/gavimas/27;Įsipareigojimas;120873.53
 112;"Valstybinė mokesčių inspekcija prie LRFM";14-09-41;S;PALUKANOS;LTL;3863;2008;200801;31-JAN-08;Mokėjimas;Standard;1;Mokėjimas;-2475.1
 119;"Nordea Bank AB Lietuvos skyrius";KS02/07/03;S;PALUKANOS;LTL;palūkanos/03;2009;200901;19-JAN-09;Mokėjimas;Standard;78;Mokėjimas;-51420.79
 119;"SEB bankas";0020312020094/09;S;PALUKANOS;LTL;"palū seb-09";2009;200901;30-JAN-09;Mokėjimas;Standard;10000040;Mokėjimas;-36794.42
@@ -1583,6 +1585,7 @@ ORG_ID;PASKOLOS_DAVEJAS;SUTARTIES_NR;PASKOLOS_KLASIFIKACIJA;SKOLOS_TIPAS;VALIUTA
 1366;"DNB bankas, AB";K-2400-2012-566;S;PALUKANOS;EUR;566/2016/08;2016;201608;30-AUG-16;Mokėjimas;Standard;11451;Mokėjimas;-11702.64
 1366;"DNB bankas, AB";"K-240 2012-931";S;PALUKANOS;EUR;2016/931/02/08;2016;201608;30-AUG-16;Mokėjimas;Standard;11455;Mokėjimas;-1690.67
 1366;"Nordic Investment Bank";L5355;S;PASKOLA;EUR;L5355/gavimas/1;2016;201610;07-OCT-16;Mokėjimas;Standard;11821;Mokėjimas;-260667.41
+1366;"Šiaulių bankas, AB";KS-2015-003-03;S;PALUKANOS;EUR;0003/2016/12;2016;201612;05-DEC-16;Mokėjimas;Standard;12365;Mokėjimas;-62305.72
 112;"Valstybinė mokesčių inspekcija prie LRFM";;;SAVIVALDYBES_PRISIIMTA_SKOLA;LTL;"AVMI Nr. 14-11-1";2008;200801;31-JAN-08;Mokėjimas;Standard;2;Mokėjimas;-32610
 112;"Valstybinė mokesčių inspekcija prie LRFM";14-09-41;S;PALUKANOS;LTL;4211;2008;200804;30-APR-08;Mokėjimas;Standard;61;Mokėjimas;-1956.6
 119;"Nordea Bank AB Lietuvos skyrius";KS04/07/05;S;PALUKANOS;LTL;Nordea/05;2009;200905;04-MAY-09;Mokėjimas;Standard;905;Mokėjimas;-32447.03
