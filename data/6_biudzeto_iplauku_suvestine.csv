@@ -337,6 +337,7 @@ IPLAUKU_DATA;SALTINIO_PAV;IMOKOS_KODAI;APRASYMAS;SUMA
 17-JUN-16;VMI;39;"Pajamos iš mokesčių inspekcijos";14
 18-MAY-16;VMI;39;"Pajamos iš mokesčių inspekcijos";8.7
 07-NOV-16;VMI;39;"Pajamos iš mokesčių inspekcijos";31290.98
+19-DEC-16;VMI;39;"Pajamos iš mokesčių inspekcijos";353344.99
 30-JUN-16;VMI;39;"Pajamos iš mokesčių inspekcijos";25934.13
 13-JUN-16;VMI;39;"Pajamos iš mokesčių inspekcijos";138028.14
 05-DEC-16;VMI;39;"Pajamos iš mokesčių inspekcijos";29036.76
@@ -626,6 +627,7 @@ IPLAUKU_DATA;SALTINIO_PAV;IMOKOS_KODAI;APRASYMAS;SUMA
 10-AUG-16;VMI;22K;"Pajamos iš mokesčių inspekcijos";86510.27
 10-AUG-16;VMI;22K;"Pajamos iš mokesčių inspekcijos";486838.55
 10-AUG-16;VMI;22K;"Pajamos iš mokesčių inspekcijos";68827.54
+19-DEC-16;VMI;22K;"Pajamos iš mokesčių inspekcijos";1094362.22
 03-AUG-16;VMI;22K;"Pajamos iš mokesčių inspekcijos";7817.08
 03-AUG-16;VMI;22K;"Pajamos iš mokesčių inspekcijos";903.83
 03-AUG-16;VMI;22K;"Pajamos iš mokesčių inspekcijos";402716.7
@@ -1365,6 +1367,7 @@ IPLAUKU_DATA;SALTINIO_PAV;IMOKOS_KODAI;APRASYMAS;SUMA
 31-AUG-16;KITOS;91;"Kitos pajamos";4.84
 17-AUG-16;KITOS;91;"Kitos pajamos";65.56
 10-AUG-16;KITOS;91;"Kitos pajamos";200
+18-DEC-16;KITOS;91;"Kitos pajamos";1217
 30-JUN-16;KITOS;91;"Kitos pajamos";2.69
 09-JUN-16;KITOS;91;"Kitos pajamos";270.3
 12-MAY-16;KITOS;91;"Kitos pajamos";200
@@ -2036,6 +2039,7 @@ IPLAUKU_DATA;SALTINIO_PAV;IMOKOS_KODAI;APRASYMAS;SUMA
 08-NOV-16;KITOS;90;"Kitos pajamos";2076
 19-OCT-16;KITOS;90;"Kitos pajamos";432
 21-SEP-16;KITOS;90;"Kitos pajamos";4560
+19-DEC-16;KITOS;90;"Kitos pajamos";7065.5
 13-JUN-16;KITOS;90;"Kitos pajamos";1590
 25-NOV-16;KITOS;90;"Kitos pajamos";9126
 09-SEP-16;KITOS;90;"Kitos pajamos";7860
@@ -3081,7 +3085,6 @@ IPLAUKU_DATA;SALTINIO_PAV;IMOKOS_KODAI;APRASYMAS;SUMA
 12-JAN-15;KITOS;98;"Kitos pajamos";66927.57
 12-JAN-15;KITOS;98;"Kitos pajamos";137048.19
 08-APR-16;KITOS;2M21;"Kitos pajamos";231600
-10-NOV-16;KITOS;2M21;"Kitos pajamos";51307.5
 07-OCT-16;KITOS;2M21;"Kitos pajamos";249300
 08-JUL-15;KITOS;2M21;"Kitos pajamos";210701
 29-FEB-16;KITOS;2M21;"Kitos pajamos";161276.33
@@ -3266,6 +3269,7 @@ IPLAUKU_DATA;SALTINIO_PAV;IMOKOS_KODAI;APRASYMAS;SUMA
 01-DEC-16;KITOS;;"Kitos pajamos";3000000
 10-JUL-15;FM;"SV 67";"Pajamos iš finansų ministerijos";602233
 05-OCT-15;FM;"SV 60";"Pajamos iš finansų ministerijos";596915
+19-DEC-16;FM;"SV 68";"Pajamos iš finansų ministerijos";161709
 30-JUN-15;FM;"SV 68";"Pajamos iš finansų ministerijos";974740
 28-DEC-15;FM;"SV 68";"Pajamos iš finansų ministerijos";235063
 20-SEP-16;FM;"SV 68";"Pajamos iš finansų ministerijos";53000
@@ -3387,6 +3391,7 @@ IPLAUKU_DATA;SALTINIO_PAV;IMOKOS_KODAI;APRASYMAS;SUMA
 30-MAR-16;FM;2M17;"Pajamos iš finansų ministerijos";261000
 23-DEC-15;FM;2M17;"Pajamos iš finansų ministerijos";126940
 07-NOV-16;FM;2M18;"Pajamos iš finansų ministerijos";103000
+19-DEC-16;FM;2M18;"Pajamos iš finansų ministerijos";144598
 18-NOV-16;FM;2M18;"Pajamos iš finansų ministerijos";18649.08
 07-SEP-16;FM;2M18;"Pajamos iš finansų ministerijos";103000
 26-SEP-16;FM;2M18;"Pajamos iš finansų ministerijos";216038.73
@@ -3453,6 +3458,7 @@ IPLAUKU_DATA;SALTINIO_PAV;IMOKOS_KODAI;APRASYMAS;SUMA
 01-SEP-15;"FM STD";05;"Specialios tikslinės dotacijos";4319764
 12-JAN-15;"FM STD";05;"Specialios tikslinės dotacijos";8538850
 12-SEP-16;"FM STD";;"Specialios tikslinės dotacijos";809633
+10-NOV-16;"FM STD";;"Specialios tikslinės dotacijos";51307.5
 12-AUG-15;"FM STD";;"Specialios tikslinės dotacijos";33534
 17-AUG-15;"FM STD";;"Specialios tikslinės dotacijos";596915
 10-JUL-15;"FM STD";;"Specialios tikslinės dotacijos";259447.27
@@ -3655,6 +3661,7 @@ IPLAUKU_DATA;SALTINIO_PAV;IMOKOS_KODAI;APRASYMAS;SUMA
 09-DEC-15;"FM STD";KPPP;"Specialios tikslinės dotacijos";1049307.23
 30-NOV-16;PASKOLA;;"Paskola pinigų srautams subalansuoti";363774.45
 15-DEC-16;PASKOLA;;"Paskola pinigų srautams subalansuoti";794233.63
+14-NOV-16;PASKOLA;;"Paskola pinigų srautams subalansuoti";1343159.86
 27-JUL-16;PASKOLA;;"Paskola pinigų srautams subalansuoti";880797.59
 23-NOV-16;PASKOLA;;"Paskola pinigų srautams subalansuoti";401485.2
 09-NOV-16;PASKOLA;;"Paskola pinigų srautams subalansuoti";453196.03
