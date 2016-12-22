@@ -1213,6 +1213,7 @@ IPLAUKU_DATA;SALTINIO_PAV;IMOKOS_KODAI;APRASYMAS;SUMA
 23-SEP-15;VMI;22K;"Pajamos iš mokesčių inspekcijos";867498.77
 04-SEP-15;VMI;22K;"Pajamos iš mokesčių inspekcijos";113702.27
 04-SEP-15;VMI;22K;"Pajamos iš mokesčių inspekcijos";3164.34
+21-DEC-16;VMI;22K;"Pajamos iš mokesčių inspekcijos";484644.86
 06-MAY-15;VMI;22K;"Pajamos iš mokesčių inspekcijos";63789.67
 30-APR-15;VMI;22K;"Pajamos iš mokesčių inspekcijos";210051.75
 20-APR-15;VMI;22K;"Pajamos iš mokesčių inspekcijos";572569.46
@@ -1912,6 +1913,9 @@ IPLAUKU_DATA;SALTINIO_PAV;IMOKOS_KODAI;APRASYMAS;SUMA
 04-SEP-15;KITOS;91;"Kitos pajamos";350
 04-SEP-15;KITOS;91;"Kitos pajamos";900
 02-JUL-15;KITOS;91;"Kitos pajamos";7.32
+21-DEC-16;KITOS;91;"Kitos pajamos";579.24
+21-DEC-16;KITOS;91;"Kitos pajamos";579.24
+21-DEC-16;KITOS;91;"Kitos pajamos";30.75
 15-DEC-16;KITOS;91;"Kitos pajamos";79.38
 15-DEC-16;KITOS;91;"Kitos pajamos";193.66
 08-JUN-15;KITOS;91;"Kitos pajamos";28.8
@@ -1928,6 +1932,7 @@ IPLAUKU_DATA;SALTINIO_PAV;IMOKOS_KODAI;APRASYMAS;SUMA
 10-NOV-15;KITOS;91;"Kitos pajamos";4.41
 30-SEP-15;KITOS;91;"Kitos pajamos";886.24
 23-SEP-15;KITOS;91;"Kitos pajamos";247.98
+21-DEC-16;KITOS;91;"Kitos pajamos";3714.33
 08-DEC-16;KITOS;91;"Kitos pajamos";46.42
 06-MAY-15;KITOS;91;"Kitos pajamos";113.93
 20-APR-15;KITOS;91;"Kitos pajamos";9646.37
@@ -2685,6 +2690,7 @@ IPLAUKU_DATA;SALTINIO_PAV;IMOKOS_KODAI;APRASYMAS;SUMA
 28-AUG-15;KITOS;97;"Kitos pajamos";14400
 24-AUG-15;KITOS;97;"Kitos pajamos";1521.21
 16-JUL-15;KITOS;97;"Kitos pajamos";1336.88
+21-DEC-16;KITOS;97;"Kitos pajamos";55.1
 30-MAR-15;KITOS;97;"Kitos pajamos";5700
 04-JUN-15;KITOS;97;"Kitos pajamos";5500
 04-JUN-15;KITOS;97;"Kitos pajamos";918.3
@@ -3693,4 +3699,5 @@ IPLAUKU_DATA;SALTINIO_PAV;IMOKOS_KODAI;APRASYMAS;SUMA
 11-JUL-16;PASKOLA;;"Paskola pinigų srautams subalansuoti";289163.66
 12-DEC-16;PASKOLA;;"Paskola pinigų srautams subalansuoti";283703.15
 25-MAR-15;PASKOLA;;"Paskola pinigų srautams subalansuoti";4739295.65
+22-DEC-16;PASKOLA;;"Paskola pinigų srautams subalansuoti";175750.77
 08-DEC-16;PASKOLA;;"Paskola pinigų srautams subalansuoti";120873.53
