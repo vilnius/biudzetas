@@ -663,6 +663,7 @@ IPLAUKU_DATA;SALTINIO_PAV;IMOKOS_KODAI;APRASYMAS;SUMA
 04-OCT-16;VMI;22K;"Pajamos iš mokesčių inspekcijos";351109.64
 27-SEP-16;VMI;22K;"Pajamos iš mokesčių inspekcijos";227795.22
 16-SEP-16;VMI;22K;"Pajamos iš mokesčių inspekcijos";9101949.71
+28-DEC-16;VMI;22K;"Pajamos iš mokesčių inspekcijos";661187.45
 08-JUN-16;VMI;22K;"Pajamos iš mokesčių inspekcijos";185227.75
 08-JUN-16;VMI;22K;"Pajamos iš mokesčių inspekcijos";84997.2
 08-JUN-16;VMI;22K;"Pajamos iš mokesčių inspekcijos";721165.41
@@ -778,6 +779,7 @@ IPLAUKU_DATA;SALTINIO_PAV;IMOKOS_KODAI;APRASYMAS;SUMA
 07-APR-16;VMI;22K;"Pajamos iš mokesčių inspekcijos";26857.84
 07-APR-16;VMI;22K;"Pajamos iš mokesčių inspekcijos";208754.55
 07-APR-16;VMI;22K;"Pajamos iš mokesčių inspekcijos";1022339.45
+27-DEC-16;VMI;22K;"Pajamos iš mokesčių inspekcijos";691653.37
 02-MAR-16;VMI;22K;"Pajamos iš mokesčių inspekcijos";348863.65
 02-MAR-16;VMI;22K;"Pajamos iš mokesčių inspekcijos";123886.18
 03-MAR-16;VMI;22K;"Pajamos iš mokesčių inspekcijos";97742.65
@@ -1341,9 +1343,9 @@ IPLAUKU_DATA;SALTINIO_PAV;IMOKOS_KODAI;APRASYMAS;SUMA
 18-FEB-15;KITOS;;"Kitos pajamos";6.25
 04-MAY-15;KITOS;;"Kitos pajamos";480150
 29-APR-15;KITOS;;"Kitos pajamos";190000
-13-DEC-16;KITOS;99;"Kitos pajamos";187183
 21-SEP-16;KITOS;99;"Kitos pajamos";79345
 27-APR-16;KITOS;99;"Kitos pajamos";22123.91
+13-DEC-16;KITOS;99;"Kitos pajamos";187183
 21-OCT-15;KITOS;99;"Kitos pajamos";21324.96
 30-SEP-16;KITOS;99;"Kitos pajamos";401341
 05-AUG-16;KITOS;99;"Kitos pajamos";138128.77
@@ -1533,6 +1535,7 @@ IPLAUKU_DATA;SALTINIO_PAV;IMOKOS_KODAI;APRASYMAS;SUMA
 26-APR-16;KITOS;91;"Kitos pajamos";70.38
 12-APR-16;KITOS;91;"Kitos pajamos";30
 12-APR-16;KITOS;91;"Kitos pajamos";29.1
+27-DEC-16;KITOS;91;"Kitos pajamos";4.78
 02-MAR-16;KITOS;91;"Kitos pajamos";14407.49
 02-MAR-16;KITOS;91;"Kitos pajamos";30
 03-MAR-16;KITOS;91;"Kitos pajamos";4.42
@@ -2196,6 +2199,7 @@ IPLAUKU_DATA;SALTINIO_PAV;IMOKOS_KODAI;APRASYMAS;SUMA
 21-APR-16;KITOS;100;"Kitos pajamos";768.68
 08-FEB-16;KITOS;100;"Kitos pajamos";246.13
 10-OCT-16;KITOS;100;"Kitos pajamos";25.08
+27-DEC-16;KITOS;100;"Kitos pajamos";24.13
 30-JUL-16;KITOS;100;"Kitos pajamos";586.22
 04-JUL-16;KITOS;100;"Kitos pajamos";39.67
 06-APR-16;KITOS;100;"Kitos pajamos";28.84
@@ -2309,6 +2313,8 @@ IPLAUKU_DATA;SALTINIO_PAV;IMOKOS_KODAI;APRASYMAS;SUMA
 04-OCT-16;KITOS;94;"Kitos pajamos";380.62
 27-SEP-16;KITOS;94;"Kitos pajamos";141.19
 30-AUG-16;KITOS;94;"Kitos pajamos";3185.82
+27-DEC-16;KITOS;94;"Kitos pajamos";8000
+27-DEC-16;KITOS;94;"Kitos pajamos";20000
 13-APR-16;KITOS;94;"Kitos pajamos";10000
 28-OCT-16;KITOS;94;"Kitos pajamos";18900
 18-JUL-16;KITOS;94;"Kitos pajamos";144.81
@@ -2361,6 +2367,7 @@ IPLAUKU_DATA;SALTINIO_PAV;IMOKOS_KODAI;APRASYMAS;SUMA
 14-JUN-16;KITOS;94;"Kitos pajamos";1000
 13-JUN-16;KITOS;94;"Kitos pajamos";1000
 13-JUN-16;KITOS;94;"Kitos pajamos";1000
+27-DEC-16;KITOS;94;"Kitos pajamos";380.62
 26-FEB-16;KITOS;94;"Kitos pajamos";54689.85
 29-DEC-15;KITOS;94;"Kitos pajamos";3206.09
 25-NOV-15;KITOS;94;"Kitos pajamos";246.55
@@ -3354,6 +3361,7 @@ IPLAUKU_DATA;SALTINIO_PAV;IMOKOS_KODAI;APRASYMAS;SUMA
 23-NOV-16;FM;;"Pajamos iš finansų ministerijos";267333
 21-JUL-16;FM;;"Pajamos iš finansų ministerijos";1012063
 31-MAR-16;FM;;"Pajamos iš finansų ministerijos";177484
+27-DEC-16;FM;;"Pajamos iš finansų ministerijos";266670
 29-JUL-16;FM;;"Pajamos iš finansų ministerijos";240710
 15-JUL-16;FM;;"Pajamos iš finansų ministerijos";596214
 12-FEB-16;FM;;"Pajamos iš finansų ministerijos";483480
@@ -3420,6 +3428,8 @@ IPLAUKU_DATA;SALTINIO_PAV;IMOKOS_KODAI;APRASYMAS;SUMA
 07-SEP-16;FM;2M18;"Pajamos iš finansų ministerijos";103000
 26-SEP-16;FM;2M18;"Pajamos iš finansų ministerijos";216038.73
 15-JUN-16;FM;2M18;"Pajamos iš finansų ministerijos";290000
+27-DEC-16;FM;2M18;"Pajamos iš finansų ministerijos";51719.91
+27-DEC-16;FM;2M18;"Pajamos iš finansų ministerijos";15398.14
 10-OCT-16;FM;2M18;"Pajamos iš finansų ministerijos";309000
 11-DEC-15;FM;2M18;"Pajamos iš finansų ministerijos";331845.83
 02-DEC-15;FM;2M18;"Pajamos iš finansų ministerijos";231761.66
