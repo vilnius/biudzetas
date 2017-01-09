@@ -1,4 +1,5 @@
 IPLAUKU_DATA;SALTINIO_PAV;IMOKOS_KODAI;APRASYMAS;SUMA
+06-JAN-17;VMI;37;"Pajamos iš mokesčių inspekcijos";30.62
 08-NOV-16;VMI;37;"Pajamos iš mokesčių inspekcijos";.12
 17-OCT-16;VMI;37;"Pajamos iš mokesčių inspekcijos";3558.13
 19-OCT-16;VMI;37;"Pajamos iš mokesčių inspekcijos";26.11
@@ -622,6 +623,8 @@ IPLAUKU_DATA;SALTINIO_PAV;IMOKOS_KODAI;APRASYMAS;SUMA
 29-JAN-16;VMI;39;"Pajamos iš mokesčių inspekcijos";4.3
 29-NOV-16;VMI;84;"Pajamos iš mokesčių inspekcijos";345.55
 07-MAR-16;VMI;84;"Pajamos iš mokesčių inspekcijos";8600
+06-JAN-17;VMI;22K;"Pajamos iš mokesčių inspekcijos";690567
+06-JAN-17;VMI;22K;"Pajamos iš mokesčių inspekcijos";92054.88
 28-NOV-16;VMI;22K;"Pajamos iš mokesčių inspekcijos";232431.45
 13-DEC-16;VMI;22K;"Pajamos iš mokesčių inspekcijos";640099.13
 08-NOV-16;VMI;22K;"Pajamos iš mokesčių inspekcijos";421077.85
@@ -1382,6 +1385,7 @@ IPLAUKU_DATA;SALTINIO_PAV;IMOKOS_KODAI;APRASYMAS;SUMA
 05-AUG-16;KITOS;99;"Kitos pajamos";138128.77
 07-AUG-15;KITOS;99;"Kitos pajamos";66009.91
 26-MAY-15;KITOS;99;"Kitos pajamos";11847.2
+06-JAN-17;KITOS;91;"Kitos pajamos";62.91
 28-NOV-16;KITOS;91;"Kitos pajamos";2059.99
 13-DEC-16;KITOS;91;"Kitos pajamos";34.32
 28-DEC-16;KITOS;91;"Kitos pajamos";3445
@@ -2230,6 +2234,7 @@ IPLAUKU_DATA;SALTINIO_PAV;IMOKOS_KODAI;APRASYMAS;SUMA
 14-JAN-15;KITOS;90;"Kitos pajamos";516
 14-JAN-15;KITOS;90;"Kitos pajamos";301.21
 12-JAN-15;KITOS;90;"Kitos pajamos";301.2
+06-JAN-17;KITOS;100;"Kitos pajamos";24.79
 05-JAN-17;KITOS;100;"Kitos pajamos";37.51
 22-JUN-16;KITOS;100;"Kitos pajamos";420
 22-JUN-16;KITOS;100;"Kitos pajamos";82.51
@@ -2336,6 +2341,7 @@ IPLAUKU_DATA;SALTINIO_PAV;IMOKOS_KODAI;APRASYMAS;SUMA
 10-MAR-15;KITOS;96;"Kitos pajamos";87394.42
 24-MAR-15;KITOS;96;"Kitos pajamos";896318.56
 04-MAR-15;KITOS;96;"Kitos pajamos";475249.57
+06-JAN-17;KITOS;94;"Kitos pajamos";141.19
 09-DEC-16;KITOS;94;"Kitos pajamos";13000
 02-JAN-17;KITOS;94;"Kitos pajamos";579.24
 17-OCT-16;KITOS;94;"Kitos pajamos";144.81
@@ -3565,6 +3571,7 @@ IPLAUKU_DATA;SALTINIO_PAV;IMOKOS_KODAI;APRASYMAS;SUMA
 02-NOV-15;"FM STD";05;"Specialios tikslinės dotacijos";8602132
 01-SEP-15;"FM STD";05;"Specialios tikslinės dotacijos";4319764
 12-JAN-15;"FM STD";05;"Specialios tikslinės dotacijos";8538850
+04-JAN-17;"FM STD";;"Specialios tikslinės dotacijos";465800
 12-SEP-16;"FM STD";;"Specialios tikslinės dotacijos";809633
 10-NOV-16;"FM STD";;"Specialios tikslinės dotacijos";51307.5
 12-AUG-15;"FM STD";;"Specialios tikslinės dotacijos";33534
