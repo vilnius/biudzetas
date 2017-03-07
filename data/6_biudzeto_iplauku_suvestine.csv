@@ -4,6 +4,7 @@ IPLAUKU_DATA;SALTINIO_PAV;IMOKOS_KODAI;APRASYMAS;SUMA
 27-FEB-17;VMI;37;"Pajamos iš mokesčių inspekcijos";7800.84
 22-FEB-17;VMI;37;"Pajamos iš mokesčių inspekcijos";7972.9
 25-JAN-17;VMI;37;"Pajamos iš mokesčių inspekcijos";4.9
+06-MAR-17;VMI;37;"Pajamos iš mokesčių inspekcijos";79849.44
 24-JAN-17;VMI;37;"Pajamos iš mokesčių inspekcijos";59.47
 08-NOV-16;VMI;37;"Pajamos iš mokesčių inspekcijos";.12
 17-OCT-16;VMI;37;"Pajamos iš mokesčių inspekcijos";3558.13
@@ -383,6 +384,7 @@ IPLAUKU_DATA;SALTINIO_PAV;IMOKOS_KODAI;APRASYMAS;SUMA
 27-FEB-17;VMI;39;"Pajamos iš mokesčių inspekcijos";8800
 27-FEB-17;VMI;39;"Pajamos iš mokesčių inspekcijos";10000
 28-NOV-16;VMI;39;"Pajamos iš mokesčių inspekcijos";56839.16
+06-MAR-17;VMI;39;"Pajamos iš mokesčių inspekcijos";40242.02
 17-OCT-16;VMI;39;"Pajamos iš mokesčių inspekcijos";202048.13
 20-FEB-17;VMI;39;"Pajamos iš mokesčių inspekcijos";120856.52
 16-JAN-17;VMI;39;"Pajamos iš mokesčių inspekcijos";345845.45
@@ -696,6 +698,10 @@ IPLAUKU_DATA;SALTINIO_PAV;IMOKOS_KODAI;APRASYMAS;SUMA
 25-JAN-17;VMI;22K;"Pajamos iš mokesčių inspekcijos";955691.03
 25-JAN-17;VMI;22K;"Pajamos iš mokesčių inspekcijos";2328.52
 28-NOV-16;VMI;22K;"Pajamos iš mokesčių inspekcijos";232431.45
+06-MAR-17;VMI;22K;"Pajamos iš mokesčių inspekcijos";93179.45
+06-MAR-17;VMI;22K;"Pajamos iš mokesčių inspekcijos";575259.92
+06-MAR-17;VMI;22K;"Pajamos iš mokesčių inspekcijos";496311.98
+06-MAR-17;VMI;22K;"Pajamos iš mokesčių inspekcijos";748776.1
 10-FEB-17;VMI;22K;"Pajamos iš mokesčių inspekcijos";81600.41
 10-FEB-17;VMI;22K;"Pajamos iš mokesčių inspekcijos";18701.79
 10-FEB-17;VMI;22K;"Pajamos iš mokesčių inspekcijos";281780.79
@@ -1515,6 +1521,8 @@ IPLAUKU_DATA;SALTINIO_PAV;IMOKOS_KODAI;APRASYMAS;SUMA
 22-FEB-17;KITOS;91;"Kitos pajamos";2650.59
 25-JAN-17;KITOS;91;"Kitos pajamos";.03
 28-NOV-16;KITOS;91;"Kitos pajamos";2059.99
+06-MAR-17;KITOS;91;"Kitos pajamos";86.14
+06-MAR-17;KITOS;91;"Kitos pajamos";130.21
 10-FEB-17;KITOS;91;"Kitos pajamos";91.08
 24-JAN-17;KITOS;91;"Kitos pajamos";59.16
 24-JAN-17;KITOS;91;"Kitos pajamos";96.76
