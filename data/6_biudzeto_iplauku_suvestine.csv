@@ -2,6 +2,7 @@ IPLAUKU_DATA;SALTINIO_PAV;IMOKOS_KODAI;APRASYMAS;SUMA
 07-MAR-17;VMI;37;"Pajamos iš mokesčių inspekcijos";1449.79
 13-FEB-17;VMI;37;"Pajamos iš mokesčių inspekcijos";29.27
 06-JAN-17;VMI;37;"Pajamos iš mokesčių inspekcijos";30.62
+07-APR-17;VMI;37;"Pajamos iš mokesčių inspekcijos";480.98
 30-MAR-17;VMI;37;"Pajamos iš mokesčių inspekcijos";163.66
 27-FEB-17;VMI;37;"Pajamos iš mokesčių inspekcijos";7800.84
 22-FEB-17;VMI;37;"Pajamos iš mokesčių inspekcijos";7972.9
@@ -733,6 +734,7 @@ IPLAUKU_DATA;SALTINIO_PAV;IMOKOS_KODAI;APRASYMAS;SUMA
 17-JAN-17;VMI;22K;"Pajamos iš mokesčių inspekcijos";41082.85
 06-JAN-17;VMI;22K;"Pajamos iš mokesčių inspekcijos";690567
 06-JAN-17;VMI;22K;"Pajamos iš mokesčių inspekcijos";92054.88
+07-APR-17;VMI;22K;"Pajamos iš mokesčių inspekcijos";65557.63
 30-MAR-17;VMI;22K;"Pajamos iš mokesčių inspekcijos";40088.74
 27-FEB-17;VMI;22K;"Pajamos iš mokesčių inspekcijos";117988.52
 22-FEB-17;VMI;22K;"Pajamos iš mokesčių inspekcijos";264978.45
@@ -1601,6 +1603,8 @@ IPLAUKU_DATA;SALTINIO_PAV;IMOKOS_KODAI;APRASYMAS;SUMA
 22-MAR-17;KITOS;91;"Kitos pajamos";257.62
 17-JAN-17;KITOS;91;"Kitos pajamos";432.71
 06-JAN-17;KITOS;91;"Kitos pajamos";62.91
+07-APR-17;KITOS;91;"Kitos pajamos";770.8
+07-APR-17;KITOS;91;"Kitos pajamos";752
 30-MAR-17;KITOS;91;"Kitos pajamos";.13
 30-MAR-17;KITOS;91;"Kitos pajamos";64.49
 30-MAR-17;KITOS;91;"Kitos pajamos";5242.12
@@ -1639,6 +1643,7 @@ IPLAUKU_DATA;SALTINIO_PAV;IMOKOS_KODAI;APRASYMAS;SUMA
 03-JUN-16;KITOS;91;"Kitos pajamos";30
 03-JUN-16;KITOS;91;"Kitos pajamos";30
 19-MAY-16;KITOS;91;"Kitos pajamos";18.82
+07-APR-17;KITOS;91;"Kitos pajamos";1043.42
 21-MAR-17;KITOS;91;"Kitos pajamos";2050
 21-MAR-17;KITOS;91;"Kitos pajamos";4268
 09-FEB-17;KITOS;91;"Kitos pajamos";14.14
@@ -2536,6 +2541,7 @@ IPLAUKU_DATA;SALTINIO_PAV;IMOKOS_KODAI;APRASYMAS;SUMA
 05-JAN-17;KITOS;100;"Kitos pajamos";37.51
 22-JUN-16;KITOS;100;"Kitos pajamos";420
 22-JUN-16;KITOS;100;"Kitos pajamos";82.51
+07-APR-17;KITOS;100;"Kitos pajamos";21.85
 04-JAN-17;KITOS;100;"Kitos pajamos";69.52
 04-OCT-16;KITOS;100;"Kitos pajamos";25.99
 27-SEP-16;KITOS;100;"Kitos pajamos";25.88
@@ -3777,6 +3783,7 @@ IPLAUKU_DATA;SALTINIO_PAV;IMOKOS_KODAI;APRASYMAS;SUMA
 28-DEC-16;KITOS;;"Kitos pajamos";78543.65
 30-MAR-17;KITOS;;"Kitos pajamos";1659.68
 28-FEB-17;KITOS;;"Kitos pajamos";446.15
+07-APR-17;KITOS;SOCMIN;"Kitos pajamos";358100
 11-JAN-17;KITOS;SOCMIN;"Kitos pajamos";358500
 08-JUL-16;KITOS;SOCMIN;"Kitos pajamos";198900
 08-APR-16;KITOS;SOCMIN;"Kitos pajamos";498000
@@ -3816,6 +3823,7 @@ IPLAUKU_DATA;SALTINIO_PAV;IMOKOS_KODAI;APRASYMAS;SUMA
 09-APR-15;FM;SV73F;"Pajamos iš finansų ministerijos";95590
 08-OCT-15;FM;SV73F;"Pajamos iš finansų ministerijos";79658
 12-JAN-15;FM;SV73F;"Pajamos iš finansų ministerijos";47795
+07-APR-17;FM;SV75F;"Pajamos iš finansų ministerijos";140000
 11-JAN-17;FM;SV75F;"Pajamos iš finansų ministerijos";141000
 08-JUL-16;FM;SV75F;"Pajamos iš finansų ministerijos";164800
 08-APR-16;FM;SV75F;"Pajamos iš finansų ministerijos";164800
@@ -4092,6 +4100,7 @@ IPLAUKU_DATA;SALTINIO_PAV;IMOKOS_KODAI;APRASYMAS;SUMA
 09-OCT-15;"FM STD";01;"Specialios tikslinės dotacijos";2368
 10-APR-15;"FM STD";01;"Specialios tikslinės dotacijos";2368
 13-JAN-15;"FM STD";01;"Specialios tikslinės dotacijos";2367
+07-APR-17;"FM STD";01;"Specialios tikslinės dotacijos";875
 07-JUL-16;"FM STD";01;"Specialios tikslinės dotacijos";875
 07-OCT-16;"FM STD";01;"Specialios tikslinės dotacijos";875
 07-OCT-15;"FM STD";01;"Specialios tikslinės dotacijos";875
@@ -4118,6 +4127,7 @@ IPLAUKU_DATA;SALTINIO_PAV;IMOKOS_KODAI;APRASYMAS;SUMA
 29-JAN-16;"FM STD";01;"Specialios tikslinės dotacijos";6500
 30-JAN-15;"FM STD";01;"Specialios tikslinės dotacijos";6500
 07-APR-15;"FM STD";01;"Specialios tikslinės dotacijos";6500
+07-APR-17;"FM STD";01;"Specialios tikslinės dotacijos";37200
 24-JAN-17;"FM STD";01;"Specialios tikslinės dotacijos";37200
 07-JUL-16;"FM STD";01;"Specialios tikslinės dotacijos";37100
 08-APR-16;"FM STD";01;"Specialios tikslinės dotacijos";37200
@@ -4127,6 +4137,7 @@ IPLAUKU_DATA;SALTINIO_PAV;IMOKOS_KODAI;APRASYMAS;SUMA
 08-APR-15;"FM STD";01;"Specialios tikslinės dotacijos";36935
 08-OCT-15;"FM STD";01;"Specialios tikslinės dotacijos";36935
 20-JAN-15;"FM STD";01;"Specialios tikslinės dotacijos";36935
+07-APR-17;"FM STD";01;"Specialios tikslinės dotacijos";7500
 07-FEB-17;"FM STD";01;"Specialios tikslinės dotacijos";4033.33
 07-APR-16;"FM STD";01;"Specialios tikslinės dotacijos";6000
 07-OCT-16;"FM STD";01;"Specialios tikslinės dotacijos";5700
@@ -4138,6 +4149,7 @@ IPLAUKU_DATA;SALTINIO_PAV;IMOKOS_KODAI;APRASYMAS;SUMA
 08-APR-15;"FM STD";01;"Specialios tikslinės dotacijos";4924.4
 08-OCT-15;"FM STD";01;"Specialios tikslinės dotacijos";4924
 12-JAN-15;"FM STD";01;"Specialios tikslinės dotacijos";4894.6
+07-APR-17;"FM STD";01;"Specialios tikslinės dotacijos";46300
 07-JUL-16;"FM STD";01;"Specialios tikslinės dotacijos";42600
 10-JAN-17;"FM STD";01;"Specialios tikslinės dotacijos";46200
 08-APR-16;"FM STD";01;"Specialios tikslinės dotacijos";42600
@@ -4168,6 +4180,7 @@ IPLAUKU_DATA;SALTINIO_PAV;IMOKOS_KODAI;APRASYMAS;SUMA
 10-JUL-15;"FM STD";01;"Specialios tikslinės dotacijos";5944
 10-APR-15;"FM STD";01;"Specialios tikslinės dotacijos";5945
 23-JAN-15;"FM STD";01;"Specialios tikslinės dotacijos";5945
+07-APR-17;"FM STD";01;"Specialios tikslinės dotacijos";172500
 07-JUL-16;"FM STD";01;"Specialios tikslinės dotacijos";171700
 07-APR-16;"FM STD";01;"Specialios tikslinės dotacijos";171800
 10-OCT-16;"FM STD";01;"Specialios tikslinės dotacijos";171700
@@ -4177,6 +4190,7 @@ IPLAUKU_DATA;SALTINIO_PAV;IMOKOS_KODAI;APRASYMAS;SUMA
 10-APR-15;"FM STD";01;"Specialios tikslinės dotacijos";169573
 09-OCT-15;"FM STD";01;"Specialios tikslinės dotacijos";169572
 12-JAN-15;"FM STD";01;"Specialios tikslinės dotacijos";169573
+07-APR-17;"FM STD";01;"Specialios tikslinės dotacijos";3800
 07-JUL-16;"FM STD";01;"Specialios tikslinės dotacijos";4200
 07-APR-16;"FM STD";01;"Specialios tikslinės dotacijos";4200
 10-OCT-16;"FM STD";01;"Specialios tikslinės dotacijos";4100
@@ -4243,6 +4257,7 @@ IPLAUKU_DATA;SALTINIO_PAV;IMOKOS_KODAI;APRASYMAS;SUMA
 09-NOV-16;PASKOLA;;"Paskola pinigų srautams subalansuoti";453196.03
 23-SEP-16;PASKOLA;;"Paskola pinigų srautams subalansuoti";82520.1
 13-JUN-16;PASKOLA;;"Paskola pinigų srautams subalansuoti";5229808.59
+10-APR-17;PASKOLA;;"Paskola pinigų srautams subalansuoti";429468.34
 21-NOV-16;PASKOLA;;"Paskola pinigų srautams subalansuoti";169021.88
 06-OCT-16;PASKOLA;;"Paskola pinigų srautams subalansuoti";526493.63
 05-OCT-16;PASKOLA;;"Paskola pinigų srautams subalansuoti";421042.79
