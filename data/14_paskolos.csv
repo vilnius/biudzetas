@@ -1417,6 +1417,10 @@ ORG_ID;PASKOLOS_DAVEJAS;SUTARTIES_NR;PASKOLOS_KLASIFIKACIJA;SKOLOS_TIPAS;VALIUTA
 1366;"Nordic Investment Bank";L5248;S;PALUKANOS;EUR;"Interest due/L5248";2017;201704;07-APR-17;Įsipareigojimas;Standard;"Interest due/L5248";Įsipareigojimas;87826.7
 1366;"Nordic Investment Bank";L5355;S;PALUKANOS;EUR;"Interest Due /L5355";2017;201704;07-APR-17;Įsipareigojimas;Standard;"Interest Due /L5355";Įsipareigojimas;49690.76
 1366;"Nordic Investment Bank";"L 5440";S;PALUKANOS;EUR;"Interest Due/L5440";2017;201704;07-APR-17;Įsipareigojimas;Standard;"Interest Due/L5440";Įsipareigojimas;39185.38
+1366;"OP Corporate Bank plc";580760;S;PASKOLA;EUR;op/gavimas2017/03;2017;201704;10-APR-17;Įsipareigojimas;Standard;op/gavimas2017/03;Įsipareigojimas;429468.34
+1366;"SIA ""UniCredit Leasing""";3300018-01;S;PASKOLA;EUR;Padengimas;2017;201703;15-MAR-17;Įsipareigojimas;"Credit Memo";Padengimas;Įsipareigojimas;-3861593
+1366;"Šiaulių bankas, AB";KS-2015-003-03;S;PASKOLA;EUR;padengimas;2017;201703;15-MAR-17;Įsipareigojimas;"Credit Memo";padengimas;Įsipareigojimas;-15823675
+1366;"OP Corporate Bank plc";580760-89501010;S;PASKOLA;EUR;perkredi/1010;2017;201703;15-MAR-17;Įsipareigojimas;Standard;perkredi/1010;Įsipareigojimas;19685268
 112;"Valstybinė mokesčių inspekcija prie LRFM";14-09-41;S;PALUKANOS;LTL;3863;2008;200801;31-JAN-08;Mokėjimas;Standard;1;Mokėjimas;-2475.1
 119;"Nordea Bank AB Lietuvos skyrius";KS02/07/03;S;PALUKANOS;LTL;palūkanos/03;2009;200901;19-JAN-09;Mokėjimas;Standard;78;Mokėjimas;-51420.79
 119;"SEB bankas";0020312020094/09;S;PALUKANOS;LTL;"palū seb-09";2009;200901;30-JAN-09;Mokėjimas;Standard;10000040;Mokėjimas;-36794.42
@@ -1707,6 +1711,7 @@ ORG_ID;PASKOLOS_DAVEJAS;SUTARTIES_NR;PASKOLOS_KLASIFIKACIJA;SKOLOS_TIPAS;VALIUTA
 1366;"LR finansų ministerija";691;V;PALUKANOS;EUR;palūk/691;2017;201703;14-MAR-17;Mokėjimas;Standard;13379;Mokėjimas;-33253.83
 1366;"LR finansų ministerija";677;V;PALUKANOS;EUR;palūk/677;2017;201703;14-MAR-17;Mokėjimas;Standard;13380;Mokėjimas;-14842.03
 1366;"OP Corporate Bank plc";580760-89501010;S;PALUKANOS;EUR;palū/2017/03/0657;2017;201703;31-MAR-17;Mokėjimas;Standard;13571;Mokėjimas;-24586.68
+1366;"SIA ""UniCredit Leasing""";3300018-01;S;PASKOLA;EUR;Padengimas;2017;201703;15-MAR-17;Mokėjimas;"Credit Memo";31;Mokėjimas;3861593
 112;"Valstybinė mokesčių inspekcija prie LRFM";;;SAVIVALDYBES_PRISIIMTA_SKOLA;LTL;"AVMI Nr. 14-11-1";2008;200801;31-JAN-08;Mokėjimas;Standard;2;Mokėjimas;-32610
 112;"Valstybinė mokesčių inspekcija prie LRFM";14-09-41;S;PALUKANOS;LTL;4211;2008;200804;30-APR-08;Mokėjimas;Standard;61;Mokėjimas;-1956.6
 119;"Nordea Bank AB Lietuvos skyrius";KS04/07/05;S;PALUKANOS;LTL;Nordea/05;2009;200905;04-MAY-09;Mokėjimas;Standard;905;Mokėjimas;-32447.03
@@ -2510,6 +2515,7 @@ ORG_ID;PASKOLOS_DAVEJAS;SUTARTIES_NR;PASKOLOS_KLASIFIKACIJA;SKOLOS_TIPAS;VALIUTA
 1366;"LR finansų ministerija";"NR. 620";V;PASKOLA;EUR;Finmin/620/pay;2017;201703;08-MAR-17;Mokėjimas;"Credit Memo";13339;Mokėjimas;19322.86
 1366;"DNB bankas, AB";K-2400-2012-902;S;PALUKANOS;EUR;2017/902/03;2017;201703;31-MAR-17;Mokėjimas;Standard;13597;Mokėjimas;-23609.4
 1366;"Nordic Investment Bank";L5248;S;PALUKANOS;EUR;"Interest due/L5248";2017;201704;07-APR-17;Mokėjimas;Standard;13653;Mokėjimas;-87826.7
+1366;"SIA ""UniCredit Leasing""";3300018-01;S;PASKOLA;EUR;Loan/33000018-02;2017;201703;15-MAR-17;Mokėjimas;Standard;31;Mokėjimas;-3861593
 112;"Valstybinė mokesčių inspekcija prie LRFM";;;SAVIVALDYBES_PRISIIMTA_SKOLA;LTL;"AVMI Nr. 14-11-1.";2008;200811;28-NOV-08;Mokėjimas;Standard;107;Mokėjimas;-32610
 119;"SEB bankas";0020312020094/09;S;PASKOLA;LTL;SEB/09;2009;200904;14-APR-09;Mokėjimas;Standard;10000061;Mokėjimas;-1044116.36
 112;"Valstybinė mokesčių inspekcija prie LRFM";;;SAVIVALDYBES_PRISIIMTA_SKOLA;LTL;"AVMI Nr. 14-11-1.";2009;200906;30-JUN-09;Mokėjimas;Standard;157;Mokėjimas;-32610
@@ -2821,6 +2827,7 @@ ORG_ID;PASKOLOS_DAVEJAS;SUTARTIES_NR;PASKOLOS_KLASIFIKACIJA;SKOLOS_TIPAS;VALIUTA
 1366;"LR finansų ministerija";"NR. 620";V;PASKOLA;EUR;Gav.pay/620/2011/07/21;2017;201703;08-MAR-17;Mokėjimas;"Credit Memo";13343;Mokėjimas;66416.52
 1366;"LR finansų ministerija";677;V;PASKOLA;EUR;paskol/677;2017;201703;14-MAR-17;Mokėjimas;Standard;13384;Mokėjimas;-385707.57
 1366;"SEB bankas";A64-19(3.4.-FN-1);S;PASKOLA;EUR;"SEB A64-19";2017;201702;07-FEB-17;Mokėjimas;Standard;10000523;Mokėjimas;-1387308.85
+1366;"Šiaulių bankas, AB";KS-2015-003-03;S;PASKOLA;EUR;padengimas;2017;201703;15-MAR-17;Mokėjimas;"Credit Memo";32;Mokėjimas;15823675
 119;"Nordea Bank AB Lietuvos skyrius";KS04/07/05;S;PALUKANOS;LTL;KS02/07/05.01;2009;200901;05-JAN-09;Mokėjimas;Standard;25;Mokėjimas;-95816.58
 112;"Valstybinė mokesčių inspekcija prie LRFM";;;SAVIVALDYBES_PRISIIMTA_SKOLA;LTL;"AVMI Nr. 14-11-1.";2008;200808;29-AUG-08;Mokėjimas;Standard;81;Mokėjimas;-32610
 119;"Nordea Bank AB Lietuvos skyrius";KS02/07/02;S;PALUKANOS;LTL;"Nordea/02 palūkanos";2009;200902;09-FEB-09;Mokėjimas;Standard;156;Mokėjimas;-239725.18
@@ -2928,6 +2935,7 @@ ORG_ID;PASKOLOS_DAVEJAS;SUTARTIES_NR;PASKOLOS_KLASIFIKACIJA;SKOLOS_TIPAS;VALIUTA
 1366;"LR finansų ministerija";"NR. 620";V;PASKOLA;EUR;gav.pay/2012/02/620;2017;201703;08-MAR-17;Mokėjimas;"Credit Memo";13348;Mokėjimas;27420.3
 1366;"LR finansų ministerija";"NR. 620";V;PASKOLA;EUR;Gavimas/2012/07/620;2017;201703;08-MAR-17;Mokėjimas;Standard;13349;Mokėjimas;-24956.91
 1366;"SEB bankas";A64-19(3.4.-FN-1);S;PASKOLA;EUR;"SEB A64-19";2017;201703;01-MAR-17;Mokėjimas;Standard;10000519;Mokėjimas;1387308.85
+1366;"Šiaulių bankas, AB";KS-2015-003-03;S;PASKOLA;EUR;KS-2015-003-03;2017;201703;15-MAR-17;Mokėjimas;Standard;32;Mokėjimas;-15823675
 112;"Valstybinė mokesčių inspekcija prie LRFM";;;SAVIVALDYBES_PRISIIMTA_SKOLA;LTL;"AVMI Nr. 14-11-1";2008;200805;30-MAY-08;Mokėjimas;Standard;58;Mokėjimas;-32610
 112;"Valstybinė mokesčių inspekcija prie LRFM";;;SAVIVALDYBES_PRISIIMTA_SKOLA;LTL;"AVMI Nr. 14-11-1";2008;200806;30-JUN-08;Mokėjimas;Standard;63;Mokėjimas;-32610
 112;"UniCredit Bank AS LT";;;SAVIVALDYBES_PRISIIMTA_SKOLA;LTL;"2003-01-30 Nr. 148V, 2002-11-20 715T";2008;200806;13-JUN-08;Mokėjimas;Standard;60;Mokėjimas;-1456000
