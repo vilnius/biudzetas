@@ -1421,6 +1421,7 @@ ORG_ID;PASKOLOS_DAVEJAS;SUTARTIES_NR;PASKOLOS_KLASIFIKACIJA;SKOLOS_TIPAS;VALIUTA
 1366;"SIA ""UniCredit Leasing""";3300018-01;S;PASKOLA;EUR;Padengimas;2017;201703;15-MAR-17;Įsipareigojimas;"Credit Memo";Padengimas;Įsipareigojimas;-3861593
 1366;"Šiaulių bankas, AB";KS-2015-003-03;S;PASKOLA;EUR;padengimas;2017;201703;15-MAR-17;Įsipareigojimas;"Credit Memo";padengimas;Įsipareigojimas;-15823675
 1366;"OP Corporate Bank plc";580760-89501010;S;PASKOLA;EUR;perkredi/1010;2017;201703;15-MAR-17;Įsipareigojimas;Standard;perkredi/1010;Įsipareigojimas;19685268
+1366;"OP Corporate Bank plc";580760;S;PASKOLA;EUR;op/gavimas2017/04;2017;201704;10-APR-17;Įsipareigojimas;Standard;op/gavimas2017/04;Įsipareigojimas;232208.24
 112;"Valstybinė mokesčių inspekcija prie LRFM";14-09-41;S;PALUKANOS;LTL;3863;2008;200801;31-JAN-08;Mokėjimas;Standard;1;Mokėjimas;-2475.1
 119;"Nordea Bank AB Lietuvos skyrius";KS02/07/03;S;PALUKANOS;LTL;palūkanos/03;2009;200901;19-JAN-09;Mokėjimas;Standard;78;Mokėjimas;-51420.79
 119;"SEB bankas";0020312020094/09;S;PALUKANOS;LTL;"palū seb-09";2009;200901;30-JAN-09;Mokėjimas;Standard;10000040;Mokėjimas;-36794.42
