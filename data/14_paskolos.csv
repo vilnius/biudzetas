@@ -1417,7 +1417,6 @@ ORG_ID;PASKOLOS_DAVEJAS;SUTARTIES_NR;PASKOLOS_KLASIFIKACIJA;SKOLOS_TIPAS;VALIUTA
 1366;"SIA ""UniCredit Leasing""";3300018-01;S;PASKOLA;EUR;Padengimas;2017;201703;15-MAR-17;Įsipareigojimas;"Credit Memo";Padengimas;Įsipareigojimas;-3861593
 1366;"Šiaulių bankas, AB";KS-2015-003-03;S;PASKOLA;EUR;padengimas;2017;201703;15-MAR-17;Įsipareigojimas;"Credit Memo";padengimas;Įsipareigojimas;-15823675
 1366;"OP Corporate Bank plc";580760-89501010;S;PASKOLA;EUR;perkredi/1010;2017;201703;15-MAR-17;Įsipareigojimas;Standard;perkredi/1010;Įsipareigojimas;19685268
-1366;"OP Corporate Bank plc";580760;S;PASKOLA;EUR;op/gavimas2017/06;2017;201704;10-APR-17;Įsipareigojimas;Standard;op/gavimas2017/06;Įsipareigojimas;146816.16
 1366;"OP Corporate Bank plc";580760;S;PASKOLA;EUR;"Op gav/10";2017;201704;28-APR-17;Įsipareigojimas;Standard;"Op gav/10";Įsipareigojimas;146816.16
 1366;"OP Corporate Bank plc";580760;S;PASKOLA;EUR;op/gavimas2017/11;2017;201704;24-APR-17;Įsipareigojimas;Standard;op/gavimas2017/11;Įsipareigojimas;717970.25
 1366;"OP Corporate Bank plc";580760;S;PASKOLA;EUR;op/gavimas2017/08;2017;201704;18-APR-17;Įsipareigojimas;Standard;op/gavimas2017/08;Įsipareigojimas;232208.24
@@ -1426,13 +1425,15 @@ ORG_ID;PASKOLOS_DAVEJAS;SUTARTIES_NR;PASKOLOS_KLASIFIKACIJA;SKOLOS_TIPAS;VALIUTA
 1366;"OP Corporate Bank plc";580760;S;PALUKANOS;EUR;palūk/sutart.1010;2017;201704;28-APR-17;Įsipareigojimas;Standard;palūk/sutart.1010;Įsipareigojimas;26793.84
 1366;"OP Corporate Bank plc";580760;S;PALUKANOS;EUR;palūk/sutart0657;2017;201704;28-APR-17;Įsipareigojimas;Standard;palūk/sutart0657;Įsipareigojimas;25318.71
 1366;"DNB bankas, AB";K-2400-213-1485;S;PALUKANOS;EUR;1485/17/04;2017;201704;28-APR-17;Įsipareigojimas;Standard;1485/17/04;Įsipareigojimas;10370.99
-1366;"DNB bankas, AB";K-2400-213-1485;S;PALUKANOS;EUR;566/2017/04;2017;201704;28-APR-17;Įsipareigojimas;Standard;566/2017/04;Įsipareigojimas;9929.52
 1366;"DNB bankas, AB";K-2400-213-1485;S;PALUKANOS;EUR;566/17/04;2017;201704;28-APR-17;Įsipareigojimas;Standard;566/17/04;Įsipareigojimas;9929.52
 1366;"DNB bankas, AB";K-2400-213-1485;S;PALUKANOS;EUR;902/17/04;2017;201704;28-APR-17;Įsipareigojimas;Standard;902/17/04;Įsipareigojimas;21324.62
 1366;"DNB bankas, AB";K-2400-213-1485;S;PALUKANOS;EUR;931/17/04;2017;201704;28-APR-17;Įsipareigojimas;Standard;931/17/04;Įsipareigojimas;12567.89
 1366;"European Investment Bank";"FI NO. 85.924";S;PALUKANOS;EUR;05/11;2017;201705;11-MAY-17;Įsipareigojimas;Standard;05/11;Įsipareigojimas;11074.98
 1366;"Nordic Investment Bank";L15;S;PALUKANOS;EUR;L5003/05/12;2017;201705;12-MAY-17;Įsipareigojimas;Standard;L5003/05/12;Įsipareigojimas;56692.53
 1366;"European Investment Bank";"FI NO. 85.924";S;PALUKANOS;EUR;Inter/Due;2017;201705;11-MAY-17;Įsipareigojimas;Standard;Inter/Due;Įsipareigojimas;11074.98
+1366;"OP Corporate Bank plc";580760;S;PASKOLA;EUR;"Op gav/11";2017;201705;17-MAY-17;Įsipareigojimas;Standard;"Op gav/11";Įsipareigojimas;570430.79
+1366;"OP Corporate Bank plc";580760;S;PASKOLA;EUR;"Op gav/12";2017;201705;17-MAY-17;Įsipareigojimas;Standard;"Op gav/12";Įsipareigojimas;472181.15
+1366;"OP Corporate Bank plc";580760;S;PASKOLA;EUR;"Op gav/13";2017;201705;19-MAY-17;Įsipareigojimas;Standard;"Op gav/13";Įsipareigojimas;88720.27
 112;"Valstybinė mokesčių inspekcija prie LRFM";14-09-41;S;PALUKANOS;LTL;3863;2008;200801;31-JAN-08;Mokėjimas;Standard;1;Mokėjimas;-2475.1
 119;"Nordea Bank AB Lietuvos skyrius";KS02/07/03;S;PALUKANOS;LTL;palūkanos/03;2009;200901;19-JAN-09;Mokėjimas;Standard;78;Mokėjimas;-51420.79
 119;"SEB bankas";0020312020094/09;S;PALUKANOS;LTL;"palū seb-09";2009;200901;30-JAN-09;Mokėjimas;Standard;10000040;Mokėjimas;-36794.42
