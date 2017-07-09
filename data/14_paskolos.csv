@@ -1441,13 +1441,15 @@ ORG_ID;PASKOLOS_DAVEJAS;SUTARTIES_NR;PASKOLOS_KLASIFIKACIJA;SKOLOS_TIPAS;VALIUTA
 1366;"OP Corporate Bank plc";580760;S;PASKOLA;EUR;"Op gav/11/n";2017;201705;17-MAY-17;Įsipareigojimas;Standard;"Op gav/11/n";Įsipareigojimas;570430.79
 1366;"OP Corporate Bank plc";580760;S;PASKOLA;EUR;"Gavimas 01.1";2017;201703;13-MAR-17;Įsipareigojimas;Standard;"Gavimas 01.1";Įsipareigojimas;638455.97
 1366;"OP Corporate Bank plc";580760;S;PASKOLA;EUR;"Gavimas 01.2";2017;201703;31-MAR-17;Įsipareigojimas;Standard;"Gavimas 01.2";Įsipareigojimas;58844.06
-1366;"OP Corporate Bank plc";580760;S;PASKOLA;EUR;"Op gav/14/n";2017;201706;19-JUN-17;Įsipareigojimas;Standard;"Op gav/14/n";Įsipareigojimas;104361.02
 1366;"DNB bankas, AB";K-2400-213-1485;S;PALUKANOS;EUR;931/17/06;2017;201706;29-JUN-17;Įsipareigojimas;Standard;931/17/06;Įsipareigojimas;13465.59
 1366;"DNB bankas, AB";K-2400-213-1485;S;PALUKANOS;EUR;1485/17/06;2017;201706;29-JUN-17;Įsipareigojimas;Standard;1485/17/06;Įsipareigojimas;11111.78
 1366;"DNB bankas, AB";K-2400-213-1485;S;PALUKANOS;EUR;902/17/06;2017;201706;29-JUN-17;Įsipareigojimas;Standard;902/17/06;Įsipareigojimas;22847.81
 1366;"DNB bankas, AB";K-2400-213-1485;S;PALUKANOS;EUR;566/17/06;2017;201706;29-JUN-17;Įsipareigojimas;Standard;566/17/06;Įsipareigojimas;10638.77
 1366;"OP Corporate Bank plc";580760;S;PALUKANOS;EUR;Op/pal/0657/06;2017;201706;29-JUN-17;Įsipareigojimas;Standard;Op/pal/0657/06;Įsipareigojimas;30173.54
 1366;"OP Corporate Bank plc";580760;S;PALUKANOS;EUR;Op/pal/1010/17/06;2017;201706;29-JUN-17;Įsipareigojimas;Standard;Op/pal/1010/17/06;Įsipareigojimas;28707.68
+1366;"Nordic Investment Bank";L5685;S;PALUKANOS;EUR;L5685/2017/07;2017;201707;03-JUL-17;Įsipareigojimas;Standard;L5685/2017/07;Įsipareigojimas;101942.53
+1366;"OP Corporate Bank plc";580760;S;PASKOLA;EUR;"Op gav/15/n";2017;201706;12-JUN-17;Įsipareigojimas;Standard;"Op gav/15/n";Įsipareigojimas;104361.02
+1366;"OP Corporate Bank plc";580760;S;PASKOLA;EUR;"Op gav/16/";2017;201706;23-JUN-17;Įsipareigojimas;Standard;"Op gav/16/";Įsipareigojimas;416313.06
 112;"Valstybinė mokesčių inspekcija prie LRFM";14-09-41;S;PALUKANOS;LTL;3863;2008;200801;31-JAN-08;Mokėjimas;Standard;1;Mokėjimas;-2475.1
 119;"Nordea Bank AB Lietuvos skyrius";KS02/07/03;S;PALUKANOS;LTL;palūkanos/03;2009;200901;19-JAN-09;Mokėjimas;Standard;78;Mokėjimas;-51420.79
 119;"SEB bankas";0020312020094/09;S;PALUKANOS;LTL;"palū seb-09";2009;200901;30-JAN-09;Mokėjimas;Standard;10000040;Mokėjimas;-36794.42
@@ -2173,6 +2175,7 @@ ORG_ID;PASKOLOS_DAVEJAS;SUTARTIES_NR;PASKOLOS_KLASIFIKACIJA;SKOLOS_TIPAS;VALIUTA
 1366;"Nordic Investment Bank";L5248;S;PASKOLA;EUR;L5248/2/Gavim/2010gavimas;2017;201704;07-APR-17;Mokėjimas;Standard;13652;Mokėjimas;-722605.88
 1366;"Nordic Investment Bank";"L 5440";S;PASKOLA;EUR;L5440/gavimas/2;2017;201704;07-APR-17;Mokėjimas;Standard;13656;Mokėjimas;-227714.76
 1366;"Nordic Investment Bank";L15;S;PALUKANOS;EUR;L5003/05/12;2017;201705;12-MAY-17;Mokėjimas;Standard;13933;Mokėjimas;-56692.53
+1366;"Nordic Investment Bank";L5685;S;PALUKANOS;EUR;L5685/2017/07;2017;201707;03-JUL-17;Mokėjimas;Standard;14400;Mokėjimas;-101942.53
 112;"UniCredit Bank AS LT";64;S;PALUKANOS;LTL;4953.;2008;200809;15-SEP-08;Mokėjimas;Standard;116;Mokėjimas;-119062.38
 119;"SEB bankas";A64-40/001061201023-21;S;PASKOLA;LTL;"K/S A64-40";2009;200901;07-JAN-09;Mokėjimas;Standard;10000056;Mokėjimas;-1729911.5
 119;"SEB bankas";0040512020516-05;S;PASKOLA;LTL;"KS 20516-05";2009;200904;21-APR-09;Mokėjimas;Standard;10000063;Mokėjimas;-571428.52
@@ -3096,3 +3099,4 @@ ORG_ID;PASKOLOS_DAVEJAS;SUTARTIES_NR;PASKOLOS_KLASIFIKACIJA;SKOLOS_TIPAS;VALIUTA
 1366;"LR finansų ministerija";"NR. 620";V;PASKOLA;EUR;gavimas/620/2011/12;2017;201703;08-MAR-17;Mokėjimas;Standard;13346;Mokėjimas;-58574.43
 1366;"DNB bankas, AB";K-2400-213-1485;S;PALUKANOS;EUR;1485/17/0311482,17;2017;201703;31-MAR-17;Mokėjimas;Standard;13595;Mokėjimas;-11482.17
 1366;"OP Corporate Bank plc";580760;S;PALUKANOS;EUR;Op/pal/1010/17/06;2017;201706;29-JUN-17;Mokėjimas;Standard;14384;Mokėjimas;-28707.68
+1366;"Nordic Investment Bank";L5685;S;PASKOLA;EUR;gavimas/L5685;2017;201707;03-JUL-17;Mokėjimas;Standard;14401;Mokėjimas;-579310.34
