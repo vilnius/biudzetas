@@ -466,6 +466,7 @@ IPLAUKU_DATA;SALTINIO_PAV;IMOKOS_KODAI;APRASYMAS;SUMA
 31-MAR-17;VMI;39;"Pajamos iš mokesčių inspekcijos";11000
 31-MAR-17;VMI;39;"Pajamos iš mokesčių inspekcijos";1600
 31-MAR-17;VMI;39;"Pajamos iš mokesčių inspekcijos";49900
+04-SEP-17;VMI;39;"Pajamos iš mokesčių inspekcijos";25386.13
 10-JUL-17;VMI;39;"Pajamos iš mokesčių inspekcijos";50873.97
 30-JUN-17;VMI;39;"Pajamos iš mokesčių inspekcijos";49329.1
 05-JUN-17;VMI;39;"Pajamos iš mokesčių inspekcijos";29047.34
@@ -869,6 +870,7 @@ IPLAUKU_DATA;SALTINIO_PAV;IMOKOS_KODAI;APRASYMAS;SUMA
 18-JUL-17;VMI;22K;"Pajamos iš mokesčių inspekcijos";1854475.55
 31-MAR-17;VMI;22K;"Pajamos iš mokesčių inspekcijos";792556.57
 07-MAR-17;VMI;22K;"Pajamos iš mokesčių inspekcijos";61616.37
+04-SEP-17;VMI;22K;"Pajamos iš mokesčių inspekcijos";614125.15
 29-AUG-17;VMI;22K;"Pajamos iš mokesčių inspekcijos";204290.8
 04-AUG-17;VMI;22K;"Pajamos iš mokesčių inspekcijos";19399.19
 04-AUG-17;VMI;22K;"Pajamos iš mokesčių inspekcijos";500000
@@ -1924,11 +1926,13 @@ IPLAUKU_DATA;SALTINIO_PAV;IMOKOS_KODAI;APRASYMAS;SUMA
 05-AUG-16;KITOS;99;"Kitos pajamos";138128.77
 07-AUG-15;KITOS;99;"Kitos pajamos";66009.91
 26-MAY-15;KITOS;99;"Kitos pajamos";11847.2
+04-SEP-17;KITOS;91;"Kitos pajamos";11.77
 23-AUG-17;KITOS;91;"Kitos pajamos";8.1
 23-AUG-17;KITOS;91;"Kitos pajamos";179.2
 23-AUG-17;KITOS;91;"Kitos pajamos";194.38
 22-MAR-17;KITOS;91;"Kitos pajamos";108
 22-MAR-17;KITOS;91;"Kitos pajamos";257.62
+04-SEP-17;KITOS;91;"Kitos pajamos";886.24
 03-AUG-17;KITOS;91;"Kitos pajamos";19.27
 27-JUL-17;KITOS;91;"Kitos pajamos";215.02
 10-JUL-17;KITOS;91;"Kitos pajamos";770.8
@@ -2843,6 +2847,7 @@ IPLAUKU_DATA;SALTINIO_PAV;IMOKOS_KODAI;APRASYMAS;SUMA
 07-MAR-17;KITOS;91;"Kitos pajamos";26.98
 20-DEC-16;KITOS;91;"Kitos pajamos";1665
 18-JUL-17;KITOS;90;"Kitos pajamos";3240
+04-SEP-17;KITOS;90;"Kitos pajamos";23.59
 26-APR-17;KITOS;90;"Kitos pajamos";306
 26-APR-17;KITOS;90;"Kitos pajamos";540
 09-MAR-17;KITOS;90;"Kitos pajamos";780
@@ -4920,6 +4925,7 @@ IPLAUKU_DATA;SALTINIO_PAV;IMOKOS_KODAI;APRASYMAS;SUMA
 09-DEC-16;"FM STD";KPPP;"Specialios tikslinės dotacijos";1800128.77
 09-DEC-15;"FM STD";KPPP;"Specialios tikslinės dotacijos";1049307.23
 28-APR-17;PASKOLA;;"Paskola pinigų srautams subalansuoti";146816.16
+28-AUG-17;PASKOLA;;"Paskola pinigų srautams subalansuoti";5000000
 23-JUN-17;PASKOLA;;"Paskola pinigų srautams subalansuoti";416313.06
 12-JUN-17;PASKOLA;;"Paskola pinigų srautams subalansuoti";104361.02
 30-NOV-16;PASKOLA;;"Paskola pinigų srautams subalansuoti";363774.45
