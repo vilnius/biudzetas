@@ -9,6 +9,7 @@ IPLAUKU_DATA;SALTINIO_PAV;IMOKOS_KODAI;APRASYMAS;SUMA
 05-JUN-17;VMI;37;"Pajamos iš mokesčių inspekcijos";636.98
 13-FEB-17;VMI;37;"Pajamos iš mokesčių inspekcijos";29.27
 06-JAN-17;VMI;37;"Pajamos iš mokesčių inspekcijos";30.62
+09-OCT-17;VMI;37;"Pajamos iš mokesčių inspekcijos";4.17
 04-OCT-17;VMI;37;"Pajamos iš mokesčių inspekcijos";2.13
 17-AUG-17;VMI;37;"Pajamos iš mokesčių inspekcijos";11305.92
 07-SEP-17;VMI;37;"Pajamos iš mokesčių inspekcijos";.55
@@ -484,6 +485,7 @@ IPLAUKU_DATA;SALTINIO_PAV;IMOKOS_KODAI;APRASYMAS;SUMA
 30-JUN-17;VMI;39;"Pajamos iš mokesčių inspekcijos";49329.1
 05-JUN-17;VMI;39;"Pajamos iš mokesčių inspekcijos";29047.34
 13-FEB-17;VMI;39;"Pajamos iš mokesčių inspekcijos";253433.92
+09-OCT-17;VMI;39;"Pajamos iš mokesčių inspekcijos";71724.05
 11-SEP-17;VMI;39;"Pajamos iš mokesčių inspekcijos";160044.5
 27-FEB-17;VMI;39;"Pajamos iš mokesčių inspekcijos";270
 27-FEB-17;VMI;39;"Pajamos iš mokesčių inspekcijos";1010
@@ -929,6 +931,7 @@ IPLAUKU_DATA;SALTINIO_PAV;IMOKOS_KODAI;APRASYMAS;SUMA
 17-JAN-17;VMI;22K;"Pajamos iš mokesčių inspekcijos";41082.85
 06-JAN-17;VMI;22K;"Pajamos iš mokesčių inspekcijos";690567
 06-JAN-17;VMI;22K;"Pajamos iš mokesčių inspekcijos";92054.88
+09-OCT-17;VMI;22K;"Pajamos iš mokesčių inspekcijos";1062152.87
 04-OCT-17;VMI;22K;"Pajamos iš mokesčių inspekcijos";67253.61
 04-OCT-17;VMI;22K;"Pajamos iš mokesčių inspekcijos";706757.02
 12-SEP-17;VMI;22K;"Pajamos iš mokesčių inspekcijos";53296.37
@@ -3135,6 +3138,7 @@ IPLAUKU_DATA;SALTINIO_PAV;IMOKOS_KODAI;APRASYMAS;SUMA
 07-JUL-17;KITOS;100;"Kitos pajamos";22.11
 30-JUN-17;KITOS;100;"Kitos pajamos";1013.44
 06-JAN-17;KITOS;100;"Kitos pajamos";24.79
+09-OCT-17;KITOS;100;"Kitos pajamos";21.42
 04-OCT-17;KITOS;100;"Kitos pajamos";20.43
 07-SEP-17;KITOS;100;"Kitos pajamos";60.64
 30-SEP-17;KITOS;100;"Kitos pajamos";3914
@@ -3278,6 +3282,7 @@ IPLAUKU_DATA;SALTINIO_PAV;IMOKOS_KODAI;APRASYMAS;SUMA
 16-JAN-17;KITOS;94;"Kitos pajamos";690
 16-JAN-17;KITOS;94;"Kitos pajamos";144.81
 06-JAN-17;KITOS;94;"Kitos pajamos";141.19
+09-OCT-17;KITOS;94;"Kitos pajamos";22700
 04-OCT-17;KITOS;94;"Kitos pajamos";141.19
 18-SEP-17;KITOS;94;"Kitos pajamos";29800
 20-JUN-17;KITOS;94;"Kitos pajamos";29308
