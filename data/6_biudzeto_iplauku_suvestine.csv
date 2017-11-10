@@ -970,6 +970,9 @@ IPLAUKU_DATA;SALTINIO_PAV;IMOKOS_KODAI;APRASYMAS;SUMA
 17-JAN-17;VMI;22K;"Pajamos iš mokesčių inspekcijos";41082.85
 06-JAN-17;VMI;22K;"Pajamos iš mokesčių inspekcijos";690567
 06-JAN-17;VMI;22K;"Pajamos iš mokesčių inspekcijos";92054.88
+09-NOV-17;VMI;22K;"Pajamos iš mokesčių inspekcijos";36648.86
+09-NOV-17;VMI;22K;"Pajamos iš mokesčių inspekcijos";745889
+09-NOV-17;VMI;22K;"Pajamos iš mokesčių inspekcijos";84106.42
 09-OCT-17;VMI;22K;"Pajamos iš mokesčių inspekcijos";1062152.87
 04-OCT-17;VMI;22K;"Pajamos iš mokesčių inspekcijos";67253.61
 04-OCT-17;VMI;22K;"Pajamos iš mokesčių inspekcijos";706757.02
@@ -2071,6 +2074,7 @@ IPLAUKU_DATA;SALTINIO_PAV;IMOKOS_KODAI;APRASYMAS;SUMA
 05-AUG-16;KITOS;99;"Kitos pajamos";138128.77
 07-AUG-15;KITOS;99;"Kitos pajamos";66009.91
 26-MAY-15;KITOS;99;"Kitos pajamos";11847.2
+09-NOV-17;KITOS;91;"Kitos pajamos";2950
 18-OCT-17;KITOS;91;"Kitos pajamos";19494.34
 18-OCT-17;KITOS;91;"Kitos pajamos";216.47
 16-OCT-17;KITOS;91;"Kitos pajamos";16.08
@@ -3977,6 +3981,8 @@ IPLAUKU_DATA;SALTINIO_PAV;IMOKOS_KODAI;APRASYMAS;SUMA
 13-APR-17;KITOS;97;"Kitos pajamos";9010.77
 28-DEC-16;KITOS;97;"Kitos pajamos";11978.98
 27-APR-17;KITOS;97;"Kitos pajamos";11139.4
+09-NOV-17;KITOS;95;"Kitos pajamos";730000
+09-NOV-17;KITOS;95;"Kitos pajamos";270000
 20-JUN-17;KITOS;95;"Kitos pajamos";70500
 26-MAY-17;KITOS;95;"Kitos pajamos";60000
 27-FEB-17;KITOS;95;"Kitos pajamos";10000
@@ -4090,6 +4096,7 @@ IPLAUKU_DATA;SALTINIO_PAV;IMOKOS_KODAI;APRASYMAS;SUMA
 26-FEB-15;KITOS;95;"Kitos pajamos";23443
 25-JUN-15;KITOS;95;"Kitos pajamos";6000
 15-JUN-15;KITOS;95;"Kitos pajamos";18000
+09-NOV-17;KITOS;98;"Kitos pajamos";30000
 02-NOV-17;KITOS;98;"Kitos pajamos";40673.22
 02-NOV-17;KITOS;98;"Kitos pajamos";6187
 24-OCT-17;KITOS;98;"Kitos pajamos";21652.71
@@ -4974,6 +4981,7 @@ IPLAUKU_DATA;SALTINIO_PAV;IMOKOS_KODAI;APRASYMAS;SUMA
 26-OCT-15;"FM STD";;"Specialios tikslinės dotacijos";33534
 02-OCT-15;"FM STD";;"Specialios tikslinės dotacijos";1397.66
 10-APR-17;"FM STD";;"Specialios tikslinės dotacijos";744200
+09-NOV-17;"FM STD";65;"Specialios tikslinės dotacijos";110800
 11-SEP-17;"FM STD";65;"Specialios tikslinės dotacijos";90500
 10-JUL-17;"FM STD";65;"Specialios tikslinės dotacijos";67000
 11-OCT-17;"FM STD";65;"Specialios tikslinės dotacijos";80700
