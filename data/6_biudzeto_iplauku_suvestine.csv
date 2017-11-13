@@ -997,6 +997,8 @@ IPLAUKU_DATA;SALTINIO_PAV;IMOKOS_KODAI;APRASYMAS;SUMA
 25-JAN-17;VMI;22K;"Pajamos iš mokesčių inspekcijos";955691.03
 25-JAN-17;VMI;22K;"Pajamos iš mokesčių inspekcijos";2328.52
 28-NOV-16;VMI;22K;"Pajamos iš mokesčių inspekcijos";232431.45
+10-NOV-17;VMI;22K;"Pajamos iš mokesčių inspekcijos";125016.53
+10-NOV-17;VMI;22K;"Pajamos iš mokesčių inspekcijos";579551.54
 12-OCT-17;VMI;22K;"Pajamos iš mokesčių inspekcijos";618300.9
 29-SEP-17;VMI;22K;"Pajamos iš mokesčių inspekcijos";562182.62
 18-SEP-17;VMI;22K;"Pajamos iš mokesčių inspekcijos";11060616.82
@@ -2112,6 +2114,7 @@ IPLAUKU_DATA;SALTINIO_PAV;IMOKOS_KODAI;APRASYMAS;SUMA
 26-APR-17;KITOS;91;"Kitos pajamos";289.01
 17-JAN-17;KITOS;91;"Kitos pajamos";432.71
 06-JAN-17;KITOS;91;"Kitos pajamos";62.91
+09-NOV-17;KITOS;91;"Kitos pajamos";600
 18-OCT-17;KITOS;91;"Kitos pajamos";37.84
 04-OCT-17;KITOS;91;"Kitos pajamos";761.62
 12-SEP-17;KITOS;91;"Kitos pajamos";48.4
@@ -2147,6 +2150,9 @@ IPLAUKU_DATA;SALTINIO_PAV;IMOKOS_KODAI;APRASYMAS;SUMA
 22-FEB-17;KITOS;91;"Kitos pajamos";2650.59
 25-JAN-17;KITOS;91;"Kitos pajamos";.03
 28-NOV-16;KITOS;91;"Kitos pajamos";2059.99
+10-NOV-17;KITOS;91;"Kitos pajamos";525.54
+10-NOV-17;KITOS;91;"Kitos pajamos";630.65
+10-NOV-17;KITOS;91;"Kitos pajamos";752
 29-SEP-17;KITOS;91;"Kitos pajamos";886.24
 29-SEP-17;KITOS;91;"Kitos pajamos";99.99
 18-SEP-17;KITOS;91;"Kitos pajamos";130
@@ -2159,6 +2165,10 @@ IPLAUKU_DATA;SALTINIO_PAV;IMOKOS_KODAI;APRASYMAS;SUMA
 24-JAN-17;KITOS;91;"Kitos pajamos";59.16
 24-JAN-17;KITOS;91;"Kitos pajamos";96.76
 13-DEC-16;KITOS;91;"Kitos pajamos";34.32
+10-NOV-17;KITOS;91;"Kitos pajamos";24.03
+09-NOV-17;KITOS;91;"Kitos pajamos";500
+08-NOV-17;KITOS;91;"Kitos pajamos";14.41
+08-NOV-17;KITOS;91;"Kitos pajamos";27.55
 25-OCT-17;KITOS;91;"Kitos pajamos";558.83
 25-SEP-17;KITOS;91;"Kitos pajamos";120
 30-AUG-17;KITOS;91;"Kitos pajamos";25.04
@@ -4713,6 +4723,7 @@ IPLAUKU_DATA;SALTINIO_PAV;IMOKOS_KODAI;APRASYMAS;SUMA
 15-JAN-15;KITOS;SOCMIN;"Kitos pajamos";301117
 10-FEB-15;KITOS;SOCMIN;"Kitos pajamos";301116
 30-MAR-17;KITOS;;"Kitos pajamos";2165.36
+10-NOV-17;KITOS;;"Kitos pajamos";3812.7
 25-MAY-17;KITOS;;"Kitos pajamos";25
 28-DEC-16;KITOS;;"Kitos pajamos";309.76
 09-AUG-17;KITOS;;"Kitos pajamos";6.49
@@ -5016,6 +5027,7 @@ IPLAUKU_DATA;SALTINIO_PAV;IMOKOS_KODAI;APRASYMAS;SUMA
 12-JAN-15;"FM STD";65;"Specialios tikslinės dotacijos";161005
 10-MAY-17;"FM STD";65;"Specialios tikslinės dotacijos";120300
 10-JUL-17;"FM STD";66;"Specialios tikslinės dotacijos";321500
+10-NOV-17;"FM STD";66;"Specialios tikslinės dotacijos";544220
 10-FEB-17;"FM STD";66;"Specialios tikslinės dotacijos";305800
 11-OCT-17;"FM STD";66;"Specialios tikslinės dotacijos";530870
 11-APR-17;"FM STD";66;"Specialios tikslinės dotacijos";321500
