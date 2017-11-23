@@ -1159,6 +1159,7 @@ IPLAUKU_DATA;SALTINIO_PAV;IMOKOS_KODAI;APRASYMAS;SUMA
 05-DEC-16;VMI;22K;"Pajamos iš mokesčių inspekcijos";183584.52
 04-MAY-16;VMI;22K;"Pajamos iš mokesčių inspekcijos";424604.66
 04-MAY-16;VMI;22K;"Pajamos iš mokesčių inspekcijos";267491.6
+22-NOV-17;VMI;22K;"Pajamos iš mokesčių inspekcijos";84077.44
 30-OCT-17;VMI;22K;"Pajamos iš mokesčių inspekcijos";214801.87
 30-OCT-17;VMI;22K;"Pajamos iš mokesčių inspekcijos";87698.32
 30-OCT-17;VMI;22K;"Pajamos iš mokesčių inspekcijos";82403.09
@@ -3293,6 +3294,7 @@ IPLAUKU_DATA;SALTINIO_PAV;IMOKOS_KODAI;APRASYMAS;SUMA
 05-JAN-17;KITOS;100;"Kitos pajamos";37.51
 22-JUN-16;KITOS;100;"Kitos pajamos";420
 22-JUN-16;KITOS;100;"Kitos pajamos";82.51
+22-NOV-17;KITOS;100;"Kitos pajamos";16.75
 21-NOV-17;KITOS;100;"Kitos pajamos";88.61
 21-NOV-17;KITOS;100;"Kitos pajamos";16.88
 05-JUL-17;KITOS;100;"Kitos pajamos";34.45
@@ -3301,6 +3303,7 @@ IPLAUKU_DATA;SALTINIO_PAV;IMOKOS_KODAI;APRASYMAS;SUMA
 30-MAY-17;KITOS;100;"Kitos pajamos";758.34
 07-APR-17;KITOS;100;"Kitos pajamos";21.85
 04-JAN-17;KITOS;100;"Kitos pajamos";69.52
+22-NOV-17;KITOS;100;"Kitos pajamos";788.29
 30-OCT-17;KITOS;100;"Kitos pajamos";3934.15
 10-OCT-17;KITOS;100;"Kitos pajamos";170.34
 09-AUG-17;KITOS;100;"Kitos pajamos";292.22
@@ -4979,7 +4982,6 @@ IPLAUKU_DATA;SALTINIO_PAV;IMOKOS_KODAI;APRASYMAS;SUMA
 06-OCT-16;"FM STD";05;"Specialios tikslinės dotacijos";9078000
 06-OCT-17;"FM STD";05;"Specialios tikslinės dotacijos";9702400
 07-JUL-16;"FM STD";05;"Specialios tikslinės dotacijos";4539000
-06-OCT-17;"FM STD";05;"Specialios tikslinės dotacijos";9702400
 06-APR-17;"FM STD";05;"Specialios tikslinės dotacijos";9702400
 04-MAR-16;"FM STD";05;"Specialios tikslinės dotacijos";155000
 02-DEC-16;"FM STD";05;"Specialios tikslinės dotacijos";9357000
@@ -5016,6 +5018,7 @@ IPLAUKU_DATA;SALTINIO_PAV;IMOKOS_KODAI;APRASYMAS;SUMA
 11-OCT-17;"FM STD";;"Specialios tikslinės dotacijos";744200
 12-JUN-17;"FM STD";;"Specialios tikslinės dotacijos";348033
 12-APR-17;"FM STD";;"Specialios tikslinės dotacijos";598930
+05-OCT-17;"FM STD";;"Specialios tikslinės dotacijos";359360
 12-SEP-16;"FM STD";;"Specialios tikslinės dotacijos";809633
 10-NOV-16;"FM STD";;"Specialios tikslinės dotacijos";51307.5
 12-AUG-15;"FM STD";;"Specialios tikslinės dotacijos";33534
