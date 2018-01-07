@@ -1501,6 +1501,9 @@ ORG_ID;PASKOLOS_DAVEJAS;SUTARTIES_NR;PASKOLOS_KLASIFIKACIJA;SKOLOS_TIPAS;VALIUTA
 1366;"OP Corporate Bank plc";580760;S;PALUKANOS;EUR;12/op/1010;2017;201712;21-DEC-17;Įsipareigojimas;Standard;12/op/1010;Įsipareigojimas;27750.76
 1366;"OP Corporate Bank plc";580760;S;PASKOLA;EUR;"Op gav/23/n";2017;201712;21-DEC-17;Įsipareigojimas;Standard;"Op gav/23/n";Įsipareigojimas;50000
 1366;"Luminor bankas, AB";"K-240 2012-931";S;PALUKANOS;EUR;2017-12/931;2017;201712;21-DEC-17;Įsipareigojimas;Standard;2017-12/931;Įsipareigojimas;13016.74
+1366;"OP Corporate Bank plc";580760;S;PASKOLA;EUR;"opgav. 24";2017;201712;22-DEC-17;Įsipareigojimas;Standard;"opgav. 24";Įsipareigojimas;50000
+1366;"OP Corporate Bank plc";580760;S;PASKOLA;EUR;"opgav. 25/0657";2017;201712;27-DEC-17;Įsipareigojimas;Standard;"opgav. 25/0657";Įsipareigojimas;650090.92
+1366;"Nordic Investment Bank";L5685;S;PALUKANOS;EUR;"5685/interest due/1";2018;201801;03-JAN-18;Įsipareigojimas;Standard;"5685/interest due/1";Įsipareigojimas;99486.9
 112;"Valstybinė mokesčių inspekcija prie LRFM";14-09-41;S;PALUKANOS;LTL;3863;2008;200801;31-JAN-08;Mokėjimas;Standard;1;Mokėjimas;-2475.1
 119;"Nordea Bank AB Lietuvos skyrius";KS02/07/03;S;PALUKANOS;LTL;palūkanos/03;2009;200901;19-JAN-09;Mokėjimas;Standard;78;Mokėjimas;-51420.79
 119;"SEB bankas";0020312020094/09;S;PALUKANOS;LTL;"palū seb-09";2009;200901;30-JAN-09;Mokėjimas;Standard;10000040;Mokėjimas;-36794.42
@@ -2435,6 +2438,7 @@ ORG_ID;PASKOLOS_DAVEJAS;SUTARTIES_NR;PASKOLOS_KLASIFIKACIJA;SKOLOS_TIPAS;VALIUTA
 1366;"Luminor bankas, AB";K-2400-213-1485;S;PALUKANOS;EUR;566/17/06;2017;201706;29-JUN-17;Mokėjimas;Standard;14388;Mokėjimas;-10638.77
 1366;"Nordic Investment Bank";L5248;S;PASKOLA;EUR;GavimasL5248/2011/01;2017;201710;06-OCT-17;Mokėjimas;Standard;15190;Mokėjimas;-389259.62
 1366;"Nordic Investment Bank";"L 5440";S;PASKOLA;EUR;L5440/gavimas;2017;201710;06-OCT-17;Mokėjimas;Standard;15191;Mokėjimas;-133414.46
+1366;"Nordic Investment Bank";L5685;S;PASKOLA;EUR;gavimas/L5685;2018;201801;03-JAN-18;Mokėjimas;Standard;16157;Mokėjimas;-579310.35
 113;"Nordea finance Lithuania, UAB";20040205;V;LIZINGAS;LTL;20040205/2;2008;200801;25-JAN-08;Mokėjimas;Standard;10;Mokėjimas;-279916.18
 113;"Swedbank lizingas, UAB";LT026492;V;LIZINGAS;LTL;LT026492/1;2008;200812;31-DEC-08;Mokėjimas;Standard;56;Mokėjimas;-1413751.48
 119;"SEB bankas";A64-40/001061201023-21;S;PALUKANOS;LTL;"SEB A64-40";2009;200903;31-MAR-09;Mokėjimas;Standard;10000047;Mokėjimas;-673529.13
@@ -2753,6 +2757,7 @@ ORG_ID;PASKOLOS_DAVEJAS;SUTARTIES_NR;PASKOLOS_KLASIFIKACIJA;SKOLOS_TIPAS;VALIUTA
 1366;"Luminor bankas, AB";K-2400-2012-902;S;PALUKANOS;EUR;902/2017-11;2017;201711;29-NOV-17;Mokėjimas;Standard;15681;Mokėjimas;-22847.81
 1366;"OP Corporate Bank plc";580760;S;PALUKANOS;EUR;12/op/1010;2017;201712;21-DEC-17;Mokėjimas;Standard;15935;Mokėjimas;-27750.76
 1366;"Luminor bankas, AB";K-2400-213-1485;S;PALUKANOS;EUR;1485/2017/12;2017;201712;21-DEC-17;Mokėjimas;Standard;15936;Mokėjimas;-10741.38
+1366;"Nordic Investment Bank";L5685;S;PALUKANOS;EUR;"5685/interest due/1";2018;201801;03-JAN-18;Mokėjimas;Standard;16156;Mokėjimas;-99486.9
 112;"Valstybinė mokesčių inspekcija prie LRFM";;;SAVIVALDYBES_PRISIIMTA_SKOLA;LTL;"AVMI Nr. 14-11-1";2008;200803;31-MAR-08;Mokėjimas;Standard;22;Mokėjimas;-32610
 112;"Valstybinė mokesčių inspekcija prie LRFM";;;SAVIVALDYBES_PRISIIMTA_SKOLA;LTL;"AVMI Nr. 14-11-1.";2008;200804;30-APR-08;Mokėjimas;Standard;76;Mokėjimas;-32610
 119;"Nordea Bank AB Lietuvos skyrius";KS04/07/05;S;PALUKANOS;LTL;2009-03-31;2009;200904;01-APR-09;Mokėjimas;Standard;404;Mokėjimas;-86085.21
