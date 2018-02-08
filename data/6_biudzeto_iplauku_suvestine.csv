@@ -1018,6 +1018,8 @@ IPLAUKU_DATA;SALTINIO_PAV;IMOKOS_KODAI;APRASYMAS;SUMA
 17-JAN-18;VMI;22K;"Pajamos iš mokesčių inspekcijos";1271713.48
 29-DEC-17;VMI;22K;"Pajamos iš mokesčių inspekcijos";3986389.24
 24-JAN-18;VMI;22K;"Pajamos iš mokesčių inspekcijos";242609.3
+07-FEB-18;VMI;22K;"Pajamos iš mokesčių inspekcijos";705964.53
+07-FEB-18;VMI;22K;"Pajamos iš mokesčių inspekcijos";3687.84
 11-JAN-18;VMI;22K;"Pajamos iš mokesčių inspekcijos";792689.1
 10-JAN-18;VMI;22K;"Pajamos iš mokesčių inspekcijos";776035.33
 09-JAN-18;VMI;22K;"Pajamos iš mokesčių inspekcijos";524464.44
@@ -2263,6 +2265,7 @@ IPLAUKU_DATA;SALTINIO_PAV;IMOKOS_KODAI;APRASYMAS;SUMA
 29-DEC-17;KITOS;91;"Kitos pajamos";752
 29-DEC-17;KITOS;91;"Kitos pajamos";770.8
 29-DEC-17;KITOS;91;"Kitos pajamos";580
+07-FEB-18;KITOS;91;"Kitos pajamos";344.68
 24-JAN-18;KITOS;91;"Kitos pajamos";20595.17
 24-JAN-18;KITOS;91;"Kitos pajamos";5880.86
 24-JAN-18;KITOS;91;"Kitos pajamos";3075
@@ -5275,6 +5278,7 @@ IPLAUKU_DATA;SALTINIO_PAV;IMOKOS_KODAI;APRASYMAS;SUMA
 02-NOV-15;FM;2M18;"Pajamos iš finansų ministerijos";105672.84
 10-JAN-18;"FM STD";01;"Specialios tikslinės dotacijos";67700
 10-JAN-18;"FM STD";10;"Specialios tikslinės dotacijos";2700
+02-FEB-18;"FM STD";10;"Specialios tikslinės dotacijos";31600
 10-JAN-18;"FM STD";33;"Specialios tikslinės dotacijos";576100
 10-JUL-17;"FM STD";33;"Specialios tikslinės dotacijos";515100
 11-OCT-17;"FM STD";33;"Specialios tikslinės dotacijos";334800
