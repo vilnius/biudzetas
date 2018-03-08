@@ -12,6 +12,7 @@ IPLAUKU_DATA;SALTINIO_PAV;IMOKOS_KODAI;APRASYMAS;SUMA
 18-JAN-18;VMI;37;"Pajamos iš mokesčių inspekcijos";29.44
 15-JAN-18;VMI;37;"Pajamos iš mokesčių inspekcijos";11.16
 04-JAN-18;VMI;37;"Pajamos iš mokesčių inspekcijos";33.24
+07-MAR-18;VMI;37;"Pajamos iš mokesčių inspekcijos";2559.45
 27-FEB-18;VMI;37;"Pajamos iš mokesčių inspekcijos";4658.21
 26-FEB-18;VMI;37;"Pajamos iš mokesčių inspekcijos";8445.44
 14-FEB-18;VMI;37;"Pajamos iš mokesčių inspekcijos";136.7
@@ -1026,6 +1027,8 @@ IPLAUKU_DATA;SALTINIO_PAV;IMOKOS_KODAI;APRASYMAS;SUMA
 15-JAN-18;VMI;22K;"Pajamos iš mokesčių inspekcijos";1795681.73
 04-JAN-18;VMI;22K;"Pajamos iš mokesčių inspekcijos";1252355.08
 21-DEC-17;VMI;22K;"Pajamos iš mokesčių inspekcijos";511856.34
+07-MAR-18;VMI;22K;"Pajamos iš mokesčių inspekcijos";15732.21
+07-MAR-18;VMI;22K;"Pajamos iš mokesčių inspekcijos";3728.13
 27-FEB-18;VMI;22K;"Pajamos iš mokesčių inspekcijos";706937.06
 26-FEB-18;VMI;22K;"Pajamos iš mokesčių inspekcijos";1889985.85
 21-FEB-18;VMI;22K;"Pajamos iš mokesčių inspekcijos";19421.19
@@ -1050,6 +1053,9 @@ IPLAUKU_DATA;SALTINIO_PAV;IMOKOS_KODAI;APRASYMAS;SUMA
 05-FEB-18;VMI;22K;"Pajamos iš mokesčių inspekcijos";1576.17
 23-JAN-18;VMI;22K;"Pajamos iš mokesčių inspekcijos";126407.91
 28-DEC-17;VMI;22K;"Pajamos iš mokesčių inspekcijos";1682276.03
+07-MAR-18;VMI;22K;"Pajamos iš mokesčių inspekcijos";752533.93
+07-MAR-18;VMI;22K;"Pajamos iš mokesčių inspekcijos";59190.64
+07-MAR-18;VMI;22K;"Pajamos iš mokesčių inspekcijos";20796.56
 02-MAR-18;VMI;22K;"Pajamos iš mokesčių inspekcijos";91357.22
 02-MAR-18;VMI;22K;"Pajamos iš mokesčių inspekcijos";161510.49
 02-MAR-18;VMI;22K;"Pajamos iš mokesčių inspekcijos";97200.48
@@ -4204,6 +4210,7 @@ IPLAUKU_DATA;SALTINIO_PAV;IMOKOS_KODAI;APRASYMAS;SUMA
 28-FEB-17;KITOS;93;"Kitos pajamos";47290
 28-FEB-17;KITOS;93;"Kitos pajamos";87960
 28-DEC-17;KITOS;97;"Kitos pajamos";30082.63
+07-MAR-18;KITOS;97;"Kitos pajamos";6400
 23-FEB-18;KITOS;97;"Kitos pajamos";1289.49
 19-DEC-17;KITOS;97;"Kitos pajamos";723.36
 19-DEC-17;KITOS;97;"Kitos pajamos";77473.33
