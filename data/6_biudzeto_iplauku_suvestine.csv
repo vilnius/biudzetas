@@ -19,6 +19,7 @@ IPLAUKU_DATA;SALTINIO_PAV;IMOKOS_KODAI;APRASYMAS;SUMA
 28-MAR-18;VMI;37;"Pajamos iš mokesčių inspekcijos";380.24
 23-MAR-18;VMI;37;"Pajamos iš mokesčių inspekcijos";1128.31
 08-MAR-18;VMI;37;"Pajamos iš mokesčių inspekcijos";1744.48
+04-MAY-18;VMI;37;"Pajamos iš mokesčių inspekcijos";96.59
 19-MAR-18;VMI;37;"Pajamos iš mokesčių inspekcijos";1245.88
 03-MAY-18;VMI;37;"Pajamos iš mokesčių inspekcijos";85.57
 02-MAY-18;VMI;37;"Pajamos iš mokesčių inspekcijos";40.56
@@ -1120,9 +1121,12 @@ IPLAUKU_DATA;SALTINIO_PAV;IMOKOS_KODAI;APRASYMAS;SUMA
 23-MAR-18;VMI;22K;"Pajamos iš mokesčių inspekcijos";551090.79
 08-MAR-18;VMI;22K;"Pajamos iš mokesčių inspekcijos";767104.53
 08-MAR-18;VMI;22K;"Pajamos iš mokesčių inspekcijos";89717.43
+04-MAY-18;VMI;22K;"Pajamos iš mokesčių inspekcijos";18454.91
 10-APR-18;VMI;22K;"Pajamos iš mokesčių inspekcijos";1202183.83
 19-MAR-18;VMI;22K;"Pajamos iš mokesčių inspekcijos";1597297.82
 19-MAR-18;VMI;22K;"Pajamos iš mokesčių inspekcijos";357031.92
+04-MAY-18;VMI;22K;"Pajamos iš mokesčių inspekcijos";1182200.48
+04-MAY-18;VMI;22K;"Pajamos iš mokesčių inspekcijos";90478.48
 03-MAY-18;VMI;22K;"Pajamos iš mokesčių inspekcijos";2672388.41
 03-MAY-18;VMI;22K;"Pajamos iš mokesčių inspekcijos";8327.67
 02-MAY-18;VMI;22K;"Pajamos iš mokesčių inspekcijos";4550772.81
@@ -2481,6 +2485,7 @@ IPLAUKU_DATA;SALTINIO_PAV;IMOKOS_KODAI;APRASYMAS;SUMA
 28-MAR-18;KITOS;91;"Kitos pajamos";31.92
 28-MAR-18;KITOS;91;"Kitos pajamos";3587.84
 23-MAR-18;KITOS;91;"Kitos pajamos";4155.1
+03-MAY-18;KITOS;91;"Kitos pajamos";82.05
 19-MAR-18;KITOS;91;"Kitos pajamos";150
 02-MAY-18;KITOS;91;"Kitos pajamos";4001
 02-MAY-18;KITOS;91;"Kitos pajamos";100
@@ -3615,6 +3620,7 @@ IPLAUKU_DATA;SALTINIO_PAV;IMOKOS_KODAI;APRASYMAS;SUMA
 10-APR-18;KITOS;90;"Kitos pajamos";4118.4
 03-APR-18;KITOS;90;"Kitos pajamos";35946
 28-MAR-18;KITOS;90;"Kitos pajamos";2580
+04-MAY-18;KITOS;90;"Kitos pajamos";2520
 13-APR-18;KITOS;90;"Kitos pajamos";39540
 09-APR-18;KITOS;90;"Kitos pajamos";1029.6
 05-MAR-18;KITOS;90;"Kitos pajamos";3846
@@ -4472,6 +4478,7 @@ IPLAUKU_DATA;SALTINIO_PAV;IMOKOS_KODAI;APRASYMAS;SUMA
 28-MAR-18;KITOS;97;"Kitos pajamos";1000
 28-MAR-18;KITOS;97;"Kitos pajamos";623.67
 28-MAR-18;KITOS;97;"Kitos pajamos";1349820.71
+04-MAY-18;KITOS;97;"Kitos pajamos";14496.42
 27-APR-18;KITOS;97;"Kitos pajamos";7000
 27-APR-18;KITOS;97;"Kitos pajamos";5446.07
 27-APR-18;KITOS;97;"Kitos pajamos";121824.92
@@ -5269,6 +5276,7 @@ IPLAUKU_DATA;SALTINIO_PAV;IMOKOS_KODAI;APRASYMAS;SUMA
 18-APR-18;KITOS;;"Kitos pajamos";4500
 30-APR-18;KITOS;;"Kitos pajamos";83930.96
 28-MAR-18;KITOS;;"Kitos pajamos";66960.95
+04-MAY-18;KITOS;;"Kitos pajamos";2984.25
 27-APR-18;KITOS;;"Kitos pajamos";6584.86
 06-APR-18;KITOS;;"Kitos pajamos";5700
 13-MAR-18;KITOS;;"Kitos pajamos";7090
