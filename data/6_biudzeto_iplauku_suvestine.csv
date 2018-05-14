@@ -11,6 +11,7 @@ IPLAUKU_DATA;SALTINIO_PAV;IMOKOS_KODAI;APRASYMAS;SUMA
 30-APR-18;VMI;37;"Pajamos iš mokesčių inspekcijos";680.42
 20-APR-18;VMI;37;"Pajamos iš mokesčių inspekcijos";252.82
 21-MAR-18;VMI;37;"Pajamos iš mokesčių inspekcijos";251.22
+11-MAY-18;VMI;37;"Pajamos iš mokesčių inspekcijos";97.62
 09-MAR-18;VMI;37;"Pajamos iš mokesčių inspekcijos";210.47
 09-MAR-18;VMI;37;"Pajamos iš mokesčių inspekcijos";767.7
 10-MAY-18;VMI;37;"Pajamos iš mokesčių inspekcijos";105.44
@@ -1116,6 +1117,11 @@ IPLAUKU_DATA;SALTINIO_PAV;IMOKOS_KODAI;APRASYMAS;SUMA
 30-APR-18;VMI;22K;"Pajamos iš mokesčių inspekcijos";2296121.36
 20-APR-18;VMI;22K;"Pajamos iš mokesčių inspekcijos";406160.75
 21-MAR-18;VMI;22K;"Pajamos iš mokesčių inspekcijos";327310.22
+11-MAY-18;VMI;22K;"Pajamos iš mokesčių inspekcijos";63914.74
+11-MAY-18;VMI;22K;"Pajamos iš mokesčių inspekcijos";11697.77
+11-MAY-18;VMI;22K;"Pajamos iš mokesčių inspekcijos";46380.98
+11-MAY-18;VMI;22K;"Pajamos iš mokesčių inspekcijos";253092.9
+11-MAY-18;VMI;22K;"Pajamos iš mokesčių inspekcijos";706495.16
 09-MAR-18;VMI;22K;"Pajamos iš mokesčių inspekcijos";1068635.41
 09-MAR-18;VMI;22K;"Pajamos iš mokesčių inspekcijos";8911.56
 09-MAR-18;VMI;22K;"Pajamos iš mokesčių inspekcijos";49909.9
@@ -4028,6 +4034,8 @@ IPLAUKU_DATA;SALTINIO_PAV;IMOKOS_KODAI;APRASYMAS;SUMA
 30-APR-18;KITOS;94;"Kitos pajamos";1360.26
 30-APR-18;KITOS;94;"Kitos pajamos";818.12
 12-APR-18;KITOS;94;"Kitos pajamos";67700
+12-MAY-18;KITOS;94;"Kitos pajamos";15900
+11-MAY-18;KITOS;94;"Kitos pajamos";17360
 23-FEB-18;KITOS;94;"Kitos pajamos";11900.25
 15-JAN-18;KITOS;94;"Kitos pajamos";10400
 13-APR-18;KITOS;94;"Kitos pajamos";28644.17
@@ -5648,6 +5656,7 @@ IPLAUKU_DATA;SALTINIO_PAV;IMOKOS_KODAI;APRASYMAS;SUMA
 16-APR-15;FM;;"Pajamos iš finansų ministerijos";5500
 28-JAN-15;FM;;"Pajamos iš finansų ministerijos";8000
 28-JAN-16;FM;;"Pajamos iš finansų ministerijos";7000
+07-MAY-18;FM;VL11;"Pajamos iš finansų ministerijos";29000
 13-OCT-17;FM;VL11;"Pajamos iš finansų ministerijos";6000
 16-MAR-17;FM;VL11;"Pajamos iš finansų ministerijos";14000
 14-MAR-17;FM;VL11;"Pajamos iš finansų ministerijos";3000
