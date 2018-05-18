@@ -14,6 +14,9 @@ IPLAUKU_DATA;SALTINIO_PAV;IMOKOS_KODAI;APRASYMAS;SUMA
 11-MAY-18;VMI;37;"Pajamos iš mokesčių inspekcijos";97.62
 09-MAR-18;VMI;37;"Pajamos iš mokesčių inspekcijos";210.47
 09-MAR-18;VMI;37;"Pajamos iš mokesčių inspekcijos";767.7
+17-MAY-18;VMI;37;"Pajamos iš mokesčių inspekcijos";3337.25
+17-MAY-18;VMI;37;"Pajamos iš mokesčių inspekcijos";7121.65
+16-MAY-18;VMI;37;"Pajamos iš mokesčių inspekcijos";84580.99
 14-MAY-18;VMI;37;"Pajamos iš mokesčių inspekcijos";198.68
 10-MAY-18;VMI;37;"Pajamos iš mokesčių inspekcijos";105.44
 08-MAY-18;VMI;37;"Pajamos iš mokesčių inspekcijos";30.97
@@ -1128,6 +1131,9 @@ IPLAUKU_DATA;SALTINIO_PAV;IMOKOS_KODAI;APRASYMAS;SUMA
 09-MAR-18;VMI;22K;"Pajamos iš mokesčių inspekcijos";1068635.41
 09-MAR-18;VMI;22K;"Pajamos iš mokesčių inspekcijos";8911.56
 09-MAR-18;VMI;22K;"Pajamos iš mokesčių inspekcijos";49909.9
+17-MAY-18;VMI;22K;"Pajamos iš mokesčių inspekcijos";5448.01
+17-MAY-18;VMI;22K;"Pajamos iš mokesčių inspekcijos";770192.57
+16-MAY-18;VMI;22K;"Pajamos iš mokesčių inspekcijos";6190710.94
 14-MAY-18;VMI;22K;"Pajamos iš mokesčių inspekcijos";1269106.03
 10-MAY-18;VMI;22K;"Pajamos iš mokesčių inspekcijos";843098.79
 08-MAY-18;VMI;22K;"Pajamos iš mokesčių inspekcijos";22425
@@ -2511,6 +2517,10 @@ IPLAUKU_DATA;SALTINIO_PAV;IMOKOS_KODAI;APRASYMAS;SUMA
 09-MAR-18;KITOS;91;"Kitos pajamos";100
 09-MAR-18;KITOS;91;"Kitos pajamos";658
 09-MAR-18;KITOS;91;"Kitos pajamos";639.2
+17-MAY-18;KITOS;91;"Kitos pajamos";11.13
+17-MAY-18;KITOS;91;"Kitos pajamos";61.55
+16-MAY-18;KITOS;91;"Kitos pajamos";5601
+16-MAY-18;KITOS;91;"Kitos pajamos";9696
 14-MAY-18;KITOS;91;"Kitos pajamos";30.24
 08-MAY-18;KITOS;91;"Kitos pajamos";100
 07-MAY-18;KITOS;91;"Kitos pajamos";580
@@ -4526,6 +4536,7 @@ IPLAUKU_DATA;SALTINIO_PAV;IMOKOS_KODAI;APRASYMAS;SUMA
 28-MAR-18;KITOS;97;"Kitos pajamos";1000
 28-MAR-18;KITOS;97;"Kitos pajamos";623.67
 28-MAR-18;KITOS;97;"Kitos pajamos";1349820.71
+16-MAY-18;KITOS;97;"Kitos pajamos";497.01
 03-MAY-18;KITOS;97;"Kitos pajamos";187.35
 03-MAY-18;KITOS;97;"Kitos pajamos";6043.18
 09-MAY-18;KITOS;97;"Kitos pajamos";302.1
