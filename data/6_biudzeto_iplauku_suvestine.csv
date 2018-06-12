@@ -46,6 +46,7 @@ IPLAUKU_DATA;SALTINIO_PAV;IMOKOS_KODAI;APRASYMAS;SUMA
 15-MAY-18;VMI;37;"Pajamos iš mokesčių inspekcijos";14.97
 04-MAY-18;VMI;37;"Pajamos iš mokesčių inspekcijos";96.59
 19-MAR-18;VMI;37;"Pajamos iš mokesčių inspekcijos";1245.88
+11-JUN-18;VMI;37;"Pajamos iš mokesčių inspekcijos";75.13
 21-MAY-18;VMI;37;"Pajamos iš mokesčių inspekcijos";210.62
 18-MAY-18;VMI;37;"Pajamos iš mokesčių inspekcijos";94.45
 03-MAY-18;VMI;37;"Pajamos iš mokesčių inspekcijos";85.57
@@ -624,6 +625,7 @@ IPLAUKU_DATA;SALTINIO_PAV;IMOKOS_KODAI;APRASYMAS;SUMA
 07-MAY-18;VMI;39;"Pajamos iš mokesčių inspekcijos";51845.29
 03-APR-18;VMI;39;"Pajamos iš mokesčių inspekcijos";37907.85
 19-MAR-18;VMI;39;"Pajamos iš mokesčių inspekcijos";368827.41
+11-JUN-18;VMI;39;"Pajamos iš mokesčių inspekcijos";72974.51
 21-MAY-18;VMI;39;"Pajamos iš mokesčių inspekcijos";530323.6
 16-APR-18;VMI;39;"Pajamos iš mokesčių inspekcijos";313412.11
 09-APR-18;VMI;39;"Pajamos iš mokesčių inspekcijos";92746.34
@@ -1208,6 +1210,8 @@ IPLAUKU_DATA;SALTINIO_PAV;IMOKOS_KODAI;APRASYMAS;SUMA
 10-APR-18;VMI;22K;"Pajamos iš mokesčių inspekcijos";1202183.83
 19-MAR-18;VMI;22K;"Pajamos iš mokesčių inspekcijos";1597297.82
 19-MAR-18;VMI;22K;"Pajamos iš mokesčių inspekcijos";357031.92
+11-JUN-18;VMI;22K;"Pajamos iš mokesčių inspekcijos";4526.78
+11-JUN-18;VMI;22K;"Pajamos iš mokesčių inspekcijos";1555289.17
 21-MAY-18;VMI;22K;"Pajamos iš mokesčių inspekcijos";206557.58
 18-MAY-18;VMI;22K;"Pajamos iš mokesčių inspekcijos";279645.77
 04-MAY-18;VMI;22K;"Pajamos iš mokesčių inspekcijos";1182200.48
@@ -5966,6 +5970,7 @@ IPLAUKU_DATA;SALTINIO_PAV;IMOKOS_KODAI;APRASYMAS;SUMA
 09-MAY-18;"FM STD";65;"Specialios tikslinės dotacijos";149000
 11-APR-18;"FM STD";65;"Specialios tikslinės dotacijos";148500
 09-MAR-18;"FM STD";65;"Specialios tikslinės dotacijos";126800
+11-JUN-18;"FM STD";65;"Specialios tikslinės dotacijos";24300
 09-FEB-18;"FM STD";65;"Specialios tikslinės dotacijos";126700
 10-JAN-18;"FM STD";65;"Specialios tikslinės dotacijos";108500
 09-NOV-17;"FM STD";65;"Specialios tikslinės dotacijos";110800
