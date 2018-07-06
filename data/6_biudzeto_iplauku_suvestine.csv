@@ -1,7 +1,6 @@
 IPLAUKU_DATA;SALTINIO_PAV;IMOKOS_KODAI;APRASYMAS;SUMA
 02-JUL-18;VMI;37;"Pajamos iš mokesčių inspekcijos";81.54
 25-JUN-18;VMI;37;"Pajamos iš mokesčių inspekcijos";142.34
-22-JUN-18;VMI;37;"Pajamos iš mokesčių inspekcijos";14562.08
 20-JUN-18;VMI;37;"Pajamos iš mokesčių inspekcijos";915.51
 27-MAY-18;VMI;37;"Pajamos iš mokesčių inspekcijos";285.98
 27-MAY-18;VMI;37;"Pajamos iš mokesčių inspekcijos";97.31
@@ -21,6 +20,7 @@ IPLAUKU_DATA;SALTINIO_PAV;IMOKOS_KODAI;APRASYMAS;SUMA
 29-MAR-18;VMI;37;"Pajamos iš mokesčių inspekcijos";816.47
 15-MAR-18;VMI;37;"Pajamos iš mokesčių inspekcijos";1576.7
 14-MAR-18;VMI;37;"Pajamos iš mokesčių inspekcijos";333.57
+04-JUL-18;VMI;37;"Pajamos iš mokesčių inspekcijos";85.87
 14-JUN-18;VMI;37;"Pajamos iš mokesčių inspekcijos";99.23
 07-JUN-18;VMI;37;"Pajamos iš mokesčių inspekcijos";391.54
 28-MAY-18;VMI;37;"Pajamos iš mokesčių inspekcijos";978.64
@@ -623,6 +623,7 @@ IPLAUKU_DATA;SALTINIO_PAV;IMOKOS_KODAI;APRASYMAS;SUMA
 29-MAR-18;VMI;39;"Pajamos iš mokesčių inspekcijos";1322.7
 23-APR-18;VMI;39;"Pajamos iš mokesčių inspekcijos";283591.59
 29-MAR-18;VMI;39;"Pajamos iš mokesčių inspekcijos";1840.54
+03-JUL-18;VMI;39;"Pajamos iš mokesčių inspekcijos";1000000
 28-MAY-18;VMI;39;"Pajamos iš mokesčių inspekcijos";60345.23
 30-APR-18;VMI;39;"Pajamos iš mokesčių inspekcijos";60845.86
 30-APR-18;VMI;39;"Pajamos iš mokesčių inspekcijos";126000
@@ -1223,6 +1224,8 @@ IPLAUKU_DATA;SALTINIO_PAV;IMOKOS_KODAI;APRASYMAS;SUMA
 29-MAR-18;VMI;22K;"Pajamos iš mokesčių inspekcijos";387906.36
 15-MAR-18;VMI;22K;"Pajamos iš mokesčių inspekcijos";3361035.48
 14-MAR-18;VMI;22K;"Pajamos iš mokesčių inspekcijos";1566573.02
+04-JUL-18;VMI;22K;"Pajamos iš mokesčių inspekcijos";504850.8
+04-JUL-18;VMI;22K;"Pajamos iš mokesčių inspekcijos";207059.28
 14-JUN-18;VMI;22K;"Pajamos iš mokesčių inspekcijos";1540674.02
 07-JUN-18;VMI;22K;"Pajamos iš mokesčių inspekcijos";603853.48
 28-MAY-18;VMI;22K;"Pajamos iš mokesčių inspekcijos";43117.18
@@ -2655,6 +2658,8 @@ IPLAUKU_DATA;SALTINIO_PAV;IMOKOS_KODAI;APRASYMAS;SUMA
 10-APR-18;KITOS;91;"Kitos pajamos";695.6
 10-APR-18;KITOS;91;"Kitos pajamos";552.04
 15-MAR-18;KITOS;91;"Kitos pajamos";200
+04-JUL-18;KITOS;91;"Kitos pajamos";580
+04-JUL-18;KITOS;91;"Kitos pajamos";580
 06-JUN-18;KITOS;91;"Kitos pajamos";381.19
 25-MAY-18;KITOS;91;"Kitos pajamos";3.51
 10-MAY-18;KITOS;91;"Kitos pajamos";940
