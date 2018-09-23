@@ -1560,12 +1560,13 @@ ORG_ID;PASKOLOS_DAVEJAS;SUTARTIES_NR;PASKOLOS_KLASIFIKACIJA;SKOLOS_TIPAS;VALIUTA
 1366;"SEB bankas";A64-19(3.4.-FN-1);S;PASKOLA;EUR;"SEB A64-19/1111";2018;201808;03-AUG-18;Įsipareigojimas;Standard;"SEB A64-19/1111";Įsipareigojimas;22360471.42
 1366;"SEB bankas";A64-19(3.4.-FN-1);S;PALUKANOS;EUR;"Pal A64-19/2018/08";2018;201808;06-AUG-18;Įsipareigojimas;Standard;"Pal A64-19/2018/08";Įsipareigojimas;46134.84
 1366;"Luminor bankas, AB";K-2400-213-1485;S;PALUKANOS;EUR;1485/08/2018;2018;201808;13-AUG-18;Įsipareigojimas;Standard;1485/08/2018;Įsipareigojimas;9703.24
-1366;"European Investment Bank";"FI NO. 85.924";S;PALUKANOS;EUR;Inter/Due/03./02;2018;201808;28-AUG-18;Įsipareigojimas;Standard;Inter/Due/03./02;Įsipareigojimas;565.51
 1366;"Luminor bankas, AB";K-2400-2012-902;S;PALUKANOS;EUR;2018/08/902;2018;201808;13-AUG-18;Įsipareigojimas;Standard;2018/08/902;Įsipareigojimas;19951.61
 1366;"Luminor bankas, AB";"K-240 2012-931";S;PALUKANOS;EUR;2018/08/931;2018;201808;13-AUG-18;Įsipareigojimas;Standard;2018/08/931;Įsipareigojimas;11758.68
 1366;"Luminor bankas, AB";K-2400-2012-566;S;PALUKANOS;EUR;/566/08-18;2018;201808;13-AUG-18;Įsipareigojimas;Standard;/566/08-18;Įsipareigojimas;9290.19
 1366;"OP Corporate Bank plc";580760;S;PALUKANOS;EUR;449270/0657-08;2018;201808;24-AUG-18;Įsipareigojimas;Standard;449270/0657-08;Įsipareigojimas;34519.59
 1366;"OP Corporate Bank plc";580760;S;PALUKANOS;EUR;18/08/op/1010;2018;201808;24-AUG-18;Įsipareigojimas;Standard;18/08/op/1010;Įsipareigojimas;28201.99
+1366;"European Investment Bank";"FI NO. 85.924";S;PALUKANOS;EUR;Inter/Due/09.;2018;201809;19-SEP-18;Įsipareigojimas;Standard;Inter/Due/09.;Įsipareigojimas;547.5
+1366;"European Investment Bank";"FI NO. 85.924";S;PALUKANOS;EUR;Inter/Due/09/5356,9.;2018;201809;19-SEP-18;Įsipareigojimas;Standard;Inter/Due/09/5356,9.;Įsipareigojimas;646.3
 112;"Valstybinė mokesčių inspekcija prie LRFM";14-09-41;S;PALUKANOS;LTL;3863;2008;200801;31-JAN-08;Mokėjimas;Standard;1;Mokėjimas;-2475.1
 119;"Nordea Bank AB Lietuvos skyrius";KS02/07/03;S;PALUKANOS;LTL;palūkanos/03;2009;200901;19-JAN-09;Mokėjimas;Standard;78;Mokėjimas;-51420.79
 119;"SEB bankas";0020312020094/09;S;PALUKANOS;LTL;"palū seb-09";2009;200901;30-JAN-09;Mokėjimas;Standard;10000040;Mokėjimas;-36794.42
@@ -2117,6 +2118,7 @@ ORG_ID;PASKOLOS_DAVEJAS;SUTARTIES_NR;PASKOLOS_KLASIFIKACIJA;SKOLOS_TIPAS;VALIUTA
 1366;"OP Corporate Bank plc";580760;S;PASKOLA;EUR;580760;2018;201804;27-APR-18;Mokėjimas;Standard;295;Mokėjimas;-153350
 1366;"Luminor bankas, AB";K-2400-213-1485;S;PASKOLA;EUR;Gavim/1485/08;2018;201804;27-APR-18;Mokėjimas;Standard;285;Mokėjimas;-117377.91
 1366;"Luminor bankas, AB";"K-240 2012-931";S;PALUKANOS;EUR;2018/04/931;2018;201804;27-APR-18;Mokėjimas;Standard;289;Mokėjimas;-13914.44
+1366;"European Investment Bank";"FI NO. 85.924";S;PALUKANOS;EUR;Inter/Due/09.;2018;201809;19-SEP-18;Mokėjimas;Standard;18406;Mokėjimas;-547.5
 119;"SEB bankas";0040512020516-05;S;PALUKANOS;LTL;"palū seb-516";2009;200901;30-JAN-09;Mokėjimas;Standard;10000042;Mokėjimas;-70682.1
 119;"SEB bankas";0020312020094/09;S;PALUKANOS;LTL;Vilniaus/09;2009;200902;27-FEB-09;Mokėjimas;Standard;10000052;Mokėjimas;-32048.13
 119;"SEB bankas";0040512020517-05;S;PASKOLA;LTL;"KS 20517-05";2009;200904;21-APR-09;Mokėjimas;Standard;10000062;Mokėjimas;-501628.72
@@ -2649,6 +2651,7 @@ ORG_ID;PASKOLOS_DAVEJAS;SUTARTIES_NR;PASKOLOS_KLASIFIKACIJA;SKOLOS_TIPAS;VALIUTA
 1366;"SEB bankas";A64-19(3.4.-FN-1);S;PALUKANOS;EUR;"Pal A64-19/2018/08";2018;201808;06-AUG-18;Mokėjimas;Standard;10000530;Mokėjimas;-46134.84
 1366;"Luminor bankas, AB";K-2400-2012-566;S;PALUKANOS;EUR;/566/08-18;2018;201808;13-AUG-18;Mokėjimas;Standard;334;Mokėjimas;-9290.19
 1366;"OP Corporate Bank plc";580760;S;PALUKANOS;EUR;18/08/op/1010;2018;201808;24-AUG-18;Mokėjimas;Standard;338;Mokėjimas;-28201.99
+1366;"European Investment Bank";"FI NO. 85.924";S;PALUKANOS;EUR;Inter/Due/09/5356,9.;2018;201809;19-SEP-18;Mokėjimas;Standard;18421;Mokėjimas;-646.3
 112;"Valstybinė mokesčių inspekcija prie LRFM";14-09-41;S;PALUKANOS;LTL;4061;2008;200803;31-MAR-08;Mokėjimas;Standard;21;Mokėjimas;-2122.92
 113;"Swedbank lizingas, UAB";LT026493;V;LIZINGAS;LTL;LT026493/2;2008;200801;25-JAN-08;Mokėjimas;Standard;9;Mokėjimas;-471234.95
 112;"Valstybinė mokesčių inspekcija prie LRFM";;;SAVIVALDYBES_PRISIIMTA_SKOLA;LTL;"AVMI Nr. 14-11-1";2008;200807;31-JUL-08;Mokėjimas;Standard;71;Mokėjimas;-32610
