@@ -63,6 +63,7 @@ IPLAUKU_DATA;SALTINIO_PAV;IMOKOS_KODAI;APRASYMAS;SUMA
 11-MAY-18;VMI;37;"Pajamos iš mokesčių inspekcijos";97.62
 09-MAR-18;VMI;37;"Pajamos iš mokesčių inspekcijos";210.47
 09-MAR-18;VMI;37;"Pajamos iš mokesčių inspekcijos";767.7
+26-SEP-18;VMI;37;"Pajamos iš mokesčių inspekcijos";29.14
 05-SEP-18;VMI;37;"Pajamos iš mokesčių inspekcijos";2.1
 03-SEP-18;VMI;37;"Pajamos iš mokesčių inspekcijos";254.38
 24-AUG-18;VMI;37;"Pajamos iš mokesčių inspekcijos";926.21
@@ -1381,6 +1382,7 @@ IPLAUKU_DATA;SALTINIO_PAV;IMOKOS_KODAI;APRASYMAS;SUMA
 09-MAR-18;VMI;22K;"Pajamos iš mokesčių inspekcijos";1068635.41
 09-MAR-18;VMI;22K;"Pajamos iš mokesčių inspekcijos";8911.56
 09-MAR-18;VMI;22K;"Pajamos iš mokesčių inspekcijos";49909.9
+26-SEP-18;VMI;22K;"Pajamos iš mokesčių inspekcijos";360535.3
 05-SEP-18;VMI;22K;"Pajamos iš mokesčių inspekcijos";571180.3
 06-SEP-18;VMI;22K;"Pajamos iš mokesčių inspekcijos";891189.04
 03-SEP-18;VMI;22K;"Pajamos iš mokesčių inspekcijos";1500808.51
@@ -2890,6 +2892,7 @@ IPLAUKU_DATA;SALTINIO_PAV;IMOKOS_KODAI;APRASYMAS;SUMA
 09-MAR-18;KITOS;91;"Kitos pajamos";100
 09-MAR-18;KITOS;91;"Kitos pajamos";658
 09-MAR-18;KITOS;91;"Kitos pajamos";639.2
+26-SEP-18;KITOS;91;"Kitos pajamos";3585.16
 06-SEP-18;KITOS;91;"Kitos pajamos";50
 05-SEP-18;KITOS;91;"Kitos pajamos";21.33
 05-SEP-18;KITOS;91;"Kitos pajamos";393.47
@@ -5056,6 +5059,9 @@ IPLAUKU_DATA;SALTINIO_PAV;IMOKOS_KODAI;APRASYMAS;SUMA
 28-MAR-18;KITOS;97;"Kitos pajamos";1000
 28-MAR-18;KITOS;97;"Kitos pajamos";623.67
 28-MAR-18;KITOS;97;"Kitos pajamos";1349820.71
+26-SEP-18;KITOS;97;"Kitos pajamos";1316.57
+26-SEP-18;KITOS;97;"Kitos pajamos";4088.28
+26-SEP-18;KITOS;97;"Kitos pajamos";24387.96
 06-SEP-18;KITOS;97;"Kitos pajamos";933.8
 13-AUG-18;KITOS;97;"Kitos pajamos";44487.44
 13-AUG-18;KITOS;97;"Kitos pajamos";50000
@@ -6291,6 +6297,7 @@ IPLAUKU_DATA;SALTINIO_PAV;IMOKOS_KODAI;APRASYMAS;SUMA
 16-DEC-16;FM;VL11;"Pajamos iš finansų ministerijos";6000
 27-JUL-18;FM;2M16;"Pajamos iš finansų ministerijos";1587.56
 31-AUG-18;FM;2M16;"Pajamos iš finansų ministerijos";22778.68
+26-SEP-18;FM;2M16;"Pajamos iš finansų ministerijos";7895.94
 24-AUG-18;FM;2M16;"Pajamos iš finansų ministerijos";930.23
 17-AUG-18;FM;2M16;"Pajamos iš finansų ministerijos";12031.06
 26-JUN-18;FM;2M16;"Pajamos iš finansų ministerijos";13274.9
