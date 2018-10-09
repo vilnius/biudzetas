@@ -1368,6 +1368,7 @@ IPLAUKU_DATA;SALTINIO_PAV;IMOKOS_KODAI;APRASYMAS;SUMA
 29-MAR-18;VMI;22K;"Pajamos iš mokesčių inspekcijos";387906.36
 15-MAR-18;VMI;22K;"Pajamos iš mokesčių inspekcijos";3361035.48
 14-MAR-18;VMI;22K;"Pajamos iš mokesčių inspekcijos";1566573.02
+05-OCT-18;VMI;22K;"Pajamos iš mokesčių inspekcijos";776862.88
 21-SEP-18;VMI;22K;"Pajamos iš mokesčių inspekcijos";259093.9
 20-SEP-18;VMI;22K;"Pajamos iš mokesčių inspekcijos";308772.14
 13-SEP-18;VMI;22K;"Pajamos iš mokesčių inspekcijos";1211449.78
@@ -6427,7 +6428,6 @@ IPLAUKU_DATA;SALTINIO_PAV;IMOKOS_KODAI;APRASYMAS;SUMA
 02-FEB-18;"FM STD";10;"Specialios tikslinės dotacijos";31600
 02-JUL-18;"FM STD";33;"Specialios tikslinės dotacijos";576100
 11-APR-18;"FM STD";33;"Specialios tikslinės dotacijos";576100
-10-SEP-18;"FM STD";33;"Specialios tikslinės dotacijos";590600
 10-JAN-18;"FM STD";33;"Specialios tikslinės dotacijos";576100
 10-JUL-17;"FM STD";33;"Specialios tikslinės dotacijos";515100
 11-OCT-17;"FM STD";33;"Specialios tikslinės dotacijos";334800
@@ -6574,7 +6574,6 @@ IPLAUKU_DATA;SALTINIO_PAV;IMOKOS_KODAI;APRASYMAS;SUMA
 10-SEP-18;"FM STD";66;"Specialios tikslinės dotacijos";952200
 10-MAY-18;"FM STD";66;"Specialios tikslinės dotacijos";465800
 09-MAR-18;"FM STD";66;"Specialios tikslinės dotacijos";297900
-10-SEP-18;"FM STD";66;"Specialios tikslinės dotacijos";361600
 10-AUG-18;"FM STD";66;"Specialios tikslinės dotacijos";361500
 09-FEB-18;"FM STD";66;"Specialios tikslinės dotacijos";297900
 09-JAN-18;"FM STD";66;"Specialios tikslinės dotacijos";297900
@@ -6700,6 +6699,7 @@ IPLAUKU_DATA;SALTINIO_PAV;IMOKOS_KODAI;APRASYMAS;SUMA
 08-APR-15;"FM STD";01;"Specialios tikslinės dotacijos";36935
 08-OCT-15;"FM STD";01;"Specialios tikslinės dotacijos";36935
 20-JAN-15;"FM STD";01;"Specialios tikslinės dotacijos";36935
+05-OCT-18;"FM STD";01;"Specialios tikslinės dotacijos";6900
 09-JUL-18;"FM STD";01;"Specialios tikslinės dotacijos";7600
 09-APR-18;"FM STD";01;"Specialios tikslinės dotacijos";7500
 09-FEB-18;"FM STD";01;"Specialios tikslinės dotacijos";4775
