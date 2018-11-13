@@ -1525,6 +1525,7 @@ IPLAUKU_DATA;SALTINIO_PAV;IMOKOS_KODAI;APRASYMAS;SUMA
 10-APR-18;VMI;22K;"Pajamos iš mokesčių inspekcijos";1202183.83
 19-MAR-18;VMI;22K;"Pajamos iš mokesčių inspekcijos";1597297.82
 19-MAR-18;VMI;22K;"Pajamos iš mokesčių inspekcijos";357031.92
+09-NOV-18;VMI;22K;"Pajamos iš mokesčių inspekcijos";859468.83
 02-NOV-18;VMI;22K;"Pajamos iš mokesčių inspekcijos";2365885.19
 23-OCT-18;VMI;22K;"Pajamos iš mokesčių inspekcijos";198621.69
 16-OCT-18;VMI;22K;"Pajamos iš mokesčių inspekcijos";6392188.93
@@ -2961,6 +2962,8 @@ IPLAUKU_DATA;SALTINIO_PAV;IMOKOS_KODAI;APRASYMAS;SUMA
 10-APR-18;KITOS;91;"Kitos pajamos";695.6
 10-APR-18;KITOS;91;"Kitos pajamos";552.04
 15-MAR-18;KITOS;91;"Kitos pajamos";200
+09-NOV-18;KITOS;91;"Kitos pajamos";580
+09-NOV-18;KITOS;91;"Kitos pajamos";580
 31-OCT-18;KITOS;91;"Kitos pajamos";886.24
 10-OCT-18;KITOS;91;"Kitos pajamos";900
 10-OCT-18;KITOS;91;"Kitos pajamos";940
@@ -3058,6 +3061,12 @@ IPLAUKU_DATA;SALTINIO_PAV;IMOKOS_KODAI;APRASYMAS;SUMA
 15-MAY-18;KITOS;91;"Kitos pajamos";213.26
 03-MAY-18;KITOS;91;"Kitos pajamos";82.05
 19-MAR-18;KITOS;91;"Kitos pajamos";150
+09-NOV-18;KITOS;91;"Kitos pajamos";26.45
+09-NOV-18;KITOS;91;"Kitos pajamos";62.19
+09-NOV-18;KITOS;91;"Kitos pajamos";940
+09-NOV-18;KITOS;91;"Kitos pajamos";940
+09-NOV-18;KITOS;91;"Kitos pajamos";940
+09-NOV-18;KITOS;91;"Kitos pajamos";940
 30-OCT-18;KITOS;91;"Kitos pajamos";46.06
 23-OCT-18;KITOS;91;"Kitos pajamos";35.24
 16-OCT-18;KITOS;91;"Kitos pajamos";49.13
@@ -6668,6 +6677,7 @@ IPLAUKU_DATA;SALTINIO_PAV;IMOKOS_KODAI;APRASYMAS;SUMA
 11-APR-18;"FM STD";65;"Specialios tikslinės dotacijos";148500
 10-OCT-18;"FM STD";65;"Specialios tikslinės dotacijos";75200
 09-MAR-18;"FM STD";65;"Specialios tikslinės dotacijos";126800
+09-NOV-18;"FM STD";65;"Specialios tikslinės dotacijos";77800
 11-JUN-18;"FM STD";65;"Specialios tikslinės dotacijos";24300
 09-FEB-18;"FM STD";65;"Specialios tikslinės dotacijos";126700
 10-JAN-18;"FM STD";65;"Specialios tikslinės dotacijos";108500
@@ -6714,6 +6724,7 @@ IPLAUKU_DATA;SALTINIO_PAV;IMOKOS_KODAI;APRASYMAS;SUMA
 10-SEP-18;"FM STD";66;"Specialios tikslinės dotacijos";952200
 10-MAY-18;"FM STD";66;"Specialios tikslinės dotacijos";465800
 09-MAR-18;"FM STD";66;"Specialios tikslinės dotacijos";297900
+09-NOV-18;"FM STD";66;"Specialios tikslinės dotacijos";415700
 10-AUG-18;"FM STD";66;"Specialios tikslinės dotacijos";361500
 09-FEB-18;"FM STD";66;"Specialios tikslinės dotacijos";297900
 09-JAN-18;"FM STD";66;"Specialios tikslinės dotacijos";297900
