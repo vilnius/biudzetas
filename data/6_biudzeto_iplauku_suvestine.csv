@@ -1,4 +1,5 @@
 IPLAUKU_DATA;SALTINIO_PAV;IMOKOS_KODAI;APRASYMAS;SUMA
+19-NOV-18;VMI;37;"Pajamos iš mokesčių inspekcijos";5265.47
 25-SEP-18;VMI;37;"Pajamos iš mokesčių inspekcijos";3.64
 12-SEP-18;VMI;37;"Pajamos iš mokesčių inspekcijos";5.65
 27-AUG-18;VMI;37;"Pajamos iš mokesčių inspekcijos";2.31
@@ -693,6 +694,7 @@ IPLAUKU_DATA;SALTINIO_PAV;IMOKOS_KODAI;APRASYMAS;SUMA
 29-MAR-18;VMI;39;"Pajamos iš mokesčių inspekcijos";1361
 29-MAR-18;VMI;39;"Pajamos iš mokesčių inspekcijos";40812.4
 29-MAR-18;VMI;39;"Pajamos iš mokesčių inspekcijos";1322.7
+19-NOV-18;VMI;39;"Pajamos iš mokesčių inspekcijos";564061.58
 01-OCT-18;VMI;39;"Pajamos iš mokesčių inspekcijos";8348.62
 06-AUG-18;VMI;39;"Pajamos iš mokesčių inspekcijos";46977.97
 16-JUL-18;VMI;39;"Pajamos iš mokesčių inspekcijos";298603.31
@@ -1315,6 +1317,7 @@ IPLAUKU_DATA;SALTINIO_PAV;IMOKOS_KODAI;APRASYMAS;SUMA
 11-DEC-17;VMI;84;"Pajamos iš mokesčių inspekcijos";141.4
 29-NOV-16;VMI;84;"Pajamos iš mokesčių inspekcijos";345.55
 07-MAR-16;VMI;84;"Pajamos iš mokesčių inspekcijos";8600
+19-NOV-18;VMI;22K;"Pajamos iš mokesčių inspekcijos";1024935.02
 14-NOV-18;VMI;22K;"Pajamos iš mokesčių inspekcijos";1400381.26
 13-NOV-18;VMI;22K;"Pajamos iš mokesčių inspekcijos";766030.08
 30-OCT-18;VMI;22K;"Pajamos iš mokesčių inspekcijos";314707.83
@@ -2926,6 +2929,9 @@ IPLAUKU_DATA;SALTINIO_PAV;IMOKOS_KODAI;APRASYMAS;SUMA
 29-MAR-18;KITOS;91;"Kitos pajamos";14850
 29-MAR-18;KITOS;91;"Kitos pajamos";200
 29-MAR-18;KITOS;91;"Kitos pajamos";.5
+19-NOV-18;KITOS;91;"Kitos pajamos";11.18
+19-NOV-18;KITOS;91;"Kitos pajamos";1000
+19-NOV-18;KITOS;91;"Kitos pajamos";1000
 31-OCT-18;KITOS;91;"Kitos pajamos";10.29
 31-OCT-18;KITOS;91;"Kitos pajamos";36.34
 31-OCT-18;KITOS;91;"Kitos pajamos";1.75
@@ -4244,6 +4250,7 @@ IPLAUKU_DATA;SALTINIO_PAV;IMOKOS_KODAI;APRASYMAS;SUMA
 14-SEP-18;KITOS;90;"Kitos pajamos";8415
 04-APR-18;KITOS;90;"Kitos pajamos";4608
 29-MAR-18;KITOS;90;"Kitos pajamos";672
+19-NOV-18;KITOS;90;"Kitos pajamos";8700
 31-OCT-18;KITOS;90;"Kitos pajamos";1170
 24-OCT-18;KITOS;90;"Kitos pajamos";7683
 21-JUN-18;KITOS;90;"Kitos pajamos";1944
