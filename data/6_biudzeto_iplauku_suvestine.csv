@@ -1,4 +1,5 @@
 IPLAUKU_DATA;SALTINIO_PAV;IMOKOS_KODAI;APRASYMAS;SUMA
+04-DEC-18;VMI;37;"Pajamos iš mokesčių inspekcijos";615.3
 30-NOV-18;VMI;37;"Pajamos iš mokesčių inspekcijos";1349.56
 19-NOV-18;VMI;37;"Pajamos iš mokesčių inspekcijos";5265.47
 25-SEP-18;VMI;37;"Pajamos iš mokesčių inspekcijos";3.64
@@ -1319,6 +1320,7 @@ IPLAUKU_DATA;SALTINIO_PAV;IMOKOS_KODAI;APRASYMAS;SUMA
 28-FEB-17;VMI;39;"Pajamos iš mokesčių inspekcijos";4650
 28-FEB-17;VMI;39;"Pajamos iš mokesčių inspekcijos";300
 28-FEB-17;VMI;39;"Pajamos iš mokesčių inspekcijos";1070
+04-DEC-18;VMI;71;"Pajamos iš mokesčių inspekcijos";20000
 11-APR-18;VMI;71;"Pajamos iš mokesčių inspekcijos";579.24
 17-APR-18;VMI;71;"Pajamos iš mokesčių inspekcijos";900
 17-APR-18;VMI;71;"Pajamos iš mokesčių inspekcijos";14481
@@ -1331,6 +1333,8 @@ IPLAUKU_DATA;SALTINIO_PAV;IMOKOS_KODAI;APRASYMAS;SUMA
 11-DEC-17;VMI;84;"Pajamos iš mokesčių inspekcijos";141.4
 29-NOV-16;VMI;84;"Pajamos iš mokesčių inspekcijos";345.55
 07-MAR-16;VMI;84;"Pajamos iš mokesčių inspekcijos";8600
+04-DEC-18;VMI;22K;"Pajamos iš mokesčių inspekcijos";371712.07
+04-DEC-18;VMI;22K;"Pajamos iš mokesčių inspekcijos";369023.81
 27-NOV-18;VMI;22K;"Pajamos iš mokesčių inspekcijos";271004.1
 29-NOV-18;VMI;22K;"Pajamos iš mokesčių inspekcijos";16.73
 29-NOV-18;VMI;22K;"Pajamos iš mokesčių inspekcijos";58620.16
@@ -2936,6 +2940,8 @@ IPLAUKU_DATA;SALTINIO_PAV;IMOKOS_KODAI;APRASYMAS;SUMA
 05-AUG-16;KITOS;99;"Kitos pajamos";138128.77
 07-AUG-15;KITOS;99;"Kitos pajamos";66009.91
 26-MAY-15;KITOS;99;"Kitos pajamos";11847.2
+04-DEC-18;KITOS;91;"Kitos pajamos";19.48
+04-DEC-18;KITOS;91;"Kitos pajamos";65.52
 29-NOV-18;KITOS;91;"Kitos pajamos";196.61
 30-NOV-18;KITOS;91;"Kitos pajamos";20
 30-NOV-18;KITOS;91;"Kitos pajamos";25.3
@@ -5280,6 +5286,7 @@ IPLAUKU_DATA;SALTINIO_PAV;IMOKOS_KODAI;APRASYMAS;SUMA
 27-APR-17;KITOS;93;"Kitos pajamos";92100
 28-FEB-17;KITOS;93;"Kitos pajamos";47290
 28-FEB-17;KITOS;93;"Kitos pajamos";87960
+04-DEC-18;KITOS;97;"Kitos pajamos";704.7
 28-NOV-18;KITOS;97;"Kitos pajamos";13812.93
 28-NOV-18;KITOS;97;"Kitos pajamos";1288446.15
 14-NOV-18;KITOS;97;"Kitos pajamos";57135
