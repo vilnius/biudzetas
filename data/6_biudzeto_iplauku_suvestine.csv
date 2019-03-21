@@ -241,6 +241,7 @@ IPLAUKU_DATA;SALTINIO_PAV;IMOKOS_KODAI;APRASYMAS;SUMA
 16-MAR-17;VMI;37;"Pajamos iš mokesčių inspekcijos";880.02
 06-MAR-17;VMI;37;"Pajamos iš mokesčių inspekcijos";79849.44
 24-JAN-17;VMI;37;"Pajamos iš mokesčių inspekcijos";59.47
+19-MAR-19;VMI;37;"Pajamos iš mokesčių inspekcijos";421.15
 17-JUL-17;VMI;37;"Pajamos iš mokesčių inspekcijos";43.49
 07-JUL-17;VMI;37;"Pajamos iš mokesčių inspekcijos";30.21
 12-MAY-17;VMI;37;"Pajamos iš mokesčių inspekcijos";11564.71
@@ -2029,6 +2030,7 @@ IPLAUKU_DATA;SALTINIO_PAV;IMOKOS_KODAI;APRASYMAS;SUMA
 10-FEB-17;VMI;22K;"Pajamos iš mokesčių inspekcijos";170831.02
 10-FEB-17;VMI;22K;"Pajamos iš mokesčių inspekcijos";1111224.2
 24-JAN-17;VMI;22K;"Pajamos iš mokesčių inspekcijos";37866.08
+19-MAR-19;VMI;22K;"Pajamos iš mokesčių inspekcijos";1051318.99
 18-DEC-17;VMI;22K;"Pajamos iš mokesčių inspekcijos";5456991.25
 11-DEC-17;VMI;22K;"Pajamos iš mokesčių inspekcijos";1353214.31
 06-DEC-17;VMI;22K;"Pajamos iš mokesčių inspekcijos";1093277.48
@@ -3524,6 +3526,7 @@ IPLAUKU_DATA;SALTINIO_PAV;IMOKOS_KODAI;APRASYMAS;SUMA
 24-JAN-18;KITOS;91;"Kitos pajamos";5880.86
 24-JAN-18;KITOS;91;"Kitos pajamos";3075
 24-JAN-18;KITOS;91;"Kitos pajamos";1655
+19-MAR-19;KITOS;91;"Kitos pajamos";21546.53
 11-JAN-18;KITOS;91;"Kitos pajamos";14.08
 05-JAN-18;KITOS;91;"Kitos pajamos";15.68
 27-DEC-17;KITOS;91;"Kitos pajamos";228.5
@@ -3657,6 +3660,8 @@ IPLAUKU_DATA;SALTINIO_PAV;IMOKOS_KODAI;APRASYMAS;SUMA
 10-FEB-17;KITOS;91;"Kitos pajamos";91.08
 24-JAN-17;KITOS;91;"Kitos pajamos";59.16
 24-JAN-17;KITOS;91;"Kitos pajamos";96.76
+19-MAR-19;KITOS;91;"Kitos pajamos";200
+19-MAR-19;KITOS;91;"Kitos pajamos";3111.11
 13-DEC-16;KITOS;91;"Kitos pajamos";34.32
 15-DEC-17;KITOS;91;"Kitos pajamos";12.6
 06-DEC-17;KITOS;91;"Kitos pajamos";240.5
@@ -4904,6 +4909,7 @@ IPLAUKU_DATA;SALTINIO_PAV;IMOKOS_KODAI;APRASYMAS;SUMA
 22-JAN-18;KITOS;100;"Kitos pajamos";70.88
 22-JAN-18;KITOS;100;"Kitos pajamos";249.07
 30-MAR-18;KITOS;100;"Kitos pajamos";5114.59
+19-MAR-19;KITOS;100;"Kitos pajamos";28.76
 05-JAN-18;KITOS;100;"Kitos pajamos";19.28
 30-DEC-17;KITOS;100;"Kitos pajamos";3570.04
 07-JUL-17;KITOS;100;"Kitos pajamos";22.11
