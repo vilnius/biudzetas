@@ -195,6 +195,7 @@ IPLAUKU_DATA;SALTINIO_PAV;IMOKOS_KODAI;APRASYMAS;SUMA
 06-MAR-18;VMI;37;"Pajamos iš mokesčių inspekcijos";703.71
 25-JAN-18;VMI;37;"Pajamos iš mokesčių inspekcijos";22.6
 19-APR-18;VMI;37;"Pajamos iš mokesčių inspekcijos";379.82
+20-MAR-19;VMI;37;"Pajamos iš mokesčių inspekcijos";172.38
 28-FEB-18;VMI;37;"Pajamos iš mokesčių inspekcijos";3655.76
 22-JAN-18;VMI;37;"Pajamos iš mokesčių inspekcijos";909.35
 17-JAN-18;VMI;37;"Pajamos iš mokesčių inspekcijos";1.9
@@ -1863,6 +1864,7 @@ IPLAUKU_DATA;SALTINIO_PAV;IMOKOS_KODAI;APRASYMAS;SUMA
 25-JAN-18;VMI;22K;"Pajamos iš mokesčių inspekcijos";383112.45
 19-APR-18;VMI;22K;"Pajamos iš mokesčių inspekcijos";389751.68
 19-APR-18;VMI;22K;"Pajamos iš mokesčių inspekcijos";18373.35
+20-MAR-19;VMI;22K;"Pajamos iš mokesčių inspekcijos";367684.55
 28-FEB-18;VMI;22K;"Pajamos iš mokesčių inspekcijos";510756.96
 28-FEB-18;VMI;22K;"Pajamos iš mokesčių inspekcijos";99705
 30-JAN-18;VMI;22K;"Pajamos iš mokesčių inspekcijos";260396.63
@@ -3509,6 +3511,9 @@ IPLAUKU_DATA;SALTINIO_PAV;IMOKOS_KODAI;APRASYMAS;SUMA
 09-FEB-18;KITOS;91;"Kitos pajamos";19.14
 25-JAN-18;KITOS;91;"Kitos pajamos";4.33
 19-APR-18;KITOS;91;"Kitos pajamos";600
+20-MAR-19;KITOS;91;"Kitos pajamos";426
+20-MAR-19;KITOS;91;"Kitos pajamos";1009
+20-MAR-19;KITOS;91;"Kitos pajamos";4009
 28-FEB-18;KITOS;91;"Kitos pajamos";116.32
 28-FEB-18;KITOS;91;"Kitos pajamos";4649.04
 30-JAN-18;KITOS;91;"Kitos pajamos";886.24
@@ -4902,6 +4907,7 @@ IPLAUKU_DATA;SALTINIO_PAV;IMOKOS_KODAI;APRASYMAS;SUMA
 09-APR-18;KITOS;100;"Kitos pajamos";19.14
 30-MAR-18;KITOS;100;"Kitos pajamos";785.33
 26-SEP-17;KITOS;100;"Kitos pajamos";10355.34
+20-MAR-19;KITOS;100;"Kitos pajamos";37.32
 28-FEB-18;KITOS;100;"Kitos pajamos";4271.64
 25-JAN-18;KITOS;100;"Kitos pajamos";145.83
 03-JAN-18;KITOS;100;"Kitos pajamos";32.42
@@ -7026,6 +7032,7 @@ IPLAUKU_DATA;SALTINIO_PAV;IMOKOS_KODAI;APRASYMAS;SUMA
 15-DEC-16;FM;;"Pajamos iš finansų ministerijos";744109
 22-JAN-16;FM;;"Pajamos iš finansų ministerijos";604944
 20-DEC-16;FM;;"Pajamos iš finansų ministerijos";1059458
+28-JAN-19;FM;;"Pajamos iš finansų ministerijos";800
 31-JAN-17;FM;;"Pajamos iš finansų ministerijos";15553.53
 26-OCT-15;FM;;"Pajamos iš finansų ministerijos";3334
 21-JUL-15;FM;;"Pajamos iš finansų ministerijos";6065
