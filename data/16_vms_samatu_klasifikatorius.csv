@@ -3299,6 +3299,8 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 6000070;"Socialinė globa asmenims su sunkia negalia Vilniaus miesto vaikų pensione";Y;N;20-NOV-07;01-MAR-12
 6000075;"MMA didinimui ir darbo apmokėjimo įstatymui įgyvendinti";Y;N;26-SEP-16;02-JUN-17
 6000080;"Socialinė globa asmenims su sunkia negalia pensionate ""Vilties namai""";Y;N;20-NOV-07;20-SEP-13
+6000088;"Socialinė globa asmenims su sunkia negalia ugdymo centre „Viltis“";Y;N;09-DEC-19;09-DEC-19
+6000089;"Socialinė globa asmenims su sunkia negalia Verkių specialiojoje mokykloje-daugiafunkciniame centre";Y;N;09-DEC-19;09-DEC-19
 6000090;"Socialinė globa asmenims su sunkia negalia Fabijoniškių pensione";Y;N;20-NOV-07;01-MAR-12
 6000091;"Socialinė globa asmenims su sunkia negalia Dienos centre ""Šviesa""";Y;N;14-MAR-08;27-MAR-09
 6000092;"Socialinė globa asmenims su sunkia negalia namuose";Y;N;28-OCT-11;28-OCT-11
@@ -4306,6 +4308,7 @@ EIMDEP1;"Ekonomikos ir investicijų departamentas samatu suvestine";Y;Y;10-FEB-1
 FD1;"Finasų departameto suminė";Y;Y;10-FEB-12;10-FEB-12
 KLAIP15;"gautoms lėšos iš Klaipėdos savivaldybės";Y;N;21-SEP-15;21-SEP-15
 MUD_AED;"Suminė MUD AED sąmata";Y;Y;30-NOV-15;30-NOV-15
+PB0001;"Simono Daukanto gimnazijos projektas 09.2.1-ESFA-V-719-01-0001";Y;N;09-DEC-19;09-DEC-19
 PB0007;"Medinės architektūros paveldo muziejaus Vilniuje, Polocko g.52, sukūrimas";Y;N;23-JUL-19;24-JUL-19
 PB001;"Projektas ""Suaugusiųjų Švietimo institucijų modernizavimas""";Y;N;08-AUG-12;08-AUG-12
 PB0011;"Vilniaus Emilijos Pliaterytės progimnazijos efektyvumo didinimas";Y;N;14-NOV-17;14-NOV-17
