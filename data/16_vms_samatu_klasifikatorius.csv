@@ -187,6 +187,7 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 1010591;"Už butus grąžinamas paskola";Y;N;14-MAR-08;29-OCT-13
 1010592;"Kitos išlaidos (konkurso lėšos, deponentai)";Y;N;14-MAR-08;14-MAR-08
 1010593;"Šiaurės ir Baltijos šalių viešojo administravimo mobilumo ir tinklaveikos programos projekto „Gerosios patirties mainai“ įgyvendinimas";Y;N;05-DEC-19;05-DEC-19
+1010594;"Komandiruočių užsienyje išlaidų kompensavimas";Y;N;11-DEC-19;11-DEC-19
 1010600;"ES projektas/ 0037";Y;N;17-JUN-08;17-JUN-08
 1010601;"Elektroninio bilieto viešajame transporte ir keleivių informavimo sistemos sukūrimas";Y;N;14-MAR-08;24-SEP-09
 1010602;"Elektroninių priemonių skirtų gyventojams dalyvauti sprendimų priėmime sukūrimas ir įdiegimas (E. demokratija)";Y;N;18-FEB-10;18-FEB-10
@@ -605,6 +606,7 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 3000531;"Lietaus tinklų infrastruktūros remontas ir įrengimas";Y;N;27-JAN-15;27-JAN-15
 3000532;"Pralaidos Verkių gatvėje remontas";Y;N;15-NOV-16;15-NOV-16
 3000533;"Paviršinių nuotekų tvarkymo programos įgyvendinimas (LL iš AARSP)";Y;N;21-FEB-19;21-FEB-19
+3000534;"Paviršinių nuotekų tvarkymo programos įgyvendinimas";Y;N;12-DEC-19;12-DEC-19
 3000535;"Lieptų Žaliųjų Ežerų paplūdimyje remontas";Y;N;15-NOV-16;15-NOV-16
 3000540;"Neries ir Vilnios upių krantinių sutvarkymas, vagos išvalymas ir vandens tyrimas paplūdimiuose";Y;N;20-NOV-07;08-JUL-08
 3000541;"Želdynų ir želdinių apsauga, tvarkymas, stebėsena, kūrimas, veisimas ir kt. (AARSP)";Y;N;20-FEB-12;20-FEB-12
@@ -4374,6 +4376,7 @@ PBER13;"Tuskulėnų gimnazija Erasmus+ 04711_5";Y;N;16-NOV-18;16-NOV-18
 PBER14;"Tuskulėnų gimnazija Erasmus+ 050117_5";Y;N;16-NOV-18;16-NOV-18
 PBKITPR;"Kiti projektai (BĮBA)";Y;N;29-JAN-13;29-JAN-13
 PBKOMPL;"Komplektavimo lėšos (bibliotekai-BĮBA)";Y;N;14-JAN-13;14-JAN-13
+PBKT13;"M.K. Čiurlionio namai European music trails";Y;N;11-DEC-19;11-DEC-19
 PBMAIT;"Pinigai už darbuotojų mitybą (BĮBA)";Y;N;13-DEC-16;13-DEC-16
 PBMODUL;"Modulinis mokymas (BĮBA)";Y;N;29-JAN-13;29-JAN-13
 PBNEC;"Nacionalinio egzaminų centro dienpinigiai (BĮBA)";Y;N;17-SEP-14;17-SEP-14
