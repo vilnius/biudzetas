@@ -1,9 +1,9 @@
 KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 0000000;Nedetalizuojama;Y;N;19-NOV-07;13-APR-10
 1000000;"Administracijos sąmatos";Y;Y;20-NOV-07;29-SEP-09
-1000001;"Bendrų ekonominių ir socialinių planavimo paslaugų administravimas ir valdymas";Y;N;14-MAR-08;20-FEB-17
+1000001;"Bendrų ekonominių ir socialinių planavimo paslaugų administravimas ir valdymas";Y;N;14-MAR-08;27-DEC-19
 1000002;"Savivaldos institucijos (Taryba)";Y;N;14-MAR-08;20-FEB-17
-1000003;"Bendrų ekonominių ir socialinių planavimo paslaugų administravimas ir valdymas";Y;N;14-MAR-08;20-FEB-17
+1000003;"Bendrų ekonominių ir socialinių planavimo paslaugų administravimas ir valdymas";Y;N;14-MAR-08;27-DEC-19
 1000004;"Civilinės būklės aktų registravimas";Y;N;14-MAR-08;14-MAR-08
 1000005;"Valstybės garantijų nuomininkams, išsikeliantiems iš savininkams grąžintų gyvenamųjų namų ar jų dalių ir butų, vykdymas";Y;N;14-MAR-08;08-FEB-11
 1000006;"Nuosavybės teisių atkūrimo sprendimų priėmimas";Y;N;14-MAR-08;14-MAR-08
@@ -12,7 +12,7 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 1000009;"Valstybės archyvų irregistrų išlaikymas bei saugojimas";Y;N;14-MAR-08;20-FEB-17
 1000010;"Savivaldos institucijos (Tarybos sekretoriatas)";Y;N;20-NOV-07;20-FEB-17
 1000011;"Karo prievolės ir mobilizacijos administravimas savivaldybėse";Y;N;14-MAR-08;14-MAR-08
-1000012;"Kitos jokiai grupei nepriskirtos bendros valstybės paslaugos (Kitos išlaidos)";Y;N;14-MAR-08;07-JAN-19
+1000012;"Kitos jokiai grupei nepriskirtos bendros valstybės paslaugos (Kitos išlaidos)";Y;N;14-MAR-08;27-DEC-19
 1000013;"Kompiuterių ir duomenų apdorojimo tarnybų paslaugos (""KIS Savivaldybė"")";Y;N;14-MAR-08;14-MAR-08
 1000014;"Bendri darbo reikalai, darbo politikos formavimas ir įgyvendinimas (Viešieji darbai)";Y;N;14-MAR-08;20-FEB-17
 1000015;"Bendrų ekonominių ir socialinių planavimo paslaugų administravimas ir valdymas";Y;N;14-MAR-08;22-FEB-18
@@ -31,18 +31,18 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 1000028;"Civilinės gynybos reikalų ir paslaugų administravimas";Y;N;14-MAR-08;20-FEB-17
 1000029;"Civilinės būklės aktų registravimas";Y;N;19-MAR-08;19-MAR-08
 1000030;"Duomenų apie suteiktą valstybės pagalbą teikimas valstybės pagalbos registrui";Y;N;20-NOV-07;20-FEB-17
-1000031;"Bendrų ekonominių ir socialinių planavimo paslaugų administravimas ir valdymas (Finansų departamentas)";Y;N;14-MAR-08;19-SEP-19
+1000031;"Bendrų ekonominių ir socialinių planavimo paslaugų administravimas ir valdymas (Finansų departamentas)";Y;N;14-MAR-08;27-DEC-19
 1000032;"Savivaldybei priskirtos valstybinės žemės ir kito valstybės turto valdymas, naudojimas ir disponavimas juo patikėjimo teise";Y;N;14-MAR-08;01-JUL-11
-1000033;"Bendrų ekonominių ir socialinių planavimo paslaugų administravimas ir valdymas (Miesto plėtros departamentas)";Y;N;14-MAR-08;19-SEP-19
-1000034;"Centrinės institucijos išlaikymas (Miesto ūkio departamentas)";Y;N;14-MAR-08;19-SEP-19
+1000033;"Bendrų ekonominių ir socialinių planavimo paslaugų administravimas ir valdymas (Miesto plėtros departamentas)";Y;N;14-MAR-08;27-DEC-19
+1000034;"Centrinės institucijos išlaikymas (Miesto ūkio departamentas)";Y;N;14-MAR-08;27-DEC-19
 1000035;"Žmogaus teisių apsauga (Vaikų teisių apsaugos tarnyba)";Y;N;14-MAR-08;01-JUL-11
 1000036;"Žmogaus teisių apsauga (Vaikų teisių apsaugos tarnyba)";Y;N;14-MAR-08;20-FEB-17
-1000037;"Centrinės institucijos išlaikymas (Sveikatos skyrius)";Y;N;14-MAR-08;20-FEB-17
-1000038;"Centrinės institucijos išlaikymas (Socialinių reikalų departamentas)";Y;N;14-MAR-08;19-SEP-19
-1000039;"Socialinių pašalpų ir išmokų administravimas";Y;N;14-MAR-08;19-SEP-19
+1000037;"Centrinės institucijos išlaikymas (Sveikatos skyrius)";Y;N;14-MAR-08;27-DEC-19
+1000038;"Centrinės institucijos išlaikymas (Socialinių reikalų departamentas)";Y;N;14-MAR-08;27-DEC-19
+1000039;"Socialinių pašalpų ir išmokų administravimas";Y;N;14-MAR-08;27-DEC-19
 1000040;"Žmogaus teisių apsauga (Kultūros ir ugdymo departamentas)";Y;N;20-NOV-07;01-JUL-11
-1000041;"Centrinės institucijos išlaikymas (Kultūros ir ugdymo departamentas)";Y;N;14-MAR-08;19-SEP-19
-1000042;"Centrinės institucijos išlaikymas (Kultūros ir ugdymo departamentas)";Y;N;14-MAR-08;19-SEP-19
+1000041;"Centrinės institucijos išlaikymas (Kultūros ir ugdymo departamentas)";Y;N;14-MAR-08;27-DEC-19
+1000042;"Centrinės institucijos išlaikymas (Kultūros ir ugdymo departamentas)";Y;N;14-MAR-08;27-DEC-19
 1000043;"Žemės ūkio funkcijų vykdymas";Y;N;25-JAN-10;20-FEB-17
 1000044;"Departamentų mokesčiai";Y;N;25-JAN-10;09-MAR-10
 1000045;"Visuomenės informavimo priemonių parengimas (AD 2010-10-29 įsakymas Nr. 30-1944)";Y;N;15-NOV-10;15-NOV-10
@@ -62,15 +62,15 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 1000059;"Gyventojų gyvenamosios vietos deklaravimo duomenų ir gyvanamosios vietos neturinčių asmenų apskaitos duomenų tvarkymas";Y;N;14-MAR-08;23-MAR-09
 1000060;"Bendrų ekonominių ir socialinių planavimo paslaugų administravimas ir valdymas";Y;N;20-NOV-07;23-MAR-09
 1000061;"Institucijos valdymo išlaidos  (Inovacijų ir technologijų grupė, Klientų aptarnavimo skyrius)";Y;N;17-DEC-08;19-SEP-19
-1000062;"Institucijos valdymo išlaidos (Administracinės veiklos skyrius, Administracinių bylų nagrinėjimo skyrius, Administracinių nusižengimų tyrimo skyrius, Viešosios tvarkos skyrius)";Y;N;18-DEC-08;19-SEP-19
-1000063;"Institucijos valdymo išlaidos  (Mero fondas)";Y;N;15-MAY-09;20-FEB-17
+1000062;"Institucijos valdymo išlaidos (Administracinės veiklos skyrius, Administracinių bylų nagrinėjimo skyrius, Administracinių nusižengimų tyrimo skyrius, Viešosios tvarkos skyrius). Darbo užmokestis";Y;N;18-DEC-08;27-DEC-19
+1000063;"Institucijos valdymo išlaidos (Mero fondas)";Y;N;15-MAY-09;27-DEC-19
 1000064;"Finansų valdymo ir apskaitos sistema";Y;N;30-SEP-09;30-SEP-09
 1000065;"Bendruomenių kalėdinių ir naujametinių renginių organizavimas seniūnijose (AD 2009-12-14 įsakymas Nr. 30-2172)";Y;N;16-DEC-09;16-DEC-09
 1000066;"Vilniaus miesto savivaldybės administracijos tipinių veiklos procesų ir procedūrų visapusiškas tyrimas ir optimizavimas";Y;N;10-FEB-10;10-FEB-10
 1000067;"Kompleksinis paslaugų teikimo „vieno langelio“ principu  tobulinimas";Y;N;10-FEB-10;10-FEB-10
 1000068;"Vilniaus apskrities vyriausiojo policijos komisariato Patrulių rinktinės pareigūnų skatinimas (AD 2010-03-04 įsakymas Nr. 30-486)";Y;N;08-MAR-10;08-MAR-10
 1000069;"Kitos jokiai grupei nepriskirtos bendros valstybės paslaugos (Tarptautinių organizacijų ir LSA nario mokesčiai)";Y;N;07-JAN-19;07-JAN-19
-1000070;Nenaudojama;Y;N;20-NOV-07;07-JAN-19
+1000070;Nenaudojama;Y;N;20-NOV-07;27-DEC-19
 1000071;"Kitos jokiai grupei nepriskirtos bendros valstybės paslaugos (Rinkodaros ir komunikacijos skyriaus kitos išlaidos)";Y;N;07-JAN-19;07-JAN-19
 1000072;"Viešosios tvarkos ir visuomenės saugumo mieste užtikrinimas (AD 2010-05-18 įsakymas Nr. 30-1128)";Y;N;19-MAY-10;19-MAY-10
 1000073;"Administracinio pastato remonto darbai (AD 2010-10-29 įsakymas Nr. 30-1944)";Y;N;15-NOV-10;15-NOV-10
@@ -113,7 +113,7 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 1000110;Nenaudojama;Y;N;20-NOV-07;10-NOV-17
 1000111;"Socialinės reabilitacijos paslaugų neįgaliesiems bendruomenėje projektų administravimas";Y;N;22-FEB-18;22-FEB-18
 1000115;"Dėl ekonomikos krizės neproporcingai sumažinto darbo užmokesčio (atlyginimo) dalies grąžinimas (20 proc.)";Y;N;22-FEB-18;22-FEB-18
-1000116;"Tarpinstitucinio bendradarbiavimo koordinavimas";Y;N;07-MAR-18;07-MAR-18
+1000116;"Tarpinstitucinio bendradarbiavimo koordinatoriaus pareigybės išlaikymas";Y;N;07-MAR-18;27-DEC-19
 1000117;"Institucijos valdymo išlaidos (Tarpinstitucinio bendradarbiavimo koordinavimo skyrius)";Y;N;02-JUL-18;02-JUL-18
 1000150;Nenaudojama;Y;N;20-NOV-07;13-FEB-13
 1000151;"Tėvų mokesčio surinkimas jaunimo politiką  įgyvendinančiose įstaigose";Y;N;13-FEB-13;13-FEB-13
@@ -184,7 +184,7 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 1010572;"Žvėryno seniūnija (Parama)";Y;N;14-MAR-08;14-MAR-08
 1010573;"Užsienio ryšių skyrius (parama)";Y;N;05-DEC-11;05-DEC-11
 1010581;"Kitos seniūnijų lėšos";Y;N;14-MAR-08;26-MAR-09
-1010591;"Už butus grąžinamas paskola";Y;N;14-MAR-08;29-OCT-13
+1010591;"Už butus grąžinamas paskola";Y;N;14-MAR-08;27-DEC-19
 1010592;"Kitos išlaidos (konkurso lėšos, deponentai)";Y;N;14-MAR-08;14-MAR-08
 1010593;"Šiaurės ir Baltijos šalių viešojo administravimo mobilumo ir tinklaveikos programos projekto „Gerosios patirties mainai“ įgyvendinimas";Y;N;05-DEC-19;05-DEC-19
 1010594;"Komandiruočių užsienyje išlaidų kompensavimas";Y;N;11-DEC-19;11-DEC-19
@@ -210,13 +210,13 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 1010619;"Pradinių ir vidurinių mokyklų ir moksleivių e. mokymasis reagavimo į ekstremaliąsias situacijas srityje";Y;N;28-DEC-18;28-DEC-18
 1010620;"Projekto „Patirties keitimasis organizacijose tarptautinio bendradarbiavimo srityje“ įgyvendinimas";Y;N;28-MAY-19;28-MAY-19
 1010621;"Projekto „Šiaurės ir Baltijos šalių viešojo administravimo mobilumo ir tinklų programa tarp Vilniaus ir Joensuu, Kristiansando, Kristianstado ir Geteborgo“ įgyvendinimas";Y;N;26-JUN-19;26-JUN-19
-1100001;"Teismo, antstolių, notarų paslaugoms ir skelbimams spaudoje  apmokėti";Y;N;30-NOV-11;30-NOV-11
+1100001;"Teismo, antstolių, notarų paslaugoms ir skelbimams spaudoje apmokėti";Y;N;30-NOV-11;27-DEC-19
 1100002;"Vilniaus miesto 2010-2020 metų strateginio plano parengimas";Y;N;30-NOV-11;30-NOV-11
 1100003;"Finansų valdymo ir apskaitos sistemos diegimo plėtra ir analizės paslaugos - II etapas";Y;N;30-NOV-11;30-NOV-11
 1100004;"Jurgio Mačiūno meno kolekcijai iš dalies apmokėti";Y;N;30-NOV-11;30-NOV-11
-1100005;"Finansų departamento funkcijoms vykdyti (iš SB lėšų)";Y;N;07-OCT-13;07-OCT-13
-1100006;"Finansiniams įsipareigojimams vykdyti";Y;N;03-FEB-15;03-FEB-15
-1100007;"Viešųjų pirkimų, teismo, notarų ir programinės įrangos priežiūros išlaidoms Mokesčių skyriaus funkcijoms vykdyti";Y;N;09-FEB-15;09-FEB-15
+1100005;"Skolų grąžinimas pagal mokėjimų atidėjimo sutartis";Y;N;07-OCT-13;27-DEC-19
+1100006;"Skolų sutarčių palūkanoms ir kitiems mokesčiams mokėti";Y;N;03-FEB-15;27-DEC-19
+1100007;"Viešųjų pirkimų, teismo, notarų ir programinės įrangos priežiūros išlaidoms Mokesčių poskyrio funkcijoms vykdyti";Y;N;09-FEB-15;27-DEC-19
 1100008;"Finansų ir strateginio planavimo departamento funkcijoms vykdyti (iš SB lėšų likučių)";Y;N;09-FEB-17;09-FEB-17
 1100009;"Finansų ir strateginio planavimo departamento funkcijoms vykdyti (iš dotacijos)";Y;N;23-MAR-17;23-MAR-17
 1100100;"Vilniaus miesto 2010-2020 metų strateginio plano parengimas (ES)";Y;N;30-NOV-11;30-NOV-11
@@ -227,10 +227,10 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 1300173;"Paskolų  mokėjimas pagal grafiką (Lėšų likučiai iš SB lėšų )";Y;N;25-JUL-14;25-JUL-14
 1300174;"Pagal taikos sutartį savivaldybės paskoloms grąžinti";Y;N;23-FEB-18;23-FEB-18
 1300180;"Palūkanų mokėjimas pagal grafiką (1.2.2)";Y;N;06-DEC-11;06-DEC-11
-1500001;"Kompiuterių ir duomenų apdorojimo tarnybų paslaugos (""KIS Savivaldybė"")";Y;N;06-DEC-11;06-DEC-11
+1500001;"Vidinės informacinės infrastruktūros palaikymas";Y;N;06-DEC-11;27-DEC-19
 1500002;"Vilniaus miesto savivaldybės administracijos tipinių veiklos procesų ir procedūrų visapusiškas tyrimas ir optimizavimas";Y;N;06-DEC-11;06-DEC-11
 1500003;"Kompleksinis paslaugų teikimo „vieno langelio“ principu  tobulinimas";Y;N;06-DEC-11;06-DEC-11
-1500004;"Finansų valdymo ir apskaitos sistema";Y;N;09-FEB-12;09-FEB-12
+1500004;"Finansų valdymo ir apskaitos sistemos plėtra ir palaikymas";Y;N;09-FEB-12;27-DEC-19
 1500005;"Viešosios įstaigos „Startup Monthly Vilnius“  veiklos vykdymas (AD 2012-03-13 įsakymas Nr. 30-525)";Y;N;06-APR-12;06-APR-12
 1500006;"Vilniaus miesto kartografinių duomenų bazių kūrimas ir palaikymas";Y;N;27-JAN-14;27-JAN-14
 1500007;"Vilniaus teritorijų planavimo ir statybų duomenų banko kūrimas ir palaikymas GIS pagrindu";Y;N;27-JAN-14;27-JAN-14
@@ -248,7 +248,7 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 1500077;"Atvirų kūrybinių dirbtuvių ir piliečių mokslo iniciatyvų skatinimas";Y;N;21-FEB-17;21-FEB-17
 1500078;"Inovacijų skatinimas savivaldybės įstaigose";Y;N;22-FEB-18;22-FEB-18
 1500080;"Elektroninio bilieto viešajame transporte ir keleivių informavimo sistemos sukūrimas";Y;N;15-FEB-16;15-FEB-16
-1500084;"Elektroninio švietimo sistemos diegimas";Y;N;06-DEC-11;06-DEC-11
+1500084;"Švietimo paslaugų informacinės infrastruktūros plėtra ir palaikymas";Y;N;06-DEC-11;27-DEC-19
 1500090;"Programinės įrangos, skirtos vietinės rinkliavos (už atliekų tvarkymą ir surinkimą) apskaitai ir administravimui, įsigijimas (SB)";Y;N;25-JUN-14;25-JUN-14
 1500102;"Elektroninių priemonių skirtų gyventojams dalyvauti sprendimų priėmime sukūrimas ir įdiegimas (E. demokratija)";Y;N;05-DEC-11;05-DEC-11
 1500201;"Elektroninių priemonių skirtų gyventojams dalyvauti sprendimų priėmime sukūrimas ir įdiegimas (E. demokratija)";Y;N;06-DEC-11;06-DEC-11
@@ -363,7 +363,7 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 2000046;"Kitos aplinkos teršimo mažinimo priemonės (VDF)";Y;N;01-DEC-11;01-DEC-11
 2000047;"Kitos aplinkos teršimo mažinimo priemonės (SB)";Y;N;01-DEC-11;01-DEC-11
 2000048;"Kitos aplinkos teršimo mažinimo priemonės (AR)";Y;N;01-DEC-11;01-DEC-11
-2000049;"Aplinkos stebėsenos (monitoringo) programos rengimas ir  įgyvendinimas (AARSP)";Y;N;25-JAN-12;25-JAN-12
+2000049;"Aplinkos stebėsenos (monitoringo) programos rengimas ir įgyvendinimas (AARSP)";Y;N;25-JAN-12;27-DEC-19
 2000050;Nenaudojama;Y;N;20-NOV-07;08-MAR-10
 2000051;"Administracijos direktoriaus 2011-12-20 įsakymas Nr. 30-1860 (Asociacijai „Už sąžiningą bankininkystę“ Verslo sąlygoms Vilniaus mieste gerinti";Y;N;27-DEC-11;27-DEC-11
 2000052;"Administracijos direktoriaus 2011-12-28 įsakymas Nr. 30-1901 (Viktoro Petkaus labdaros ir  paramos fondui veiklai paremti)";Y;N;28-DEC-11;28-DEC-11
@@ -588,7 +588,7 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 3000430;"VŠĮ Vilniaus apskrities atliekų centro išlaikymas";Y;N;20-NOV-07;08-JUL-08
 3000440;"Komunalinių atliekų iš romų gyvenamųjų teritorijų išvežimas";Y;N;20-NOV-07;08-JUL-08
 3000450;"Stambiagabaričių atliekų tvarkymo aikštelių eksploatacija ir prižiūra";Y;N;20-NOV-07;30-APR-08
-3000460;"Sniego, smėlio bei grunto laikinų sąvartynų įrengimas, eksploatacija bei prižiūra";Y;N;20-NOV-07;07-MAR-11
+3000460;"Sniego, smėlio bei grunto laikinų sąvartynų įrengimas, eksploatacija bei prižiūra";Y;N;20-NOV-07;27-DEC-19
 3000461;"Sniego, smėlio ir grunto laikinų sąvartynų įrengimas, jų eksploatavimas ir priežiūra (LL iš AARSP)";Y;N;21-FEB-19;21-FEB-19
 3000470;"Savavališkų sąvartynų seniūnijose likvidavimas";Y;N;20-NOV-07;07-MAR-11
 3000471;"Savavališkų sąvartynų seniūnijose likvidavimas (savivaldybės biudžetas)";Y;N;24-SEP-10;24-SEP-10
@@ -651,7 +651,7 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 3000647;"Gatvių, kelių ir lietaus nuotekų tinklų priežiūra ir remontas (nuo 2012 m.) (Savivaldybės biudžeto lėšos)";Y;N;10-FEB-12;10-FEB-12
 3000648;"Gatvių, kelių ir lietaus nuotekų tinklų priežiūra ir remontas";Y;N;23-FEB-16;23-FEB-16
 3000649;"Gatvių, kelių ir lietaus nuotekų tinklų priežiūra ir remontas";Y;N;23-FEB-16;23-FEB-16
-3000650;"Tiltų ir viadukų  priežiūra ir remontas";Y;N;20-NOV-07;30-APR-08
+3000650;"Tiltų ir viadukų  priežiūra ir remontas";Y;N;20-NOV-07;27-DEC-19
 3000651;"Tiltų ir viadukų  priežiūra ir remontas (Skolintos lėšos-skoloms mokėti)";Y;N;21-FEB-11;25-FEB-11
 3000652;"Tiltų ir viadukų  priežiūra ir remontas (iš SB likučių)";Y;N;31-OCT-13;31-OCT-13
 3000653;"Tiltų ir viadukų  priežiūra ir remontas (Lėšų likučiai iš Savivaldybės biudžeto lėšų)";Y;N;04-APR-17;04-APR-17
@@ -670,7 +670,7 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 3000687;"Išlaidoms, susijusioms su Jo Šventenybės Popiežiaus Pranciškaus vizitu Lietuvoje 2018 m. rugsėjo 22 ir 23 d., padengti";Y;N;22-OCT-18;22-OCT-18
 3000688;"Kiti darbai komunalinių paslaugų srityje (61 šalt.)";Y;N;27-JUL-18;27-JUL-18
 3000689;"Kiti darbai komunalinių paslaugų srityje (kanalizuoti tualetai, gatvių lentelių priežiūra, paplūdimių priežiūra, projektavimas) (Skolintos lėšos-skoloms mokėti)";Y;N;21-FEB-11;25-FEB-11
-3000690;"Kiti darbai komunalinių paslaugų srityje (kanalizuoti tualetai, gatvių lentelių priežiūra, gyvūnų karantinavimas, paplūdimių priežiūra, transporto stotelių priežiūra ir remontas, projektavimas ir inventorizacija)";Y;N;20-NOV-07;30-MAR-09
+3000690;"Kiti darbai komunalinių paslaugų srityje (kanalizuoti tualetai, gatvių lentelių priežiūra, gyvūnų karantinavimas, paplūdimių priežiūra, transporto stotelių priežiūra ir remontas, projektavimas ir inventorizacija)";Y;N;20-NOV-07;27-DEC-19
 3000691;"Kiti darbai komunalinių paslaugų srityje (delspinigiai ir palūkanos)";Y;N;25-NOV-09;25-NOV-09
 3000692;"Delspinigiai ir palūkanos už pavėluotus mokėjimus";Y;N;03-FEB-10;03-FEB-10
 3000693;"Delspinigiai ir palūkanos už pavėluotus mokėjimus (Skolintos lėšos-skoloms mokėti)";Y;N;21-FEB-11;19-APR-11
@@ -750,9 +750,9 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 3000892;"Automatizuotos šviesoforų reguliavimo ir valdymo sistemos įdiegimas  (paramos lėšos)";Y;N;08-FEB-10;08-FEB-10
 3000893;"Automatizuotos šviesoforų reguliavimo ir valdymo sistemos įdiegimas (savivaldybės biudžetas)";Y;N;24-SEP-10;11-JUN-12
 3000894;"Automatizuotos šviesoforų reguliavimo ir valdymo sistemos įdiegimas (61 šalt.)";Y;N;23-JAN-19;23-JAN-19
-3000897;"Projektams, finansuojamiems iš ES fondų, techninės dokumentacijos rengimui (61 šalt.)";Y;N;27-JUL-18;27-JUL-18
+3000897;"Projektams, finansuojamiems iš ES fondų, techninės dokumentacijos rengimui (61 šalt.)";Y;N;27-JUL-18;27-DEC-19
 3000898;"Santaros gatvės statyba";Y;N;24-FEB-16;24-FEB-16
-3000899;"Projektams,  finansuojamiems iš ES fondų, techninės dokumentacijos rengimui (SB)";Y;N;13-FEB-17;13-FEB-17
+3000899;"Projektams, finansuojamiems iš ES fondų, techninės dokumentacijos rengimui (SB)";Y;N;13-FEB-17;27-DEC-19
 3000900;"Paraiškų ir projektų finansavimui iš ES fondų techninės dokumentacijos rengimui (privatizavimo fondas)";Y;N;20-NOV-07;27-MAR-09
 3000901;"Vilniaus Vakarinio aplinkelio paraiškų ir projektų finansavimui iš ES fondų techninės dokumentacijos rengimui (privatizavimo fondas)";Y;N;01-JUL-08;21-JUL-08
 3000902;"Vilniaus Vakarinio aplinkkelio paraiškų ir projektų finansavimui iš ES fondų, techninės dokumentacijos rengimui (savivaldybės biudžetas)";Y;N;04-FEB-10;04-FEB-10
@@ -855,7 +855,7 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 3001100;"Nuostolių dėl keleivių vežimo vietinio reguliaraus susisiekimo maršrutais kompensavimas (autobusams ir troleibusams pirkti/ privatizavimo fondas)";Y;N;20-NOV-07;03-MAR-11
 3001101;"Vilniaus lietaus nuotekų tinklų specialiojo plano parengimas, tinklų plėtra ir rekonstrukcija (Paramos lėšos socialinės infrastruktūros plėtrai)";Y;N;20-FEB-12;20-FEB-12
 3001102;"Vilniaus lietaus nuotekų tinklų specialiojo plano parengimas, tinklų plėtra ir rekonstrukcija (Privatizavimo fondo lėšos)";Y;N;07-NOV-13;07-NOV-13
-3001103;"Vilniaus lietaus nuotekų tinklų  plėtra, rekonstrukcija ir inventorizavimas";Y;N;14-FEB-18;14-FEB-18
+3001103;"Vilniaus lietaus nuotekų tinklų plėtra, rekonstrukcija ir inventorizavimas";Y;N;14-FEB-18;27-DEC-19
 3001110;"Dviračių ir kito bevariklio transporto takų ir kelių,, įrengimas ir priežiūra (AARSP)";Y;N;31-JUL-14;31-JUL-14
 3001111;"Treniruoklių, įrengtų viešose erdvėse, remontas ir naujų įrengimas";Y;N;31-JUL-14;31-JUL-14
 3001112;"Treniruoklių, įrengtų viešose erdvėse, remontas ir naujų įrengimas";Y;N;27-JAN-15;27-JAN-15
@@ -968,7 +968,7 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 3001429;"Vilniaus miesto kapinių statinių remontas ir plėtimas (Savivaldybės biudžetas)";Y;N;03-MAR-11;03-MAR-11
 3001430;"Vilniaus miesto kapinių statinių remontas ir plėtimas";Y;N;20-NOV-07;03-APR-09
 3001431;"Vilniaus miesto kapinių statinių remontas ir plėtimas (Skolintos lėšos)";Y;N;02-APR-09;03-APR-09
-3001432;"Vilniaus miesto kapinių statinių remontas ir plėtimas (TA lėšos)";Y;N;27-JUN-18;27-JUN-18
+3001432;"Vilniaus miesto kapinių statinių remontas ir plėtimas (TA)";Y;N;27-JUN-18;27-DEC-19
 3001435;"Vilniaus miesto kapinių statinių remontas ir plėtimas";Y;N;15-DEC-15;15-DEC-15
 3001440;"Rasų kapinių centrinės koplyčios restauravimo darbai (privatizavimo fondas)";Y;N;14-MAR-08;03-APR-09
 3001441;"Rasų kapinių centrinės koplyčios restauravimo darbai";Y;N;30-MAR-09;30-MAR-09
@@ -989,7 +989,7 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 3001485;"Vingio parko estrados stogo remontas(ekspertizei atlikti ir techniniam projektui parengti)";Y;N;29-DEC-08;29-DEC-08
 3001486;"Vingio  parko prieigų tvarkymas, pasirengimas programai „Vilnius-Europos kultūros sostinė 2009“";Y;N;30-MAR-09;30-MAR-09
 3001487;"Vingio parko prieigų tvarkymas, pasirengimas programai ""Vilnius - Europos kultūros sostinė 2009""";Y;N;10-JUL-09;10-JUL-09
-3001488;"Lukiškių  aikštės  sutvarkymui";Y;N;24-FEB-16;24-FEB-16
+3001488;"Lukiškių aikštės sutvarkymui";Y;N;24-FEB-16;27-DEC-19
 3001489;"Neries krantinės sutvarkymui";Y;N;24-FEB-16;24-FEB-16
 3001490;"Vingio parko prieigų tvarkymas, pasirengimas Vilnius - Europos kultūros sostinė 2009";Y;N;14-MAR-08;11-JAN-18
 3001491;"Lukiškių aikštės sutvarkymas";Y;N;30-DEC-15;30-DEC-15
@@ -1010,7 +1010,7 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 3001508;"Vilniaus miesto darnaus judumo plano rengimas";Y;N;06-SEP-17;06-SEP-17
 3001509;"Vilniaus miesto darnaus judumo plano rengimas";Y;N;24-FEB-16;24-FEB-16
 3001510;"Vilniaus Vakarinio aplinkkelio, paraiškų ir projektų finansavimui iš ES fondų, techninės dokumentacijos rengimui";Y;N;14-MAR-08;12-MAY-08
-3001511;"Vilniaus istorinių  Rasų kapinių inventorizavimas, koplyčių, tvorų, atskirų paminklų tvarkyba";Y;N;24-FEB-16;24-FEB-16
+3001511;"Vilniaus istorinių Rasų kapinių inventorizavimas, koplyčių, tvorų, atskirų paminklų tvarkyba";Y;N;24-FEB-16;27-DEC-19
 3001512;"Vilnios pakarančių tvarkymas Pietinėje tikslinėje teritorijoje, įrengiant reikiamą rekreacinę infrastruktūrą, dviračių, pėsčiųjų takus, pėsčiųjų tiltą. Paplaujos rekreacinės zonos su maudykla ir pliažu įrengimas";Y;N;24-FEB-16;24-FEB-16
 3001513;"Žirmūnų dviračių  trasų, jų jungčių, saugos ir kitos infrastruktūros įrengimas palei Ozo, P. Lukšio, Apkasų, Ulonų ir Žirmūnų gatves (4,8 km)";Y;N;24-FEB-16;24-FEB-16
 3001514;"Žvėryno dviračių trasų, jų jungčių, saugos ir kitos infrastruktūros įrengimas palei A. Mickevičiaus, Birutės, Lenktąją, Latgalių, Paribio, Pieninės, Saltoniškių, Liepyno ir T. Narbuto gatves (5,1 km)";Y;N;24-FEB-16;24-FEB-16
@@ -1020,10 +1020,10 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 3001518;"Centrinės gatvės bulvaro su rekreacine įranga įrengimas";Y;N;24-FEB-16;24-FEB-16
 3001519;"Dviračių turizmo trasų ir maršrutų (jungčių su Trakų ir Vilniaus rajonų savivaldybėmis) ženklinimas (įgyvendinama su Vilniaus, Trakų, Širvintų rajonų savivaldybėmis)";Y;N;24-FEB-16;24-FEB-16
 3001520;"Įvažiavimų į miestą sutvarkymas, pasirengimas Vilnius - Europos kultūros sostinė 2009";Y;N;14-MAR-08;12-MAY-08
-3001521;"Viešojo ekologiško transporto plėtra	";Y;N;24-FEB-16;24-FEB-16
-3001522;"Elektromobilių įkrovos aikštelių įrengimas	";Y;N;24-FEB-16;24-FEB-16
-3001523;"Giedraičių g. rekonstravimas įrengiant modernias eismo saugos priemones	";Y;N;24-FEB-16;24-FEB-16
-3001524;"Kernavės g. nuo Žalgirio g. iki Lvovo g. rekonstrukcija, įrengiant modernias eismo saugos priemones	";Y;N;24-FEB-16;24-FEB-16
+3001521;"Viešojo ekologiško transporto plėtra";Y;N;24-FEB-16;27-DEC-19
+3001522;"Elektromobilių įkrovos aikštelių įrengimas";Y;N;24-FEB-16;27-DEC-19
+3001523;"Giedraičių g. rekonstravimas įrengiant modernias eismo saugos priemones";Y;N;24-FEB-16;27-DEC-19
+3001524;"Kernavės g. nuo Žalgirio g. iki Lvovo g. rekonstrukcija, įrengiant modernias eismo saugos priemones";Y;N;24-FEB-16;27-DEC-19
 3001525;"Gamtinės Neries senvagės kraštovaizdžio arealų būklės atkūrimas (tarp Linkmenų ir Geležinio Vilko gatvių)";Y;N;24-FEB-16;24-FEB-16
 3001526;"Kompleksinis gyvenamojo rajono kvartalo Žirmūnų, Minties, Tuskulėnų gatvių trikampyje, toliau – „Žirmūnų trikampis“ bendrai naudojamų teritorijų ir viešosios infrastruktūros atnaujinimas";Y;N;24-FEB-16;24-FEB-16
 3001527;"Kultūrinį-istorinį reformacijos paveldą reprezentuojančio Reformatų sodo atkūrimas ir sutvarkymas";Y;N;24-FEB-16;24-FEB-16
@@ -1037,7 +1037,7 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 3001535;"Neries krantinių modernizavimas, sukuriant inovatyvias erdves kūrybai, sąlygas aktyviam poilsiui, sveikatingumo renginiams Šiaurinėje teritorijoje";Y;N;24-FEB-16;24-FEB-16
 3001536;"Neries krantinių rekonstrukcija ir rekreacinės laivybos prieplaukų įrengimas Šiaurinėje teritorijoje";Y;N;24-FEB-16;24-FEB-16
 3001537;"Neries senvagės rekreacinės infrastruktūros įrengimas su aktyvaus poilsio ir pėsčiųjų bei dviračių trasomis";Y;N;24-FEB-16;24-FEB-16
-3001538;"Neries slėnio rekreacinės paskirties takų ir  jų jungčių, saugos ir kitos infrastruktūros įrengimas (12,5 km)";Y;N;24-FEB-16;24-FEB-16
+3001538;"Neries slėnio rekreacinės paskirties takų ir jų jungčių, saugos ir kitos infrastruktūros įrengimas (12,5 km)";Y;N;24-FEB-16;27-DEC-19
 3001539;"Rajoninių viešųjų erdvių su minimalia rekreacine infrastruktūra formavimas „Žirmūnų trikampyje“";Y;N;24-FEB-16;24-FEB-16
 3001540;"Viešųjų erdvių tvarkymas Pietinėje tikslinėje teritorijoje prie rekonstruojamų Aukštaičių, Paupio ir Drujos gatvių";Y;N;12-MAY-08;14-DEC-17
 3001541;"Karoliniškių lietaus nuotekų valymo įrenginių rekonstrukcija	";Y;N;24-FEB-16;24-FEB-16
@@ -1058,11 +1058,11 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 3001556;"Misionierių sodų atkūrimas (ES lėšos)";Y;N;28-MAR-17;28-MAR-17
 3001557;"Vilnios pakrančių tvarkymas Pietinėje tikslinėje teritorijoje (ES lėšos)";Y;N;27-MAR-17;30-MAR-17
 3001558;"Neries senvagės rekreacinės infrastruktūros įrengimas su aktyvaus poilsio ir pėsčiųjų bei dviračių trasomis (ES lėšos)";Y;N;27-MAR-17;27-MAR-17
-3001559;"Neries slėnio rekreacinės paskirties takų ir  jų jungčių, saugos ir kitos infrastruktūros įrengimas (ES lėšos)";Y;N;27-MAR-17;30-MAR-17
+3001559;"Neries slėnio rekreacinės paskirties takų ir jų jungčių, saugos ir kitos infrastruktūros įrengimas (ES lėšos)";Y;N;27-MAR-17;27-DEC-19
 3001560;"Viešųjų erdvių tvarkymas Pietinėje tikslinėje teritorijoje prie rekonstruojamų Aukštaičių, Paupio ir Drujos gatvių";Y;N;12-MAY-08;14-DEC-17
 3001561;"Viešojo ekologiško transporto plėtra";Y;N;12-MAY-08;18-JAN-18
 3001562;"Kultūrinį-istorinį reformacijos paveldą reprezentuojančio Reformatų sodo atkūrimas ir sutvarkymas (ES lėšos)";Y;N;28-MAR-17;28-MAR-17
-3001563;"Susisiekimo optimizavimas pagal darnaus judumo principus Šeškinės daugiafunkcio komplekso prieigose, įrengiant tam tinkamą infrastruktūrą  su inžinerinėmis komunikacijomis";Y;N;14-FEB-18;14-FEB-18
+3001563;"Susisiekimo optimizavimas pagal darnaus judumo principus Šeškinės daugiafunkcio komplekso prieigose, įrengiant tam tinkamą infrastruktūrą  su inžinerinėmis komunikacijomis";Y;N;14-FEB-18;27-DEC-19
 3001564;"Viešosios erdvės tvarkymas Pietinėje tikslinėje teritorijoje prie Amatų gatvės";Y;N;14-FEB-18;14-FEB-18
 3001565;"Viešųjų erdvių tvarkymas Šiaurinėje tikslinėje teritorijoje tarp Giedraičių ir Kintų gatvių ir prie Giedraičių g.";Y;N;14-FEB-18;14-FEB-18
 3001566;"Kareivių gatvės atkarpos tarp Žirmūnų ir Verkių gatvių bei Kareivių ir Verkių gatvių sankryžos rekonstrukcija įrengiant eismo saugos priemones";Y;N;19-FEB-19;19-FEB-19
@@ -1093,7 +1093,7 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 3001610;"Vilniaus miesto gatvių rekonstrukcija (kelių fondas)";Y;N;12-MAY-08;12-MAY-08
 3001611;"Vilniaus miesto gatvių rekonstrukcija (skolintos)";Y;N;12-MAY-08;12-MAY-08
 3001612;"Viešųjų erdvių tvarkymas Šiaurinėje tikslinėje teritorijoje tarp Giedraičių ir Kintų gatvių ir prie Giedraičių g.";Y;N;15-FEB-18;15-FEB-18
-3001613;"Vilniaus istorinių  Rasų kapinių inventorizavimas, koplyčių, tvorų, atskirų paminklų tvarkyba";Y;N;15-FEB-18;15-FEB-18
+3001613;"Vilniaus istorinių Rasų kapinių inventorizavimas, koplyčių, tvorų, atskirų paminklų tvarkyba";Y;N;15-FEB-18;27-DEC-19
 3001614;"Specialiosios gatvių dangų valymo technikos ir priemonių įsigijimas, siekiant mažinti oro taršą nuo gatvių";Y;N;15-FEB-18;15-FEB-18
 3001615;"Elektromobilių įkrovos aikštelių įrengimas";Y;N;13-FEB-18;13-FEB-18
 3001616;"Dviračių takų su rekreacine infrastruktūra įrengimas Žalgirio, Rinktinės, Giedraičių, Ratnyčios, Kernavės gatvėse Šiaurinėje ITV teritorijoje";Y;N;13-FEB-18;13-FEB-18
@@ -1125,11 +1125,11 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 3001800;"Valstybės vadovų palaidojimo vietos sutvarkymas Antakalnio kapinėse";Y;N;20-FEB-12;20-FEB-12
 3001805;"Lazdynų sveikatingumo centro prieigų aplinkos sutvarkymas";Y;N;07-APR-16;07-APR-16
 3001806;"Vilniaus senųjų žydų kapinių Olandų gatvėje sutvarkymas";Y;N;07-JUN-17;07-JUN-17
-3001820;"Japoniško sodo įkūrimas teritorijoje prie Lvovo g. ir Geležinio Vilko g.  (SB)";Y;N;13-FEB-17;13-FEB-17
+3001820;"Japoniško sodo įkūrimas teritorijoje prie Lvovo g. ir Geležinio Vilko g. (SB)";Y;N;13-FEB-17;27-DEC-19
 3001829;"Pėsčiųjų viaduko per Narbuto gatvę statyba (KPPP)";Y;N;22-MAY-18;22-MAY-18
 3001830;"Dviračių tako T. Narbuto gatvėje nuo Pilaitės pr. iki Konstitucijos pr. statyba (SB)";Y;N;13-FEB-17;13-FEB-17
 3001831;"Dviračių takų su rekreacine infrastruktūra įrengimas algirdo, V. Mykolaičio - Putino, Geležinkelio, Dariaus ir Girėno gatvėse, Pietinėje ITV teritorijoje";Y;N;14-FEB-18;14-FEB-18
-3001840;"Dviračių tako nuo Ukmergės iki Konstitucijo pr. statyba (SB)";Y;N;13-FEB-17;13-FEB-17
+3001840;"Dviračių tako nuo Ukmergės g. iki Konstitucijos pr. statyba";Y;N;13-FEB-17;27-DEC-19
 3001900;"Suoliukai Katedros aikštėje (pagal projektą ""Dovana Vilniui"")";Y;N;09-SEP-13;09-SEP-13
 3001910;"Vingio parko infrastruktūros tvarkymo darbai, pasirengiant 2014 m. dainų šventei";Y;N;04-JUL-14;23-JUL-14
 3001911;"Vingio parko estrados sutvarkymas";Y;N;22-MAY-18;22-MAY-18
@@ -1329,13 +1329,13 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 4000052;"Vilniaus Jono Pauliaus II progimnazijos pastato Vilniuje, Rygos g. 10, rekonstravimas (01 šalt.)";Y;N;26-FEB-19;26-FEB-19
 4000053;"Modulinių darželių įrengimas (l/d „Medinėlis“)";Y;N;16-MAR-17;16-MAR-17
 4000054;"Globos namų Minties g. 1 kapitalinis remontas, vaikų l/d įrengimas (SB)";Y;N;17-MAR-17;17-MAR-17
-4000055;"Papildomas lėšų gavimas už patalpų nuomą  pradinio mokymo įstaigose SAVARANKIŠKOS ĮSTAIGOS";Y;N;09-FEB-10;14-JAN-11
+4000055;"Papildomas lėšų gavimas už patalpų nuomą pradinio mokymo įstaigose SAVARANKIŠKOS ĮSTAIGOS";Y;N;09-FEB-10;27-DEC-19
 4000056;"Papildomas lėšų gavimas už patalpų nuomą Vilniaus darželyje-mokykloje ,,Vilija“";Y;N;09-FEB-10;09-FEB-10
 4000057;"Papildomas lėšų gavimas už patalpų nuomą Vilniaus lopšelyje-darželyje ,,Daigelis“";Y;N;09-FEB-10;09-FEB-10
 4000058;"Papildomas lėšų gavimas Vilniaus lopšelyje-darželyje ,,Gandriukas“";Y;N;09-FEB-10;09-FEB-10
 4000059;"Papildomas lėšų gavimas už patalpų nuomą Vilniaus lopšelyje-darželyje ,,Liepsnelė“";Y;N;09-FEB-10;09-FEB-10
 4000060;"Papildomas lėšų gavimas ikimokyklinio ugdymo įstaigose";Y;N;20-NOV-07;07-SEP-12
-4000061;"Papildomas lėšų gavimas už patalpų nuomą  ikimokyklinio ugdymo įstaigose SAVARANKIŠKOS ĮSTAIGOS";Y;N;09-FEB-10;14-JAN-11
+4000061;"Papildomas lėšų gavimas už patalpų nuomą ikimokyklinio ugdymo įstaigose SAVARANKIŠKOS ĮSTAIGOS";Y;N;09-FEB-10;27-DEC-19
 4000062;"Papildomas lėšų gavimas už patalpų nuomą Vilniaus lopšelyje-darželyje ,,Pelėda“";Y;N;09-FEB-10;09-FEB-10
 4000063;"Papildomas lėšų gavimas už patalpų nuomą Vilniaus lopšelyje-darželyje ,,Saulėgrąža“";Y;N;09-FEB-10;09-FEB-10
 4000064;"Papildomas lėšų gavimas už patalpų nuomą Vilniaus lopšelyje-darželyje ,,Sveikuolis“";Y;N;09-FEB-10;09-FEB-10
@@ -1416,10 +1416,10 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 4000147;"Centralizuotos priemonės";Y;N;26-FEB-10;09-MAR-10
 4000148;",,Atgajos“ specialioji mokykla Moksleivio krepšelio finansavimas Vilniaus m. bendrojo lavinimo";Y;N;22-FEB-10;22-FEB-10
 4000149;"Vilniaus suaugusiųjų mokymo centras Moksleivio krepšelio finansavimas Vilniaus m. bendrojo lavinimo";Y;N;22-FEB-10;22-FEB-10
-4000150;"Mokymo aplinkos finansavimas bendrojo lavinimo įstaigose";Y;N;20-NOV-07;06-SEP-12
-4000151;"Mokymo aplinkos finansavimas  pagrindinėse mokyklose (SAVARANKIŠKOS ĮSTAIGOS)";Y;N;20-FEB-10;14-JAN-11
-4000152;"Mokymo aplinkos finansavimas  gimnazijose ir vidurinėse mokyklose (BĮBA)";Y;N;20-FEB-10;06-SEP-12
-4000153;"SAVARANKIŠKOS ĮSTAIGOS Mokymo aplinkos finansavimas  gimnazijose ir vidurinėse mokyklose";Y;N;20-FEB-10;14-JAN-11
+4000150;"Mokymo aplinkos finansavimas bendrojo lavinimo įstaigose";Y;N;20-NOV-07;27-DEC-19
+4000151;"Mokymo aplinkos finansavimas pagrindinėse mokyklose (SAVARANKIŠKOS ĮSTAIGOS)";Y;N;20-FEB-10;27-DEC-19
+4000152;"Mokymo aplinkos finansavimas gimnazijose ir vidurinėse mokyklose (BĮBA)";Y;N;20-FEB-10;27-DEC-19
+4000153;"SAVARANKIŠKOS ĮSTAIGOS Mokymo aplinkos finansavimas gimnazijose ir vidurinėse mokyklose";Y;N;20-FEB-10;27-DEC-19
 4000154;"Karoliniškių gimnazija Mokymo aplinkos finansavimas bendrojo lavinimo įstaigose";Y;N;20-FEB-10;20-FEB-10
 4000155;"Mykolo Biržiškos gimnazija  Mokymo aplinkos finansavimas bendrojo lavinimo įstaigose";Y;N;20-FEB-10;20-FEB-10
 4000156;"Žirmūnų gimnazija Mokymo aplinkos finansavimas bendrojo lavinimo įstaigose";Y;N;20-FEB-10;20-FEB-10
@@ -1449,7 +1449,7 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 4000180;"Moksleivio krepšelio nevalstybinėms bendrojo lavinimo  įstaigoms  finansavimas";Y;N;20-NOV-07;15-JAN-19
 4000181;"Mokymo (ugdymo) aplinkos finansavimas iš mokymo lėšų gimnazijose ir vidurinio tipo mokyklose (SAVARANKIŠKOS ĮSTAIGOS)";Y;N;22-FEB-10;15-JAN-19
 4000182;"Mokyklos, priskiriamos pradinės mokyklos tipui, turinčios specialiųjų ugdymosi poreikių mokinių išlaikymas";Y;N;22-FEB-10;08-FEB-13
-4000183;"Mokyklos, priskiriamos pagrindinės mokyklos tipui, turinčios specialiųjų ugdimosi poreikių mokinių išlaikymas";Y;N;22-FEB-10;08-FEB-13
+4000183;"Mokyklos, priskiriamos pagrindinės mokyklos tipui, turinčios specialiųjų ugdymosi poreikių mokinių išlaikymas";Y;N;22-FEB-10;27-DEC-19
 4000184;"Mokyklos, priskiriamos bendrojo lavinimo tipui, turinčios specialiųjų ugdymosi poreikių mokinių išlaikymas";Y;N;22-FEB-10;08-FEB-13
 4000185;"Mokyklos, priskiriamos pradinės mokyklos tipui, turinčios specialiųjų ugdymosi poreikių mokinių išlaikymas (BĮBA)";Y;N;22-FEB-10;08-FEB-13
 4000186;"Mokyklos, priskiriamos pagrindinės mokyklos tipui, turinčios specialiųjų ugdymosi poreikių mokinių išlaikymas (BĮBA)";Y;N;22-FEB-10;08-FEB-13
@@ -1486,8 +1486,8 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 4000217;"Vilniaus Gabijos gimnazijos langų, stogo remonto ir pakeitimo darbams** (spec. tikslinė dotacija kitoms programoms finansuoti)";Y;N;01-APR-09;01-APR-09
 4000218;"Vilniaus ""Ąžuolyno"" pagrindinės mokyklos langams renovuoti** (spec. tikslinė dotacija kitoms programoms finansuoti)";Y;N;01-APR-09;01-APR-09
 4000219;"Energijos vartojimo efektyvumo didinimas Vilniaus l/d ,,Pasaka“";Y;N;24-DEC-09;24-DEC-09
-4000220;"Papildomas lėšų gavimas bendrojo lavinimo įstaigose";Y;N;20-NOV-07;07-SEP-12
-4000221;"Papildomas lėšų gavimas už patalpų nuomą  gimnazijose ir vidurinėse mokyklose (SAVARANKIŠKOS ĮSTAIGOS)";Y;N;11-FEB-10;14-JAN-11
+4000220;"Papildomas lėšų gavimas bendrojo lavinimo įstaigose";Y;N;20-NOV-07;27-DEC-19
+4000221;"Papildomas lėšų gavimas už patalpų nuomą gimnazijose ir vidurinėse mokyklose (SAVARANKIŠKOS ĮSTAIGOS)";Y;N;11-FEB-10;27-DEC-19
 4000222;"Papildomas lėšų gavimas už patalpų nuomą ugdymo įstaigose (BĮ)";Y;N;17-FEB-10;14-FEB-13
 4000223;"Papildomas lėšų gavimas už patalpų nuomą ugdymo įstaigose (savarankiškos)";Y;N;17-FEB-10;14-FEB-13
 4000224;"Papildomas lėšų gavimas už patalpų nuomą Vilniaus Mykolo Biržiškos gimnazijoje";Y;N;17-FEB-10;17-FEB-10
@@ -1539,7 +1539,7 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 4000270;"Papildomas lėšų gavimas papildomo ugdymo įstaigose";Y;N;20-NOV-07;07-SEP-12
 4000271;"Vilniaus Salomėjos Nėries gimnazijos (adresu Vilniaus g. 32, Vilnius) efektyvumo didinimas, vidaus remonto darbų įsigijimas (SB)";Y;N;16-APR-18;16-APR-18
 4000272;"Vilniaus Žemynos gimnazijos (adresu Čiobiškio g. 16, Vilnius) efektyvumo didinimas, vidaus remonto darbų įsigijimas (SB)";Y;N;16-APR-18;16-APR-18
-4000273;"Vilniaus Sofijos Kovalevskajos gimnazijos/progimnazijos (adresu Dūkštų g. 30, Vilnius)  efektyvumo didinimas, vidaus remonto darbų įsigijimas (SB)";Y;N;16-APR-18;16-APR-18
+4000273;"Vilniaus Sofijos Kovalevskajos gimnazijos/progimnazijos (adresu Dūkštų g. 30, Vilnius) efektyvumo didinimas, vidaus remonto darbų įsigijimas (SB)";Y;N;16-APR-18;27-DEC-19
 4000274;"Vilniaus Antano Vienuolio progimnazijos (adresu Aušros Vartų g. 23, Vilnius) efektyvumo didinimas, vidaus remonto darbų įsigijimas (SB)";Y;N;16-APR-18;16-APR-18
 4000275;"„Vilniaus Baltupių progimnazijos efektyvumo didinimas“ (adresu Didlaukio g. 23, Vilnius) vidaus remonto darbų įsigijimas (SB)";Y;N;16-APR-18;16-APR-18
 4000276;"Vilniaus „Spindulio“ progimnazijos (adresu R. Jankausko g. 17, Vilnius) efektyvumo didinimas, vidaus remonto darbų įsigijimas (SB)";Y;N;16-APR-18;16-APR-18
@@ -1566,7 +1566,7 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 4000297;"Centralizuota sąmata savarankiškų įst. (dotacija skoloms dengti)";Y;N;18-DEC-16;18-DEC-16
 4000298;"Centralizuota sąmata BĮBA VVK skoloms padengti (dotacija skoloms dengti)";Y;N;18-DEC-16;19-DEC-16
 4000299;"Išlaidoms, susijusioms su darbuotojų darbo užmokesčiu (Centralizuotos priemonės)";Y;N;30-MAR-17;30-MAR-17
-4000300;"Pedagoginės psichologinės tarnybos finansavimas (Savivaldybes biudzetas)";Y;N;20-NOV-07;14-MAR-08
+4000300;"Pedagoginės psichologinės tarnybos finansavimas (Savivaldybes biudzetas)";Y;N;20-NOV-07;27-DEC-19
 4000301;"Pedagoginės psichologinės tarnybos finansavimas (Psichologų darbo užmokesčiui finansuoti)";Y;N;19-DEC-17;19-DEC-17
 4000302;"Vilniaus Jono Basanavičiaus progimnazijos (adresu S. Konarskio g. 27, Vilnius) efektyvumo didinimas, vidaus remonto darbų įsigijimas (SB)";Y;N;16-APR-18;16-APR-18
 4000303;"Vilniaus Žemynos progimnazijos (adresu Žemynos g. 14, Vilnius) efektyvumo didinimas, vidaus remonto darbų įsigijimas (SB)";Y;N;16-APR-18;16-APR-18
@@ -1576,18 +1576,18 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 4000307;"Vilniaus Lazdynų mokyklos (adresu Žėručio g. 4, Vilnius) efektyvumo didinimas, vidaus remonto darbų įsigijimas (SB)";Y;N;16-APR-18;16-APR-18
 4000308;"Vilniaus Gedimino technikos universiteto licėjaus (adresu Antakalnio g. 120, Vilnius) efektyvumo didinimas, vidaus remonto darbų įsigijimas (SB)";Y;N;16-APR-18;16-APR-18
 4000309;"Vilniaus Simono Stanevičiaus progimnazijos (adresu S. Stanevičiaus g. 25, Vilnius) efektyvumo didinimas, vidaus remonto darbų įsigijimas (SB)";Y;N;16-APR-18;16-APR-18
-4000310;"Pedagoginės psichologinės tarnybos finansavimas (Spec.dotacija)";Y;N;20-NOV-07;14-MAR-08
+4000310;"Pedagoginės psichologinės tarnybos finansavimas (Spec.dotacija)";Y;N;20-NOV-07;27-DEC-19
 4000311;"Vilniaus Jeruzalės progimnazijos (adresu Mokyklos g. 9, Vilnius) efektyvumo didinimas, vidaus remonto darbų įsigijimas (SB)";Y;N;16-APR-18;16-APR-18
-4000312;"Vilniaus Genio progimnazijos  (adresu Lukiškių skg. 5, Vilnius) efektyvumo didinimas, vidaus remonto darbų įsigijimo II etapas (SB)";Y;N;16-APR-18;16-APR-18
+4000312;"Vilniaus Genio progimnazijos (adresu Lukiškių skg. 5, Vilnius) efektyvumo didinimas, vidaus remonto darbų įsigijimo II etapas (SB)";Y;N;16-APR-18;27-DEC-19
 4000313;"Vilniaus Emilijos Pliaterytės progimnazijos (adresu Žirmūnų g. 119, Vilnius; unikalus pastato Nr. 1097-2014-8014) efektyvumo didinimas, vidaus remonto darbų įsigijimas (SB)";Y;N;16-APR-18;16-APR-18
 4000314;"Vilniaus Salomėjos Nėries gimnazijos (adresu Vilniaus g. 32, Vilnius) efektyvumo didinimas, vidaus remonto darbų įsigijimas (ES)";Y;N;16-APR-18;16-APR-18
 4000315;"Vilniaus Žemynos gimnazijos (adresu Čiobiškio g. 16, Vilnius) efektyvumo didinimas, vidaus remonto darbų įsigijimas (ES)";Y;N;16-APR-18;16-APR-18
 4000316;"Vilniaus Sofijos Kovalevskajos gimnazijos/progimnazijos (adresu Dūkštų g. 30, Vilnius) efektyvumo didinimas, vidaus remonto darbų įsigijimas (ES)";Y;N;16-APR-18;16-APR-18
 4000317;"Vilniaus Antano Vienuolio progimnazijos (adresu Aušros Vartų g. 23, Vilnius) efektyvumo didinimas, vidaus remonto darbų įsigijimas (ES)";Y;N;16-APR-18;16-APR-18
-4000318;"„Vilniaus Baltupių progimnazijos efektyvumo didinimas“ (adresu Didlaukio g. 23, Vilnius) vidaus remonto darbų įsigijimas (ES)";Y;N;16-APR-18;16-APR-18
+4000318;"„Vilniaus Baltupių progimnazijos efektyvumo didinimas“ (adresu Didlaukio g. 23, Vilnius) vidaus remonto darbų įsigijimas (ES)";Y;N;16-APR-18;27-DEC-19
 4000319;"Vilniaus „Spindulio“ progimnazijos (adresu R. Jankausko g. 17, Vilnius) efektyvumo didinimas, vidaus remonto darbų įsigijimas (ES)";Y;N;16-APR-18;16-APR-18
 4000320;Nenaudojama;Y;N;20-NOV-07;16-APR-18
-4000321;"Vilniaus Jono Basanavičiaus progimnazijos (adresu S. Konarskio g. 27, Vilnius) efektyvumo didinimas,  vidaus remonto darbų įsigijimas (ES)";Y;N;16-APR-18;16-APR-18
+4000321;"Vilniaus Jono Basanavičiaus progimnazijos (adresu S. Konarskio g. 27, Vilnius) efektyvumo didinimas, vidaus remonto darbų įsigijimas (ES)";Y;N;16-APR-18;27-DEC-19
 4000322;"Vilniaus Žemynos progimnazijos (adresu Žemynos g. 14, Vilnius) efektyvumo didinimas, vidaus remonto darbų įsigijimas (ES)";Y;N;16-APR-18;16-APR-18
 4000323;"Vilniaus „Ąžuolyno“ progimnazijos (adresu Architektų g. 68, Vilnius) efektyvumo didinimas, vidaus remonto darbų įsigijimas“ (ES)";Y;N;16-APR-18;16-APR-18
 4000324;"Vilniaus Jono Basanavičiaus gimnazijos (adresu S. Konarskio g. 34, Vilnius) efektyvumo didinimas, vidaus remonto darbų įsigijimas (ES)";Y;N;16-APR-18;16-APR-18
@@ -1597,7 +1597,7 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 4000328;"Vilniaus Simono Stanevičiaus progimnazijos (adresu S. Stanevičiaus g. 25, Vilnius) efektyvumo didinimas, vidaus remonto darbų įsigijimas (ES)";Y;N;16-APR-18;16-APR-18
 4000329;"Vilniaus Jeruzalės progimnazijos (adresu Mokyklos g. 9, Vilnius) efektyvumo didinimas, vidaus remonto darbų įsigijimas (SB)";Y;N;16-APR-18;16-APR-18
 4000330;"Aprūpinimas būtiniausiomis darbo priemonėmis ir sąlygų darbui sudarymas";Y;N;20-NOV-07;02-APR-09
-4000331;"Vilniaus Genio progimnazijos  (adresu Lukiškių skg. 5, Vilnius) efektyvumo didinimas, vidaus remonto darbų įsigijimo II etapas (ES)";Y;N;16-APR-18;16-APR-18
+4000331;"Vilniaus Genio progimnazijos (adresu Lukiškių skg. 5, Vilnius) efektyvumo didinimas, vidaus remonto darbų įsigijimo II etapas (ES)";Y;N;16-APR-18;27-DEC-19
 4000332;"Vilniaus Emilijos Pliaterytės progimnazijos (adresu Žirmūnų g. 119, Vilnius; unikalus pastato Nr. 1097-2014-8014) efektyvumo didinimas, vidaus remonto darbų įsigijimas (ES)";Y;N;16-APR-18;16-APR-18
 4000333;"Grigiškių meno mokyklos (adresu Pašto g. 10, Vilnius) vidaus remonto darbų įsigijimas (SB)";Y;N;07-MAY-18;08-MAY-18
 4000334;"Karoliniškių muzikos mokyklos (adresu L. Asanavičiūtės g. 1, Vilnius) vidaus remonto darbų įsigijimas (SB)";Y;N;07-MAY-18;08-MAY-18
@@ -1750,7 +1750,7 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 4000494;"Dotacija VšĮ Vilniaus rankinio centrui";Y;N;18-FEB-16;18-FEB-16
 4000495;"Nuomos lėšų likučiai sporto mokyklose (BIBA)";Y;N;27-FEB-13;27-FEB-13
 4000496;"Spec. lėšos sporto mokyklose";Y;N;18-DEC-15;18-DEC-15
-4000497;"Neigaliųjų sporto klubų kofinansavimas";Y;N;19-FEB-16;19-FEB-16
+4000497;"Neįgaliųjų sporto klubų kofinansavimas";Y;N;19-FEB-16;27-DEC-19
 4000498;"Avarinės sporto įstaigų būklės likvidavimas";Y;N;09-FEB-17;09-FEB-17
 4000499;"Sporto mokyklų  darbuotojų MMA padidinimas";Y;N;15-SEP-15;15-SEP-15
 4000500;"Papildomas lėšų gavimas nuomojant patalpas (sporto mokyklose)";Y;N;20-NOV-07;07-SEP-12
@@ -1768,7 +1768,7 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 4000512;"Žemynos progimnazijos sporto salių priestato statyba su projektavimo darbais ir įrangos įsigijimu (Skolintos)";Y;N;20-JUN-19;20-JUN-19
 4000513;"Pilaitės gimnazijos sporto aikštyno rekonstrukcija su projektavimo darbais ir įrangos įsigijimu (Skolintos)";Y;N;20-JUN-19;20-JUN-19
 4000514;"Žirmūnų gimnazijos sporto aikštyno rekonstrukcija su projektavimo darbais ir įrangos įsigijimu (Skolintos)";Y;N;20-JUN-19;20-JUN-19
-4000515;"Tėvų mokesčio  likučiai sporto mokyklose (BIBA)";Y;N;27-FEB-13;27-FEB-13
+4000515;"Tėvų mokesčio likučiai sporto mokyklose (BIBA)";Y;N;27-FEB-13;27-DEC-19
 4000519;"Trakų Vokės dvaro sodybos rūmų tvarkybos darbai (Skolintos)";Y;N;20-JUN-19;20-JUN-19
 4000520;"Bibliotekų išlaikymas ir jų darbo organizavimas";Y;N;20-NOV-07;30-SEP-09
 4000521;"Bibliotekų išlaikymas ir jų darbo organizavimas (be nuomos)";Y;N;11-JUL-08;06-SEP-12
@@ -1779,11 +1779,11 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 4000543;"Savivaldybės įstaigų vykdomų kultūrinių projektų konkursinis finansavimas";Y;N;09-FEB-17;09-FEB-17
 4000550;"Muziejų išlaikymas ir jų darbo organizavimas";Y;N;20-NOV-07;11-JUL-08
 4000551;"Muziejų išlaikymas ir jų darbo organizavimas (be nuomos ir mokamų paslaugų)";Y;N;11-JUL-08;06-SEP-12
-4000552;"Muziejų išlaikymas ir jų darbo organizavimas(remonto darbai)";Y;N;11-JUL-08;03-FEB-17
+4000552;"Muziejų išlaikymas ir jų darbo organizavimas(remonto darbai)";Y;N;11-JUL-08;27-DEC-19
 4000555;"Vilniaus miesto savivaldybės literatūrinio A. Puškino muziejus pastato, esančio Subačiaus g. 124, Vilniuje, Šv. Varvaros  koplyčios tvarkybos darbai (SB)";Y;N;09-FEB-17;09-FEB-17
 4000560;"Papildomai gautos lėšos nuomojant patalpas muziejuose";Y;N;20-NOV-07;07-SEP-12
 4000570;"Mokamų paslaugų teikimas muziejuose";Y;N;20-NOV-07;07-SEP-12
-4000571;"Spec. lėšų likučiai  muziejuose (BIBA)";Y;N;27-FEB-13;27-FEB-13
+4000571;"Spec. lėšų likučiai muziejuose (BIBA)";Y;N;27-FEB-13;27-DEC-19
 4000578;"Vilniaus etninės kultūros centro išlaikymas (spec. lėšos)";Y;N;23-OCT-15;23-OCT-15
 4000579;"Vilniaus kultūros centro išlaikymas (spec. lėšos)";Y;N;23-FEB-12;23-FEB-12
 4000580;"Kultūros centrų išlaikymas ir jų darbo organizavimas";Y;N;20-NOV-07;23-FEB-12
@@ -1792,13 +1792,13 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 4000583;"Naujosios Vilnios kultūros centro pastato Vilniuje, Pergalės g. 8, rekonstravimas ir modernizavimas (biudžeto lėšos)";Y;N;09-FEB-10;23-FEB-12
 4000584;"Naujosios Vilnios kultūros centro išlaikymas";Y;N;09-FEB-10;05-JAN-11
 4000585;"Vilniaus etninės kultūros centro išlaikymas";Y;N;09-FEB-10;05-JAN-11
-4000586;"Spe. lėšų likučiai chore Jauna muzika";Y;N;19-FEB-18;19-FEB-18
-4000587;"Spe. lėšų likučiai Šv. Kristoforo kameriniame orkestre";Y;N;19-FEB-18;19-FEB-18
+4000586;"Spec. lėšų likučiai chore Jauna muzika";Y;N;19-FEB-18;27-DEC-19
+4000587;"Spec. lėšų likučiai Šv. Kristoforo kameriniame orkestre";Y;N;19-FEB-18;27-DEC-19
 4000588;"Spe. lėšų likučiai Vilniaus kultūros centre";Y;N;19-FEB-18;19-FEB-18
-4000589;"Spe. lėšų likučiai Vilniaus etninės kultūros centre";Y;N;18-FEB-19;18-FEB-19
+4000589;"Spec. lėšų likučiai Vilniaus etninės kultūros centre";Y;N;18-FEB-19;27-DEC-19
 4000590;"Papildomai gautos lėšos nuomojant patalpas kultūros centruose";Y;N;20-NOV-07;07-SEP-12
-4000595;"Spec. lėšų likučiai  kultūros centruose (BIBA)";Y;N;27-FEB-13;27-FEB-13
-4000597;"Spec. lėšų likučiai  bibliotekose (BIBA)";Y;N;04-FEB-15;04-FEB-15
+4000595;"Spec. lėšų likučiai kultūros centruose (BIBA)";Y;N;27-FEB-13;27-DEC-19
+4000597;"Spec. lėšų likučiai bibliotekose (BIBA)";Y;N;04-FEB-15;27-DEC-19
 4000600;"Mokamų paslaugų teikimas kultūros centruose";Y;N;20-NOV-07;07-SEP-12
 4000601;"Naujosios Vilnios kultūros centro išlaikymas (spec. lėšos)";Y;N;08-FEB-10;05-JAN-11
 4000602;"Mokamų paslaugų teikimas bibliotekose";Y;N;08-FEB-10;06-NOV-13
@@ -2385,7 +2385,7 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 4002019;"Vilniaus lopšelio-darželio „Gintarėlis“ pastato atnaujinimas (modernizavimas), sumažinant energijos suvartojimo sąnaudas";Y;N;10-FEB-14;10-FEB-14
 4002020;"Vilniaus specialiojo lopšelio-darželio „Žolynėlis“ pastato atnaujinimas (modernizavimas), sumažinant energijos suvartojimo sąnaudas";Y;N;10-FEB-14;10-FEB-14
 4002024;"Vilniaus „Žaros“ vidurinės mokyklos pastato atnaujinimas (modernizavimas), sumažinant energijos suvartojimo sąnaudas (skolintos lėšos)";Y;N;09-FEB-15;09-FEB-15
-4002025;"Vilniaus Jono Basanavičiaus  progimnazijos pastato atnaujinimas (modernizavimas), sumažinant energijos suvartojimo sąnaudas (SB)";Y;N;25-FEB-16;25-FEB-16
+4002025;"Vilniaus Jono Basanavičiaus progimnazijos pastato atnaujinimas (modernizavimas), sumažinant energijos suvartojimo sąnaudas (SB)";Y;N;25-FEB-16;27-DEC-19
 4002026;"Vilniaus „Žaros“gimnazijos pastato atnaujinimas (modernizavimas), sumažinant energijos suvartojimo sąnaudas (Kiti fondai)";Y;N;25-FEB-16;25-FEB-16
 4002027;"Vilniaus „Žaros“gimnazijos pastato atnaujinimas (modernizavimas), sumažinant energijos suvartojimo sąnaudas (SB)";Y;N;02-MAY-16;02-MAY-16
 4002028;"Bendrojo lavinimo įstaigų remonto darbai ir įrangos įsigijimas (SB)";Y;N;03-APR-15;03-APR-15
@@ -2458,8 +2458,8 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 4006100;"Sporto aikštelių prie mokyklų įrengimas (valstybės biudžeto lėšos)";Y;N;02-DEC-11;02-DEC-11
 4006101;"Sporto aikštelių prie mokyklų įrengimas (vidurinės ir gimnazijos) (13 šalt.)";Y;N;19-DEC-19;19-DEC-19
 4006200;"Lazdynų baseino projektavimas ir rekonstravimas (Valstybės biudžetas)";Y;N;14-FEB-13;14-FEB-13
-4006201;"Daugiafunkcio Lazdynų sveikatingumo centro įkūrimas (skolintos)";Y;N;07-SEP-17;07-SEP-17
-4006202;"Daugiafunkcio Lazdynų sveikatingumo centro įkūrimas (3M01)";Y;N;07-SEP-17;07-SEP-17
+4006201;"Daugiafunkcinio Lazdynų sveikatingumo centro įkūrimas (skolintos)";Y;N;07-SEP-17;27-DEC-19
+4006202;"Daugiafunkcinio Lazdynų sveikatingumo centro įkūrimas (skolintos)";Y;N;07-SEP-17;27-DEC-19
 4006210;"Daugiafunkcio Lazdynų sveikatingumo centro Vilniuje techninio projekto parengimas (ŠMM)";Y;N;03-APR-15;03-APR-15
 4006211;"Daugiafunkcio Lazdynų sveikatingumo centro Vilniuje techninio projekto parengimas (PF)";Y;N;23-JUN-15;23-JUN-15
 4006300;"„Vilniaus miesto sporto infrastruktūros (sporto aikštelių ir aikštynų) atnaujinimas“ galimybių studijos parengimas“ (ES)";Y;N;25-MAR-13;25-MAR-13
@@ -3153,31 +3153,31 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 5000016;"Vilniaus teritorijų planavimo ir statybų duomenų banko kūrimas ir palaikymas GIS pagrindu (iš SB likučių)";Y;N;30-OCT-13;31-OCT-13
 5000020;"FS-01-PR-07010302, Vilniaus miesto kartografinių duomenų bazių kūrimas ir palaikymas";Y;N;20-NOV-07;14-MAR-08
 5000021;"Vilniaus miesto kartografinių duomenų bazių kūrimas ir palaikymas (iš SB likučių)";Y;N;30-OCT-13;31-OCT-13
-5000030;"FS-01-PR-10010101, Atitinkamos kvalifikacijos darbo jėgos samda, aprūpinimas būtinomis darbo priemonėmis ir sąlygų darbui sudarymas";Y;N;20-NOV-07;14-MAR-08
-5000031;"FS-01-PR-10030202, Vilniaus senamiesčio atnaujinimo agentūros informacinio centro veiklos ir tarptautinio bendradarbiavimo projektai";Y;N;30-MAR-09;30-MAR-09
-5000040;"FS-01-PR-11010223, Miestovaizdžio projektų rengimas ir įgyvendinimas";Y;N;20-NOV-07;03-MAR-10
+5000030;"FS-01-PR-10010101, Atitinkamos kvalifikacijos darbo jėgos samda, aprūpinimas būtinomis darbo priemonėmis ir sąlygų darbui sudarymas";Y;N;20-NOV-07;27-DEC-19
+5000031;"Vilniaus senamiesčio atnaujinimo agentūros informacinio centro veikla";Y;N;30-MAR-09;27-DEC-19
+5000040;"FS-01-PR-11010223, Miestovaizdžio projektų rengimas ir įgyvendinimas";Y;N;20-NOV-07;27-DEC-19
 5000041;"FS-1756-PR-11010225, Želdynų ir želdinių inventorizavimo ir apskaitos proceso organizavimas Vilniaus mieste";Y;N;30-MAR-09;03-MAR-10
 5000042;"Želdynų ir želdinių inventorizavimo ir apskaitos proceso organizavimas Vilniaus mieste";Y;N;10-FEB-10;10-FEB-10
 5000043;"FS-64-PR-11010223, Kraštovaizdinių specialiųjų planų rengimas";Y;N;17-FEB-10;26-JAN-15
 5000044;"FS-63-PR-11010223, Saugomų teritorijų planavimo dokumentų rengimas";Y;N;02-FEB-15;02-FEB-15
 5000050;"FS-13-PR-11010223, Miestovaizdžio projektų rengimas ir įgyvendinimas";Y;N;20-NOV-07;24-FEB-10
-5000060;"FS-01-PR-11020101, Atitinkamos kvalifikacijos darbo jėgos samda, aprūpinimas būtinomis darbo priemonėmis ir sąlygų darbui sudarymas";Y;N;20-NOV-07;14-MAR-08
+5000060;"FS-01-PR-11020101, Atitinkamos kvalifikacijos darbo jėgos samda, aprūpinimas būtinomis darbo priemonėmis ir sąlygų darbui sudarymas";Y;N;20-NOV-07;27-DEC-19
 5000061;"Atitinkamos kvalifikacijos darbo jėgos samda, aprūpinimas būtinomis darbo priemonėmis ir sąlygų darbui sudarymas (MMA padidėjimui)";Y;N;03-NOV-16;03-NOV-16
 5000062;"Atitinkamos kvalifikacijos darbo jėgos samda, aprūpinimas būtinomis darbo priemonėmis ir sąlygų darbui sudarymas (DU įstatymui įgyvendinti)";Y;N;31-MAY-17;31-MAY-17
-5000070;"FS-20-PR-11020102, Mokamų paslaugų teikimas (specialiosios lėšos) Pavilnių ir Verkių regioniniuose parkuose, siekiant populiarinti parkus, pritraukiant kuo daugiau lankytojų";Y;N;20-NOV-07;14-MAR-08
-5000071;"Mokamų paslaugų teikimas (specialiosios lėšos) Pavilnių ir Verkių regioniniuose parkuose, siekiant populiarinti parkus, pritraukiant kuo daugiau lankytojų";Y;N;01-FEB-19;01-FEB-19
-5000080;"FS-01-PR-11020202, Pavilnių ir Verkių RP pėsčiųjų (pažintinių ir mokomųjų), dviračių takų, žirginio ir autoturizmo trasų, apžvalgos aikštelių, kultūros paveldo objektų įrengimas ir priežiūra";Y;N;20-NOV-07;12-FEB-09
-5000081;"Pavilnių ir Verkių RP pėsčiųjų (pažintinių ir mokomųjų), dviračių takų, žirginio ir autoturizmo trasų, apžvalgos aikštelių, kitų teritorijų, kultūros paveldo objektų įrengimas ir priežiūra (AARSP)";Y;N;05-FEB-13;05-FEB-13
+5000070;"FS-20-PR-11020102, Mokamų paslaugų teikimas (specialiosios lėšos) Pavilnių ir Verkių regioniniuose parkuose, siekiant populiarinti parkus, pritraukiant kuo daugiau lankytojų";Y;N;20-NOV-07;27-DEC-19
+5000071;"Mokamų paslaugų teikimas Pavilnių ir Verkių regioniniuose parkuose (64)";Y;N;01-FEB-19;27-DEC-19
+5000080;"FS-01-PR-11020202, Pavilnių ir Verkių RP pėsčiųjų (pažintinių ir mokomųjų), dviračių takų, žirginio ir autoturizmo trasų, apžvalgos aikštelių, kultūros paveldo objektų įrengimas ir priežiūra";Y;N;20-NOV-07;27-DEC-19
+5000081;"Pavilnių ir Verkių RP pėsčiųjų ir dviračių takų ir kitų objektų įrengimas ir priežiūra (07)";Y;N;05-FEB-13;27-DEC-19
 5000082;"Pavilnių ir Verkių RP ypač vertingų teritorijų tvarkymo darbai (iš lėšų likučių)";Y;N;17-APR-13;17-APR-13
-5000083;"Pavilnių ir Verkių regioninių parkų pėsčiųjų (pažintinių ir mokomųjų), dviračių takų, žirginio ir autoturizmo trasų, apžvalgos aikštelių, kultūros paveldo objektų įrengimas ir priežiūra";Y;N;01-FEB-19;01-FEB-19
+5000083;"Pavilnių ir Verkių RP pėsčiųjų ir dviračių takų ir kitų objektų įrengimas ir priežiūra (63)";Y;N;01-FEB-19;27-DEC-19
 5000090;"FS-08-PR-11020202, Pavilnių ir Verkių RP pėsčiųjų (pažintinių ir mokomųjų), dviračių takų, žirginio ir autoturizmo trasų, apžvalgos aikštelių, kultūros paveldo objektų įrengimas ir priežiūra";Y;N;20-NOV-07;14-MAR-08
 5000100;"FS-07-PR-11020202, Pavilnių ir Verkių RP pėsčiųjų (pažintinių ir mokomųjų), dviračių takų, žirginio ir autoturizmo trasų, apžvalgos aikštelių, kultūros paveldo objektų įrengimas ir priežiūra";Y;N;20-NOV-07;03-MAR-10
 5000120;"FS-07-PR-11020301, Pavilnių ir Verkių RP regyklų (apžvalgos aikštelių), pėsčiųjų (pažintinių ir mokomųjų), dviračių takų, žirginio ir autoturizmo trasų planavimo-projektavimo dokumentai bei trasų schemos parengimas";Y;N;20-NOV-07;14-MAR-08
 5000121;"Pavilnių ir Verkių RP regyklų (apžvalgos aikštelių), pėsčiųjų (pažintinių ir mokomųjų), dviračio takų, žirginio ir autoturizmo trasų planavimo-projektavimo dokumentai, trasų schemos parengimas bei gamtotvarkos plano įgyvendinimas";Y;N;30-MAR-09;29-FEB-12
 5000130;"FS-13-PR-13010201, Detaliųjų, specialiųjų planų irprogramų rengimas";Y;N;20-NOV-07;10-JUL-08
-5000140;"FS-01-PR-13010101, Vykdyti Vilniaus miesto Bendrojo plano stebėseną duomenų bazės kaupimui ir aktualių miesto plėtros klausimų sprendimui";Y;N;20-NOV-07;14-MAR-08
-5000141;"FS-64-PR-13010101, Vykdyti Vilniaus miesto Bendrojo plano stebėseną duomenų bazės kaupimui ir aktualių miesto plėtros klausimų sprendimui";Y;N;26-JAN-15;26-JAN-15
-5000142;"Vykdyti Vilniaus miesto Bendrojo plano stebėseną duomenų bazės kaupimui ir aktualių miesto plėtros klausimų sprendimui";Y;N;28-JAN-16;28-JAN-16
+5000140;"FS-01-PR-13010101, Vykdyti Vilniaus miesto Bendrojo plano stebėseną duomenų bazės kaupimui ir aktualių miesto plėtros klausimų sprendimui";Y;N;20-NOV-07;27-DEC-19
+5000141;"Vykdyti Vilniaus miesto Bendrojo plano stebėseną duomenų bazės kaupimui ir kt. klausimų sprendimui (64)";Y;N;26-JAN-15;27-DEC-19
+5000142;"Vykdyti Vilniaus miesto Bendrojo plano stebėseną duomenų bazės kaupimui ir kt. klausimų sprendimui (30)";Y;N;28-JAN-16;27-DEC-19
 5000150;"FS-01-PR-13010201, Objektai numatyti Vilniaus miesto investicijų programoje";Y;N;20-NOV-07;11-FEB-10
 5000170;"FS-05-PR-13010201, Objektai numatyti Vilniaus miesto investicijų programoje";Y;N;20-NOV-07;11-JUL-08
 5000179;"Vilniaus miesto gamtinio karkaso teritorijų apsaugos ir naudojimo specialusis planas atskiroms plėtros teritorijoms  (ES lėšos)";Y;N;22-SEP-15;22-SEP-15
@@ -3189,8 +3189,8 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 5000185;"FS-03-PR-13010201, Panerių erozinio kalvyno kraštovaizdžio specialusis planas";Y;N;26-JAN-15;26-JAN-15
 5000187;"Skolų apmokėjimui";Y;N;06-DEC-16;06-DEC-16
 5000188;"Detaliųjų, specialiųjų,  žemės sklypų ribų ir kitų planų, programų, schemų rengimas";Y;N;28-JAN-16;28-JAN-16
-5000189;"Detaliųjų, specialiųjų,  žemės sklypų ribų ir kitų planų, programų, schemų rengimas";Y;N;28-JAN-16;28-JAN-16
-5000190;"FS-01-PR-13010201, Detaliųjų, specialiųjų,  žemės sklypų ribų ir kitų planų, programų, schemų rengimas";Y;N;20-NOV-07;10-JUL-08
+5000189;"Detaliųjų, specialiųjų, žemės sklypų ribų ir kitų planų, programų, schemų rengimas (30)";Y;N;28-JAN-16;27-DEC-19
+5000190;"FS-01-PR-13010201, Detaliųjų, specialiųjų,  žemės sklypų ribų ir kitų planų, programų, schemų rengimas";Y;N;20-NOV-07;27-DEC-19
 5000191;"FS-16-PR-13010201, Detaliųjų, specialiųjų, žemės sklypų ribų ir kitų planų, programų, schemų rengimas";Y;N;19-NOV-09;19-NOV-09
 5000192;"FS-16-PR-13010201, Detaliųjų, specialiųjų,  žemės sklypų ribų ir kitų planų, programų, schemų rengimas (VMSA direktoriaus 2009-12-14 įsakymas Nr.30-2172)";Y;N;21-DEC-09;21-DEC-09
 5000193;"Misionierių sodų projektiniai pasiūlymai";Y;N;08-MAR-11;08-MAR-11
@@ -3200,7 +3200,7 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 5000197;"Vilniaus miesto gamtinio karkaso teritorijų apsaugos ir naudojimo specialusis planas atskiroms plėtros teritorijoms (SB lėšos)";Y;N;24-JAN-14;24-JAN-14
 5000198;"Apie 57 ha teritorijos šalia Nemenčinės plento detalusis planas (SB lėšos)";Y;N;24-JAN-14;24-JAN-14
 5000199;"Apie 37,4 ha teritorijos prie Liepkalnio g., Kuprijoniškėse detalusis planas (ES lėšos)";Y;N;12-FEB-14;12-FEB-14
-5000200;"FS-01-PR-13010301, Istoriniai, paminklosauginiai tyrimai,  Senamiesčio stebėsenos organizavimas, paminklotvarkos sąlygų rengimas";Y;N;20-NOV-07;14-MAR-08
+5000200;"FS-01-PR-13010301, Istoriniai, paminklosauginiai tyrimai,  Senamiesčio stebėsenos organizavimas, paminklotvarkos sąlygų rengimas";Y;N;20-NOV-07;27-DEC-19
 5000201;"Istoriniai, paminklosauginiai tyrimai, Senamiesčio stebėsenos organizavimas, paminklotvarkos sąlygų rengimas (Privatizavimo fondas)";Y;N;24-JAN-14;24-JAN-14
 5000202;"FS-61-PR-13010301, Istoriniai, paminklosauginiai tyrimai,  Senamiesčio stebėsenos organizavimas, paminklotvarkos sąlygų rengimas";Y;N;26-JAN-15;26-JAN-15
 5000203;"FS-13-PR-13010301, Istoriniai, paminklosauginiai tyrimai,  Senamiesčio stebėsenos organizavimas, paminklotvarkos sąlygų rengimas";Y;N;26-JAN-15;26-JAN-15
@@ -3209,17 +3209,17 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 5000206;"ES programos URBACT III projektas Re-Generation";Y;N;12-FEB-16;17-JAN-17
 5000207;"Paminklo Jonui Basanavičiui statybos vietos (tarp Subačiaus g. ir Aušros Vartų g.) žvalgomųjų archeologinių ir istorinių tyrimų atlikimas";Y;N;07-SEP-16;07-SEP-16
 5000208;"ES programos HORIZON 2020 projektas „ROCK“";Y;N;08-MAY-17;08-MAY-17
-5000209;"Žemės sklypų įregistravimas Nekilnojamo turto registre valstybinės žemės patikėtinio ir Savivaldybės vardu išlaidos";Y;N;26-MAY-17;26-MAY-17
-5000210;"FS-01-PR-13010401, Skverų,aikščių,  žaidimų aikštelių, viešųjų erdvių projektų rengimas, reklamos ir mažosios architektūros projektai ir sprendiniai";Y;N;20-NOV-07;14-MAR-08
+5000209;"Žemės sklypų įregistravimas NTR";Y;N;26-MAY-17;27-DEC-19
+5000210;"FS-01-PR-13010401, Skverų,aikščių,  žaidimų aikštelių, viešųjų erdvių projektų rengimas, reklamos ir mažosios architektūros projektai ir sprendiniai";Y;N;20-NOV-07;27-DEC-19
 5000211;"FS-16-PR-13010401, Skverų,aikščių,  žaidimų aikštelių, viešųjų erdvių projektų rengimas, reklamos ir mažosios architektūros projektai ir sprendiniai (AD 2009-11-30 įsakymas Nr. 30-2101- VŠĮ J. Ivanauskaitės  kūrybos paveldo centrui)";Y;N;09-DEC-09;09-DEC-09
 5000212;"Lėšos SB „Rytas“ Šv.Kristoforo ąžuolinės skulptūros pastatymui paremti (AD rezervo lėšos pagal 2012-06-07 įsakymą Nr.30-1126)";Y;N;08-JUN-12;08-JUN-12
 5000213;"VšĮ „Japoniškas sodas“ dalininko įnašas";Y;N;31-MAY-13;31-MAY-13
-5000220;"FS-01-PR-13010402, Miesto renginių, konferencijų, seminarų, leidybos miestui aktualiomis temomis organizavimas,visuomenės informavimo projektų rengimas, kitų miesto įvaizdžio elemantų gerinimas";Y;N;20-NOV-07;14-MAR-08
-5000230;"FS-20-PR-13010501, Kartografinio archyvo paslaugų teikimas, platinant topografiją";Y;N;20-NOV-07;14-MAR-08
+5000220;"FS-01-PR-13010402, Miesto renginių, konferencijų, seminarų, leidybos miestui aktualiomis temomis organizavimas,visuomenės informavimo projektų rengimas, kitų miesto įvaizdžio elemantų gerinimas";Y;N;20-NOV-07;27-DEC-19
+5000230;"FS-20-PR-13010501, Kartografinio archyvo paslaugų teikimas, platinant topografiją";Y;N;20-NOV-07;27-DEC-19
 5000231;"FS-64-PR-13010501, Kartografinio archyvo paslaugų teikimas, platinant topografiją (likučiai)";Y;N;06-MAR-13;06-MAR-13
-5000240;"FS-07-PR-11020201, Regioninių parkų biologinės įvairovės ir kultūros paveldo tyrimai";Y;N;14-MAR-08;14-MAR-08
-5000241;"Regioninių parkų biologinės įvairovės ir kultūrinio paveldo tyrimai";Y;N;17-FEB-12;17-FEB-12
-5000260;"FS-01-PR-11020303, Pavilnių ir Verkių RP kultūros paveldo tvarkymo projektų rengimas, renginių organizavimas ir leidyba";Y;N;12-FEB-09;12-FEB-09
+5000240;"FS-07-PR-11020201, Regioninių parkų biologinės įvairovės ir kultūros paveldo tyrimai";Y;N;14-MAR-08;27-DEC-19
+5000241;"Regioninių parkų biologinės įvairovės ir kultūros paveldo tyrimai (01)";Y;N;17-FEB-12;27-DEC-19
+5000260;"Pavilnių ir Verkių RP kultūros paveldo tvarkymo projektų rengimas, renginių organizavimas ir leidyba";Y;N;12-FEB-09;27-DEC-19
 5000261;"FS-01-PR-11020302, Pavilnių ir Verkių RP ribų kadastravimas, įrengtų objektų inventorizavimas ir apsaugos reglamentų nustatymas";Y;N;30-MAR-09;30-MAR-09
 5000262;"Pavilnių ir Verkių RP ribų kadastravimas, įrengtų objektų inventorizavimas ir apsaugos reglamentų nustatymas";Y;N;18-FEB-16;18-FEB-16
 5000270;"FS-07-PR-11020207, Pavilnių RP kultūros paveldo objekto Rokantiškių piliavietės A1614 tvarkyba (neinvesticinė)";Y;N;10-FEB-10;10-FEB-10
@@ -3227,14 +3227,14 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 5000280;"Natura 2000 teritorijų gamtotvarkinių planų rengimas ir įgyvendinimas";Y;N;17-FEB-12;17-FEB-12
 5000281;"Natura 2000 ir miško želdinių Verkių dvaro sodybos teritorijoje tvarkymo bei priežiūros darbai";Y;N;18-JAN-17;18-JAN-17
 5000282;"NATURA 2000 teritorijų gamtotvarkinių planų rengimas ir įgyvendinimas";Y;N;09-JAN-18;09-JAN-18
-5000290;"Pavilnių ir Verkių RP renginių organizavimas, leidyba, visuomenės informavimas";Y;N;17-FEB-12;17-FEB-12
-5000291;"Pavilnių ir Verkių RP renginių organizavimas, leidyba, visuomenės organizavimas (AARSP)";Y;N;05-FEB-13;05-FEB-13
+5000290;"Pavilnių ir Verkių RP renginių organizavimas, leidyba, visuomenės informavimas (01)";Y;N;17-FEB-12;27-DEC-19
+5000291;"Pavilnių ir Verkių RP renginių organizavimas, leidyba, visuomenės organizavimas (07)";Y;N;05-FEB-13;27-DEC-19
 5000292;"Pavilnių ir Verkių regioninių parkų renginių organizavimas, leidyba, visuomenės informavimas (AARSP lėšų likučiai)";Y;N;19-MAR-14;19-MAR-14
-5000300;"Savivaldybei priskirtos valstybinės žemės valdymas, naudojimas ir disponavimas ja patikėjimo teise";Y;N;17-AUG-17;17-AUG-17
+5000300;"Savivaldybei priskirtai valstybinei žemei ir kitam valstybiniam turtui valdyti, naudoti ir disponuoti juo patikėjimo teise";Y;N;17-AUG-17;27-DEC-19
 5000301;"Programa „Kuriu Vilnių“";Y;N;17-AUG-17;17-AUG-17
 5000302;"Programos INTERREG BALTIC SEA REGION projektą „CMM“";Y;N;26-OCT-17;26-OCT-17
 5000303;"Architektūrinių konkursų organizavimas (SB)";Y;N;04-JAN-18;04-JAN-18
-5000304;"ES programos HORIZON 2020 projektas ""ROCK""";Y;N;15-FEB-18;19-FEB-18
+5000304;"ES programos HORIZON 2020 projektas „ROCK";Y;N;15-FEB-18;27-DEC-19
 5000305;"ES programos URBACT III projektas „RU-RBAN“ (SB)";Y;N;23-APR-18;30-JUL-18
 5000306;"ES programos HORIZON 2020 projektas „CIVITAS SUMPs-Up“ (SB)";Y;N;15-MAY-19;15-MAY-19
 5000307;"ES programos HORIZON 2020 projektas „CIVITAS SUMPs-Up“ (ES)";Y;N;15-MAY-19;15-MAY-19
@@ -3302,50 +3302,50 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 6000020;"Viešųjų darbų organizavimas Fabijoniškių pensione";Y;N;20-NOV-07;01-MAR-12
 6000030;"Viešųjų darbų organizavimas Vilniaus miesto vaikų pensione";Y;N;20-NOV-07;01-MAR-12
 6000050;"Viešųjų darbų organizavimas kitose socialinių paslaugų įstaigose (Departamentas)";Y;N;20-NOV-07;14-MAR-08
-6000060;"Socialinė globa asmenims su sunkia negalia (Departamentas)";Y;N;20-NOV-07;14-MAR-08
+6000060;"Socialinė globa asmenims su sunkia negalia (Departamentas)";Y;N;20-NOV-07;27-DEC-19
 6000061;"Gyventojų užimtumo programų finansavimas";Y;N;09-JUN-17;09-JUN-17
-6000070;"Socialinė globa asmenims su sunkia negalia Vilniaus miesto vaikų pensione";Y;N;20-NOV-07;01-MAR-12
+6000070;"Socialinė globa asmenims su sunkia negalia Vilniaus miesto vaikų pensione";Y;N;20-NOV-07;27-DEC-19
 6000075;"MMA didinimui ir darbo apmokėjimo įstatymui įgyvendinti";Y;N;26-SEP-16;02-JUN-17
 6000080;"Socialinė globa asmenims su sunkia negalia pensionate ""Vilties namai""";Y;N;20-NOV-07;20-SEP-13
 6000088;"Socialinė globa asmenims su sunkia negalia ugdymo centre „Viltis“";Y;N;09-DEC-19;09-DEC-19
 6000089;"Socialinė globa asmenims su sunkia negalia Verkių specialiojoje mokykloje-daugiafunkciniame centre";Y;N;09-DEC-19;09-DEC-19
-6000090;"Socialinė globa asmenims su sunkia negalia Fabijoniškių pensione";Y;N;20-NOV-07;01-MAR-12
+6000090;"Socialinė globa asmenims su sunkia negalia Fabijoniškių pensione";Y;N;20-NOV-07;27-DEC-19
 6000091;"Socialinė globa asmenims su sunkia negalia Dienos centre ""Šviesa""";Y;N;14-MAR-08;27-MAR-09
 6000092;"Socialinė globa asmenims su sunkia negalia namuose";Y;N;28-OCT-11;28-OCT-11
 6000093;"Socialinė globa asmenims su sunkia negalia Verkių specialiojoje mokykloje-daugiafunkciniame centre";Y;N;01-FEB-19;01-FEB-19
 6000094;"Socialinė globa asmenims su vidutine negalia specialiajame lopšelyje-darželyje „Čiauškutis“ (SB)";Y;N;01-FEB-19;01-FEB-19
 6000095;"Socialinė globa asmenims su sunkia negalia specialiajame lopšelyje-darželyje „Čiauškutis“";Y;N;01-FEB-19;01-FEB-19
 6000096;"Socialinė globa asmenims su sunkia negalia ugdymo centre „Viltis“";Y;N;01-FEB-19;01-FEB-19
-6000097;"Socialinių paslaugų teikimo infrastruktūros optimizavimas, socialinių paslaugų įstaigų padalinių steigimas (SB)";Y;N;01-FEB-19;01-FEB-19
-6000098;"Kompleksinės paslaugos šeimai Vilniaus mieste (ES) lėšų likučiai (departamentas)";Y;N;11-FEB-19;11-FEB-19
+6000097;"Socialinių paslaugų teikimo infrastruktūros optimizavimas, socialinių paslaugų įstaigų padalinių steigimas";Y;N;01-FEB-19;27-DEC-19
+6000098;"Kompleksinės paslaugos šeimai Vilniaus mieste (ES) lėšų likučiai";Y;N;11-FEB-19;27-DEC-19
 6000099;"VšĮ Vilniaus miesto klinikinės ligoninės operacinių, reanimacijos ir hemodializės bloko Antakalnio g. 57, Vilniuje, statyba ir įrengimas (SB)";Y;N;11-FEB-19;11-FEB-19
-6000100;"Laidojimo pašalpos mirusiojo artimiesiems (Socialinės paramos centras)";Y;N;20-NOV-07;09-MAY-12
-6000110;"Socialinės priežiūros socialinės rizikos šeimoms finansavimas iš specialių tikslinių dotacijų (Socialinės paramos centras)";Y;N;20-NOV-07;01-MAR-12
-6000111;"Nevyriausybinių organizacijų darbas su socialinės rizikos šeimomis (Departamentas)";Y;N;16-SEP-14;16-SEP-14
-6000120;"Socialinės pašalpos ir kompensacijos socialiai pažeidžiamiems asmenims (Departamentas)";Y;N;20-NOV-07;25-JUN-09
+6000100;"Laidojimo pašalpos mirusiojo artimiesiems (Socialinės paramos centras)";Y;N;20-NOV-07;27-DEC-19
+6000110;"Socialinės priežiūros socialinės rizikos šeimoms finansavimas iš specialių tikslinių dotacijų (Socialinės paramos centras)";Y;N;20-NOV-07;27-DEC-19
+6000111;"Nevyriausybinių organizacijų darbas su socialinės rizikos šeimomis";Y;N;16-SEP-14;27-DEC-19
+6000120;"Socialinės pašalpos ir kompensacijos socialiai pažeidžiamiems asmenims (Departamentas)";Y;N;20-NOV-07;27-DEC-19
 6000121;"Kompensacijos už išlaidas būstui šildyti (Departamentas)";Y;N;20-JAN-10;29-JAN-10
 6000122;"Kompensacijos už išlaidas karštam vandeniui (Departamentas)";Y;N;20-JAN-10;29-JAN-10
 6000123;"Kompensacijos už išlaidas šaltam vandeniui (Departamentas)";Y;N;29-JAN-10;29-JAN-10
 6000124;"Kredito, paimto daugiabučiam namui atnaujinti (modernizuoti) ir palūkanų apmokėjimo už asmenis, turinčius teisę į būsto šildymo išlaidų kompensaciją (Departamentas)";Y;N;26-APR-10;26-APR-10
-6000130;"Socialinių išmokų bei kompensacijų administravimas (Departamentas)";Y;N;20-NOV-07;14-MAR-08
-6000131;"Socialinių pašalpų bei kompensacijų administravimas iš savivaldybės lėšų (Departamentas)";Y;N;08-SEP-10;08-SEP-10
+6000130;"Socialinių išmokų bei kompensacijų administravimas (Departamentas)";Y;N;20-NOV-07;27-DEC-19
+6000131;"Socialinių pašalpų bei kompensacijų administravimas iš savivaldybės lėšų";Y;N;08-SEP-10;27-DEC-19
 6000140;"Socialinių išmokų bei kompensacijų administravimas (Socialinės paramos centras)";Y;N;20-NOV-07;14-MAR-08
 6000141;"Vilniaus Žolyno vaikų socialinės globos namų išlaikymas";Y;N;05-JAN-11;01-MAR-12
 6000142;"Vilniaus Minties vaikų socialinės globos namų išlaikymas";Y;N;06-JAN-11;01-MAR-12
-6000143;"Vilniaus Antakalnio vaikų socialinės globos namų  išlaikymas";Y;N;06-JAN-11;01-MAR-12
+6000143;"Vilniaus Antakalnio vaikų socialinės globos namų išlaikymas";Y;N;06-JAN-11;27-DEC-19
 6000144;"Vilniaus vaikų socialinės globos namų „Gilė“ išlaikymas";Y;N;06-JAN-11;01-MAR-12
 6000145;"VšĮ „Antavilių pensionatas“ finansavimas";Y;N;06-JAN-11;06-JAN-11
-6000148;"Neįgaliųjų socialinė integracija, pritaikant gyvenamąją aplinką (SB)";Y;N;04-DEC-18;04-DEC-18
+6000148;"Neįgaliųjų socialinė integracija, pritaikant gyvenamąją aplinką";Y;N;04-DEC-18;27-DEC-19
 6000149;"Neįgaliųjų integracijos strategija";Y;N;26-FEB-16;26-FEB-16
-6000150;"Vienkartinė parama bei socialinės pašalpos išimties tvarka socialiai pažeidžiamiems asmenims (Departamentas)";Y;N;20-NOV-07;25-JUN-09
+6000150;"Vienkartinė parama bei socialinės pašalpos išimties tvarka socialiai pažeidžiamiems asmenims (Departamentas)";Y;N;20-NOV-07;27-DEC-19
 6000151;"Socialinės pašalpos socialiai pažeidžiamiems asmenims  (savivaldybės biudžetas)";Y;N;02-JAN-14;02-JAN-14
 6000152;"Skolų mokėjimas pagal 2013-03-05 tarpusavio atsiskaitymų sutartį Nr. 29-49(1.2.16-AD4) UAB „Vilniaus vandenys“ (Departamentas)";Y;N;24-JAN-14;24-JAN-14
 6000153;"Laidojimo pašalpos mirusiojo, nedeklaravusio gyvenamosios vietos Lietuvos respublikoje, artimiesiems (Socialinių reikalų ir sveikatos departamentas)";Y;N;01-AUG-14;01-AUG-14
 6000154;"Kompensacijos už išlaidas būstui šildyti (Departamentas)";Y;N;22-JAN-15;22-JAN-15
-6000155;"Kompensacijos už išlaidas karštam vandeniui (Departamentas)";Y;N;22-JAN-15;22-JAN-15
-6000156;"Kompensacijos už išlaidas šaltam vandeniui (Departamentas)";Y;N;22-JAN-15;22-JAN-15
-6000157;"Kredito, paimto daugiabučiam namui atnaujinti (modernizuoti) ir palūkanų apmokėjimo už asmenis, turinčius teisę į būsto šildymo išlaidų kompensaciją (Departamentas)";Y;N;22-JAN-15;22-JAN-15
-6000160;"Piniginės pašalpos socialiai pažeidžiamiems asmenims (Socialinės paramos centras)";Y;N;20-NOV-07;14-MAR-08
+6000155;"Kompensacijos už išlaidas karštam vandeniui";Y;N;22-JAN-15;27-DEC-19
+6000156;"Kompensacijos už išlaidas šaltam vandeniui";Y;N;22-JAN-15;27-DEC-19
+6000157;"Kredito, paimto daugiabučiam namui atnaujinti (modernizuoti) ir palūkanų apmokėjimo už asmenis, turinčius teisę į būsto šildymo išlaidų kompensaciją";Y;N;22-JAN-15;27-DEC-19
+6000160;"Piniginės pašalpos socialiai pažeidžiamiems asmenims (Socialinės paramos centras)";Y;N;20-NOV-07;27-DEC-19
 6000170;"Vienkartinė parama socialiai pažeidžiamiems asmenims (Administracijos direktoriaus rezervas)";Y;N;20-NOV-07;07-MAY-09
 6000171;"Administracijos direktoriaus 2009-05-08 įsakymas Nr. 30-809 (vienkartinė parama)";Y;N;14-MAY-09;14-MAY-09
 6000172;"Administracijos direktoriaus 2009-07-10 d. įsakymas Nr. 30-1221 (Vienkartinė parama)";Y;N;14-JUL-09;14-JUL-09
@@ -3383,13 +3383,13 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 6000225;"Vienkartinės išmokos įsikurti";Y;N;06-JAN-10;06-JAN-10
 6000226;"Transporto išlaidų bei specialiųjų lengvųjų automobilių įsigijimo išlaidų kompensacijos";Y;N;06-JAN-10;06-JAN-10
 6000227;"Globos išmokos tikslinis priedas (Valstybės biudžetas)";Y;N;11-JAN-13;11-JAN-13
-6000228;"Vilniaus miesto savivaldybės vykdomi bendradarbiavimo projektai (SB)";Y;N;02-JAN-19;02-JAN-19
+6000228;"Vilniaus miesto savivaldybės vykdomi bendradarbiavimo projektai";Y;N;02-JAN-19;27-DEC-19
 6000229;"Vilniaus miesto savivaldybės vykdomi bendradarbiavimo projektai (kitos lėšos)";Y;N;02-JAN-19;02-JAN-19
 6000230;"Išmokų vaikams administravimas (Socialinės paramos centras)";Y;N;20-NOV-07;14-MAR-08
-6000240;"Išmokų vaikams administravimas (Departamentas)";Y;N;20-NOV-07;14-MAR-08
-6000250;"Šalpos išmokos";Y;N;20-NOV-07;14-MAR-08
+6000240;"Išmokų vaikams administravimas (Departamentas)";Y;N;20-NOV-07;27-DEC-19
+6000250;"Šalpos išmokos";Y;N;20-NOV-07;27-DEC-19
 6000260;"Šalpos išmokų administravimas (Socialinės paramos centras)";Y;N;20-NOV-07;14-MAR-08
-6000270;"Šalpos išmokų administravimas (Departamentas)";Y;N;20-NOV-07;14-MAR-08
+6000270;"Šalpos išmokų administravimas (Departamentas)";Y;N;20-NOV-07;27-DEC-19
 6000280;"Transporto išlaidų kompensacijos neįgaliesiems";Y;N;20-NOV-07;14-MAR-08
 6000290;"Išmokos neįgaliesiems (Neįgaliųjų reikalų departamento prie SADM lėšos)";Y;N;20-NOV-07;14-MAR-08
 6000300;"Vienkartinės pašalpos ginkluoto pasipriešinimo (rezistencijos) dalyviams ir žuvusių rezistentų šeimoms";Y;N;20-NOV-07;30-MAR-09
@@ -3402,29 +3402,29 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 6000370;"Paramos integracijai užsieniečiams, gavusiems prieglobstį, administravimas (Socialinės paramos centras)";Y;N;20-NOV-07;14-MAR-08
 6000380;"Paramos integracijai užsieniečiams, gavusiems prieglobstį, administravimas (Departamentas)";Y;N;20-NOV-07;27-SEP-12
 6000381;"Skaitmeninės televizijos priėmimo įrangai įsigyti, kompensavimo mažas pajamas gaunantiems bendrai  gyvenantiems asmenims ir vieniems gyvenantiems asmenims administravimas  (LRV 2010-01-20 nutarimas Nr. 81)";Y;N;27-SEP-12;27-SEP-12
-6000390;"Dienos centro ""Šviesa"" išlaikymas (Savivaldybės lėšos)";Y;N;20-NOV-07;04-JUL-08
-6000400;"Vilniaus miesto vaikų pensiono išlaikymas (Savivaldybės lėšos)";Y;N;20-NOV-07;01-MAR-12
+6000390;"Dienos centro ""Šviesa"" išlaikymas (Savivaldybės lėšos)";Y;N;20-NOV-07;27-DEC-19
+6000400;"Vilniaus miesto vaikų pensiono išlaikymas (Savivaldybės lėšos)";Y;N;20-NOV-07;27-DEC-19
 6000401;"Globos namų vaikams ir jaunimui, turintiems negalią, modernizavimas";Y;N;17-FEB-12;17-FEB-12
-6000402;"Socialinės paramos įstaigų infrastruktūros modernizavimas, optimizavimas ir renovacija (SB)";Y;N;02-NOV-18;02-NOV-18
-6000410;"Pensionato ""Vilties namai"" išlaikymas (Savivaldybės lėšos)";Y;N;20-NOV-07;20-SEP-13
+6000402;"Socialinės paramos įstaigų infrastruktūros modernizavimas, optimizavimas ir renovacija";Y;N;02-NOV-18;27-DEC-19
+6000410;"Pensionato ""Vilties namai"" išlaikymas (Savivaldybės lėšos)";Y;N;20-NOV-07;27-DEC-19
 6000411;"Biudžetinės įstaigos Valakampių socialinių paslaugų namų savarankiško gyvenimo namų ir trumpalaikės globos centro įkūrimas (Savivaldybės biudžeto lėšos)";Y;N;06-JAN-11;20-SEP-13
 6000412;"Biudžetinės įstaigos Valakampių socialinių paslaugų namų grupiniai gyvenimo namai (Savivaldybės biudžeto lėšos)";Y;N;17-FEB-12;20-SEP-13
-6000420;"Fabijoniškių pensiono išlaikymas (Savivaldybės lėšos)";Y;N;20-NOV-07;01-MAR-12
-6000430;"Vilniaus miesto motinos ir vaiko pensiono išlaikymas (Savivaldybės lėšos)";Y;N;20-NOV-07;20-SEP-13
+6000420;"Fabijoniškių pensiono išlaikymas (Savivaldybės lėšos)";Y;N;20-NOV-07;27-DEC-19
+6000430;"Vilniaus miesto motinos ir vaiko pensiono išlaikymas (Savivaldybės lėšos)";Y;N;20-NOV-07;27-DEC-19
 6000431;"Grupinio gyvenimo namų vaikams, krizių tarnybos ir laikino  apgyvendinimo namų motinoms ir vaikams įkūrimas (Savivaldybės biudžeto lėšos)";Y;N;06-JAN-11;06-JAN-11
-6000440;"Vilniaus miesto nakvynės namų išlaikymas (Savivaldybės lėšos)";Y;N;20-NOV-07;14-MAR-08
+6000440;"Vilniaus miesto nakvynės namų išlaikymas (Savivaldybės lėšos)";Y;N;20-NOV-07;27-DEC-19
 6000450;"Kitos bendros valstybės paslaugos (Socialinės paramos centras)";Y;N;20-NOV-07;14-MAR-08
 6000460;"Socialinės paramos centro Paslaugų namuose tarnybos išlaikymas";Y;N;20-NOV-07;01-MAR-12
-6000470;"Socialinės paramos centro išlaikymas (Savivaldybės lėšos)";Y;N;20-NOV-07;01-MAR-12
+6000470;"Socialinės paramos centro išlaikymas (Savivaldybės lėšos)";Y;N;20-NOV-07;27-DEC-19
 6000471;"Socialinės priežiūros socialinės rizikos šeimoms finansavimas iš savivaldybės lėšų (Socialinės paramos centras)";Y;N;14-MAR-08;14-MAR-08
 6000472;"Socialinių išmokų bei kompensacijų administravimas (Socialinės paramos centras)";Y;N;17-DEC-10;17-DEC-10
 6000473;"Savarankiško gyvenimo  namų „Savi namai“ ir dienos centro psichikos negalią  turintiems asmenims įkūrimas (Savivaldybės biudžeto lėšos)";Y;N;06-JAN-11;28-OCT-11
-6000480;"Dienos centro ""Šviesa"" išlaikymas (Tarpusavio atsiskaitymai)";Y;N;20-NOV-07;01-MAR-12
+6000480;"Dienos centro ""Šviesa"" išlaikymas (Tarpusavio atsiskaitymai)";Y;N;20-NOV-07;27-DEC-19
 6000485;"MMA didinimui ir darbo apmokėjimo įstatymui įgyvendinti";Y;N;26-SEP-16;02-JUN-17
 6000490;"Vilniaus miesto vaikų pensiono išlaikymas (Tarpusavio atsiskaitymai)";Y;N;20-NOV-07;01-MAR-12
-6000500;"Pensionato ""Vilties namai"" išlaikymas (Tarpusavio atsiskaitymai)";Y;N;20-NOV-07;01-MAR-12
+6000500;"Pensionato ""Vilties namai"" išlaikymas (Tarpusavio atsiskaitymai)";Y;N;20-NOV-07;27-DEC-19
 6000501;"MMA didinimui ir darbo apmokėjimo įstatymui įgyvendinti";Y;N;26-OCT-15;02-JUN-17
-6000510;"Fabijoniškių pensiono išlaikymas (Tarpusavio atsiskaitymai)";Y;N;20-NOV-07;01-MAR-12
+6000510;"Fabijoniškių pensiono išlaikymas (Tarpusavio atsiskaitymai)";Y;N;20-NOV-07;27-DEC-19
 6000511;"VšĮ Vilniaus miesto klinikinės ligoninės medicininės įrangos įsigijimas (Savivaldybės biudžeto lėšos)";Y;N;30-SEP-14;30-SEP-14
 6000512;"MMA didinimui";Y;N;26-OCT-15;02-JUN-17
 6000513;"MMA didinimui ir darbo apmokėjimo įstatymui įgyvendinti";Y;N;26-OCT-15;02-JUN-17
@@ -3454,14 +3454,14 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 6000553;"Dienos centro ""Šviesa"" specialiosios programos lėšų likučiai";Y;N;16-JAN-17;16-JAN-17
 6000554;"Vilniaus miesto socialinės paramos centro specialiosios programos lėšų likučiai";Y;N;16-JAN-17;16-JAN-17
 6000555;"Vilniaus sutrikusio vystymosi kūdikių namų išlaikymas";Y;N;16-JAN-17;16-JAN-17
-6000556;"BĮ „Šeimos slėnis“ dienos socialinės globos centro išlaikymas";Y;N;21-JUN-17;02-JUL-19
-6000557;"BĮ „Šeimos slėnis“ dienos socialinės globos centro išlaikymas (SB)";Y;N;08-JAN-18;02-JUL-19
+6000556;"Vilniaus sutrikusio vystymosi kūdikių namų - pagalbos centro ""Šeimos slėnis"" dienos socialinės globos centro išlaikymas";Y;N;21-JUN-17;27-DEC-19
+6000557;"Vilniaus sutrikusio vystymosi kūdikių namų - pagalbos centro ""Šeimos slėnis"" dienos socialinės globos centro išlaikymas";Y;N;08-JAN-18;27-DEC-19
 6000558;"BĮ Valakampių socialinių paslaugų namų specialiosios programos lėšų likučiai";Y;N;09-JAN-18;09-JAN-18
 6000559;"Vilniaus miesto vaikų ir jaunimo pensiono specialiosios programos lėšų likučiai";Y;N;08-JAN-18;08-JAN-18
 6000560;"Vilniaus miesto vaikų pensiono specialioji programa";Y;N;20-NOV-07;01-MAR-12
 6000561;"Dienos centro „Šviesa“ papildomas lėšų gavimas už nuomos paslaugas";Y;N;15-JUN-17;15-JUN-17
-6000562;"BĮ „Šeimos slėnis“ dienos socialinės globos centro specialioji programa";Y;N;03-JUL-18;02-JUL-19
-6000563;"Kompleksinės paslaugos šeimai Vilniaus mieste (ES) lėšų likučiai";Y;N;08-JAN-18;08-JAN-18
+6000562;"Vilniaus sutrikusio vystymosi kūdikių namų - pagalbos centro ""Šeimos slėnis"" - dienos socialinės globos centro specialioji programa";Y;N;03-JUL-18;27-DEC-19
+6000563;"Kompleksinės paslaugos šeimai Vilniaus mieste (ES) lėšų likučiai (SPC)";Y;N;08-JAN-18;27-DEC-19
 6000564;"Vilniaus miesto socialinės paramos centro integralios pagalbos projektas (ES lėšos)";Y;N;27-SEP-18;27-SEP-18
 6000565;"Projekto „Sveikos gyvensenos skatinimas ir moksleivių sveikatos raštingumo ugdymas Vilniaus mieste“ įgyvendinimas (SB)";Y;N;17-JAN-19;17-JAN-19
 6000566;"Savižudybių prevencijos prioritetų nustatymas, savižudybių prevencijos priemonių ir joms įgyvendinti reikiamo finansavimo planavimas (LRV prioritetas)";Y;N;17-JAN-19;17-JAN-19
@@ -3471,27 +3471,27 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 6000590;"Vilniaus miesto motinos ir vaiko pensiono specialioji programa";Y;N;20-NOV-07;20-SEP-13
 6000600;"Vilniaus miesto nakvynės namų specialioji programa";Y;N;20-NOV-07;14-MAR-08
 6000610;"Socialinės paramos centro specialioji programa";Y;N;20-NOV-07;01-MAR-12
-6000620;"VšĮ mokymo centro ""Mes esame"" finansavimas (Departamentas)";Y;N;20-NOV-07;14-MAR-08
-6000630;"VšĮ Markučių  dienos veiklos centro finansavimas (Departamentas)";Y;N;20-NOV-07;14-MAR-08
-6000640;"VšĮ Vyrų krizių ir informacijos centro finansavimas (Departamentas)";Y;N;20-NOV-07;14-MAR-08
-6000650;"VšĮ Vilniaus psichosocialinės reabilitacijos centro finansavimas (Departamentas)";Y;N;20-NOV-07;05-APR-17
+6000620;"VšĮ mokymo centro ""Mes esame"" finansavimas (Departamentas)";Y;N;20-NOV-07;27-DEC-19
+6000630;"VšĮ Markučių  dienos veiklos centro finansavimas (Departamentas)";Y;N;20-NOV-07;27-DEC-19
+6000640;"VšĮ Vyrų krizių ir informacijos centro finansavimas (Departamentas)";Y;N;20-NOV-07;27-DEC-19
+6000650;"VšĮ Vilniaus psichosocialinės reabilitacijos centro finansavimas (Departamentas)";Y;N;20-NOV-07;27-DEC-19
 6000660;"Nevalstybinių organizacijų vaikų dienos centrų finansavimas (Departamentas)";Y;N;20-NOV-07;10-OCT-18
 6000661;"Intensyvios terapijos (korekcijos) centro emocijų ir elgesio sutrikimų turintiems vaikams įkūrimas (Svajonių g. 56)";Y;N;03-NOV-15;29-FEB-16
 6000662;"Nakvynės namų A. Kojelavičiaus g. 50 rekonstrukcija";Y;N;26-FEB-16;26-FEB-16
 6000663;"Socialinės globos paslaugos vaikams";Y;N;01-MAR-16;01-MAR-16
 6000664;"Smurto šeimoje prevencijai ir pagalbai (SB)";Y;N;03-FEB-17;03-FEB-17
 6000665;"Nakvynės namų A. Kojelavičiaus g. 50 rekonstrukcija (skolintos lėšos)";Y;N;03-FEB-17;03-FEB-17
-6000666;"Labdaros valgyklos Gardino g. 2 rekonstrukcija  - paslaugų centro įrengimas (SB)";Y;N;09-JAN-18;09-JAN-18
-6000667;"Pagalbos pinigai šeimoms, šeimynoms ir budintiems globotojams (SB)";Y;N;22-MAY-18;22-MAY-18
+6000666;"Labdaros valgyklos Gardino g. 2 rekonstrukcija - paslaugų centro įrengimas (SB)";Y;N;09-JAN-18;27-DEC-19
+6000667;"Pagalbos pinigai budintiems globotojams";Y;N;22-MAY-18;27-DEC-19
 6000668;"Apnakvindinimo paslaugos Nakvynės namų A. Kojelavičiaus g. 50 gyventojams rekonstrukcijos metu";Y;N;28-JUN-18;28-JUN-18
 6000669;"Nakvynės namų A. Kojelavičiaus g. 50 rekonstrukcija (ES lėšos)";Y;N;27-SEP-18;27-SEP-18
-6000670;"Socialinės paslaugos (Departamentas)";Y;N;20-NOV-07;14-MAR-08
-6000671;"Socialinių renginių, konferencijų, seminarų, akcijų organizavimas (Departamentas)";Y;N;13-OCT-14;29-NOV-16
-6000680;"Socialinių projektų finansavimas (Departamentas)";Y;N;20-NOV-07;14-MAR-08
-6000681;"Socialinės reabilitacijos paslaugų neįgaliesiems bendruomenėje projektų finansavimas (Departamentas)";Y;N;17-FEB-12;17-FEB-12
-6000682;"Socialinės reabilitacijos paslaugų neįgaliesiems bendruomenėje projektų finansavimas (Valstybės biudžetas)";Y;N;16-APR-12;16-APR-12
-6000683;"Kompleksinės paslaugos šeimai Vilniaus mieste (departamentas) (ES)";Y;N;10-AUG-17;10-AUG-17
-6000684;"Kompleksinės paslaugos šeimai Vilniaus mieste (ES)";Y;N;10-AUG-17;10-AUG-17
+6000670;"Socialinės paslaugos (Departamentas)";Y;N;20-NOV-07;27-DEC-19
+6000671;"Socialinių renginių, konferencijų, seminarų, akcijų organizavimas";Y;N;13-OCT-14;27-DEC-19
+6000680;"Socialinių projektų finansavimas (Departamentas)";Y;N;20-NOV-07;27-DEC-19
+6000681;"Socialinės reabilitacijos paslaugų neįgaliesiems bendruomenėje projektų finansavimas";Y;N;17-FEB-12;27-DEC-19
+6000682;"Socialinės reabilitacijos paslaugų neįgaliesiems bendruomenėje projektų finansavimas (VB)";Y;N;16-APR-12;27-DEC-19
+6000683;"Kompleksinės paslaugos šeimai Vilniaus mieste (ES)";Y;N;10-AUG-17;27-DEC-19
+6000684;"Kompleksinės paslaugos šeimai Vilniaus mieste (SPC) (ES)";Y;N;10-AUG-17;27-DEC-19
 6000688;"Savivaldybės socialinio būsto rekonstrukcija ir remontas";Y;N;11-FEB-19;11-FEB-19
 6000689;"Administracijos direktoriaus 2009-12-18d. įsakymas Nr. 30-2195 (Socialinių paslaugų įstaigų rėmimas)";Y;N;21-DEC-09;21-DEC-09
 6000690;"Socialinių paslaugų  įstaigų rėmimas (Administracijos direktoriaus rezervas)";Y;N;20-NOV-07;07-MAY-09
@@ -3509,14 +3509,14 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 6000702;"Gyvenamojo būsto įsigijimas (Soc. būsto lėšos)";Y;N;03-FEB-17;03-FEB-17
 6000703;"Gyvenamojo būsto įsigijimas iš SĮ Vilniaus miesto būstas pervestų lėšų (Soc. būsto lėšos)";Y;N;03-FEB-17;03-FEB-17
 6000704;"Gyvenamojo būsto įsigijimas (Soc. būsto lėšų likučiai)";Y;N;03-FEB-17;03-FEB-17
-6000705;"Būsto pritaikymas neįgaliesiems (liftų priežiūra) (savivaldybės biudžeto lėšos)";Y;N;13-FEB-17;13-FEB-17
-6000706;"Būsto pritaikymas neįgaliesiems (liftų priežiūra) (valstybės biudžetas)";Y;N;13-FEB-17;13-FEB-17
+6000705;"Būsto pritaikymas neįgaliesiems (liftų priežiūra)";Y;N;13-FEB-17;27-DEC-19
+6000706;"Būsto pritaikymas neįgaliesiems (liftų priežiūra) (VB)";Y;N;13-FEB-17;27-DEC-19
 6000707;"Ne pagal tikslinę paskirtį (kelio tiesimui Linksmojoje g. 139) panaudotų valstybės biudžeto lėšų grąžinimas";Y;N;06-SEP-17;06-SEP-17
 6000708;"Būsto pritaikymas šeimoms, auginančioms  vaikus su sunkia negalia (liftų įrengimas)";Y;N;18-SEP-17;18-SEP-17
 6000709;"Butų šildymo ir kitų paslaugų išlaidoms apmokėti, kai savivaldybės butai neišnuomoti (dotacijos iš FINMIN skolai)";Y;N;08-DEC-16;08-DEC-16
 6000710;"Fabijoniškių pensionas (Savivaldybės privatizavimo fondas)";Y;N;20-NOV-07;19-NOV-13
 6000711;"Socialinio būsto statyba ir pirkimas, gerbūvio darbai  (VVK) (dotacijos iš FINMIN skolai)";Y;N;08-DEC-16;08-DEC-16
-6000712;"Atvirkštinio PVM ir kitų nenumatytų išlaidų apmokėjimas (savivaldybės biudžeto lėšos)";Y;N;04-OCT-16;08-NOV-16
+6000712;"Atvirkštinio PVM ir kitų nenumatytų išlaidų apmokėjimas";Y;N;04-OCT-16;27-DEC-19
 6000713;"Būsto pritaikymas šeimoms, auginančioms  vaikus su sunkia negalia, programos įgyvendinimo administravimo išlaidoms (SB)";Y;N;18-DEC-17;18-DEC-17
 6000714;"Socialinio būsto nuomos mokesčio kompensavimas (dotacijos iš FINMIN skolai)";Y;N;08-DEC-16;08-DEC-16
 6000715;"Romų bendruomenės būsto nuomos kompensacijos";Y;N;18-JUL-16;18-JUL-16
@@ -3525,7 +3525,7 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 6000718;"Socialinio būsto plėtra (pagal ES regioninę priemonę Nr. 08.1.2-CPVA-R408, Linksmoji 120,122)";Y;N;02-MAR-16;02-MAR-16
 6000719;"Būsto nuomos ar išperkamosios būsto nuomos mokesčių dalies kompensavimas";Y;N;10-FEB-15;10-FEB-15
 6000720;"Socialinės paramos centras (Savivaldybės privatizavimo fondas)";Y;N;20-NOV-07;30-SEP-13
-6000721;"Socialinio būsto nuomos mokesčio kompensavimas (Savivaldybės biudžeto lėšos)";Y;N;22-FEB-12;22-FEB-12
+6000721;"Socialinio būsto nuomos mokesčio kompensavimas";Y;N;22-FEB-12;27-DEC-19
 6000722;"Butų šildymo ir kitų paslaugų išlaidoms apmokėti kai savivaldybės butai išnuomoti (Savivaldybės biudžeto lėšos)";Y;N;22-FEB-12;22-FEB-12
 6000723;"Politinių kalinių ir tremtinių bei jų šeimų sugrįžimo į Lietuvą ir jų aprūpinimo programos įgyvendinimas (Valstybės investicijų 2012-2014 metų programoje numatytoms kapitalo investicijoms finansuoti (SADM))";Y;N;22-FEB-12;22-FEB-12
 6000724;"Socialinio būsto statyba ir pirkimas, gerbūvio darbai  (Savivaldybės privatizavimo fondas)";Y;N;22-FEB-12;22-FEB-12
@@ -3558,7 +3558,7 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 6000751;"VšĮ Savanorių centro finansavimas (Departamentas)";Y;N;21-FEB-13;21-FEB-13
 6000752;"Nuomos mokestis vykdant Valstybės garantiją nuomininkams (VB)";Y;N;14-FEB-18;14-FEB-18
 6000753;"Sensorinių priemonių įsigijimas ir gyvenamosios aplinkos pritaikymas sunkią negalią turintiems vaikams";Y;N;27-AUG-18;27-AUG-18
-6000754;"Sensorinių priemonių įsigijimo ir gyvenamosios aplinkos pritaikymo sunkią negalią turintiems vaikams administravimo išlaidos (departamentas)";Y;N;27-AUG-18;10-OCT-18
+6000754;"Sensorinių priemonių įsigijimo ir gyvenamosios aplinkos pritaikymo sunkią negalią turintiems vaikams administravimo išlaidos";Y;N;27-AUG-18;27-DEC-19
 6000755;"Socialinio būsto plėtra (pagal ES regioninę priemonę Nr. 08.1.2-CPVA-R408, Meškonių g.) (ES lėšos)";Y;N;12-SEP-18;12-SEP-18
 6000756;"Savivaldybės būsto plėtros ir kitų nenumatytų išlaidų apmokėjimas (SB)";Y;N;14-DEC-18;14-DEC-18
 6000757;"Sensorinių priemonių įsigijimas ir gyvenamosios aplinkos pritaikymas sunkią negalią turintiems vaikams (SB)";Y;N;04-SEP-19;04-SEP-19
@@ -3567,7 +3567,7 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 6000760;"Sveikatos programų finansavimas (Aplinkos apsaugos rėmimo specialiosios programos lėšos)";Y;N;20-NOV-07;14-MAR-08
 6000761;"Gyventojų sveikatos apsaugos programų įgyvendinimas (lėšų likutis)";Y;N;24-SEP-13;24-SEP-13
 6000762;"Priklausomybės ligų prevencija (savivaldybės biudžeto lėšos)";Y;N;03-OCT-16;03-OCT-16
-6000763;"Užkrečiamų ir neinfekcinių ligų profilaktika ir kontrolė (SB)";Y;N;27-JAN-17;11-FEB-19
+6000763;"Benamių sveikatos priežiūra ir švarinimas (savivaldybės biudžeto lėšos)";Y;N;27-JAN-17;27-DEC-19
 6000770;"Vilniaus priklausomybės ligų centro išlaikymas";Y;N;20-NOV-07;14-MAR-08
 6000771;"Vilniaus miesto priklausomybės ligų centro išlaikymas (Valstybės biudžetas)";Y;N;17-APR-12;17-APR-12
 6000780;"Vilniaus priklausomybės ligų centro specialioji programa";Y;N;20-NOV-07;14-MAR-08
@@ -3962,7 +3962,7 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 6B01091;"„Mūsų namai“- laikino gyvenimo namų vaikus auginančioms moterims, neturinčioms gyvenamosios vietos, įsteigimas (rekonstrukcija)";Y;Y;05-OCT-09;05-OCT-09
 6B01095;"„Mūsų namai“- laikino gyvenimo namų vaikus auginančioms moterims, neturinčioms gyvenamosios vietos, įsteigimas (rekonstrukcija)";Y;Y;30-SEP-09;30-SEP-09
 7000000;"Kontrolieriaus tarnybos sąmatos";Y;Y;20-NOV-07;14-MAR-08
-7000010;"Kontrolės priežiūros institucijos";Y;N;20-NOV-07;14-MAR-08
+7000010;"Kontrolės priežiūros institucijos";Y;N;20-NOV-07;27-DEC-19
 8000000;"Turto departamento sąmatos";Y;Y;14-MAR-08;14-MAR-08
 8000001;"Paramos priemonių smulkiąjam ir vidutiniam verslui įgyvendinimas, Privatizavimo fondas";Y;N;14-MAR-08;05-NOV-08
 8000002;"Komunalinio ūkio plėtra, Privatizavimo fondas";Y;N;14-MAR-08;05-NOV-08
@@ -4001,7 +4001,7 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 8000035;"Vingio parko estrados patalpų, kuriose numatoma įrengti muziejų, vidaus remonto darbams";Y;N;24-SEP-09;24-SEP-09
 8000036;"Jurgio Mačiūno kolekcijai iš dalies apmokėti-biudžeto lėšos";Y;N;24-SEP-09;24-SEP-09
 8000037;"Ginaičio žemė (biudžeto lėšos)";Y;N;24-SEP-09;24-SEP-09
-8000038;"2009-12-14 Administracijos direktoriaus  įsakymas Nr.30-2172 “Dėl lėšų skyrimo iš administracijos direktoriaus rezervo“";Y;N;16-DEC-09;26-JAN-17
+8000038;"2009-12-14 Administracijos direktoriaus  įsakymas Nr.30-2172 “Dėl lėšų skyrimo iš administracijos direktoriaus rezervo“";Y;N;16-DEC-09;27-DEC-19
 8000039;"2009-12-18 Administracijos direktoriaus  įsakymas Nr.30-2195 “Dėl lėšų skyrimo iš administracijos direktoriaus rezervo“";Y;N;21-DEC-09;31-JUL-18
 8000040;"Verslo aplinkos gerinimo ir užimtumo priemonių vykdymas";Y;N;01-FEB-10;01-FEB-10
 8000041;"Paramos priemonių smulkiajam ir vidutiniam verslui įgyvendinimas";Y;N;08-FEB-10;08-FEB-10
@@ -4167,87 +4167,87 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 9000001;"Antakalnio bendruomenės kultūrinės veiklos plėtra";Y;N;03-FEB-10;03-FEB-10
 9000002;"Antakalnio seniūnijos teritorijos priežiūra ir atnaujinimas";Y;N;03-FEB-10;03-FEB-10
 9000003;"Antakalnio seniūnijos teritorijos priežiūra ir atnaujinimas";Y;N;03-FEB-10;03-FEB-10
-9000004;"Vietos bendruomenių savivaldos programos įgyvendinimas Antakalnio seniūnijoje";Y;N;23-MAY-12;23-MAY-12
+9000004;"Remti bendruomeninę veiklą Antakalnio seniūnijoje";Y;N;23-MAY-12;27-DEC-19
 9000011;"Fabijoniškių bendruomenės kultūrinės veiklos plėtra";Y;N;04-FEB-10;04-FEB-10
 9000012;"Fabijoniškių seniūnijos teritorijos priežiūra ir atnaujinimas";Y;N;08-FEB-10;08-FEB-10
 9000013;"Fabijoniškių seniūnijos teritorijos priežiūra ir atnaujinimas";Y;N;04-FEB-10;04-FEB-10
-9000014;"Vietos bendruomenių savivaldos programos įgyvendinimas Fabijoniškių seniūnijoje";Y;N;23-MAY-12;23-MAY-12
+9000014;"Remti bendruomeninę veiklą Fabijoniškių seniūnijoje";Y;N;23-MAY-12;27-DEC-19
 9000021;"Grigiškių bendruomenės kultūrinės veiklos plėtra";Y;N;04-FEB-10;04-FEB-10
 9000022;"Grigiškių seniūnijos teritorijos priežiūra ir atnaujinimas";Y;N;04-FEB-10;04-FEB-10
 9000023;"Grigiškių seniūnijos teritorijos priežiūra ir atnaujinimas";Y;N;04-FEB-10;04-FEB-10
-9000024;"Vietos bendruomenių savivaldos programos įgyvendinimas Grigiškių seniūnijoje";Y;N;23-MAY-12;23-MAY-12
+9000024;"Remti bendruomeninę veiklą Grigiškių seniūnijoje";Y;N;23-MAY-12;27-DEC-19
 9000031;"Justiniškių bendruomenės kultūrinės veiklos plėtra";Y;N;04-FEB-10;04-FEB-10
 9000032;"Justiniškių seniūnijos teritorijos priežiūra ir atnaujinimas";Y;N;04-FEB-10;04-FEB-10
 9000033;"Justiniškių seniūnijos teritorijos priežiūra ir atnaujinimas";Y;N;04-FEB-10;04-FEB-10
-9000034;"Vietos bendruomenių savivaldos programos įgyvendinimas Justiniškių seniūnijoje";Y;N;23-MAY-12;23-MAY-12
+9000034;"Remti bendruomeninę veiklą Justiniškių seniūnijoje";Y;N;23-MAY-12;27-DEC-19
 9000041;"Karoliniškių bendruomenės kultūrinės veiklos plėtra";Y;N;04-FEB-10;04-FEB-10
 9000042;"Karoliniškių seniūnijos teritorijos priežiūra ir atnaujinimas";Y;N;04-FEB-10;04-FEB-10
 9000043;"Karoliniškių seniūnijos teritorijos priežiūra ir atnaujinimas";Y;N;04-FEB-10;04-FEB-10
-9000044;"Vietos bendruomenių savivaldos programos įgyvendinimas Karoliniškių seniūnijoje";Y;N;23-MAY-12;23-MAY-12
+9000044;"Remti bendruomeninę veiklą Karoliniškių seniūnijoje";Y;N;23-MAY-12;27-DEC-19
 9000051;"Lazdynų bendruomenės kultūrinės veiklos plėtra";Y;N;05-FEB-10;05-FEB-10
 9000052;"Lazdynų seniūnijos teritorijos priežiūra ir atnaujinimas";Y;N;05-FEB-10;05-FEB-10
 9000053;"Lazdynų seniūnijos teritorijos priežiūra ir atnaujinimas";Y;N;05-FEB-10;05-FEB-10
-9000054;"Vietos bendruomenių savivaldos programos įgyvendinimas Lazdynų seniūnijoje";Y;N;23-MAY-12;23-MAY-12
+9000054;"Remti bendruomeninę veiklą Lazdynų seniūnijoje";Y;N;23-MAY-12;27-DEC-19
 9000061;"Naujamiesčio bendruomenės kultūrinės veiklos plėtra";Y;N;05-FEB-10;05-FEB-10
 9000062;"Naujamiesčio seniūnijos teritorijos priežiūra ir atnaujinimas";Y;N;05-FEB-10;05-FEB-10
 9000063;"Naujamiesčio seniūnijos teritorijos priežiūra ir atnaujinimas";Y;N;05-FEB-10;05-FEB-10
-9000064;"Vietos bendruomenių savivaldos programos įgyvendinimas Naujamiesčio seniūnijoje";Y;N;24-MAY-12;24-MAY-12
+9000064;"Remti bendruomeninę veiklą Naujamiesčio seniūnijoje";Y;N;24-MAY-12;27-DEC-19
 9000071;"Naujininkų bendruomenės kultūrinės veiklos plėtra";Y;N;05-FEB-10;05-FEB-10
 9000072;"Naujininkų seniūnijos teritorijos priežiūra ir atnaujinimas";Y;N;05-FEB-10;05-FEB-10
 9000073;"Naujininkų seniūnijos teritorijos priežiūra ir atnaujinimas";Y;N;05-FEB-10;05-FEB-10
-9000074;"Vietos bendruomenių savivaldos programos įgyvendinimas Naujininkų seniūnijoje";Y;N;24-MAY-12;24-MAY-12
+9000074;"Remti bendruomeninę veiklą Naujininkų seniūnijoje";Y;N;24-MAY-12;27-DEC-19
 9000081;"Naujosios Vilnios bendruomenės kultūrinės veiklos plėtra";Y;N;05-FEB-10;05-FEB-10
 9000082;"Naujosios Vilnios seniūnijos teritorijos priežiūra ir atnaujinimas";Y;N;05-FEB-10;05-FEB-10
 9000083;"Naujosios Vilnios seniūnijos teritorijos priežiūra ir atnaujinimas";Y;N;05-FEB-10;05-FEB-10
-9000084;"Vietos bendruomenių savivaldos programos įgyvendinimas Naujosios Vilnios seniūnijoje";Y;N;24-MAY-12;24-MAY-12
+9000084;"Remti bendruomeninę veiklą Naujosios Vilnios seniūnijoje";Y;N;24-MAY-12;27-DEC-19
 9000091;"Panerių bendruomenės kultūrinės veiklos plėtra";Y;N;05-FEB-10;05-FEB-10
 9000092;"Panerių seniūnijos teritorijos priežiūra ir atnaujinimas";Y;N;05-FEB-10;05-FEB-10
 9000093;"Panerių seniūnijos teritorijos priežiūra ir atnaujinimas";Y;N;05-FEB-10;05-FEB-10
-9000094;"Vietos bendruomenių savivaldos programos įgyvendinimas Panerių seniūnijoje";Y;N;24-MAY-12;24-MAY-12
+9000094;"Remti bendruomeninę veiklą Panerių seniūnijoje";Y;N;24-MAY-12;27-DEC-19
 9000101;"Pašilaičių bendruomenės kultūrinės veiklos plėtra";Y;N;05-FEB-10;05-FEB-10
 9000102;"Pašilaičių seniūnijos teritorijos priežiūra ir atnaujinimas";Y;N;05-FEB-10;05-FEB-10
 9000103;"Pašilaičių seniūnijos teritorijos priežiūra ir atnaujinimas";Y;N;05-FEB-10;05-FEB-10
-9000104;"Vietos bendruomenių savivaldos programos įgyvendinimas Pašilaičių seniūnijoje";Y;N;24-MAY-12;24-MAY-12
+9000104;"Remti bendruomeninę veiklą Pašilaičių seniūnijoje";Y;N;24-MAY-12;27-DEC-19
 9000111;"Pilaitės bendruomenės kultūrinės veiklos plėtra";Y;N;05-FEB-10;05-FEB-10
 9000112;"Pilaitės seniūnijos teritorijos priežiūra ir atnaujinimas";Y;N;05-FEB-10;05-FEB-10
 9000113;"Pilaitės seniūnijos teritorijos priežiūra ir atnaujinimas";Y;N;05-FEB-10;05-FEB-10
-9000114;"Vietos bendruomenių savivaldos programos įgyvendinimas Pilaitės seniūnijoje";Y;N;24-MAY-12;24-MAY-12
+9000114;"Remti bendruomeninę veiklą Pilaitės seniūnijoje";Y;N;24-MAY-12;27-DEC-19
 9000121;"Rasų bendruomenės kultūrinės veiklos plėtra";Y;N;05-FEB-10;05-FEB-10
 9000122;"Rasų seniūnijos teritorijos priežiūra ir atnaujinimas";Y;N;05-FEB-10;05-FEB-10
 9000123;"Rasų seniūnijos teritorijos priežiūra ir atnaujinimas";Y;N;05-FEB-10;05-FEB-10
-9000124;"Vietos bendruomenių savivaldos programos įgyvendinimas Rasų seniūnijoje";Y;N;24-MAY-12;24-MAY-12
+9000124;"Remti bendruomeninę veiklą Rasų seniūnijoje";Y;N;24-MAY-12;27-DEC-19
 9000131;"Senamiesčio bendruomenės kultūrinės veiklos plėtra";Y;N;05-FEB-10;05-FEB-10
 9000132;"Senamiesčio seniūnijos teritorijos priežiūra ir atnaujinimas";Y;N;05-FEB-10;05-FEB-10
 9000133;"Senamiesčio seniūnijos teritorijos priežiūra ir atnaujinimas";Y;N;05-FEB-10;05-FEB-10
-9000134;"Vietos bendruomenių savivaldos programos įgyvendinimas Senamiesčio seniūnijoje";Y;N;24-MAY-12;24-MAY-12
+9000134;"Remti bendruomeninę veiklą Senamiesčio seniūnijoje";Y;N;24-MAY-12;27-DEC-19
 9000141;"Šeškinės bendruomenės kultūrinės veiklos plėtra";Y;N;05-FEB-10;05-FEB-10
 9000142;"Šeškinės seniūnijos teritorijos priežiūra ir atnaujinimas";Y;N;08-FEB-10;08-FEB-10
 9000143;"Šeškinės seniūnijos teritorijos priežiūra ir atnaujinimas";Y;N;08-FEB-10;08-FEB-10
-9000144;"Vietos bendruomenių savivaldos programos įgyvendinimas Šeškinės seniūnijoje";Y;N;24-MAY-12;24-MAY-12
+9000144;"Remti bendruomeninę veiklą Šeškinės seniūnijoje";Y;N;24-MAY-12;27-DEC-19
 9000151;"Šnipiškių bendruomenės kultūrinės veiklos plėtra";Y;N;08-FEB-10;08-FEB-10
 9000152;"Šnipiškių seniūnijos teritorijos priežiūra ir atnaujinimas";Y;N;08-FEB-10;08-FEB-10
 9000153;"Šnipiškių seniūnijos teritorijos priežiūra ir atnaujinimas";Y;N;08-FEB-10;08-FEB-10
-9000154;"Vietos bendruomenių savivaldos programos įgyvendinimas Šnipiškių seniūnijoje";Y;N;24-MAY-12;24-MAY-12
+9000154;"Remti bendruomeninę veiklą Šnipiškių seniūnijoje";Y;N;24-MAY-12;27-DEC-19
 9000161;"Verkių bendruomenės kultūrinės veiklos plėtra";Y;N;08-FEB-10;08-FEB-10
 9000162;"Verkių seniūnijos teritorijos priežiūra ir atnaujinimas";Y;N;08-FEB-10;08-FEB-10
 9000163;"Verkių seniūnijos teritorijos priežiūra ir atnaujinimas";Y;N;08-FEB-10;08-FEB-10
-9000164;"Vietos bendruomenių savivaldos programos įgyvendinimas Verkių seniūnijoje";Y;N;24-MAY-12;24-MAY-12
+9000164;"Remti bendruomeninę veiklą Verkių seniūnijoje";Y;N;24-MAY-12;27-DEC-19
 9000171;"Vilkpėdės bendruomenės kultūrinės veiklos plėtra";Y;N;08-FEB-10;08-FEB-10
 9000172;"Vilkpėdės seniūnijos teritorijos priežiūra ir atnaujinimas";Y;N;08-FEB-10;08-FEB-10
 9000173;"Vilkpėdės seniūnijos teritorijos priežiūra ir atnaujinimas";Y;N;08-FEB-10;08-FEB-10
-9000174;"Vietos bendruomenių savivaldos programos įgyvendinimas Vilkpėdės seniūnijoje";Y;N;24-MAY-12;24-MAY-12
+9000174;"Remti bendruomeninę veiklą Vilkpėdės seniūnijoje";Y;N;24-MAY-12;27-DEC-19
 9000181;"Viršuliškių bendruomenės kultūrinės veiklos plėtra";Y;N;08-FEB-10;08-FEB-10
 9000182;"Viršuliškių seniūnijos teritorijos priežiūra ir atnaujinimas";Y;N;08-FEB-10;08-FEB-10
 9000183;"Viršuliškių seniūnijos teritorijos priežiūra ir atnaujinimas";Y;N;08-FEB-10;08-FEB-10
-9000184;"Vietos bendruomenių savivaldos programos įgyvendinimas Viršuliškių seniūnijoje";Y;N;24-MAY-12;24-MAY-12
+9000184;"Remti bendruomeninę veiklą Viršuliškių seniūnijoje";Y;N;24-MAY-12;27-DEC-19
 9000191;"Žirmūnų bendruomenės kultūrinės veiklos plėtra";Y;N;08-FEB-10;08-FEB-10
 9000192;"Žirmūnų seniūnijos teritorijos priežiūra ir atnaujinimas";Y;N;03-FEB-10;03-FEB-10
 9000193;"Žirmūnų seniūnijos teritorijos priežiūra ir atnaujinimas";Y;N;03-FEB-10;03-FEB-10
-9000194;"Vietos bendruomenių savivaldos programos įgyvendinimas Žirmūnų seniūnijoje";Y;N;24-MAY-12;24-MAY-12
+9000194;"Remti bendruomeninę veiklą Žirmūnų seniūnijoje";Y;N;24-MAY-12;27-DEC-19
 9000201;"Žvėryno bendruomenės kultūrinės veiklos plėtra";Y;N;03-FEB-10;03-FEB-10
 9000202;"Žvėryno seniūnijos teritorijos priežiūra ir atnaujinimas";Y;N;03-FEB-10;03-FEB-10
 9000203;"Žvėryno seniūnijos teritorijos priežiūra ir atnaujinimas";Y;N;03-FEB-10;03-FEB-10
-9000204;"Vietos bendruomenių savivaldos programos įgyvendinimas Žvėryno seniūnijoje";Y;N;24-MAY-12;24-MAY-12
+9000204;"Remti bendruomeninę veiklą Žvėryno seniūnijoje";Y;N;24-MAY-12;27-DEC-19
 9000214;"Bendruomeninės veiklos savivaldybėje administravimas";Y;N;31-AUG-17;31-AUG-17
 9000215;"Seniūnaičių veiklos finansavimas";Y;N;22-FEB-18;22-FEB-18
 9B00001;"Antakalnio bendruomenės kultūrinės veiklos plėtra";Y;Y;03-FEB-10;03-FEB-10
