@@ -3607,7 +3607,7 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 6000738;"Gyventojams iškedinti iš patalpų";Y;N;17-FEB-09;17-FEB-09
 6000739;"Nuomos mokestis vykdant Valstybės garantiją nuomininkams";Y;N;11-JAN-10;11-JAN-10
 6000740;"Sveikatos programų finansavimas (Savivaldybės biudžeto lėšos)";Y;N;20-NOV-07;14-MAR-08
-6000741;"Greitosios medicinos pagalbos užtikrinimas kultūriniuose renginiuose Vilniaus mieste";Y;N;04-JAN-11;04-JAN-11
+6000741;"Greitosios medicinos pagalbos užtikrinimas Vilniaus mieste vykstančių renginių metu";Y;N;04-JAN-11;08-JAN-20
 6000742;"Pasaulio sveikatos dienos renginių organizavimas ir rėmimas";Y;N;04-JAN-11;04-JAN-11
 6000743;"Galimybių studijos dėl automobilių parkavimo problemos sprendimo būdų VšĮ Vilniaus miesto klinikinės ligoninės, VšĮ Šv. Roko ligoninės ir VšĮ Antakalnio poliklinikos teritorijoje parengimas";Y;N;23-FEB-16;23-FEB-16
 6000744;"Baudos už neįvykdytus įsipareigojimus įgyvendinant Europos Sąjungos struktūrinių fondų lėšomis finansuotus VšĮ Sapiegos ligoninės projektus Antakalnio g. 17 apmokėjimas";Y;N;23-FEB-16;23-FEB-16
@@ -3629,7 +3629,7 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 6000760;"Sveikatos programų finansavimas (Aplinkos apsaugos rėmimo specialiosios programos lėšos)";Y;N;20-NOV-07;14-MAR-08
 6000761;"Gyventojų sveikatos apsaugos programų įgyvendinimas (lėšų likutis)";Y;N;24-SEP-13;24-SEP-13
 6000762;"Priklausomybės ligų prevencija (savivaldybės biudžeto lėšos)";Y;N;03-OCT-16;03-OCT-16
-6000763;"Benamių sveikatos priežiūra ir švarinimas (savivaldybės biudžeto lėšos)";Y;N;27-JAN-17;27-DEC-19
+6000763;"Infekcinių ligų profilaktika (ŽIV/AIDS, TBC/DOTS, VH ir kt. infekcinių susirgimų) ir benamių sveikatos priežiūros bei švarinimo paslaugos";Y;N;27-JAN-17;08-JAN-20
 6000770;"Vilniaus priklausomybės ligų centro išlaikymas";Y;N;20-NOV-07;14-MAR-08
 6000771;"Vilniaus miesto priklausomybės ligų centro išlaikymas (Valstybės biudžetas)";Y;N;17-APR-12;17-APR-12
 6000780;"Vilniaus priklausomybės ligų centro specialioji programa";Y;N;20-NOV-07;14-MAR-08
@@ -3648,6 +3648,8 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 6000804;"Administracijos direktoriaus 2011-04-21 įsakymas Nr. 30-648 (Studijų ir mokslo paramos fondui veiklai paremti)";Y;N;29-APR-11;29-APR-11
 6000805;"Administracijos direktoriaus 2011-07-28 įsakymas Nr. 30-1075 (VšĮ Sapiegos ligoninei)";Y;N;28-JUL-11;28-JUL-11
 6000806;"Deratizacijos paslaugos";Y;N;10-FEB-15;10-FEB-15
+6000807;"ES struktūrinių fondų lėšų bendrai finansuojamo projekto Nr. 08.4.2-ESFA-V-621-01-002 „Žemo slenksčio stacionarinių paslaugų teikimas Vilniaus miesto savivaldybėje“";Y;N;08-JAN-20;08-JAN-20
+6000808;"ES struktūrinių fondų lėšų bendrai finansuojamo projekto Nr. 08.4.2-ESFA-V-621-01-0003 „Žemo slenksčio mobilių paslaugų teikimas Vilniaus miesto savivaldybėje“";Y;N;08-JAN-20;08-JAN-20
 6000809;"Ekstrakorporinės litotripsijos aparatas (savivaldybės biudžeto lėšos)";Y;N;03-FEB-17;03-FEB-17
 6000810;"Sveikatos priežiūros įstaigų rėmimas (Administracijos direktoriaus rezervas)";Y;N;20-NOV-07;07-MAY-09
 6000811;"Administracijos direktoriaus 2009-05-08 įsakymas Nr. 30-809 (Sveikatos priežiūros įstaigų rėmimas)";Y;N;14-MAY-09;14-MAY-09
