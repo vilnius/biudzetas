@@ -131,6 +131,7 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 1000131;"Tarpinstitucinio bendradarbiavimo koordinatoriaus pareigybės išlaikymas";Y;N;31-DEC-19;31-DEC-19
 1000132;"Bendruomenių patalpų išlaikymo išlaidos";Y;N;31-DEC-19;31-DEC-19
 1000133;"Seniūnaičių veiklos finansavimas";Y;N;31-DEC-19;31-DEC-19
+1000134;"Socialinių išmokų ir kompensacijų administravimas";Y;N;22-JAN-20;22-JAN-20
 1000150;Nenaudojama;Y;N;20-NOV-07;13-FEB-13
 1000151;"Tėvų mokesčio surinkimas jaunimo politiką  įgyvendinančiose įstaigose";Y;N;13-FEB-13;13-FEB-13
 1000152;"Išlaidų, susijusių su minimalios algos padidėjimu, finansavimas";Y;N;07-NOV-16;07-NOV-16
@@ -235,6 +236,7 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 1100007;"Viešųjų pirkimų, teismo, notarų ir programinės įrangos priežiūros išlaidoms Mokesčių poskyrio funkcijoms vykdyti";Y;N;09-FEB-15;27-DEC-19
 1100008;"Finansų ir strateginio planavimo departamento funkcijoms vykdyti (iš SB lėšų likučių)";Y;N;09-FEB-17;09-FEB-17
 1100009;"Finansų ir strateginio planavimo departamento funkcijoms vykdyti (iš dotacijos)";Y;N;23-MAR-17;23-MAR-17
+1100010;"Skolų grąžinimas pagal mokėjimų atidėjimo sutartis (61 šalt.)";Y;N;23-JAN-20;23-JAN-20
 1100100;"Vilniaus miesto 2010-2020 metų strateginio plano parengimas (ES)";Y;N;30-NOV-11;30-NOV-11
 1100500;"Administracijos direktoriaus 2012-05-04 įsakymas Nr. 30-899, 3 p.";Y;N;07-MAY-12;07-MAY-12
 1300170;"Paskolų mokėjimas pagal grafiką (1.2.1)";Y;N;06-DEC-11;06-DEC-11
@@ -800,7 +802,7 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 3000927;"Paminklo dr. Jonui Basanavičiui pastatymas ir aikštės prie Lietuvos nacionalinės filharmonijos sutvarkymas (61 šalt.)";Y;N;22-JAN-19;22-JAN-19
 3000930;"Požeminių automobilių stovėjimo aikštelių įrengimas (privatizav)";Y;N;20-NOV-07;20-DEC-11
 3000931;"Požeminių automobilių stovėjimo aikštelių įrengimas (savivaldybės biudžetas)";Y;N;03-MAR-11;03-MAR-11
-3000932;"Antžeminių automobilių stovėjimo aikštelių įrengimas ir išplėtimas";Y;N;14-FEB-18;14-FEB-18
+3000932;"Dviračių saugojimo paviljonų įrengimas";Y;N;14-FEB-18;22-JAN-20
 3000940;"Greitojo tramvajaus A maršruto įvedimas";Y;N;20-NOV-07;08-JUL-08
 3000950;"Pėsčiųjų viadukas tarp Lazdynų ir Karoliniškių (privatizavimo lėšos)";Y;N;20-NOV-07;30-APR-08
 3000951;"Pėsčiųjų viadukas tarp Lazdynų ir Karoliniškių (kelių fondas 3500,0 )";Y;N;10-APR-08;08-JUL-08
