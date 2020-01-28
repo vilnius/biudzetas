@@ -203,7 +203,7 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 1010581;"Kitos seniūnijų lėšos";Y;N;14-MAR-08;26-MAR-09
 1010591;"Už butus grąžinamas paskola";Y;N;14-MAR-08;27-DEC-19
 1010592;"Kitos išlaidos (konkurso lėšos, deponentai)";Y;N;14-MAR-08;14-MAR-08
-1010593;"Šiaurės ir Baltijos šalių viešojo administravimo mobilumo ir tinklaveikos programos projekto „Gerosios patirties mainai“ įgyvendinimas";Y;N;05-DEC-19;05-DEC-19
+1010593;"Komandiruočių išlaidų kompensavimas iš projektų lėšų";Y;N;05-DEC-19;27-JAN-20
 1010594;"Komandiruočių užsienyje išlaidų kompensavimas";Y;N;11-DEC-19;11-DEC-19
 1010600;"ES projektas/ 0037";Y;N;17-JUN-08;17-JUN-08
 1010601;"Elektroninio bilieto viešajame transporte ir keleivių informavimo sistemos sukūrimas";Y;N;14-MAR-08;24-SEP-09
@@ -1439,6 +1439,9 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 4000128;"Vilniaus miesto švietimo įstaigų remonto darbai ir įrangos įsigijimas (vid. m-klos) (dotacija skoloms dengti)";Y;N;09-DEC-16;09-DEC-16
 4000129;"Vilniaus miesto švietimo įstaigų remonto darbai ir įrangos įsigijimas (pagrindinės m-klos) (dotacija skoloms dengti)";Y;N;09-DEC-16;09-DEC-16
 4000130;"Papildomas lėšų gavimas pradinio mokymo įstaigose";Y;N;20-NOV-07;07-SEP-12
+4000133;"Kokybės krepšelio finansavimas pradinėse ugdymo įstaigose";Y;N;28-JAN-20;28-JAN-20
+4000134;"Kokybės krepšelio finansavimas pagrindinėse ugdymo įstaigose";Y;N;28-JAN-20;28-JAN-20
+4000135;"Kokybės krepšelio finansavimas gimnazijose ir vidurinio tipo mokyklose";Y;N;28-JAN-20;28-JAN-20
 4000136;"VDM finansavimas pradinėse ugdymo įstaigose";Y;N;13-JAN-20;13-JAN-20
 4000137;"VDM finansavimas pagrindinėse ugdymo įstaigose";Y;N;13-JAN-20;13-JAN-20
 4000138;"VDM finansavimas gimnazijose ir vidurinio tipo mokyklose";Y;N;13-JAN-20;13-JAN-20
