@@ -1443,6 +1443,8 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 4000128;"Vilniaus miesto švietimo įstaigų remonto darbai ir įrangos įsigijimas (vid. m-klos) (dotacija skoloms dengti)";Y;N;09-DEC-16;09-DEC-16
 4000129;"Vilniaus miesto švietimo įstaigų remonto darbai ir įrangos įsigijimas (pagrindinės m-klos) (dotacija skoloms dengti)";Y;N;09-DEC-16;09-DEC-16
 4000130;"Papildomas lėšų gavimas pradinio mokymo įstaigose";Y;N;20-NOV-07;07-SEP-12
+4000131;"Antakalnio pradinės mokyklos rekonstravimo ir remonto darbai, Šilo g. 15 (13 šalt.)";Y;N;14-FEB-20;14-FEB-20
+4000132;"Vilniaus „Vilnies“ pagrindinės mokyklos Vilniuje, Švarioji g. 33, priestato statyba (13 šalt.)";Y;N;14-FEB-20;14-FEB-20
 4000133;"Kokybės krepšelio finansavimas pradinėse ugdymo įstaigose";Y;N;28-JAN-20;28-JAN-20
 4000134;"Kokybės krepšelio finansavimas pagrindinėse ugdymo įstaigose";Y;N;28-JAN-20;28-JAN-20
 4000135;"Kokybės krepšelio finansavimas gimnazijose ir vidurinio tipo mokyklose";Y;N;28-JAN-20;28-JAN-20
@@ -2240,6 +2242,21 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 4001017;"Vilniaus  lopšelio - darželio "" Puriena "" stogo remontas";Y;N;14-DEC-10;14-DEC-10
 4001018;"Vilniaus lopšelio-darželio „Vaidilutė“ patalpų ir įrangos atnaujinimas (dotacija skoloms dengti)";Y;N;09-DEC-16;09-DEC-16
 4001019;"Ikimokyklinio ugdymo įstaigos Bajorų kelias g. 10, Vilniuje, statyba (SB)";Y;N;02-MAR-18;02-MAR-18
+4001020;"Ikimokyklinio ir priešmokyklinio ugdymo prieinamumo didinimas „Gabijėlė“ lopšelis-darželis (13 šalt.)";Y;N;14-FEB-20;14-FEB-20
+4001021;"Ikimokyklinio ir priešmokyklinio ugdymo prieinamumo didinimas „Atžalėlės“ lopšelis-darželis (13 šalt.)";Y;N;14-FEB-20;14-FEB-20
+4001022;"Ikimokyklinio ir priešmokyklinio ugdymo prieinamumo didinimas „Medynėlis“ lopšelis-darželis (13 šalt.)";Y;N;14-FEB-20;14-FEB-20
+4001023;"Ikimokyklinio ir priešmokyklinio ugdymo prieinamumo didinimas „Gintarėlis“ lopšelis-darželis (13 šalt.)";Y;N;14-FEB-20;14-FEB-20
+4001024;"Vilniaus Balsių progimnazijos, Bubilo g., išplėtimas (13 šalt.)";Y;N;14-FEB-20;14-FEB-20
+4001025;"Vilniaus Balsių progimnazijos, Bubilo g., išplėtimas (66 šalt.)";Y;N;14-FEB-20;14-FEB-20
+4001026;"Vilniaus Balsių progimnazijos, Bubilo g., išplėtimas (28 šalt.)";Y;N;14-FEB-20;14-FEB-20
+4001027;"Vilniaus Joachimo Lelevelio inžinerijos gimnazijos Vilniuje, Minties g. 3, priestato statyba";Y;N;14-FEB-20;14-FEB-20
+4001028;"Vilniaus Lazdynų mokyklos (adresu Žėručio g. 4, Vilnius) efektyvumo didinimas, vidaus remonto darbų įsigijimas (13 šalt.)";Y;N;14-FEB-20;14-FEB-20
+4001029;"Vilniaus Genio progimnazijos (adresu Lukiškių skg. 5, Vilnius) efektyvumo didinimas, vidaus remonto darbų įsigijimo II etapas (69 šalt.)";Y;N;14-FEB-20;14-FEB-20
+4001030;"Vilniaus Sofijos Kovalevskajos gimnazijos/progimnazijos (adresu Dūkštų g. 30, Vilnius) efektyvumo didinimas, vidaus remonto darbų įsigijimas (69 šalt.)";Y;N;14-FEB-20;14-FEB-20
+4001031;"Justino Vienožinskio dailės mokyklos (adresu S. Konarskio g. 37, Vilnius) techninio projekto parengimas ir statinio projekto vykdymo priežiūra (69 šalt.)";Y;N;14-FEB-20;14-FEB-20
+4001032;"Vilniaus Vladislavo Sirokomlės gimnazijos pastato modernizavimas (13 šalt.)";Y;N;14-FEB-20;14-FEB-20
+4001033;"Justino Vienožinskio dailės mokyklos (adresu S. Konarskio g. 37, Vilnius) techninio projekto parengimas ir statinio projekto vykdymo (13 šalt.)";Y;N;14-FEB-20;14-FEB-20
+4001034;"Vilniaus Gabijos gimnazijos plėtra (13 šalt.)";Y;N;14-FEB-20;14-FEB-20
 4001100;"Vilniaus Filaretų pradinės mokyklos remontas";Y;N;19-FEB-10;19-FEB-10
 4001101;"Vilniaus Šeškinės pradinė mokykla, Šeškinės g. 15, Vilnius (modernizavimas, VIP lėšos)";Y;N;15-SEP-17;15-SEP-17
 4001102;"Vilniaus Šeškinės pradinė mokykla, Šeškinės g. 15, Vilnius (modernizavimas, kitos lėšos)";Y;N;15-SEP-17;15-SEP-17
@@ -2405,6 +2422,7 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 4001360;"Ikimokyklinio ugdymo įstaigų techninių projektų parengimas (SB)";Y;N;23-MAR-17;23-MAR-17
 4001361;"Ikimokyklinio ir priešmokyklinio ugdymo grupių, pirmų ir kitų klasių bei žaidimo aikštelių įrengimas bendrojo ugdymo įstaigose (Paramos lėšos)";Y;N;29-JUN-18;29-JUN-18
 4001362;"UAB „Vilniaus vystymo kompanija“ įsipareigojimų vykdymui už projektų valdymą ir darbų techninę priežiūrą nuo atliktų darbų kainos objektuose";Y;N;29-JUN-18;29-JUN-18
+4001363;"Bendrojo lavinimo įstaigų techninių projektų parengimas (13 šalt.)";Y;N;14-FEB-20;14-FEB-20
 4001380;"Ikimokyklinio ugdymo įstaigos Bajorų kelias g. 10, Vilniuje, statyba (Skolintos lėšos)";Y;N;12-JUN-17;12-JUN-17
 4001390;"Dviračių sporto centro įkūrimas ir patalpų pritaikymas Vilniaus Laisvės gimnazijoje (Skolintos lėšos)";Y;N;12-JUN-17;12-JUN-17
 4002000;"Neįgaliųjų ir sutrikusio intelekto vaikų socialinės globos centro įkūrimas (Vilniaus specialiajame lopšelyje-darželyje „Čiauškutis“) (Europos Sąjungos lėšos)";Y;N;22-FEB-12;22-FEB-12
@@ -2840,6 +2858,7 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 4018250;"Vilniaus miesto savivaldybės neformalųjį švietimą papildančio ugdymo mokyklų infrastruktūros tobulinimas";Y;N;16-MAR-17;16-MAR-17
 4018251;"Vilniaus miesto savivaldybės neformalųjį švietimą papildančio ugdymo mokyklų infrastruktūros tobulinimas";Y;N;16-MAR-17;16-MAR-17
 4018252;"Vilniaus miesto savivaldybės neformalųjį švietimą papildančio ugdymo mokyklų infrastruktūros tobulinimas (SB)";Y;N;02-MAR-18;02-MAR-18
+4018259;"Ikimokyklinio ir priešmokyklinio ugdymo prieinamumo didinimas (13 šalt.)";Y;N;14-FEB-20;14-FEB-20
 4018260;"Ikimokyklinio ir priešmokyklinio ugdymo prieinamumo didinimas";Y;N;16-MAR-17;16-MAR-17
 4018261;"Ikimokyklinio ir priešmokyklinio ugdymo prieinamumo didinimas";Y;N;16-MAR-17;16-MAR-17
 4018262;"Ikimokyklinio ir priešmokyklinio ugdymo prieinamumo didinimas (SB)";Y;N;19-DEC-17;19-DEC-17
@@ -2925,6 +2944,7 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 4019011;"Vilniaus Aleksandro Puškino mokyklos pastato Vilniuje, Gabijos g. 8, modernizavimas (Kiti fondai)";Y;N;25-FEB-16;25-FEB-16
 4019012;"Vilniaus Aleksandro Puškino mokyklos pastato Vilniuje, Gabijos g. 8, modernizavimas (SB)";Y;N;02-MAY-16;02-MAY-16
 4019013;"Vilniaus Aleksandro Puškino mokyklos pastatui adresu Gabijos g. 8, Vilnius, modernizuoti (STD)";Y;N;27-JUN-16;27-JUN-16
+4019014;"Vilniaus Aleksandro Puškino mokyklos pastato Vilniuje, Gabijos g. 8, modernizavimas (13 šalt.)";Y;N;14-FEB-20;14-FEB-20
 4020000;"Medicinos personalo išlaikymas pradinio mokymo įstaigose (pavedimų lėšos)";Y;N;15-SEP-09;15-SEP-09
 4020001;"Medicinos personalo išlaikymas bendrojo lavinimo įstaigose (pavedimų lėšos)";Y;N;15-SEP-09;15-SEP-09
 4020002;"Medicinos personalo išlaikymas kitų steigėjų mokyklose (pavedimų lėšos)";Y;N;15-SEP-09;15-SEP-09
