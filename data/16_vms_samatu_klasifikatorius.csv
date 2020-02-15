@@ -1815,6 +1815,9 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 4000513;"Pilaitės gimnazijos sporto aikštyno rekonstrukcija su projektavimo darbais ir įrangos įsigijimu (Skolintos)";Y;N;20-JUN-19;20-JUN-19
 4000514;"Žirmūnų gimnazijos sporto aikštyno rekonstrukcija su projektavimo darbais ir įrangos įsigijimu (Skolintos)";Y;N;20-JUN-19;20-JUN-19
 4000515;"Tėvų mokesčio likučiai sporto mokyklose (BIBA)";Y;N;27-FEB-13;27-DEC-19
+4000516;"Sporto aikštelių įrengimas viešosiose erdvėse (13 šalt.)";Y;N;14-FEB-20;14-FEB-20
+4000517;"Žirmūnų gimnazijos sporto aikštyno (dengtas pilnų matmenų futbolo stadionas) rekonstrukcija su projektavimo darbais ir įrangos įsigijimu (ES)";Y;N;14-FEB-20;14-FEB-20
+4000518;"Vilniaus moksleivių sveikatos centro rekontravimas";Y;N;14-FEB-20;14-FEB-20
 4000519;"Trakų Vokės dvaro sodybos rūmų tvarkybos darbai (Skolintos)";Y;N;20-JUN-19;20-JUN-19
 4000520;"Bibliotekų išlaikymas ir jų darbo organizavimas";Y;N;20-NOV-07;30-SEP-09
 4000521;"Bibliotekų išlaikymas ir jų darbo organizavimas (be nuomos)";Y;N;11-JUL-08;06-SEP-12
@@ -1830,6 +1833,7 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 4000560;"Papildomai gautos lėšos nuomojant patalpas muziejuose";Y;N;20-NOV-07;07-SEP-12
 4000570;"Mokamų paslaugų teikimas muziejuose";Y;N;20-NOV-07;07-SEP-12
 4000571;"Spec. lėšų likučiai muziejuose (BIBA)";Y;N;27-FEB-13;27-DEC-19
+4000577;"Spec. lėšų likučiai Naujosios Vilnios kultūros centre";Y;N;14-FEB-20;14-FEB-20
 4000578;"Vilniaus etninės kultūros centro išlaikymas (spec. lėšos)";Y;N;23-OCT-15;23-OCT-15
 4000579;"Vilniaus kultūros centro išlaikymas (spec. lėšos)";Y;N;23-FEB-12;23-FEB-12
 4000580;"Kultūros centrų išlaikymas ir jų darbo organizavimas";Y;N;20-NOV-07;23-FEB-12
@@ -1860,6 +1864,7 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 4000612;"Skolinių įsipareigojimų grąžinimas už objektą „Menų spaustuvė“";Y;N;12-DEC-16;12-DEC-16
 4000613;"Šv. Kotrynos bažnyčios einamasis remontas";Y;N;19-FEB-18;19-FEB-18
 4000614;"Kino centro ""Skalvija"" einamasis remontas";Y;N;19-FEB-18;19-FEB-18
+4000615;"Patalpų Vilniaus g. 39 pritaikymas Šv. Kristoforo kameriniam orkestrui";Y;N;14-FEB-20;14-FEB-20
 4000616;"Edukacinių programų rėmimas (SB)";Y;N;12-FEB-19;12-FEB-19
 4000617;"Trakų Vokės dvaro sodybos Rūmų pastato restauracija, didinant kultūros, turizmo bei edukacijos paslaugų teikimo efektyvumą";Y;N;09-FEB-17;09-FEB-17
 4000618;"Dotacija VšĮ Trakų Vokės dvaro sodyba";Y;N;10-FEB-14;10-FEB-14
@@ -1972,6 +1977,9 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 4000725;"Dotacija „Kūrybiškas Vilnius“";Y;N;23-FEB-12;23-FEB-12
 4000726;"Kūrybinių industrijų skatinimo programa";Y;N;23-FEB-12;23-FEB-12
 4000727;"Kompensacija už iš Savivaldybės nuomojamas patalpas (SB)";Y;N;06-JUN-17;06-JUN-17
+4000728;"Dotacija VšĮ Vilniaus miesto muziejui";Y;N;14-FEB-20;14-FEB-20
+4000729;"Medinės architektūros paveldo muziejaus sukūrimas";Y;N;14-FEB-20;14-FEB-20
+4000730;"Dotacija VšĮ Vilniaus miesto operai";Y;N;14-FEB-20;14-FEB-20
 4000737;"Vilniaus miesto savivaldybės literatūrinio A. Puškino muziejus pastato, esančio Subačiaus g. 124, Vilniuje, Šv. Varvaros  koplyčios tvarkybos darbai (spec. tikslinė dotacija)";Y;N;03-APR-15;03-APR-15
 4000739;"Vilniaus miesto savivaldybės literatūrinio A. Puškino muziejus pastato, esančio Subačiaus g. 124, Vilniuje, Šv. Varvaros  koplyčios durų tvarkytos darbai (spec. tikslinė dotacija)";Y;N;05-FEB-14;05-FEB-14
 4000740;"Literatūrinio A. Puškino muziejaus Vilniuje, Subačiaus g. 124, stogo rekonstrukcija (lėšų likučiai iš SB)";Y;N;06-NOV-13;06-NOV-13
@@ -2501,6 +2509,11 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 4005006;"Daugiafunkcio Lazdynų sveikatingumo centro įkūrimas (2M23)";Y;N;07-JUN-17;07-JUN-17
 4005007;"Dotacija VšĮ Lazdynų baseinui (SB)";Y;N;08-DEC-17;08-DEC-17
 4005008;"Daugiafunkcio Lazdynų sveikatingumo centro įkūrimas (skolos dengimas)";Y;N;19-FEB-18;19-FEB-18
+4005009;"Vilniaus lengvosios atletikos maniežo Žirmūnų g. 1H įrengimas su projektavimo darbais ir įrangos įsigijimu";Y;N;14-FEB-20;14-FEB-20
+4005010;"Vilniaus irklavimo bazės Žirmūnų g. 1P įrengimas su projektavimo darbais ir įrangos įsigijimu";Y;N;14-FEB-20;14-FEB-20
+4005011;"Vilniaus Mykolo Biržiškos gimnazijos Taikos g. 81 sporto aikštyno rekonstrukcija su projektavimo darbais ir įrangos įsigijimu";Y;N;14-FEB-20;14-FEB-20
+4005012;"Vilniaus Pilaitės baseino įrengimas su projektavimo darbais ir įrangos įsigijimu, Įsruties g. 3";Y;N;14-FEB-20;14-FEB-20
+4005013;"Sveikatingumo erdvių seniūnijoje įrengimas";Y;N;14-FEB-20;14-FEB-20
 4005049;"Skola VVK (SB)";Y;N;17-DEC-18;17-DEC-18
 4005050;"Gelbėtojų stoties ir irklavimo bazės prie Žaliųjų ežerų rekonstrukcija (BL)";Y;N;19-FEB-18;19-FEB-18
 4005060;"Sporto aikštelių įrengimas viešosiose erdvėse (skolos dengimas)";Y;N;19-FEB-18;19-FEB-18
