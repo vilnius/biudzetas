@@ -1826,6 +1826,7 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 4000541;"Vilniaus atminties kultūros puoselėjimas";Y;N;09-FEB-17;09-FEB-17
 4000542;"Profesionalių meno trupių konkursinis finansavimas";Y;N;09-FEB-17;09-FEB-17
 4000543;"Savivaldybės įstaigų vykdomų kultūrinių projektų konkursinis finansavimas";Y;N;09-FEB-17;09-FEB-17
+4000549;"Tautinių mažumų vykdomi projektai";Y;N;17-FEB-20;17-FEB-20
 4000550;"Muziejų išlaikymas ir jų darbo organizavimas";Y;N;20-NOV-07;11-JUL-08
 4000551;"Muziejų išlaikymas ir jų darbo organizavimas (be nuomos ir mokamų paslaugų)";Y;N;11-JUL-08;06-SEP-12
 4000552;"Muziejų išlaikymas ir jų darbo organizavimas(remonto darbai)";Y;N;11-JUL-08;27-DEC-19
@@ -1853,7 +1854,7 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 4000601;"Naujosios Vilnios kultūros centro išlaikymas (spec. lėšos)";Y;N;08-FEB-10;05-JAN-11
 4000602;"Mokamų paslaugų teikimas bibliotekose";Y;N;08-FEB-10;06-NOV-13
 4000603;"Lietuvos valstybės šimtmečio programa";Y;N;19-FEB-18;19-FEB-18
-4000604;"Vilniaus rotušės pastato rekonstrukcija (biudžeto lėšos)";Y;N;23-FEB-12;23-FEB-12
+4000604;"Vilniaus rotušės pastato rekonstrukcija";Y;N;23-FEB-12;17-FEB-20
 4000605;"Vilniaus mokytojų namų kiemelio rekonstrukcija (biudžeto lėšos)";Y;N;23-FEB-12;23-FEB-12
 4000606;"Kirtimų kultūros centro renovavimas ir modernizavimas (biudžeto lėšos)";Y;N;23-FEB-12;23-FEB-12
 4000607;"Grigiškių kultūros centro modernizavimas (biudžeto lėšos)";Y;N;23-FEB-12;23-FEB-12
@@ -3589,6 +3590,8 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 6000670;"Socialinės paslaugos (Departamentas)";Y;N;20-NOV-07;27-DEC-19
 6000671;"Socialinių renginių, konferencijų, seminarų, akcijų organizavimas";Y;N;13-OCT-14;27-DEC-19
 6000672;"Pagalbos pinigai šeimoms ir šeimynoms (SIS)";Y;N;31-DEC-19;31-DEC-19
+6000673;"Nakvynės namų A. Kojelavičiaus g. 50 rekonstrukcija";Y;N;17-FEB-20;17-FEB-20
+6000674;"Vilniaus miesto bendruomeninių vaikų globos namų ir vaikų dienos centrų tinklo plėtra (ES)";Y;N;17-FEB-20;17-FEB-20
 6000675;"Globėjų tarnybos (NVO)";Y;N;31-DEC-19;31-DEC-19
 6000676;"Paslaugos soc. rizikos veiksnius patiriantiems asmenims (NVO)";Y;N;31-DEC-19;31-DEC-19
 6000677;"Paslaugos vaikams ir jaunimui (NVO)";Y;N;31-DEC-19;31-DEC-19
@@ -3599,6 +3602,7 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 6000682;"Socialinės reabilitacijos paslaugų neįgaliesiems bendruomenėje projektų finansavimas (VB)";Y;N;16-APR-12;27-DEC-19
 6000683;"Kompleksinės paslaugos šeimai Vilniaus mieste (ES)";Y;N;10-AUG-17;27-DEC-19
 6000684;"Kompleksinės paslaugos šeimai Vilniaus mieste (SPC) (ES)";Y;N;10-AUG-17;27-DEC-19
+6000687;"Integralios pagalbos teikimas Vilniaus mieste (ES) lėšų likučiai";Y;N;17-FEB-20;17-FEB-20
 6000688;"Savivaldybės socialinio būsto rekonstrukcija ir remontas";Y;N;11-FEB-19;11-FEB-19
 6000689;"Administracijos direktoriaus 2009-12-18d. įsakymas Nr. 30-2195 (Socialinių paslaugų įstaigų rėmimas)";Y;N;21-DEC-09;21-DEC-09
 6000690;"Socialinių paslaugų  įstaigų rėmimas (Administracijos direktoriaus rezervas)";Y;N;20-NOV-07;07-MAY-09
@@ -3675,6 +3679,7 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 6000761;"Gyventojų sveikatos apsaugos programų įgyvendinimas (lėšų likutis)";Y;N;24-SEP-13;24-SEP-13
 6000762;"Priklausomybės ligų prevencija (savivaldybės biudžeto lėšos)";Y;N;03-OCT-16;03-OCT-16
 6000763;"Infekcinių ligų profilaktika (ŽIV/AIDS, TBC/DOTS, VH ir kt. infekcinių susirgimų) ir benamių sveikatos priežiūros bei švarinimo paslaugos";Y;N;27-JAN-17;08-JAN-20
+6000764;"Ilgalaikės socialinio būsto nuomos mokesčio kompensavimas";Y;N;17-FEB-20;17-FEB-20
 6000770;"Vilniaus priklausomybės ligų centro išlaikymas";Y;N;20-NOV-07;14-MAR-08
 6000771;"Vilniaus miesto priklausomybės ligų centro išlaikymas (Valstybės biudžetas)";Y;N;17-APR-12;17-APR-12
 6000780;"Vilniaus priklausomybės ligų centro specialioji programa";Y;N;20-NOV-07;14-MAR-08
