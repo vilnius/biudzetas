@@ -687,6 +687,8 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 3000654;"Gatvių, kelių ir lietaus nuotekų tinklų priežiūra ir remontas (Pagal taikos sutartį Savivaldybės skoliniams įsipareigojimams grąžinti (dotacijos))";Y;N;16-MAR-17;16-MAR-17
 3000655;"Gatvių, kelių ir lietaus nuotekų tinklų priežiūra ir remontas (lėšų likutis iš SB)";Y;N;13-FEB-17;13-FEB-17
 3000656;"Tiltų ir viadukų priežiūra ir remontas (61 šalt.)";Y;N;27-JUL-18;27-JUL-18
+3000657;"Eismo reguliavimo priemonių priežiūra ir remontas";Y;N;18-FEB-20;18-FEB-20
+3000658;"Eismo reguliavimo priemonių priežiūra ir remontas (inv.)";Y;N;18-FEB-20;18-FEB-20
 3000660;"Fontanų priežiūra";Y;N;20-NOV-07;30-APR-08
 3000670;"Miesto kapinių priežiūra";Y;N;20-NOV-07;23-JUL-14
 3000671;"Miesto kapinių priežiūra (Skolintos lėšos-skoloms mokėti)";Y;N;21-FEB-11;25-FEB-11
@@ -3338,6 +3340,7 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 5000305;"ES programos URBACT III projektas „RU-RBAN“ (SB)";Y;N;23-APR-18;30-JUL-18
 5000306;"ES programos HORIZON 2020 projektas „CIVITAS SUMPs-Up“ (SB)";Y;N;15-MAY-19;15-MAY-19
 5000307;"ES programos HORIZON 2020 projektas „CIVITAS SUMPs-Up“ (ES)";Y;N;15-MAY-19;15-MAY-19
+5000308;"Programos INTERREG BALTIC SEA REGION projektą „CMM“";Y;N;18-FEB-20;18-FEB-20
 5000309;"Detaliųjų, specialiųjų, žemės sklypų ribų ir kitų planų, programų, schemų rengimas (30)";Y;N;31-DEC-19;31-DEC-19
 5001010;"FS-13-PR-11010224, Bendruomeninių (viešųjų-vietinių) želdynų miesto seniūnijose įrengimo projektiniai pasiūlymai (II etapas)";Y;N;18-JUN-08;18-JUN-08
 5001020;"FS-01-PR-11020203, Verkių dvaro sodybos viršutinių parko takų mažųjų architektūros statinių ir tiltelio remontas bei rekonstrukcija";Y;N;18-JUN-08;18-JUN-08
