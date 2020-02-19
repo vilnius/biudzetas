@@ -294,6 +294,7 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 1600012;"Galimų ekologinių situacijų, avarijų ir įvykių padarinių šalinimas. Kitos aplinkosauginės priemonės";Y;N;22-FEB-17;22-FEB-17
 1600013;"Neaiškios kilmės ir kitų pavojų žmonių gyvybei, sveikatai, turtui, aplinkai keliančių medžiagų surinkimas, paėmimas, išvežimas, identifikavimas, laikinas saugojimas ir utilizavimas";Y;N;22-FEB-17;22-FEB-17
 1600014;"Viešosios tvarkos palaikymas ir teisės pažeidimų prevencija";Y;N;31-DEC-19;31-DEC-19
+1600015;"Lietuvių kalbos prestižo stiprinimo programa";Y;N;18-FEB-20;18-FEB-20
 1600101;"Nusikaltimų ir kitų teisės pažeidimų prevencinių priemonių įgyvendinimas (Privatizavimo fondas)";Y;N;09-FEB-15;09-FEB-15
 1800001;"Bendrosios dotacijos kompensacija valstybės biudžetui";Y;N;06-DEC-11;06-DEC-11
 1800002;"Administracijos direktoriaus rezervo sąmata";Y;N;06-DEC-11;06-DEC-11
@@ -663,6 +664,7 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 3000617;"Susisiekimo infrastruktūros projektavimas (EOS)";Y;N;31-DEC-19;31-DEC-19
 3000619;"Programos ""Žalias miestas"" vykdymui (Skolintos lėšos-skoloms mokėti)";Y;N;21-FEB-11;25-FEB-11
 3000620;"Intensyvaus autotransporto zonų humanizavimas (programos ""Žalias Miestas"" dalis )";Y;N;20-NOV-07;30-APR-08
+3000629;"Ne pagal tikslinę paskirtį panaudotų lėšų grąžinimas";Y;N;18-FEB-20;18-FEB-20
 3000630;"Sanitarinis valymas ir aplinkos apsauga";Y;N;20-NOV-07;20-APR-11
 3000631;"Sanitarinis valymas ir aplinkos apsauga (Skolintos lėšos-skoloms mokėti)";Y;N;21-FEB-11;19-APR-11
 3000632;"Administracijos direktoriaus 2012-06-15 įsakymas Nr. 30-1211 ""Dėl lėšų skyrimo iš Administracijos direktoriaus rezervo"" (už 2012 m. atliekų tvarkymą apmokėti)";Y;N;18-JUN-12;18-JUN-12
@@ -812,6 +814,8 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 3000950;"Pėsčiųjų viadukas tarp Lazdynų ir Karoliniškių (privatizavimo lėšos)";Y;N;20-NOV-07;30-APR-08
 3000951;"Pėsčiųjų viadukas tarp Lazdynų ir Karoliniškių (kelių fondas 3500,0 )";Y;N;10-APR-08;08-JUL-08
 3000952;"Pėsčiųjų viadukas tarp Lazdynų ir Karoliniškių (biudžeto)";Y;N;12-MAY-08;12-MAY-08
+3000953;"Pėsčiųjų tunelio po geležinkeliu Vilniaus miesto Iešmininkų gatvėje įrengimas (ES)";Y;N;18-FEB-20;18-FEB-20
+3000954;"Kareivių gatvės atkarpos tarp Žirmūnų ir Verkių gatvių bei Kareivių ir Verkių gatvių sankryžos rekonstrukcija įrengiant eismo saugos priemones (ES)";Y;N;18-FEB-20;18-FEB-20
 3000955;"Pėsčiųjų viaduko per Ukmergės g. Šeškinės seniūnijoje statyba (savivaldybės biudžetas)";Y;N;03-MAR-11;03-MAR-11
 3000956;"Naujai gatvei, jungiančiai Molėtų plentą ir Santariškių gatvę, tiesti (Santaros gatvės statyba)";Y;N;28-APR-16;28-APR-16
 3000957;"Naujamiesčio viešųjų erdvių tvarkymas (Vingrių šaltinio skveras ir Amatų g.)";Y;N;14-FEB-18;14-FEB-18
@@ -819,6 +823,7 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 3000959;"Nemenčinės plento rekonstrukcija nuo Kairėnų gatvės iki miesto ribos";Y;N;14-FEB-18;14-FEB-18
 3000960;"Ukmergės g. nuo Žadeikos g. iki senosios miesto ribos rekonstrukcija";Y;N;20-NOV-07;30-APR-08
 3000961;"Ukmergės g. nuo Žadeikos g. iki senosios miesto ribos rekonstrukcija(skolintos 100,0)";Y;N;10-APR-08;30-APR-08
+3000962;"Požeminės perėjos įrengimas Vilniaus miesto Zuikių gatvėje (ES)";Y;N;18-FEB-20;18-FEB-20
 3000970;"Šiaurinės gatvės statyba";Y;N;20-NOV-07;03-MAR-11
 3000971;"Teritorijos projektavimui ir įrengimui ties P. Vileišio gatve, Antakalnyje nuo Šilo g. iki Valakampių tilto (Privatizavimo fondo lėšos)";Y;N;07-NOV-13;07-NOV-13
 3000975;"Kalvarijų gatvės ruožui nuo P.Lukšio gatvės iki Apkasų gatvės rekonstruoti";Y;N;28-APR-16;28-APR-16
@@ -1115,9 +1120,14 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 3001573;"Venecijos bienalės nugalėtojų instaliacijos įrengimui apmokėti";Y;N;26-JUN-19;26-JUN-19
 3001574;"Vilniaus miesto savivaldybės Tauro kalno teritorijos, esančios Vilniuje, V. Mykolaičio-Putino g. 5, parengiamieji sutvarkymo darbai";Y;N;26-JUN-19;26-JUN-19
 3001575;"Vilniaus miesto savivaldybės Tauro kalno teritorijos, esančios Vilniuje, V. Mykolaičio-Putino g. 5, parengiamieji sutvarkymo darbai (SB lėšos)";Y;N;08-JUL-19;08-JUL-19
+3001577;"Pėsčiųjų - dviračių takų infrastruktūros atnaujinimas ir plėtra Žalgirio, Rinktinės, Širvintų, Kernavės gatvėse Šiaurinėje tikslinėje teritorijoje (SB)";Y;N;18-FEB-20;18-FEB-20
+3001578;"Pėsčiųjų - dviračių takų infrastruktūros atnaujinimas ir plėtra Žalgirio, Rinktinės, Širvintų, Kernavės gatvėse Šiaurinėje tikslinėje teritorijoje (ES)";Y;N;18-FEB-20;18-FEB-20
 3001579;"Giedraičių g. rekonstravimas įrengiant modernias eismo saugos priemones (2M24 š.)";Y;N;05-DEC-19;05-DEC-19
 3001580;"Misionierių sodų atkūrimas (lėšų likutis iš ES lėšų)";Y;N;12-MAY-08;04-JAN-18
 3001581;"Tauro kalno parko ir Liuteronų sodų tvarkymas Pietinėje tikslinėje teritorijoje";Y;N;14-FEB-18;14-FEB-18
+3001582;"Vilniaus istorinių Rasų kapinių, koplyčių, tvorų, atskirų paminklų tvarkyba (28 šalt.)";Y;N;18-FEB-20;18-FEB-20
+3001583;"Giedraičių ir kitų Šnipiškių gatvių tarp Lvovo ir Žalgirio gatvių rekonstravimas, įrengiant modernias eismo saugos priemones (ES)";Y;N;18-FEB-20;18-FEB-20
+3001584;"Valstybinio Trakų Vokės parko tvarkymas ir pritaikymas lankymui ir tausojančiam naudojimui (69 šalt.)";Y;N;18-FEB-20;18-FEB-20
 3001590;"J.Basanavičiaus-Mindaugo g. sankryžoje skulptūrinio elemento sukūrimas (skolintos)";Y;N;12-MAY-08;12-MAY-08
 3001599;"Valstybinio Sapiegų parko tvarkymas ir pritaikymas lankymui ir tausojančiam naudojimui (13 šalt.)";Y;N;19-JUN-19;19-JUN-19
 3001600;"Esamų dviračio takų sujungimas (biudžeto)";Y;N;12-MAY-08;12-MAY-08
@@ -1145,7 +1155,10 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 3001622;"Aukštaičių ir Paupio gatvių rekonstravimas su įvažiavimu į Drujos gatvę";Y;N;03-JAN-19;03-JAN-19
 3001623;"Giedraičių ir kitų Šnipiškių gatvių tarp Lvovo ir Žalgirio gatvių rekonstravimas, įrengiant modernias eismo saugos priemones (13 šalt.)";Y;N;19-JUN-19;19-JUN-19
 3001624;"Valstybinio Trakų Vokės parko tvarkymas ir pritaikymas lankymui ir tausojančiam naudojimui (13 šalt.)";Y;N;19-JUN-19;19-JUN-19
+3001625;"Dviračių takų infrastruktūros atnaujinimas ir plėtra Algirdo, V.Mykolaičio-Putino, Geležinkelio, Dariaus ir Girėno gatvėse Pietinėje tikslinėje teritorijoje";Y;N;18-FEB-20;18-FEB-20
+3001626;"Dviračių takų infrastruktūros atnaujinimas ir plėtra Algirdo, V.Mykolaičio-Putino, Geležinkelio, Dariaus ir Girėno gatvėse Pietinėje tikslinėje teritorijoje (ES)";Y;N;18-FEB-20;18-FEB-20
 3001630;"Ž.Ežerų g. pėščiųjų tako su apšvietimu įrengimas (kelių fondas)";Y;N;12-MAY-08;12-MAY-08
+3001631;"Pėsčiųjų dviračių tilto per Nerį tarp Lazdynų ir Naujamiesčio (Užvingio salos tiltas) įrengimas ir viešosios erdvės sutvarkymas";Y;N;18-FEB-20;18-FEB-20
 3001632;"Žaliųjų ežerų gatvės ruožo nuo Santariškių žiedo iki P. Baublio gatvės rekonstrukcija (KPPP)";Y;N;22-MAY-18;22-MAY-18
 3001634;"Kairėnų gatvės ruožo nuo Plytinės gatvės iki administracinės Vilniaus miesto ribos rekonstrukcija (KPPP)";Y;N;22-MAY-18;22-MAY-18
 3001640;"Vilniaus miesto dviračių takų specialiojo plano parengimas (Savivaldybės biudžeto lėšos)";Y;N;20-FEB-12;20-FEB-12
@@ -1163,12 +1176,18 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 3001780;"Skolų už atliktus darbus apmokėjimas";Y;N;19-FEB-13;19-FEB-13
 3001781;"Skolų už atliktus darbus apmokėjimas(savivaldybės biudžeto lėšų likutis)";Y;N;05-MAR-15;05-MAR-15
 3001800;"Valstybės vadovų palaidojimo vietos sutvarkymas Antakalnio kapinėse";Y;N;20-FEB-12;20-FEB-12
+3001804;"Lazdynų sveikatinimo centro prieigų aplinkos sutvarkymas";Y;N;18-FEB-20;18-FEB-20
 3001805;"Lazdynų sveikatingumo centro prieigų aplinkos sutvarkymas";Y;N;07-APR-16;07-APR-16
 3001806;"Vilniaus senųjų žydų kapinių Olandų gatvėje sutvarkymas";Y;N;07-JUN-17;07-JUN-17
+3001807;"Šeškinės komplekso prieigų aplinkos sutvarkymas ir pritaikymas lankymui";Y;N;18-FEB-20;18-FEB-20
+3001808;"Šeškinės komplekso prieigų aplinkos sutvarkymas ir pritaikymas lankymui (ES)";Y;N;18-FEB-20;18-FEB-20
+3001809;"Vilniaus miesto darnaus judumo plano sprendinių įgyvendinimas";Y;N;18-FEB-20;18-FEB-20
+3001810;"Vilniaus miesto darnaus judumo plano sprendinių įgyvendinimas (ES)";Y;N;18-FEB-20;18-FEB-20
 3001820;"Japoniško sodo įkūrimas teritorijoje prie Lvovo g. ir Geležinio Vilko g. (SB)";Y;N;13-FEB-17;27-DEC-19
 3001829;"Pėsčiųjų viaduko per Narbuto gatvę statyba (KPPP)";Y;N;22-MAY-18;22-MAY-18
 3001830;"Dviračių tako T. Narbuto gatvėje nuo Pilaitės pr. iki Konstitucijos pr. statyba (SB)";Y;N;13-FEB-17;13-FEB-17
 3001831;"Dviračių takų su rekreacine infrastruktūra įrengimas algirdo, V. Mykolaičio - Putino, Geležinkelio, Dariaus ir Girėno gatvėse, Pietinėje ITV teritorijoje";Y;N;14-FEB-18;14-FEB-18
+3001832;"Dviračių tako T. Narbuto gatvėje nuo Pilaitės pr. iki Konstitucijos pr. statyba (13 šalt.)";Y;N;18-FEB-20;18-FEB-20
 3001840;"Dviračių tako nuo Ukmergės g. iki Konstitucijos pr. statyba";Y;N;13-FEB-17;27-DEC-19
 3001900;"Suoliukai Katedros aikštėje (pagal projektą ""Dovana Vilniui"")";Y;N;09-SEP-13;09-SEP-13
 3001910;"Vingio parko infrastruktūros tvarkymo darbai, pasirengiant 2014 m. dainų šventei";Y;N;04-JUL-14;23-JUL-14
@@ -3683,8 +3702,15 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 6000762;"Priklausomybės ligų prevencija (savivaldybės biudžeto lėšos)";Y;N;03-OCT-16;03-OCT-16
 6000763;"Infekcinių ligų profilaktika (ŽIV/AIDS, TBC/DOTS, VH ir kt. infekcinių susirgimų) ir benamių sveikatos priežiūros bei švarinimo paslaugos";Y;N;27-JAN-17;08-JAN-20
 6000764;"Ilgalaikės socialinio būsto nuomos mokesčio kompensavimas";Y;N;17-FEB-20;17-FEB-20
+6000765;"Socialinio būsto plėtra (pagal ES regioninę priemonę Nr. 08.1.2-CPVA-R-408) (ES likučiai)";Y;N;19-FEB-20;19-FEB-20
 6000770;"Vilniaus priklausomybės ligų centro išlaikymas";Y;N;20-NOV-07;14-MAR-08
 6000771;"Vilniaus miesto priklausomybės ligų centro išlaikymas (Valstybės biudžetas)";Y;N;17-APR-12;17-APR-12
+6000774;"Specializuotos (ASSIP) pagalbos teikimas asmenims po mėginimo nusižudyti       ";Y;N;19-FEB-20;19-FEB-20
+6000775;"Skubios psichologinės pagalbos įvykio vietoje užtikrinimas     ";Y;N;19-FEB-20;19-FEB-20
+6000776;"Žemo slenksčio mobilių paslaugų teikimas Vilniaus miesto savivaldybėje ir Žemo slenksčio stacionarių paslaugų teikimas Vilniaus miesto savivaldybėje";Y;N;19-FEB-20;19-FEB-20
+6000777;"Vilniaus sutrikusio vystymosi kūdikių namų psichosocialinės paslaugos vaikui ir šeimai,  teikiamos paslaugų gavėjų namuose (mobilios paslaugos)";Y;N;19-FEB-20;19-FEB-20
+6000778;"ASP paslaugų gydymo išlaidų kompensavimas už asmenų, nedraustų PSD lėšomis bei draustų PSD lėšomis kuriems gydymo terminas, finansuojamas TLK lėšomis, pasibaigęs";Y;N;19-FEB-20;19-FEB-20
+6000779;"Šeimos gydytojo paslaugų užtikrinimas ASPĮ nedarbo metu";Y;N;19-FEB-20;19-FEB-20
 6000780;"Vilniaus priklausomybės ligų centro specialioji programa";Y;N;20-NOV-07;14-MAR-08
 6000781;"Vilniaus miesto savivaldybės visuomenės sveikatos biuro specialioji programa";Y;N;19-NOV-13;19-NOV-13
 6000782;"Vilniaus miesto savivaldybės visuomenės sveikatos biuro specialiosios programos lėšų likučiai";Y;N;27-JAN-17;27-JAN-17
@@ -3750,12 +3776,16 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 6000853;"Socialinių veiklų ir inovacijų rėmimas";Y;N;02-JUL-19;02-JUL-19
 6000854;"Tikslinių kompensacijų administravimas, dalyvavimas vertinant asmens savarankiškumą kasdienėje veikloje (SPC)";Y;N;02-JUL-19;02-JUL-19
 6000855;"Kompleksinių paslaugų centro negalią turintiems vaikams ir jų šeimos nariams „Čiauškutė“ rekonstrukcija";Y;N;31-DEC-19;31-DEC-19
+6000856;"VšĮ Vilniaus miesto psichikos sveikatos centro ūmios psichiatrijos, gerontopsichiatrijos ir psichosocialinės reabilitacijos korpuso statyba ir įrengimas Vasaros g. 5";Y;N;19-FEB-20;19-FEB-20
+6000857;"VšĮ Naujosios Vilnios poliklinikos renovacija ir Fizinės medicinos ir reabilitacijos priestato statyba ir įrengimas";Y;N;19-FEB-20;19-FEB-20
+6000858;"VšĮ Centro poliklinikos pastato Pylimo g. 3, Vilniuje statyba ir įrengimas";Y;N;19-FEB-20;19-FEB-20
 6000859;"VšĮ Šeškinės poliklinikos medicinos įrangos atnaujinimas (Valstybės biudžeto lėšos)";Y;N;15-MAR-11;15-MAR-11
 6000860;"Viešosios įstaigos Šeškinės poliklinikos pastato Vilniuje, Šeškinės g. 24, išorinių atitvarų rekonstravimas";Y;N;20-NOV-07;24-APR-08
 6000861;"Medicinos technikos ir įrangos viešojoje įstaigoje Šeškinės poliklinikoje Vilniuje Šeškinės g. 24, atnaujinimas";Y;N;24-MAR-09;24-MAR-09
 6000862;"VšĮ Šeškinės poliklinikos „Vaikų ambulatorinių- konsultacijų centrų Vilniaus mieste įkūrimas siekiant pagerinti sveikatos priežiūros paslaugų prieinamumą ir kokybę (kofinansavimas Norvegijos fondui) (Savivaldybės privatizavimo fondo lėšos)";Y;N;30-MAR-09;30-MAR-09
 6000863;"VšĮ Šeškinės poliklinikos sveikatos mokymo patalpų įrengimas (Valstybės biudžeto lėšos)";Y;N;15-MAR-11;15-MAR-11
 6000864;"Medicinos technikos ir įrangos viešojoje įstaigoje Šeškinės poliklinikoje Vilniuje, Šeškinės g. 24, atnaujinimas (Specialiosios tikslinės dotacijos lėšos)";Y;N;15-FEB-13;15-FEB-13
+6000865;"VšĮ M. Marcinkevičiaus ligoninės, Kauno g. 7, teikiamų paslaugų plėtra ir optimizavimas (stacionarinė ir paliatyvi pagalba, palaikomasis gyd. ir slauga, geriatrija, terapija, neurologija) pastatant priestatą ir įsigyjant medicininę įrangą";Y;N;19-FEB-20;19-FEB-20
 6000870;"VšĮ  Vilniaus miesto universitetinės ligoninės Akušerijos, naujagimių ir vaikų skyrių rekonstravimas ir modernizavimas";Y;N;14-MAR-08;30-MAR-09
 6000871;"Viešosios įstaigos Vilniaus miesto universitetinės ligoninės Akušerijos, Naujagimių ir Vaikų skyrių Vilniuje, Antakalnio g. 57, rekonstravimas ir modernizavimas";Y;N;18-FEB-10;18-FEB-10
 6000872;"VšĮ Vilniaus miesto universitetinės ligoninės rentgeno aparato įsigijimas (Savivaldybės biudžeto lėšos)";Y;N;16-MAR-11;16-MAR-11
