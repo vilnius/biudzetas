@@ -238,6 +238,7 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 1100009;"Finansų ir strateginio planavimo departamento funkcijoms vykdyti (iš dotacijos)";Y;N;23-MAR-17;23-MAR-17
 1100010;"Skolų grąžinimas pagal mokėjimų atidėjimo sutartis (61 šalt.)";Y;N;23-JAN-20;23-JAN-20
 1100011;"Teismo, antstolių, notarų paslaugoms ir skelbimams spaudoje apmokėti";Y;N;29-JAN-20;29-JAN-20
+1100012;"Vilniaus miesto 2021-2030 metų strateginio plano parengimas";Y;N;25-FEB-20;25-FEB-20
 1100100;"Vilniaus miesto 2010-2020 metų strateginio plano parengimas (ES)";Y;N;30-NOV-11;30-NOV-11
 1100500;"Administracijos direktoriaus 2012-05-04 įsakymas Nr. 30-899, 3 p.";Y;N;07-MAY-12;07-MAY-12
 1300170;"Paskolų mokėjimas pagal grafiką (1.2.1)";Y;N;06-DEC-11;06-DEC-11
@@ -1120,6 +1121,7 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 3001573;"Venecijos bienalės nugalėtojų instaliacijos įrengimui apmokėti";Y;N;26-JUN-19;26-JUN-19
 3001574;"Vilniaus miesto savivaldybės Tauro kalno teritorijos, esančios Vilniuje, V. Mykolaičio-Putino g. 5, parengiamieji sutvarkymo darbai";Y;N;26-JUN-19;26-JUN-19
 3001575;"Vilniaus miesto savivaldybės Tauro kalno teritorijos, esančios Vilniuje, V. Mykolaičio-Putino g. 5, parengiamieji sutvarkymo darbai (SB lėšos)";Y;N;08-JUL-19;08-JUL-19
+3001576;"Susisiekimo optimizavimas pagal darnaus judumo principus Šeškinės daugiafunkcio komplekso prieigose, įrengiant tam tinkamą infrastruktūrą su inžinerinėmis komunikacijomis (ES)";Y;N;25-FEB-20;25-FEB-20
 3001577;"Pėsčiųjų - dviračių takų infrastruktūros atnaujinimas ir plėtra Žalgirio, Rinktinės, Širvintų, Kernavės gatvėse Šiaurinėje tikslinėje teritorijoje (SB)";Y;N;18-FEB-20;18-FEB-20
 3001578;"Pėsčiųjų - dviračių takų infrastruktūros atnaujinimas ir plėtra Žalgirio, Rinktinės, Širvintų, Kernavės gatvėse Šiaurinėje tikslinėje teritorijoje (ES)";Y;N;18-FEB-20;18-FEB-20
 3001579;"Giedraičių g. rekonstravimas įrengiant modernias eismo saugos priemones (2M24 š.)";Y;N;05-DEC-19;05-DEC-19
@@ -4228,6 +4230,8 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 8000111;"Naktinio gyvenimo skatinimo programos įgyvendinimas";Y;N;15-FEB-18;15-FEB-18
 8000112;"ES paramos valdymas ir vertinimas";Y;N;29-NOV-18;29-NOV-18
 8000113;"Projektai finansuojami iš vietinės rinkliavos už naudojimąsi Savivaldybės viešąja turizmo ir poilsio infrastruktūra (lėšų likutis)";Y;N;26-FEB-19;26-FEB-19
+8000120;"Projektų techninės dokumentacijos rengimas";Y;N;25-FEB-20;25-FEB-20
+8000121;"Dotacija VšĮ Šiaurės miestelis";Y;N;25-FEB-20;25-FEB-20
 8000128;"Projektų techninės dokumentacijos rengimas";Y;N;31-DEC-19;31-DEC-19
 8000129;"Dotacija VšĮ Šiaurės miestelis";Y;N;31-DEC-19;31-DEC-19
 8000130;"Skolų mokėjimas pagal pasirašytas skolų grąžinimo sutartis ir kitų finansinių įsipareigojimų vykdymas";Y;N;04-MAR-14;04-MAR-14
