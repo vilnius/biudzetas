@@ -296,6 +296,7 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 1600013;"Neaiškios kilmės ir kitų pavojų žmonių gyvybei, sveikatai, turtui, aplinkai keliančių medžiagų surinkimas, paėmimas, išvežimas, identifikavimas, laikinas saugojimas ir utilizavimas";Y;N;22-FEB-17;22-FEB-17
 1600014;"Viešosios tvarkos palaikymas ir teisės pažeidimų prevencija";Y;N;31-DEC-19;31-DEC-19
 1600015;"Lietuvių kalbos prestižo stiprinimo programa";Y;N;18-FEB-20;18-FEB-20
+1600016;"Lėšos, skirtos iš Administracijos direktoriaus rezervo";Y;N;16-MAR-20;16-MAR-20
 1600101;"Nusikaltimų ir kitų teisės pažeidimų prevencinių priemonių įgyvendinimas (Privatizavimo fondas)";Y;N;09-FEB-15;09-FEB-15
 1800001;"Bendrosios dotacijos kompensacija valstybės biudžetui";Y;N;06-DEC-11;06-DEC-11
 1800002;"Administracijos direktoriaus rezervo sąmata";Y;N;06-DEC-11;06-DEC-11
@@ -4184,7 +4185,7 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 8000061;"Fabijoniškių seniūnijos pastato Ukmergės g. 221 antstato projektavimas ir statyba";Y;N;18-MAR-11;18-MAR-11
 8000062;"Turto išpirkimas savivaldybės funkcijoms įgyvendinti (privatizavimo fondas)";Y;N;07-OCT-11;01-MAR-12
 8000063;"Kurti naujus kultūrinio, konferencijų, skatinamojo turizmo produktus";Y;N;02-DEC-11;02-DEC-11
-8000064;"Turizmo parodos, verslo misijos";Y;N;02-DEC-11;02-DEC-11
+8000064;"Vilniaus miesto turizmo rinkodara";Y;N;02-DEC-11;16-MAR-20
 8000065;"Narystė tarptautinėse turizmo organizacijose";Y;N;02-DEC-11;02-DEC-11
 8000066;"Bendri Vilniaus ir Kauno dvimiesčio projektai";Y;N;02-DEC-11;02-DEC-11
 8000067;"Pažintiniai turai užsienio šalių žurnalistams, kelionių organizatoriams";Y;N;02-DEC-11;02-DEC-11
@@ -4193,9 +4194,9 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 8000070;"Konferencijų turizmo galimybių Vilniaus mieste ir Vilniaus apskrityje plėtra ir rinkodara (Investicijų programa)";Y;N;05-DEC-11;05-DEC-11
 8000071;"Kultūrinio turizmo Vilniaus mieste ir Vilniaus apskrityje plėtra ir rinkodara";Y;N;05-DEC-11;05-DEC-11
 8000072;"Pažintiniai turai užsienio šalių žurnalistams, kelionių organizatoriams";Y;N;05-DEC-11;05-DEC-11
-8000073;"Vilniaus turizmo galimybes pristatantys leidiniai, žemėlapiai, suvenyrai";Y;N;05-DEC-11;05-DEC-11
+8000073;"Naujų turizmo produktų ir turinio kūrimas";Y;N;05-DEC-11;16-MAR-20
 8000074;"Vykdyti Vilniaus lankytojų apklausas";Y;N;05-DEC-11;05-DEC-11
-8000075;"Svetingumo konkursas, mokymai";Y;N;05-DEC-11;05-DEC-11
+8000075;"Vilniaus svetingumo ir pažinimo iniciatyvų organizavimas";Y;N;05-DEC-11;16-MAR-20
 8000076;"Turizmo tyrimai ir analizė";Y;N;05-DEC-11;05-DEC-11
 8000077;"Investicinės ir verslo aplinkos tyrimų atlikimas ir kita";Y;N;05-DEC-11;05-DEC-11
 8000078;"Parodų ir konferencijų organizavimas ir kita";Y;N;05-DEC-11;05-DEC-11
