@@ -4243,6 +4243,7 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 8000113;"Projektai finansuojami iš vietinės rinkliavos už naudojimąsi Savivaldybės viešąja turizmo ir poilsio infrastruktūra (lėšų likutis)";Y;N;26-FEB-19;26-FEB-19
 8000120;"Projektų techninės dokumentacijos rengimas";Y;N;25-FEB-20;25-FEB-20
 8000121;"Dotacija VšĮ Šiaurės miestelis";Y;N;25-FEB-20;25-FEB-20
+8000122;"Daugiafunkcinio Lazdynų sveikatingumo centro įkūrimas (skolintos)";Y;N;10-APR-20;10-APR-20
 8000128;"Projektų techninės dokumentacijos rengimas";Y;N;31-DEC-19;31-DEC-19
 8000129;"Dotacija VšĮ Šiaurės miestelis";Y;N;31-DEC-19;31-DEC-19
 8000130;"Skolų mokėjimas pagal pasirašytas skolų grąžinimo sutartis ir kitų finansinių įsipareigojimų vykdymas";Y;N;04-MAR-14;04-MAR-14
@@ -4481,6 +4482,7 @@ B600460;"Socialinės paramos centro Paslaugų namuose tarnybos išlaikymas";Y;Y;
 EAD1;"Aplinkos ir energetikos departamento sumini reiksme";Y;Y;13-FEB-12;13-FEB-12
 EIMDEP;"Ekonomikos ir investicijų departamentas samatu suvestine";Y;Y;11-NOV-11;11-NOV-11
 EIMDEP1;"Ekonomikos ir investicijų departamentas samatu suvestine";Y;Y;10-FEB-12;10-FEB-12
+ES7VC;"Europos Sąjungos paramos lėšos (dotacijos) (2010 prtojektas)";Y;N;09-APR-20;09-APR-20
 FD1;"Finasų departameto suminė";Y;Y;10-FEB-12;10-FEB-12
 KLAIP15;"gautoms lėšos iš Klaipėdos savivaldybės";Y;N;21-SEP-15;21-SEP-15
 MUD_AED;"Suminė MUD AED sąmata";Y;Y;30-NOV-15;30-NOV-15
