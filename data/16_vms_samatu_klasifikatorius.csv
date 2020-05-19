@@ -3540,16 +3540,22 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 6000380;"Paramos integracijai užsieniečiams, gavusiems prieglobstį, administravimas (Departamentas)";Y;N;20-NOV-07;27-SEP-12
 6000381;"Skaitmeninės televizijos priėmimo įrangai įsigyti, kompensavimo mažas pajamas gaunantiems bendrai  gyvenantiems asmenims ir vieniems gyvenantiems asmenims administravimas  (LRV 2010-01-20 nutarimas Nr. 81)";Y;N;27-SEP-12;27-SEP-12
 6000390;"Dienos centro ""Šviesa"" išlaikymas (Savivaldybės lėšos)";Y;N;20-NOV-07;27-DEC-19
+6000391;"Tikslinės lėšos dienos centro „Šviesa“ išlaikymui";Y;N;19-MAY-20;19-MAY-20
+6000399;"Tikslinės lėšos Vilniaus m. vaikų ir jaunimo pensiono išlaikymui";Y;N;19-MAY-20;19-MAY-20
 6000400;"Vilniaus miesto vaikų pensiono išlaikymas (Savivaldybės lėšos)";Y;N;20-NOV-07;27-DEC-19
 6000401;"Globos namų vaikams ir jaunimui, turintiems negalią, modernizavimas";Y;N;17-FEB-12;17-FEB-12
 6000402;"Socialinės paramos įstaigų infrastruktūros modernizavimas, optimizavimas ir renovacija";Y;N;02-NOV-18;27-DEC-19
+6000409;"Tikslinės lėšos Valakampių socialinių paslaugų namų išlaikymui";Y;N;19-MAY-20;19-MAY-20
 6000410;"Pensionato ""Vilties namai"" išlaikymas (Savivaldybės lėšos)";Y;N;20-NOV-07;27-DEC-19
 6000411;"Biudžetinės įstaigos Valakampių socialinių paslaugų namų savarankiško gyvenimo namų ir trumpalaikės globos centro įkūrimas (Savivaldybės biudžeto lėšos)";Y;N;06-JAN-11;20-SEP-13
 6000412;"Biudžetinės įstaigos Valakampių socialinių paslaugų namų grupiniai gyvenimo namai (Savivaldybės biudžeto lėšos)";Y;N;17-FEB-12;20-SEP-13
 6000420;"Fabijoniškių pensiono išlaikymas (Savivaldybės lėšos)";Y;N;20-NOV-07;27-DEC-19
+6000421;"Tikslinės lėšos Fabijoniškių socialinių paslaugų namų išlaikymui";Y;N;19-MAY-20;19-MAY-20
 6000430;"Vilniaus miesto motinos ir vaiko pensiono išlaikymas (Savivaldybės lėšos)";Y;N;20-NOV-07;27-DEC-19
 6000431;"Grupinio gyvenimo namų vaikams, krizių tarnybos ir laikino  apgyvendinimo namų motinoms ir vaikams įkūrimas (Savivaldybės biudžeto lėšos)";Y;N;06-JAN-11;06-JAN-11
+6000432;"Tikslinės lėšos Vilniaus miesto krizių centro išlaikymui";Y;N;19-MAY-20;19-MAY-20
 6000440;"Vilniaus miesto nakvynės namų išlaikymas (Savivaldybės lėšos)";Y;N;20-NOV-07;27-DEC-19
+6000441;"Tikslinės lėšos Vilniaus miesto nakvynės namų išlaikymui";Y;N;19-MAY-20;19-MAY-20
 6000450;"Kitos bendros valstybės paslaugos (Socialinės paramos centras)";Y;N;20-NOV-07;14-MAR-08
 6000460;"Socialinės paramos centro Paslaugų namuose tarnybos išlaikymas";Y;N;20-NOV-07;01-MAR-12
 6000470;"Socialinės paramos centro išlaikymas (Savivaldybės lėšos)";Y;N;20-NOV-07;27-DEC-19
@@ -3557,10 +3563,14 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 6000472;"Socialinių išmokų bei kompensacijų administravimas (Socialinės paramos centras)";Y;N;17-DEC-10;17-DEC-10
 6000473;"Savarankiško gyvenimo  namų „Savi namai“ ir dienos centro psichikos negalią  turintiems asmenims įkūrimas (Savivaldybės biudžeto lėšos)";Y;N;06-JAN-11;28-OCT-11
 6000480;"Dienos centro ""Šviesa"" išlaikymas (Tarpusavio atsiskaitymai)";Y;N;20-NOV-07;27-DEC-19
+6000481;"Tikslinės lėšos Vilniaus Žolyno vaikų socialinės globos namų išlaikymui";Y;N;19-MAY-20;19-MAY-20
 6000485;"MMA didinimui ir darbo apmokėjimo įstatymui įgyvendinti";Y;N;26-SEP-16;02-JUN-17
 6000490;"Vilniaus miesto vaikų pensiono išlaikymas (Tarpusavio atsiskaitymai)";Y;N;20-NOV-07;01-MAR-12
 6000500;"Pensionato ""Vilties namai"" išlaikymas (Tarpusavio atsiskaitymai)";Y;N;20-NOV-07;27-DEC-19
 6000501;"MMA didinimui ir darbo apmokėjimo įstatymui įgyvendinti";Y;N;26-OCT-15;02-JUN-17
+6000502;"Tikslinės lėšos Socialinės paramos centro išlaikymui";Y;N;19-MAY-20;19-MAY-20
+6000508;"Tikslinės lėšos Vilniaus Antakalnio vaikų socialinės globos namų išlaikymui";Y;N;19-MAY-20;19-MAY-20
+6000509;"Tikslinės lėšos Vilniaus vaikų socialinės globos namų „Gilė“ išlaikymui";Y;N;19-MAY-20;19-MAY-20
 6000510;"Fabijoniškių pensiono išlaikymas (Tarpusavio atsiskaitymai)";Y;N;20-NOV-07;27-DEC-19
 6000511;"VšĮ Vilniaus miesto klinikinės ligoninės medicininės įrangos įsigijimas (Savivaldybės biudžeto lėšos)";Y;N;30-SEP-14;30-SEP-14
 6000512;"MMA didinimui";Y;N;26-OCT-15;02-JUN-17
@@ -3604,6 +3614,7 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 6000566;"Savižudybių prevencijos prioritetų nustatymas, savižudybių prevencijos priemonių ir joms įgyvendinti reikiamo finansavimo planavimas (LRV prioritetas)";Y;N;17-JAN-19;17-JAN-19
 6000567;"Projekto „Sveikos gyvensenos skatinimas ir moksleivių sveikatos raštingumo ugdymas Vilniaus mieste“ įgyvendinimas (ES)";Y;N;17-JAN-19;17-JAN-19
 6000568;"Projekto „Sveikos gyvensenos skatinimas ir moksleivių sveikatos raštingumo ugdymas Vilniaus mieste“ įgyvendinimas (ES lėšų likučiai)";Y;N;27-FEB-20;27-FEB-20
+6000569;"Tikslinės lėšos Vilniaus sutrikusio vystymosi kūdikių namų - pagalbos centro „Šeimos slėnis“ dienos socialinės globos centro išlaikymui";Y;N;19-MAY-20;19-MAY-20
 6000570;"Pensionato ""Vilties namai"" specialioji programa";Y;N;20-NOV-07;20-SEP-13
 6000580;"Fabijoniškių pensiono specialioji programa";Y;N;20-NOV-07;01-MAR-12
 6000590;"Vilniaus miesto motinos ir vaiko pensiono specialioji programa";Y;N;20-NOV-07;20-SEP-13
@@ -3613,6 +3624,7 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 6000630;"VšĮ Markučių  dienos veiklos centro finansavimas (Departamentas)";Y;N;20-NOV-07;27-DEC-19
 6000640;"VšĮ Vyrų krizių ir informacijos centro finansavimas (Departamentas)";Y;N;20-NOV-07;27-DEC-19
 6000650;"VšĮ Vilniaus psichosocialinės reabilitacijos centro finansavimas (Departamentas)";Y;N;20-NOV-07;27-DEC-19
+6000659;"Tikslinės lėšos VšĮ mokymo centro „Mes esame“ finansavimui";Y;N;19-MAY-20;19-MAY-20
 6000660;"Nevalstybinių organizacijų vaikų dienos centrų finansavimas (Departamentas)";Y;N;20-NOV-07;10-OCT-18
 6000661;"Intensyvios terapijos (korekcijos) centro emocijų ir elgesio sutrikimų turintiems vaikams įkūrimas (Svajonių g. 56)";Y;N;03-NOV-15;29-FEB-16
 6000662;"Nakvynės namų A. Kojelavičiaus g. 50 rekonstrukcija";Y;N;26-FEB-16;26-FEB-16
