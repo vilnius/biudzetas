@@ -1856,6 +1856,8 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 4000519;"Trakų Vokės dvaro sodybos rūmų tvarkybos darbai (Skolintos)";Y;N;20-JUN-19;20-JUN-19
 4000520;"Bibliotekų išlaikymas ir jų darbo organizavimas";Y;N;20-NOV-07;30-SEP-09
 4000521;"Bibliotekų išlaikymas ir jų darbo organizavimas (be nuomos)";Y;N;11-JUL-08;06-SEP-12
+4000522;"Trakų Vokės dvaro sodybos rūmų tvarkybos darbai (2M16)";Y;N;27-MAY-20;27-MAY-20
+4000523;"Pagalbos kultūros sektoriui nukentėjusiam nuo COVID-19 pandemijos programa";Y;N;27-MAY-20;27-MAY-20
 4000530;"Papildomai gautos lėšos nuomojant patalpas bibliotekose";Y;N;20-NOV-07;07-SEP-12
 4000540;Nenaudojama;Y;N;20-NOV-07;14-FEB-13
 4000541;"Vilniaus atminties kultūros puoselėjimas";Y;N;09-FEB-17;09-FEB-17
@@ -2016,6 +2018,7 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 4000728;"Dotacija VšĮ Vilniaus miesto muziejui";Y;N;14-FEB-20;14-FEB-20
 4000729;"Medinės architektūros paveldo muziejaus sukūrimas";Y;N;14-FEB-20;14-FEB-20
 4000730;"Dotacija VšĮ Vilniaus miesto operai";Y;N;14-FEB-20;14-FEB-20
+4000731;"Vilniaus miesto muziejaus remontas";Y;N;27-MAY-20;27-MAY-20
 4000737;"Vilniaus miesto savivaldybės literatūrinio A. Puškino muziejus pastato, esančio Subačiaus g. 124, Vilniuje, Šv. Varvaros  koplyčios tvarkybos darbai (spec. tikslinė dotacija)";Y;N;03-APR-15;03-APR-15
 4000739;"Vilniaus miesto savivaldybės literatūrinio A. Puškino muziejus pastato, esančio Subačiaus g. 124, Vilniuje, Šv. Varvaros  koplyčios durų tvarkytos darbai (spec. tikslinė dotacija)";Y;N;05-FEB-14;05-FEB-14
 4000740;"Literatūrinio A. Puškino muziejaus Vilniuje, Subačiaus g. 124, stogo rekonstrukcija (lėšų likučiai iš SB)";Y;N;06-NOV-13;06-NOV-13
@@ -3459,6 +3462,7 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 6000098;"Kompleksinės paslaugos šeimai Vilniaus mieste (ES) lėšų likučiai";Y;N;11-FEB-19;27-DEC-19
 6000099;"VšĮ Vilniaus miesto klinikinės ligoninės operacinių, reanimacijos ir hemodializės bloko Antakalnio g. 57, Vilniuje, statyba ir įrengimas (SB)";Y;N;11-FEB-19;11-FEB-19
 6000100;"Laidojimo pašalpos mirusiojo artimiesiems (Socialinės paramos centras)";Y;N;20-NOV-07;27-DEC-19
+6000101;"Tikslinės lėšos Verkių specialiojoje mokykloje-daugiafunkcinio centro dienos socialinės globos skyriaus išlaikymui";Y;N;28-MAY-20;28-MAY-20
 6000110;"Socialinės priežiūros socialinės rizikos šeimoms finansavimas iš specialių tikslinių dotacijų (Socialinės paramos centras)";Y;N;20-NOV-07;27-DEC-19
 6000111;"Nevyriausybinių organizacijų darbas su socialinės rizikos šeimomis";Y;N;16-SEP-14;27-DEC-19
 6000120;"Socialinės pašalpos ir kompensacijos socialiai pažeidžiamiems asmenims (Departamentas)";Y;N;20-NOV-07;27-DEC-19
@@ -3474,6 +3478,7 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 6000143;"Vilniaus Antakalnio vaikų socialinės globos namų išlaikymas";Y;N;06-JAN-11;27-DEC-19
 6000144;"Vilniaus vaikų socialinės globos namų „Gilė“ išlaikymas";Y;N;06-JAN-11;01-MAR-12
 6000145;"VšĮ „Antavilių pensionatas“ finansavimas";Y;N;06-JAN-11;06-JAN-11
+6000146;"Piniginės pašalpos socialiai pažeidžiamiems asmenims (SPC)";Y;N;28-MAY-20;28-MAY-20
 6000148;"Neįgaliųjų socialinė integracija, pritaikant gyvenamąją aplinką";Y;N;04-DEC-18;27-DEC-19
 6000149;"Neįgaliųjų socialinė integracija";Y;N;26-FEB-16;10-FEB-20
 6000150;"Vienkartinė parama bei socialinės pašalpos išimties tvarka socialiai pažeidžiamiems asmenims (Departamentas)";Y;N;20-NOV-07;27-DEC-19
@@ -3542,7 +3547,7 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 6000380;"Paramos integracijai užsieniečiams, gavusiems prieglobstį, administravimas (Departamentas)";Y;N;20-NOV-07;27-SEP-12
 6000381;"Skaitmeninės televizijos priėmimo įrangai įsigyti, kompensavimo mažas pajamas gaunantiems bendrai  gyvenantiems asmenims ir vieniems gyvenantiems asmenims administravimas  (LRV 2010-01-20 nutarimas Nr. 81)";Y;N;27-SEP-12;27-SEP-12
 6000390;"Dienos centro ""Šviesa"" išlaikymas (Savivaldybės lėšos)";Y;N;20-NOV-07;27-DEC-19
-6000391;"Tikslinės lėšos dienos centro „Šviesa“ išlaikymui";Y;N;19-MAY-20;19-MAY-20
+6000391;"Tikslinės lėšos Vilties specialiosios mokyklos-daugiafunkcinio centro dienos socialinės globos skyriaus išlaikymui";Y;N;19-MAY-20;28-MAY-20
 6000399;"Tikslinės lėšos Vilniaus m. vaikų ir jaunimo pensiono išlaikymui";Y;N;19-MAY-20;19-MAY-20
 6000400;"Vilniaus miesto vaikų pensiono išlaikymas (Savivaldybės lėšos)";Y;N;20-NOV-07;27-DEC-19
 6000401;"Globos namų vaikams ir jaunimui, turintiems negalią, modernizavimas";Y;N;17-FEB-12;17-FEB-12
@@ -3560,6 +3565,7 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 6000441;"Tikslinės lėšos Vilniaus miesto nakvynės namų išlaikymui";Y;N;19-MAY-20;19-MAY-20
 6000450;"Kitos bendros valstybės paslaugos (Socialinės paramos centras)";Y;N;20-NOV-07;14-MAR-08
 6000460;"Socialinės paramos centro Paslaugų namuose tarnybos išlaikymas";Y;N;20-NOV-07;01-MAR-12
+6000461;"Tikslinės lėšos Socialinės paramos centro Paslaugų namuose tarnybos išlaikymui";Y;N;28-MAY-20;28-MAY-20
 6000470;"Socialinės paramos centro išlaikymas (Savivaldybės lėšos)";Y;N;20-NOV-07;27-DEC-19
 6000471;"Socialinės priežiūros socialinės rizikos šeimoms finansavimas iš savivaldybės lėšų (Socialinės paramos centras)";Y;N;14-MAR-08;14-MAR-08
 6000472;"Socialinių išmokų bei kompensacijų administravimas (Socialinės paramos centras)";Y;N;17-DEC-10;17-DEC-10
@@ -3571,6 +3577,7 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 6000500;"Pensionato ""Vilties namai"" išlaikymas (Tarpusavio atsiskaitymai)";Y;N;20-NOV-07;27-DEC-19
 6000501;"MMA didinimui ir darbo apmokėjimo įstatymui įgyvendinti";Y;N;26-OCT-15;02-JUN-17
 6000502;"Tikslinės lėšos Socialinės paramos centro išlaikymui";Y;N;19-MAY-20;19-MAY-20
+6000503;"Projekto „Socialinės paramos prieinamumo didinimas“ įgyvendinimas SPC";Y;N;28-MAY-20;28-MAY-20
 6000508;"Tikslinės lėšos Vilniaus Antakalnio vaikų socialinės globos namų išlaikymui";Y;N;19-MAY-20;19-MAY-20
 6000509;"Tikslinės lėšos Vilniaus vaikų socialinės globos namų „Gilė“ išlaikymui";Y;N;19-MAY-20;19-MAY-20
 6000510;"Fabijoniškių pensiono išlaikymas (Tarpusavio atsiskaitymai)";Y;N;20-NOV-07;27-DEC-19
@@ -3733,6 +3740,7 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 6000765;"Socialinio būsto plėtra (pagal ES regioninę priemonę Nr. 08.1.2-CPVA-R-408) (ES likučiai)";Y;N;19-FEB-20;19-FEB-20
 6000770;"Vilniaus priklausomybės ligų centro išlaikymas";Y;N;20-NOV-07;14-MAR-08
 6000771;"Vilniaus miesto priklausomybės ligų centro išlaikymas (Valstybės biudžetas)";Y;N;17-APR-12;17-APR-12
+6000773;"Slaugos ir palaikomojo gydymo paslaugoms apmokėti iki 30 d. per metus, kai terminas už kurį apmoka ligonių kasa yra pasibaigęs";Y;N;28-MAY-20;28-MAY-20
 6000774;"Specializuotos (ASSIP) pagalbos teikimas asmenims po mėginimo nusižudyti       ";Y;N;19-FEB-20;19-FEB-20
 6000775;"Skubios psichologinės pagalbos įvykio vietoje užtikrinimas     ";Y;N;19-FEB-20;19-FEB-20
 6000776;"Žemo slenksčio mobilių paslaugų teikimas Vilniaus miesto savivaldybėje ir Žemo slenksčio stacionarių paslaugų teikimas Vilniaus miesto savivaldybėje";Y;N;19-FEB-20;19-FEB-20
@@ -3817,6 +3825,7 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 6000866;"Sveikatos priežiūros įstaigų veiklų ir inovacijų, socialinių ir ugdymo paskatų bei projektų finansavimas";Y;N;24-FEB-20;24-FEB-20
 6000867;"VšĮ Naujininkų poliklinikos Salininkų ambulatorijos statyba ir įrengimas";Y;N;24-FEB-20;24-FEB-20
 6000868;"VšĮ Vilniaus miesto klinikinės ligoninės operacinių, reanimacijos ir hemodializės bloko Antakalnio g. 57, Vilniuje, statyba ir įrengimas";Y;N;24-FEB-20;24-FEB-20
+6000869;"Tikslinės lėšos vienkartinėms premijoms išmokėti";Y;N;28-MAY-20;28-MAY-20
 6000870;"VšĮ  Vilniaus miesto universitetinės ligoninės Akušerijos, naujagimių ir vaikų skyrių rekonstravimas ir modernizavimas";Y;N;14-MAR-08;30-MAR-09
 6000871;"Viešosios įstaigos Vilniaus miesto universitetinės ligoninės Akušerijos, Naujagimių ir Vaikų skyrių Vilniuje, Antakalnio g. 57, rekonstravimas ir modernizavimas";Y;N;18-FEB-10;18-FEB-10
 6000872;"VšĮ Vilniaus miesto universitetinės ligoninės rentgeno aparato įsigijimas (Savivaldybės biudžeto lėšos)";Y;N;16-MAR-11;16-MAR-11
@@ -4483,7 +4492,7 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 9B00202;"Žvėryno seniūnijos teritorijos priežiūra ir atnaujinimas";Y;Y;03-FEB-10;03-FEB-10
 9B00203;"Žvėryno seniūnijos teritorijos priežiūra ir atnaujinimas";Y;Y;03-FEB-10;03-FEB-10
 ALYTSAM;"Alytaus savivaldybės lėšos (VSPN)";Y;N;05-SEP-17;05-SEP-17
-B;Nenaudojama;Y;Y;20-NOV-07;23-JUL-09
+B;Nenaudojama;Y;Y;20-NOV-07;28-MAY-20
 B000000;Nedetalizuojama;Y;Y;10-AUG-09;10-AUG-09
 B000001;"Bendrų ekonominių ir socialinių planavimo paslaugų administravimas ir valdymas (Administracija)";Y;Y;10-AUG-09;10-AUG-09
 B000002;"Savivaldos institucijos (Taryba)";Y;Y;10-AUG-09;10-AUG-09
@@ -4609,7 +4618,7 @@ SAU2%;"2 % parama (Saulėgrąža)";Y;N;10-AUG-18;10-AUG-18
 SAUDB;"Darbo biržos ES kompensacija";Y;N;10-AUG-18;10-AUG-18
 SAUDBVL;"Darbo biržos VL kompensacija";Y;N;10-AUG-18;10-AUG-18
 SAUMPPA;"Maisto produktų parama (Saulėgrąža)";Y;N;10-AUG-18;10-AUG-18
-T;"Iš viso (suminėms sąskaitoms)";Y;Y;20-NOV-07;27-JUL-09
+T;"Iš viso (suminėms sąskaitoms)";Y;Y;20-NOV-07;28-MAY-20
 "TV SKYR";"Turto Valdymo skyrius suminė sąmata";Y;Y;14-DEC-15;14-DEC-15
 "VID APS";"Vidaus apskaitos poskyrio suminė sąmata";Y;Y;19-FEB-16;19-FEB-16
 VLN_RAJ;"Finansavimas iš Vilniaus rajono savivaldybės administracijos";Y;N;15-NOV-17;15-NOV-17
