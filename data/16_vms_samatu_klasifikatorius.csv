@@ -509,7 +509,7 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 2001005;"AD 2012-10-24 įsakymas Nr. 30-2045 „Dėl lėšų skyrimo iš Administracijos direktoriaus rezervo“ (Vilniaus Švč. Jėzaus Širdies parapijos kanceliarijos patalpų remontui atlikti)";Y;N;30-OCT-12;30-OCT-12
 2001006;"AD 2012-10-31 įsakymas Nr. 30-2175 „Dėl lėšų skyrimo iš Administracijos direktoriaus rezervo“ (Viešosios įstaigos „Žaliasis bankas“ veiklai paremti)";Y;N;12-NOV-12;12-NOV-12
 2001007;"AD 2012-12- įsakymas Nr.30-  „Dėl lėšų skyrimo iš Administracijos direktoriaus rezervo“ (Vilniaus DNSB asociacijai veiklos plėtrai ir konferencijai organizuoti)";Y;N;20-DEC-12;20-DEC-12
-2001008;"AD 2012-12-20 įsakymas Nr.30-2553 „Dėl lėšų skyrimo iš Administracijos direktoriaus rezervo“ (VšĮ „Nacionalinis verslo ir mokslo inovacijų parkas"" projektui paremti)";Y;N;20-DEC-12;27-DEC-12
+2001008;"AD 2012-12-20 įsakymas Nr.30-2553 „Dėl lėšų skyrimo iš Administracijos direktoriaus rezervo“  (VšĮ „Nacionalinis verslo ir mokslo inovacijų parkas“ projektui paremti)";Y;N;20-DEC-12;28-MAY-20
 2001009;"AD 2014-04-25 įsakymas Nr. 30-921 „Dėl lėšų skyrimo iš Administracijos direktoriaus rezervo“ (Gaisro padarytiems nuostoliams iš dalies padengti)";Y;N;29-APR-14;29-APR-14
 2B00041;"Investicinės ir verslo aplinkos tyrimų atlikimas ir kita";Y;Y;04-FEB-10;04-FEB-10
 2B00042;"Parodų ir konferencijų organizavimas ir kita";Y;Y;04-FEB-10;04-FEB-10
@@ -563,7 +563,7 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 3000180;"Butų šildymo ir kitų paslaugų išlaidoms apmokėti kai savivaldybės butai neišnuomoti";Y;N;20-NOV-07;30-APR-08
 3000190;"Gyventojams iškeldinti iš patalpų";Y;N;20-NOV-07;30-APR-08
 3000200;"VŠĮ ""Vilniaus butai"" steigimui";Y;N;20-NOV-07;08-JUL-08
-3000201;"Dėl UAB ,,Bendruva"" pertvarkymo";Y;N;08-DEC-08;08-DEC-08
+3000201;"Dėl UAB „Bendruva“ pertvarkymo";Y;N;08-DEC-08;29-MAY-20
 3000202;"VšĮ „Pal. Mykolo Sopočkos hospisas“ viešojo naudojimo objekto–hospiso funkcionalumo gerinimui";Y;N;27-JUL-18;27-JUL-18
 3000210;"Pasirengimas būsto atnaujinimo ir modernizavimo įgyvendinimui";Y;N;20-NOV-07;06-APR-09
 3000211;"Pasirengimas būsto atnaujinimo ir modernizavimo įgyvendinimui (savivaldybės biudžetas)";Y;N;04-FEB-10;04-FEB-10
@@ -675,7 +675,7 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 3000630;"Sanitarinis valymas ir aplinkos apsauga";Y;N;20-NOV-07;20-APR-11
 3000631;"Sanitarinis valymas ir aplinkos apsauga (Skolintos lėšos-skoloms mokėti)";Y;N;21-FEB-11;19-APR-11
 3000632;"Administracijos direktoriaus 2012-06-15 įsakymas Nr. 30-1211 ""Dėl lėšų skyrimo iš Administracijos direktoriaus rezervo"" (už 2012 m. atliekų tvarkymą apmokėti)";Y;N;18-JUN-12;18-JUN-12
-3000633;"Administracijos direktoriaus 2012-07-24   įsakymas Nr. 30- 1527      Dėl lėšų skyrimo iš Administracijos direktoriaus rezervo"" (2012 metais atliktiems Vilniaus miesto teritorijų priežiūros darbams apmokėti)";Y;N;24-JUL-12;24-JUL-12
+3000633;"Administracijos direktoriaus 2012-07-24   įsakymas Nr. 30- 1527 „Dėl lėšų skyrimo iš Administracijos direktoriaus rezervo“ (2012 metais atliktiems Vilniaus miesto teritorijų priežiūros darbams apmokėti)";Y;N;24-JUL-12;29-MAY-20
 3000634;"Bernardinų sodo priežiūra(savivaldybės biudžetas)";Y;N;29-JAN-14;29-JAN-14
 3000635;"Sanitarinis valymas ir aplinkos apsauga";Y;N;23-FEB-16;23-FEB-16
 3000636;"Sanitarinis valymas ir aplinkos apsauga  (Pagal taikos sutartį Savivaldybės skoliniams įsipareigojimams grąžinti (dotacijos))";Y;N;09-DEC-16;09-DEC-16
@@ -836,7 +836,7 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 3000971;"Teritorijos projektavimui ir įrengimui ties P. Vileišio gatve, Antakalnyje nuo Šilo g. iki Valakampių tilto (Privatizavimo fondo lėšos)";Y;N;07-NOV-13;07-NOV-13
 3000975;"Kalvarijų gatvės ruožui nuo P.Lukšio gatvės iki Apkasų gatvės rekonstruoti";Y;N;28-APR-16;28-APR-16
 3000978;"Varnės gatvei rekonstruoti";Y;N;28-APR-16;28-APR-16
-3000979;"Projektui ,,Pilaitės pr., Sidaronių g., Mozūriškių g. rekonstravimo bei gatvės tarp Pilaitės pr. ir Sidaronių g. Vilniuje statybos projektas"" finansuoti";Y;N;28-APR-16;28-APR-16
+3000979;"Projektui „Pilaitės pr., Sidaronių g., Mozūriškių g. rekonstravimo bei gatvės tarp Pilaitės pr. ir Sidaronių g. Vilniuje statybos projektas“ finansuoti";Y;N;28-APR-16;29-MAY-20
 3000980;"Žirnių gatvės ir Minsko plento rekonstrukcija";Y;N;20-NOV-07;30-APR-08
 3000981;"Žirnių gatvės ir Minsko plento rekonstrukcija (skolintos 50,0)";Y;N;10-APR-08;30-APR-08
 3000982;"Žirnių gatvės ir Minsko plento (iki miesto ribos) rekonstravimas (Kelių Fondas)";Y;N;23-JUL-09;23-JUL-09
@@ -940,7 +940,7 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 3001204;"Šatrijos Raganos gatvei ir Saulėtekio alėjai rekonstruoti";Y;N;19-JUN-15;19-JUN-15
 3001205;"Automobilių stovėjimo aikštelei VšĮ Vilniaus miesto klininkinės ligoninės teritorijoje, Antakalnio g. 57, Vilnius, įrengti";Y;N;19-JUN-15;30-JUN-15
 3001206;"Salotės gatvės ruožui nuo Angelavos gatvės iki Vilniaus miesto ribos tiesti";Y;N;19-JUN-15;19-JUN-15
-3001207;"Projektui ""Geležinio Vilko, Žalgirio ir Linkmenų gatvių prie žemės sklypo kad. Nr.0101-0022:267 adresu Linkmenų g.22 Vilniaus mieste rekonstravimas"" finansuoti";Y;N;19-JUN-15;30-JUN-15
+3001207;"Projektui „Geležinio Vilko, Žalgirio ir Linkmenų gatvių prie žemės sklypo kad. Nr.0101-0022:267 adresu Linkmenų g.22 Vilniaus mieste rekonstravimas“ finansuoti";Y;N;19-JUN-15;29-MAY-20
 3001210;"Ašmenos g.8 pastato rekonstrukcijos projekto rengimas ir rekonstrukcija (Savivaldybės biudžetas)";Y;N;20-NOV-07;30-MAR-09
 3001211;"Ašmenos g.8 pastato rekonstrukcijos projekto rengimas ir rekonstrukcija (Privatizavimo fondas)";Y;N;10-APR-08;03-APR-09
 3001212;"Ašmenos g.8 pastato rekonstrukcijos projekto rengimas ir rekonstrukcija (Skolintos lėšos)";Y;N;10-APR-08;30-APR-08
@@ -1961,7 +1961,7 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 4000671;"VIP Naujosios Vilnios kultūros centro rekonstrukcija ir modernizvimas";Y;N;18-JUN-08;11-MAY-09
 4000672;"Lietuvos energetikos muziejaus pertvarkymas į Lietuvos technikos muziejų, pritaikant kultūros ir istosijos paveldo objektą-pirmosios Vilniaus elektrinės patalpas viešiesiems turizmo poreikiams";Y;N;14-MAR-08;24-FEB-10
 4000673;"VšĮ""Menų spaustuvė pastatų komplekso(Šiltadaržio g.6) rekonstrukcija ir priklausančių pastatų tvarkymas";Y;N;14-MAR-08;22-MAR-11
-4000674;"VšĮ""Menų spaustuvė pastatų komplekso interjeras,įranga ir įrengimas";Y;N;23-JUL-08;23-JUL-08
+4000674;"VšĮ""Menų spaustuvė pastatų komplekso interjeras,įranga ir įrengimas";Y;N;23-JUL-08;29-MAY-20
 4000675;"Remonto darbų atlikimas,materialiojo ir nematerialiojo turto įsigijimas Vilniaus miesto centrinėje bibliotekoje ir jos filialuose";Y;N;23-JUL-08;26-MAR-09
 4000676;"VšĮ""Menų spaustuvė pastatų komplekso(Šiltadaržio g.6) rekonstrukcija ir priklausančių pastatų tvarkymas";Y;N;23-JUL-08;27-MAR-09
 4000677;"Dotacija VšĮ ""Jono Meko vizualinių menų centras""";Y;N;08-JUN-09;08-JUN-09
@@ -2098,7 +2098,7 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 4000818;"Administracijos direktoriaus 2010-07-22 įsakymas Nr. 30-1571 „Dėl lėšų skyrimo iš Administracijos direktoriaus rezervo“ (M.Daukšos vid. m. – vertikalioms žaliuzėms įsigyti)";Y;N;12-AUG-10;12-AUG-10
 4000819;"Administracijos direktoriaus 2010-07-22 įsakymas Nr. 30-1571";Y;N;12-AUG-10;12-AUG-10
 4000820;"Administracijos direktoriaus 2010-08-26 įsakymas Nr. 30-1661 „Dėl lėšų skyrimo iš Administracijos direktoriaus rezervo“ (Jono Pauliaus II pagr. m. - lietaus nuotekų vamzdžiams suremontuoti).	";Y;N;06-SEP-10;06-SEP-10
-4000821;"AD 2010-08-27 įsakymas Nr. 30-1665 „Dėl lėšų skyrimo iš Administracijos direktoriaus rezervo“ ir  AD 2010-09-20 įsakymas Nr. 30-1759 „Dėl lėšų skyrimo iš Administracijos direktoriaus rezervo“ pakeitimo"" (Verkių spec.m.stogo dangai pakeisti)";Y;N;06-SEP-10;01-OCT-10
+4000821;"AD 2010-08-27 įsakymas Nr. 30-1665 „Dėl lėšų skyrimo iš Administracijos direktoriaus rezervo“ ir  AD 2010-09-20 įsakymas Nr. 30-1759 „Dėl lėšų skyrimo iš Administracijos direktoriaus rezervo“ pakeitimo (Verkių spec.m.stogo dangai pakeisti)";Y;N;06-SEP-10;29-MAY-20
 4000822;"Administracijos direktoriaus 2010-09-21 įsakymas Nr. 30-1760 „Dėl lėšų skyrimo iš Administracijos direktoriaus rezervo“ p. 1.1-1.2 (Lietuvos liberaliam jaunimui – Vasaros mokyklos išlaidoms; Lietuvos jaunųjų gamtininkų centrui)";Y;N;23-SEP-10;23-SEP-10
 4000823;"Administracijos direktoriaus 2010-09-21 įsakymas Nr. 30-1760„Dėl lėšų skyrimo iš Administracijos direktoriaus rezervo“ p. 1.3 (nuotekoms išvalyti ir kanalizacijos remontui)";Y;N;23-SEP-10;23-SEP-10
 4000824;"Administracijos direktoriaus 2010-09-21 įsakymas Nr. 30-1760 „Dėl lėšų skyrimo iš Administracijos direktoriaus rezervo“ p.1.4 (multimedijos projektoriui įsigyti)";Y;N;22-SEP-10;22-SEP-10
@@ -2970,7 +2970,7 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 4018543;"Vilniaus „Genio“ progimnazijos remontas";Y;N;29-JUN-17;29-JUN-17
 4018545;"Vilniaus lopšelio-darželio „Ąžuolas“, Žirmūnų g. 32, ugdymo aplinkos modernizavimas (skolintos lėšos)";Y;N;09-FEB-15;09-FEB-15
 4018546;"Vilniaus lopšelio-darželio „Kodėlčiukas“ remontas (SB)";Y;N;29-APR-16;29-APR-16
-4018550;"Vilniaus lopšelio-darželio ""Geniukų kalvė“ remontas (Paramos lėšos)";Y;N;06-FEB-15;06-FEB-15
+4018550;"Vilniaus lopšelio-darželio „Geniukų kalvė“ remontas (Paramos lėšos)";Y;N;06-FEB-15;29-MAY-20
 4018551;"Vilniaus „Vilnios“ pagrindinė mokykla, Palydovo g. 29 A, Vilnius (modernizavimas, SB lėšos)";Y;N;08-AUG-17;17-AUG-17
 4018552;"Vilniaus Abraomo Kulviečio klasikinė gimnazija, Gedvydžių g. 8, Vilnius (modernizavimas, SB lėšos)";Y;N;08-AUG-17;17-AUG-17
 4018553;"Vilniaus Sausio 13 – osios mokykla, Architektų g. 166, Vilnius (modernizavimas, SB lėšos)";Y;N;08-AUG-17;17-AUG-17
@@ -3198,9 +3198,9 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 4B00705;"Konferencijų turizmo galimybių Vilniaus mieste ir Vilniaus apskrityje  plėtra ir rinkodara";Y;Y;23-JUL-09;23-JUL-09
 4B00750;"Administracijos direktoriaus 2009-03-26 d. įsakymas Nr. 30-548 „Dėl lėšų skyrimo iš administracijos direktoriaus rezervo“ (Naujos Vilnios moksleivių kūrybos namams, darbščiųjų rankų būrelio veiklai)";Y;Y;23-JUL-09;23-JUL-09
 4B00751;"Administracijos direktoriaus 2009-04-03 d. įsakymas Nr. 30-610 „Dėl lėšų skyrimo iš administracijos direktoriaus rezervo“ (VšĮ Grigiškių vaikų dienos centras „Grijos vaikai“, veiklai paremti)";Y;Y;23-JUL-09;23-JUL-09
-4B00752;"""Administracijos direktoriaus 2009-04-03 d. įsakymas Nr. 30-610 „Dėl lėšų skyrimo iš administracijos direktoriaus rezervo“";Y;Y;23-JUL-09;23-JUL-09
-4B00753;"""Administracijos direktoriaus 2009-04-03 d. įsakymas Nr. 30-610 „Dėl lėšų skyrimo iš administracijos direktoriaus rezervo“";Y;Y;23-JUL-09;23-JUL-09
-4B00754;"""Administracijos direktoriaus 2009-04-17 d. įsakymas Nr. 30-667 „Dėl lėšų skyrimo iš administracijos direktoriaus rezervo“";Y;Y;23-JUL-09;23-JUL-09
+4B00752;"Administracijos direktoriaus 2009-04-03 d. įsakymas Nr. 30-610 „Dėl lėšų skyrimo iš administracijos direktoriaus rezervo“";Y;Y;23-JUL-09;29-MAY-20
+4B00753;"Administracijos direktoriaus 2009-04-03 d. įsakymas Nr. 30-610 „Dėl lėšų skyrimo iš administracijos direktoriaus rezervo“";Y;Y;23-JUL-09;29-MAY-20
+4B00754;"Administracijos direktoriaus 2009-04-17 d. įsakymas Nr. 30-667 „Dėl lėšų skyrimo iš administracijos direktoriaus rezervo“";Y;Y;23-JUL-09;29-MAY-20
 4B00755;"2009-05-08 įsakymas Nr. 30-809 „Dėl lėšų skyrimo iš Administracijos direktoriaus rezervo“";Y;Y;23-JUL-09;23-JUL-09
 4B00756;"Administracijos direktoriaus 2009-05-25 d. įsakymas Nr. 30-902 „Dėl lėšų skyrimo iš administracijos direktoriaus rezervo“";Y;Y;15-OCT-09;15-OCT-09
 4B00757;"Administracijos direktoriaus 2009-05-25 d. įsakymas Nr. 30-902 „Dėl lėšų skyrimo iš administracijos direktoriaus rezervo“";Y;Y;15-OCT-09;15-OCT-09
@@ -3860,7 +3860,7 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 6001001;"Palaikomojo gydymo ir slaugos paslaugų kokybės gerinimas ir plėtra VšĮ Grigiškių sveikatos priežiūros centre (Valstybės biudžeto lėšos)";Y;N;15-FEB-13;15-FEB-13
 6001002;"Palaikomojo gydymo ir slaugos paslaugų kokybės gerinimas ir plėtra VšĮ Grigiškių sveikatos priežiūros centre (Europos Sąjungos lėšos)";Y;N;15-FEB-13;15-FEB-13
 6001003;"Palaikomojo gydymo ir slaugos paslaugų kokybės gerinimas ir plėtra VšĮ Grigiškių sveikatos priežiūros centre (Skolintos lėšos)";Y;N;07-JUN-13;07-JUN-13
-6001021;"SĮ ,,Gydomoji gamyba"" gamybinių patalpų pritaikymas įmonės veiklai ir administracinių patalpų rekonstrukcija (Savivaldybės privatizavimo fondo lėšos)";Y;N;30-MAR-09;30-MAR-09
+6001021;"SĮ „Gydomoji gamyba“ gamybinių patalpų pritaikymas įmonės veiklai ir administracinių patalpų rekonstrukcija (Savivaldybės privatizavimo fondo lėšos)";Y;N;30-MAR-09;29-MAY-20
 6001030;"VšĮ Vilniaus greitosios pagalbos universitetinės ligoninės šilumos punktų projektavimo ir renovacijos darbai (Savivaldybės privatizavimo fondo lėšos)";Y;N;14-MAR-08;30-MAR-09
 6001041;"VšĮ Centro poliklinikos „Krūties ir gimdos kaklelio onkologinių ligų prevencijos, ankstyvos diagnostikos ir kokybiško gydymo modelis“ (kofinansavimas Norvegijos fondui) (Savivaldybės privatizavimo fondo lėšos)";Y;N;30-MAR-09;30-MAR-09
 6001042;"„Slaugos namuose ir paliatyviosios pagalbos elektroninė paslauga“ (VšĮ Centro poliklinika) (Savivaldybės privatizavimo fondas)";Y;N;21-FEB-12;21-FEB-12
@@ -4138,7 +4138,7 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 6B00980;"VšĮ Vilniaus greitosios medicinos pagalbos stoties ir pastočių rekonstravimas bei įrangos įsigijimas (Savivaldybės privatizavimo fondo lėšos)";Y;Y;23-JUL-09;23-JUL-09
 6B00991;"VšĮ Vilniaus miesto universitetinės ligoninės Vaikų ir akušerijos- ginekologijos korpuso išorinių atitvarų ir inžinerinių sistemų rekonstrukcija (Savivaldybės privatizavimo fondo lėšos)";Y;Y;23-JUL-09;23-JUL-09
 6B01000;"VšĮ Grigiškių pirminės sveikatos priežiūros centro restruktūrizacija, renovacija ir medicininės įrangos įsigijimas (Savivaldybės privatizavimo fondo lėšos)";Y;Y;23-JUL-09;23-JUL-09
-6B01021;"SĮ ,,Gydomoji gamyba"" gamybinių patalpų pritaikymas įmonės veiklai ir administracinių patalpų rekonstrukcija (Savivaldybės privatizavimo fondo lėšos)";Y;Y;23-JUL-09;23-JUL-09
+6B01021;"SĮ „Gydomoji gamyba“ gamybinių patalpų pritaikymas įmonės veiklai ir administracinių patalpų rekonstrukcija (Savivaldybės privatizavimo fondo lėšos)";Y;Y;23-JUL-09;29-MAY-20
 6B01030;"VšĮ Vilniaus greitosios pagalbos universitetinės ligoninės šilumos punktų projektavimo ir renovacijos darbai (Savivaldybės privatizavimo fondo lėšos)";Y;Y;23-JUL-09;23-JUL-09
 6B01041;"VšĮ Centro poliklinikos „Krūties ir gimdos kaklelio onkologinių ligų prevencijos, ankstyvos diagnostikos ir kokybiško gydymo modelis“ (kofinansavimas Norvegijos fondui) (Savivaldybės privatizavimo fondo lėšos)";Y;Y;23-JUL-09;23-JUL-09
 6B01051;"VšĮ Naujininkų poliklinikos patalpų remontas (Savivaldybės privatizavimo fondo lėšos)";Y;Y;23-JUL-09;23-JUL-09
@@ -4298,6 +4298,7 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 8000305;"Viešojo transporto paslaugų kokybės gerinimas (Privatizavimo fondo lėšos)";Y;N;24-OCT-14;24-OCT-14
 8000306;"Transporto infrastruktūros vystymas (Biudžeto lėšos)";Y;N;26-JAN-15;26-JAN-15
 8000307;"Žemės išpirkimas, perėmimas Savivaldybės funkcijoms įgyvendinti";Y;N;13-FEB-17;13-FEB-17
+8000308;"Žemės išpirkimas, perėmimas Savivaldybės funkcijoms įgyvendinti (skolintos lėšos)";Y;N;29-MAY-20;29-MAY-20
 8000310;"Gardino g. 2A labdaros valgyklai išpirkti (privatizavimo fondo lėšos)";Y;N;10-FEB-14;10-FEB-14
 8000320;"Kalvarijų g. 61 išpirkimui (privatizavimo fondo lėšos)";Y;N;10-FEB-14;10-FEB-14
 8000330;"Giedraičių g. 60A išpirkimui (privatizavimo fondo lėšos)";Y;N;10-FEB-14;10-FEB-14
