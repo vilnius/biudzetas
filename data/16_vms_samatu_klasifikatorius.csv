@@ -334,7 +334,7 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 1B00048;"Kitos aplinkos teršimo mažinimo priemonės (AR)";Y;Y;23-JUL-09;23-JUL-09
 1B00052;"LR finansų ministerijos tarpusavio atsiskaitymai";Y;Y;23-JUL-09;23-JUL-09
 1B00053;"Centrinės institucijos išlaikymas. Socialinės globos teikimo asmenims su sunkia negalia paslaugos administravimas (Socialinių reikalų ir sveikatos departamentas)";Y;Y;23-JUL-09;16-OCT-09
-1B00054;;Y;Y;28-JUL-09;28-JUL-09
+1B00054;;Y;Y;28-JUL-09;17-JUN-20
 1B00055;"Bendri darbo reikalai, darbo politikos formavimas ir įgyvendinimas (Viešųjų darbų administravimas)";Y;Y;23-JUL-09;23-JUL-09
 1B00057;"Centrinės institucijos išlaikymas. Socialinės paramos mokiniams administravimas (Kultūros ir ugdymo departamentas)";Y;Y;23-JUL-09;23-JUL-09
 1B00061;"LR finansų ministerijos tarpusavio atsiskaitymai";Y;Y;23-JUL-09;23-JUL-09
@@ -909,7 +909,7 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 3001101;"Vilniaus lietaus nuotekų tinklų specialiojo plano parengimas, tinklų plėtra ir rekonstrukcija (Paramos lėšos socialinės infrastruktūros plėtrai)";Y;N;20-FEB-12;20-FEB-12
 3001102;"Vilniaus lietaus nuotekų tinklų specialiojo plano parengimas, tinklų plėtra ir rekonstrukcija (Privatizavimo fondo lėšos)";Y;N;07-NOV-13;07-NOV-13
 3001103;"Vilniaus lietaus nuotekų tinklų plėtra, rekonstrukcija ir inventorizavimas";Y;N;14-FEB-18;27-DEC-19
-3001110;"Dviračių ir kito bevariklio transporto takų ir kelių,, įrengimas ir priežiūra (AARSP)";Y;N;31-JUL-14;31-JUL-14
+3001110;"Dviračių ir kito bevariklio transporto takų ir kelių įrengimas ir priežiūra (AARSP)";Y;N;31-JUL-14;17-JUN-20
 3001111;"Treniruoklių, įrengtų viešose erdvėse, remontas ir naujų įrengimas";Y;N;31-JUL-14;31-JUL-14
 3001112;"Treniruoklių, įrengtų viešose erdvėse, remontas ir naujų įrengimas";Y;N;27-JAN-15;27-JAN-15
 3001120;"Butų pirkimas grįžtantiems tremtiniams ir politiniams kaliniams (spec.valstybės programa)";Y;N;20-NOV-07;30-APR-08
@@ -946,7 +946,7 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 3001210;"Ašmenos g.8 pastato rekonstrukcijos projekto rengimas ir rekonstrukcija (Savivaldybės biudžetas)";Y;N;20-NOV-07;30-MAR-09
 3001211;"Ašmenos g.8 pastato rekonstrukcijos projekto rengimas ir rekonstrukcija (Privatizavimo fondas)";Y;N;10-APR-08;03-APR-09
 3001212;"Ašmenos g.8 pastato rekonstrukcijos projekto rengimas ir rekonstrukcija (Skolintos lėšos)";Y;N;10-APR-08;30-APR-08
-3001215;"S.Lozoraičio g. ruožui nuo Džiaugsmo g. iki S.Šilingo g. tiesti - projekto ,,Susisiekimo komunikacijos ir inžineriniai tinklai Džiaugsmo g. kvartale (sklypai nuo Nr.96-iki Nr. 110 ir nuo Nr. 131 iki Nr. 219) Vilniaus m. '' daliai finansuoti";Y;N;28-APR-16;28-APR-16
+3001215;"S.Lozoraičio g. ruožui nuo Džiaugsmo g. iki S.Šilingo g. tiesti - projekto  „Susisiekimo komunikacijos ir inžineriniai tinklai Džiaugsmo g. kvartale (sklypai nuo Nr.96-iki Nr. 110 ir nuo Nr. 131 iki Nr. 219) Vilniaus m.“ daliai finansuoti";Y;N;28-APR-16;17-JUN-20
 3001217;"Lukiškių aikštės sutvarkymui (61 šalt.)";Y;N;27-JUL-18;27-JUL-18
 3001218;"Lukiškių aikštės Vilniuje sutvarkymui";Y;N;28-APR-16;01-DEC-17
 3001219;"Lukiškių aikštės fontano įrengimas";Y;N;31-JAN-17;31-JAN-17
@@ -1651,7 +1651,7 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 4000301;"Pedagoginės psichologinės tarnybos finansavimas (Psichologų darbo užmokesčiui finansuoti)";Y;N;19-DEC-17;19-DEC-17
 4000302;"Vilniaus Jono Basanavičiaus progimnazijos (adresu S. Konarskio g. 27, Vilnius) efektyvumo didinimas, vidaus remonto darbų įsigijimas (SB)";Y;N;16-APR-18;16-APR-18
 4000303;"Vilniaus Žemynos progimnazijos (adresu Žemynos g. 14, Vilnius) efektyvumo didinimas, vidaus remonto darbų įsigijimas (SB)";Y;N;16-APR-18;16-APR-18
-4000304;"Vilniaus „Ąžuolyno“ progimnazijos (adresu Architektų g. 68, Vilnius) efektyvumo didinimas, vidaus remonto darbų įsigijimas“ (SB)";Y;N;16-APR-18;16-APR-18
+4000304;"Vilniaus „Ąžuolyno“ progimnazijos (adresu Architektų g. 68, Vilnius) efektyvumo didinimas, vidaus remonto darbų įsigijimas (SB)";Y;N;16-APR-18;17-JUN-20
 4000305;"Vilniaus Jono Basanavičiaus gimnazijos (adresu S. Konarskio g. 34, Vilnius) efektyvumo didinimas, vidaus remonto darbų įsigijimas (SB)";Y;N;16-APR-18;16-APR-18
 4000306;"Vilniaus Aleksandro Puškino mokyklos (adresu Gabijos g. 8, Vilnius) efektyvumo didinimas, vidaus remonto darbų įsigijimas (SB)";Y;N;16-APR-18;16-APR-18
 4000307;"Vilniaus Lazdynų mokyklos (adresu Žėručio g. 4, Vilnius) efektyvumo didinimas, vidaus remonto darbų įsigijimas (SB)";Y;N;16-APR-18;16-APR-18
@@ -1670,7 +1670,7 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 4000320;Nenaudojama;Y;N;20-NOV-07;16-APR-18
 4000321;"Vilniaus Jono Basanavičiaus progimnazijos (adresu S. Konarskio g. 27, Vilnius) efektyvumo didinimas, vidaus remonto darbų įsigijimas (ES)";Y;N;16-APR-18;27-DEC-19
 4000322;"Vilniaus Žemynos progimnazijos (adresu Žemynos g. 14, Vilnius) efektyvumo didinimas, vidaus remonto darbų įsigijimas (ES)";Y;N;16-APR-18;16-APR-18
-4000323;"Vilniaus „Ąžuolyno“ progimnazijos (adresu Architektų g. 68, Vilnius) efektyvumo didinimas, vidaus remonto darbų įsigijimas“ (ES)";Y;N;16-APR-18;16-APR-18
+4000323;"Vilniaus „Ąžuolyno“ progimnazijos (adresu Architektų g. 68, Vilnius) efektyvumo didinimas, vidaus remonto darbų įsigijimas (ES)";Y;N;16-APR-18;17-JUN-20
 4000324;"Vilniaus Jono Basanavičiaus gimnazijos (adresu S. Konarskio g. 34, Vilnius) efektyvumo didinimas, vidaus remonto darbų įsigijimas (ES)";Y;N;16-APR-18;16-APR-18
 4000325;"Vilniaus Aleksandro Puškino mokyklos (adresu Gabijos g. 8, Vilnius) efektyvumo didinimas, vidaus remonto darbų įsigijimas (ES)";Y;N;16-APR-18;16-APR-18
 4000326;"Vilniaus Lazdynų mokyklos (adresu Žėručio g. 4, Vilnius) efektyvumo didinimas, vidaus remonto darbų įsigijimas (ES)";Y;N;16-APR-18;16-APR-18
@@ -1717,7 +1717,7 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 4000367;"Išlaidoms, susijusioms su minimalios algos padidėjimu decentralizuotose pradinėse švietimo įstaigose";Y;N;29-OCT-15;29-OCT-15
 4000368;"Išlaidoms, susijusioms su minimalios algos padidėjimu centralizuotose pagrindinio tipo švietimo įstaigose";Y;N;29-OCT-15;29-OCT-15
 4000369;"Išlaidoms, susijusioms su minimalios algos padidėjimu decentralizuotose pagrindinio tipo švietimo įstaigose";Y;N;29-OCT-15;29-OCT-15
-400037%;;Y;N;12-JUN-17;12-JUN-17
+400037%;;Y;N;12-JUN-17;17-JUN-20
 4000370;"Nuolatinis pedagogų, vadovų ir ugdymo procese dalyvaujančių specialistų profesinis tobulinimasis";Y;N;20-NOV-07;03-MAR-10
 4000371;"Išlaidoms, susijusioms su minimalios algos padidėjimu centralizuotose vidurinio tipo švietimo įstaigose";Y;N;29-OCT-15;29-OCT-15
 4000372;"Išlaidoms, susijusioms su minimalios algos padidėjimu decentralizuotose vidurinio tipo švietimo įstaigose";Y;N;29-OCT-15;29-OCT-15
@@ -1816,7 +1816,7 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 4000476;"Profesionalių sporto klubų konkursinis finansavimas (BL)";Y;N;20-FEB-19;20-FEB-19
 4000477;"Spec. lėšų likučiai sporto mokyklose (ne tėvų mokestis)";Y;N;18-FEB-16;18-FEB-16
 4000478;"Vilniaus miesto nevyriausybinių bei kitų organizacijų nekomerciniai renginiai (salių nuoma, sportas)";Y;N;19-JAN-16;19-JAN-16
-4000479;"„Vilniaus miesto sporto infrastruktūros (sporto aikštelių ir aikštynų) atnaujinimas“ galimybių studijos parengimas“ (kofinansavimo lėšos)";Y;N;16-MAY-13;16-MAY-13
+4000479;"„Vilniaus miesto sporto infrastruktūros (sporto aikštelių ir aikštynų) atnaujinimas“ galimybių studijos parengimas (kofinansavimo lėšos)";Y;N;16-MAY-13;17-JUN-20
 4000480;"Aptarnauti sveikatingumo priemones ir sporto renginius";Y;N;20-NOV-07;07-SEP-12
 4000481;"Dotacija sporto klubams";Y;N;20-FEB-12;20-FEB-12
 4000482;"Dotacija VšĮ „Krepšinio rytas“";Y;N;20-FEB-12;20-FEB-12
@@ -2588,7 +2588,7 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 4006202;"Daugiafunkcinio Lazdynų sveikatingumo centro įkūrimas (skolintos)";Y;N;07-SEP-17;27-DEC-19
 4006210;"Daugiafunkcio Lazdynų sveikatingumo centro Vilniuje techninio projekto parengimas (ŠMM)";Y;N;03-APR-15;03-APR-15
 4006211;"Daugiafunkcio Lazdynų sveikatingumo centro Vilniuje techninio projekto parengimas (PF)";Y;N;23-JUN-15;23-JUN-15
-4006300;"„Vilniaus miesto sporto infrastruktūros (sporto aikštelių ir aikštynų) atnaujinimas“ galimybių studijos parengimas“ (ES)";Y;N;25-MAR-13;25-MAR-13
+4006300;"„Vilniaus miesto sporto infrastruktūros (sporto aikštelių ir aikštynų) atnaujinimas“ galimybių studijos parengimas (ES)";Y;N;25-MAR-13;17-JUN-20
 4006301;"Sporto mokyklų centralizuoti asignavimai (SB)";Y;N;03-FEB-17;03-FEB-17
 4006302;"Neformalaus ugdymo įstaigų veiklos finansavimas ir plėtra (Vilniaus moksleivių sveikatos centas)";Y;N;31-DEC-19;31-DEC-19
 4006303;"Tėvų mokesčio surinkimas neformaliojo švietimo įstaigose (sport.)";Y;N;31-DEC-19;31-DEC-19
@@ -2909,7 +2909,7 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 4018237;"Vilniaus Jono Basanavičiaus progimnazijos (adresu S. Konarskio g. 27, Vilnius) efektyvumo didinimas, vidaus remonto darbų įsigijimas (69 šalt.)";Y;N;07-JAN-19;07-JAN-19
 4018238;"Vilniaus Jeruzalės progimnazijos (adresu Mokyklos g. 9, Vilnius) efektyvumo didinimas, vidaus remonto darbų įsigijimas (69 šalt.)";Y;N;07-JAN-19;07-JAN-19
 4018239;"Vilniaus Aleksandro Puškino mokyklos (adresu Gabijos g. 8, Vilnius) efektyvumo didinimas, vidaus remonto darbų įsigijimas (69 šalt.)";Y;N;07-JAN-19;07-JAN-19
-4018240;"Vilniaus „Ąžuolyno“ progimnazijos (adresu Architektų g. 68, Vilnius) efektyvumo didinimas, vidaus remonto darbų įsigijimas“ (69 šalt.)";Y;N;07-JAN-19;07-JAN-19
+4018240;"Vilniaus „Ąžuolyno“ progimnazijos (adresu Architektų g. 68, Vilnius) efektyvumo didinimas, vidaus remonto darbų įsigijimas (69 šalt.)";Y;N;07-JAN-19;17-JUN-20
 4018241;"Vilniaus Jono Basanavičiaus gimnazijos (adresu S. Konarskio g. 34, Vilnius) efektyvumo didinimas, vidaus remonto darbų įsigijimas (69 šalt.)";Y;N;07-JAN-19;07-JAN-19
 4018242;"Chorinio dainavimo mokyklos „Liepaitės“ (adresu A. Skorinos g. 14, Vilnius) vidaus remonto darbų įsigijimas (69 šalt.)";Y;N;07-JAN-19;07-JAN-19
 4018243;"Grigiškių meno mokyklos (adresu Pašto g. 10, Vilnius) vidaus remonto darbų įsigijimas (69 šalt.)";Y;N;07-JAN-19;07-JAN-19
@@ -3228,12 +3228,12 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 4B00767;"Administracijos direktoriaus 2009-07-31 d. įsakymas Nr. 30-1370 „Dėl lėšų skyrimo iš administracijos direktoriaus rezervo“ (Vilniaus universitetui, vadovėliui išleisti)";Y;Y;16-OCT-09;16-OCT-09
 4B00768;"Administracijos direktoriaus 2009-10-05 d. įsakymas Nr. 30-1711 „Dėl lėšų skyrimo iš administracijos direktoriaus rezervo“ (Jeruzalės vidurinė m-kla – mokykliniams baldams, Žemynos pagrindinė m-kla – suolams, grindų dangai)";Y;Y;16-OCT-09;16-OCT-09
 4B00769;"Administracijos direktoriaus 2009-10-05 d. įsakymas Nr. 30-1711 „Dėl lėšų skyrimo iš administracijos direktoriaus rezervo“ (Lietuvos liberaliam jaunimui internetinei svetainei sukurti)";Y;Y;16-OCT-09;16-OCT-09
-4B00770;"Administracijos direktoriaus 2009-10-05 d. įsakymas Nr. 30-1711 „Dėl lėšų skyrimo iš administracijos direktoriaus rezervo“ (L/D darželis „Spragtukas“ – baldams, grindų dangai, L/d „Karuselė - žaislams)";Y;Y;16-OCT-09;16-OCT-09
+4B00770;"Administracijos direktoriaus 2009-10-05 d. įsakymas Nr. 30-1711 „Dėl lėšų skyrimo iš administracijos direktoriaus rezervo“ (L/D darželis „Spragtukas“ – baldams, grindų dangai, L/d „Karuselė“ - žaislams)";Y;Y;16-OCT-09;17-JUN-20
 4B00771;"Administracijos direktoriaus 2009-10-05 d. įsakymas Nr. 30-1711 „Dėl lėšų skyrimo iš administracijos direktoriaus rezervo“ (Sietuvos vidurinė m-kla remonto darbams)";Y;Y;16-OCT-09;16-OCT-09
 4B00772;"Administracijos direktoriaus 2009-10-05 d. įsakymas Nr. 30-1711 „Dėl lėšų skyrimo iš administracijos direktoriaus rezervo“ (Vilniaus B.Dvariono muzikos m-klos chorui išvykai į tarptautinį konkursą Turkijoje)";Y;Y;16-OCT-09;16-OCT-09
 4B00773;"Administracijos direktoriaus 2009-10-05 d. įsakymas Nr. 30-1711 „Dėl lėšų skyrimo iš administracijos direktoriaus rezervo“ (Lazdynų vid. m-kla žaliuzėm pirkti)";Y;Y;16-OCT-09;16-OCT-09
 4B00774;"Administracijos direktoriaus 2009-10-05 d. įsakymas Nr. 30-1711 „Dėl lėšų skyrimo iš administracijos direktoriaus rezervo“	(Žirmūnų gimnazijai, muzikos instrumentui įsigyti)";Y;Y;16-OCT-09;16-OCT-09
-4B00775;"Administracijos direktoriaus 2009-10-26 d. įsakymas Nr. 30-1871 „Dėl lėšų skyrimo iš administracijos direktoriaus rezervo 	(Liepkalnio pagr.m-kla – vadovėliams ir komp.technikai įsigyti, M.Daukšos vid.m-kla";Y;Y;29-OCT-09;29-OCT-09
+4B00775;"Administracijos direktoriaus 2009-10-26 d. įsakymas Nr. 30-1871 „Dėl lėšų skyrimo iš administracijos direktoriaus rezervo“ (Liepkalnio pagr.m-kla – vadovėliams ir komp.technikai įsigyti, M.Daukšos vid.m-kla)";Y;Y;29-OCT-09;17-JUN-20
 4B00776;"Administracijos direktoriaus 2009-10-26 d. įsakymas Nr. 30-1871 „Dėl lėšų skyrimo iš administracijos direktoriaus rezervo“	(Vilniaus „Šaltinio“ pagrindinei mokyklai)";Y;Y;29-OCT-09;29-OCT-09
 4B00777;"Administracijos direktoriaus 2009-10-26 d. įsakymas Nr. 30-1871 „Dėl lėšų skyrimo iš administracijos direktoriaus rezervo“ (Studentų organizacijai „OIKOS Vilnius“)";Y;Y;29-OCT-09;29-OCT-09
 4B00778;"Administracijos direktoriaus 2009-11-13 d. įsakymas Nr. 30-2002 „Dėl lėšų skyrimo iš administracijos direktoriaus rezervo“ 	(Antakalnio vid. - avarijos pasekmėm likviduoti, Žvėryno gimnazija – ventiliacinei sistemai sutvarkyti)";Y;Y;18-NOV-09;18-NOV-09
@@ -3385,7 +3385,7 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 5000301;"Programa „Kuriu Vilnių“";Y;N;17-AUG-17;17-AUG-17
 5000302;"Programos INTERREG BALTIC SEA REGION projektą „CMM“";Y;N;26-OCT-17;26-OCT-17
 5000303;"Architektūrinių konkursų organizavimas (SB)";Y;N;04-JAN-18;04-JAN-18
-5000304;"ES programos HORIZON 2020 projektas „ROCK";Y;N;15-FEB-18;27-DEC-19
+5000304;"ES programos HORIZON 2020 projektas „ROCK“";Y;N;15-FEB-18;17-JUN-20
 5000305;"ES programos URBACT III projektas „RU-RBAN“ (SB)";Y;N;23-APR-18;30-JUL-18
 5000306;"ES programos HORIZON 2020 projektas „CIVITAS SUMPs-Up“ (SB)";Y;N;15-MAY-19;15-MAY-19
 5000307;"ES programos HORIZON 2020 projektas „CIVITAS SUMPs-Up“ (ES)";Y;N;15-MAY-19;15-MAY-19
@@ -3831,7 +3831,7 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 6000859;"VšĮ Šeškinės poliklinikos medicinos įrangos atnaujinimas (Valstybės biudžeto lėšos)";Y;N;15-MAR-11;15-MAR-11
 6000860;"Viešosios įstaigos Šeškinės poliklinikos pastato Vilniuje, Šeškinės g. 24, išorinių atitvarų rekonstravimas";Y;N;20-NOV-07;24-APR-08
 6000861;"Medicinos technikos ir įrangos viešojoje įstaigoje Šeškinės poliklinikoje Vilniuje Šeškinės g. 24, atnaujinimas";Y;N;24-MAR-09;24-MAR-09
-6000862;"VšĮ Šeškinės poliklinikos „Vaikų ambulatorinių- konsultacijų centrų Vilniaus mieste įkūrimas siekiant pagerinti sveikatos priežiūros paslaugų prieinamumą ir kokybę (kofinansavimas Norvegijos fondui) (Savivaldybės privatizavimo fondo lėšos)";Y;N;30-MAR-09;30-MAR-09
+6000862;"VšĮ Šeškinės poliklinikos „Vaikų ambulatorinių- konsultacijų centrų Vilniaus mieste įkūrimas siekiant pagerinti sveikatos priežiūros paslaugų prieinamumą ir kokybę (kofinansavimas Norvegijos fondui)“ (Savivaldybės privatizavimo fondo lėšos)";Y;N;30-MAR-09;17-JUN-20
 6000863;"VšĮ Šeškinės poliklinikos sveikatos mokymo patalpų įrengimas (Valstybės biudžeto lėšos)";Y;N;15-MAR-11;15-MAR-11
 6000864;"Medicinos technikos ir įrangos viešojoje įstaigoje Šeškinės poliklinikoje Vilniuje, Šeškinės g. 24, atnaujinimas (Specialiosios tikslinės dotacijos lėšos)";Y;N;15-FEB-13;15-FEB-13
 6000865;"VšĮ M. Marcinkevičiaus ligoninės, Kauno g. 7, teikiamų paslaugų plėtra ir optimizavimas (stacionarinė ir paliatyvi pagalba, palaikomasis gyd. ir slauga, geriatrija, terapija, neurologija) pastatant priestatą ir įsigyjant medicininę įrangą";Y;N;19-FEB-20;19-FEB-20
@@ -3850,7 +3850,7 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 6000950;"Socialinių reikalų departamento viešųjų įstaigų reorganizacija, restruktūrizacija, renovacija ir medicininės įrangos įsigijimas (Savivaldybės privatizavimo fondo lėšos)";Y;N;14-MAR-08;14-MAY-09
 6000960;"VšĮ Vilkpėdės ligoninės C korpuso priestato statyba prie galerijos tarp korpusų A ir C su lauko inžineriniais tinklais ir techninio projekto paruošimu bei įrangos įsigijimas (Savivaldybės privatizavimo fondo lėšos)";Y;N;14-MAR-08;14-MAY-09
 6000970;"VšĮ Antakalnio poliklinikos laboratorijos patalpų rekonstrukcija ir įrangos įsigjimas (Savivaldybės privatizavimo fondo lėšos)";Y;N;14-MAR-08;30-MAR-09
-6000971;"VšĮ „Antakalnio poliklinika“ ambulatorinės reabilitacijos plėtra ir renovacija“ (Savivaldybės privatizavimo fondo lėšos)";Y;N;27-MAR-09;27-MAR-09
+6000971;"VšĮ „Antakalnio poliklinika“ ambulatorinės reabilitacijos plėtra ir renovacija (Savivaldybės privatizavimo fondo lėšos)";Y;N;27-MAR-09;17-JUN-20
 6000972;"Sveikatos priežiūros įstaigų reorganizacija, restruktūrizacija, renovacija ir medicininės įrangos įsigijimas (skolos VVK) (dotacijos iš FINMIN skoloms grąžinti)";Y;N;08-DEC-16;08-DEC-16
 6000980;"VšĮ Greitosios medicinos pagalbos stoties ir pastočių  rekonstravimas bei įrangos įsigijimas (Savivaldybės privatizavimo fondo lėšos)";Y;N;14-MAR-08;30-MAR-09
 6000981;"VšĮ Lazdynų poliklinikos pastatų Erfurto g. 15, Vilniuje, išorinių atitvarų renovacija (Specialiosios tikslinės dotacijos lėšos)";Y;N;16-APR-15;16-APR-15
@@ -4267,7 +4267,7 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 8000100;"UAB ,,Lazdynų laisvalaikio centras“ įstatiniam kapitalui didinti";Y;N;02-MAR-10;02-MAR-10
 8000101;"Administracijos direktoriaus 2010-03-20 įsakymas Nr. 30-563 (Sklypų R. Jankausko g. 17 ir Sietyno g. 21 įregistravimui valstybės įmonėje Registrų centras.)";Y;N;22-MAR-10;22-MAR-10
 8000102;"Administracijos direktoriaus 2010-04-20 įsakymas Nr. 30-831 (Sklypo T. Ševčenkos g. 1/Mindaugo g. 9 įregistravimui valstybės įmonėje Registrų centras.)";Y;N;20-APR-10;20-APR-10
-8000103;"Administracijos direktoriaus  2010-05-18 įsakymas Nr. 30-1128 „Dėl lėšų skyrimo (UAB „Rasų ūkis“ likvidavimas)";Y;N;19-MAY-10;19-MAY-10
+8000103;"Administracijos direktoriaus  2010-05-18 įsakymas Nr. 30-1128 „Dėl lėšų skyrimo (UAB „Rasų ūkis“ likvidavimas)“";Y;N;19-MAY-10;17-JUN-20
 8000104;"Administracijos direktoriaus 2010-05-26 įsakymas Nr. 30-1256 (Skola A. Ginaičiui ir S. Ginaitienei už žemės sklypą)";Y;N;01-JUN-10;01-JUN-10
 8000105;"Sentikių bendruomenės pastato Giedraičių g.24 remontas (Administracijos direktoriaus 2011-03-31 įsakymas Nr. 30-508)";Y;N;08-APR-11;08-APR-11
 8000106;"VšĮ ,,Jaunimo iniciatyva“ projektui ,,Verslauk“ vykdyti Administracijos direktoriaus 2012 m. spalio 24 d. įsakymas Nr. 30-2045";Y;N;12-NOV-12;12-NOV-12
