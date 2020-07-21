@@ -3108,6 +3108,7 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 4040002;"Jaunimo atvirų centrų steigimo ir veiklos finansavimas";Y;N;31-DEC-19;31-DEC-19
 4040003;"Vilniaus atvirų jaunimo centrų veiklos finansavimas";Y;N;31-DEC-19;31-DEC-19
 4040004;"Neformalaus ugdymo įstaigų veiklos finansavimas ir plėtra (SB)";Y;N;31-DEC-19;31-DEC-19
+4040005;"Tyrimų, galimybių studijų ir analizių finansavimas";Y;N;21-JUL-20;21-JUL-20
 4040020;"Tėvų mokesčio surinkimas neformaliojo švietimo įstaigose";Y;N;31-DEC-19;31-DEC-19
 4040021;"Mokamų paslaugų neformaliojo švietimo įstaigose teikimas";Y;N;31-DEC-19;31-DEC-19
 4040030;"Neformalaus ugdymo įstaigų veiklos finansavimas ir plėtra (tarpusavio atsiskaitymai)";Y;N;31-DEC-19;31-DEC-19
@@ -3518,6 +3519,8 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 6000199;"Kompensacijos socialinėms pašalpoms socialiai pažeidžiamiems asmenims (Tarpusavio atsiskaitymai, LRV 2011-08-17 nutarimas Nr. 960)";Y;N;19-AUG-11;23-AUG-11
 6000200;"LR finansų ministerijos tarpusavio atsiskaitymai dėl gaisro ir kitos stichinės nelaimės metu padarytiems nuostoliams iš dalies padengti";Y;N;20-NOV-07;25-MAR-09
 6000201;"LRV Finansų ministerijos tarpusavio atsiskaitymai dėl gaisro  ir  kitos  stichinės  nelaimės  metu padarytiems nuostoliams   iš   dalies   padengti  (LRV   2010-12-15 nutarimas Nr. 1788)";Y;N;23-DEC-10;23-DEC-10
+6000203;"Vienkartinė išmoka vaikui pandemijos padariniams mažinti (1.1.1.1.5)";Y;N;21-JUL-20;21-JUL-20
+6000204;"Vienkartinė išmoka vaikui pandemijos padariniams mažinti (1.1.1.1.1)";Y;N;21-JUL-20;21-JUL-20
 6000205;"Kompensacijos socialinėms pašalpoms socialiai pažeidžiamiems asmenims(tarpusavio atsiskaitymai-LRV 2010-11-22  nutarimas Nr.1651)";Y;N;24-NOV-10;24-NOV-10
 6000206;"Kompensacijos už išlaidas būstui šildyti socialiai pažeidžiamiems asmenims (tarpusavio atsiskaitymai – LRV 2010-11-22  nutarimas Nr.1651)";Y;N;24-NOV-10;24-NOV-10
 6000207;"Kompensacijos už išlaidas karštam vandeniui socialiai pažeidžiamiems asmenims (tarpusavio atsiskaitymai -LRV 2010-11-22 nutarimas Nr. 1651)";Y;N;24-NOV-10;24-NOV-10
