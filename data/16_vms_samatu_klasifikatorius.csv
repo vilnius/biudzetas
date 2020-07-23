@@ -242,6 +242,7 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 1100012;"Vilniaus miesto 2021-2030 metų strateginio plano parengimas";Y;N;25-FEB-20;25-FEB-20
 1100100;"Vilniaus miesto 2010-2020 metų strateginio plano parengimas (ES)";Y;N;30-NOV-11;30-NOV-11
 1100500;"Administracijos direktoriaus 2012-05-04 įsakymas Nr. 30-899, 3 p.";Y;N;07-MAY-12;07-MAY-12
+1200001;"Korupcijai atsparios aplinkos kūrimas";Y;N;23-JUL-20;23-JUL-20
 1300170;"Paskolų mokėjimas pagal grafiką (1.2.1)";Y;N;06-DEC-11;06-DEC-11
 1300171;"Paskolų ir palūkanų mokėjimas pagal grafiką (tarpusavio atsiskaitymai)";Y;N;06-DEC-11;06-DEC-11
 1300172;"Paskolų mokėjimas pagal grafiką (skolintos lėšos)";Y;N;31-OCT-13;31-OCT-13
@@ -3114,6 +3115,7 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 4040030;"Neformalaus ugdymo įstaigų veiklos finansavimas ir plėtra (tarpusavio atsiskaitymai)";Y;N;31-DEC-19;31-DEC-19
 4040031;"Papildomas lėšų gavimas nuomojant patalpas";Y;N;31-DEC-19;31-DEC-19
 4040032;"Neformaliojo vaikų švietimo 15 eurų krepšelio lėšos (ES)";Y;N;31-DEC-19;31-DEC-19
+4040033;"Neformaliojo vaikų švietimo dotacija";Y;N;23-JUL-20;23-JUL-20
 4040040;"Mokamų paslaugų teikimas neformaliojo švietimo įstaigose";Y;N;31-DEC-19;31-DEC-19
 4040041;"Tėvų mokesčio surinkimas neformaliojo švietimo įstaigose (64 šalt.)";Y;N;31-DEC-19;31-DEC-19
 4040042;"Papildomas lėšų gavimas už patalpų nuomą ugdymo įstaigose";Y;N;31-DEC-19;31-DEC-19
