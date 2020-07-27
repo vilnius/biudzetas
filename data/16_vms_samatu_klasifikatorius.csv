@@ -133,6 +133,8 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 1000133;"Seniūnaičių veiklos finansavimas";Y;N;31-DEC-19;31-DEC-19
 1000134;"Socialinių išmokų ir kompensacijų administravimas";Y;N;22-JAN-20;22-JAN-20
 1000135;"Ekstremalių situacijų likvidavimas";Y;N;19-MAR-20;19-MAR-20
+1000136;"Vienkartinės išmokos vaikams administravimas (finansavimo šaltinis 1.1.1.1.5)";Y;N;27-JUL-20;27-JUL-20
+1000137;"Vienkartinės išmokos vaikams administravimas (finansavimo šaltinis 1.1.1.1.1)";Y;N;27-JUL-20;27-JUL-20
 1000150;Nenaudojama;Y;N;20-NOV-07;13-FEB-13
 1000151;"Tėvų mokesčio surinkimas jaunimo politiką  įgyvendinančiose įstaigose";Y;N;13-FEB-13;13-FEB-13
 1000152;"Išlaidų, susijusių su minimalios algos padidėjimu, finansavimas";Y;N;07-NOV-16;07-NOV-16
@@ -228,6 +230,7 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 1010619;"Pradinių ir vidurinių mokyklų ir moksleivių e. mokymasis reagavimo į ekstremaliąsias situacijas srityje";Y;N;28-DEC-18;28-DEC-18
 1010620;"Projekto „Patirties keitimasis organizacijose tarptautinio bendradarbiavimo srityje“ įgyvendinimas";Y;N;28-MAY-19;28-MAY-19
 1010621;"Projekto „Šiaurės ir Baltijos šalių viešojo administravimo mobilumo ir tinklų programa tarp Vilniaus ir Joensuu, Kristiansando, Kristianstado ir Geteborgo“ įgyvendinimas";Y;N;26-JUN-19;26-JUN-19
+1010622;"Projekto „Nekilnojamojo turto valdymo ypatumai: nekilnojamojo turto nuoma, skolinimas, patikėjimas, pastatų naudojimas ir viešosios infrastruktūros priežiūra“ įgyvendinimas";Y;N;27-JUL-20;27-JUL-20
 1100001;"Teismo, antstolių, notarų paslaugoms ir skelbimams spaudoje apmokėti (sena)";Y;N;30-NOV-11;29-JAN-20
 1100002;"Vilniaus miesto 2010-2020 metų strateginio plano parengimas";Y;N;30-NOV-11;30-NOV-11
 1100003;"Finansų valdymo ir apskaitos sistemos diegimo plėtra ir analizės paslaugos - II etapas";Y;N;30-NOV-11;30-NOV-11
