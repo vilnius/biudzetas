@@ -2268,6 +2268,7 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 4000980;"Įstaigos perimtos iš Vilniaus apskrities viršininko administracijos";Y;N;20-JUL-10;20-JUL-10
 4000981;"Pagrindinio ugdymo įstaigų skolų dengimas (savarankiškos įstaigos)";Y;N;09-FEB-15;09-FEB-15
 4000982;"Pagrindinio ugdymo įstaigų skolų dengimas";Y;N;09-FEB-15;09-FEB-15
+4000984;"Centralizuota sąmata";Y;N;27-AUG-20;27-AUG-20
 4000986;"Vidurinio ugdymo įstaigų skolų dengimas (savarankiškos įstaigos)";Y;N;09-FEB-15;09-FEB-15
 4000987;"Vidurinio ugdymo įstaigų skolų dengimas";Y;N;09-FEB-15;09-FEB-15
 4000988;"Vilniaus Fabijoniškių mokyklos pastato Vilniuje, P. Žadeikos g. 2, rekonstravimas (Kiti fondai)";Y;N;25-FEB-16;25-FEB-16
@@ -2338,6 +2339,10 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 4001110;"Vilniaus „Vilnios“ pagrindinė mokykla, Palydovo g. 29 A, Vilnius";Y;N;15-SEP-17;15-SEP-17
 4001111;"Vilniaus Genio progimnazijos pastato Lukiškių skg. 5, Vilnius (modernizavimas, VIP lėšos)";Y;N;29-MAY-18;29-MAY-18
 4001112;"Vilniaus Ateities mokyklos pastato atnaujinimo darbai (modernizavimas, VIP lėšos)";Y;N;29-MAY-18;29-MAY-18
+4001196;"Išlaidoms, susijusioms su mokytojų skaičiaus optimizavimu ikimokyklinio ugdymo įstaigose";Y;N;27-AUG-20;27-AUG-20
+4001197;"Išlaidoms, susijusioms su mokytojų skaičiaus optimizavimu pradinio ugdymo įstaigose";Y;N;27-AUG-20;27-AUG-20
+4001198;"Išlaidoms, susijusioms su mokytojų skaičiaus optimizavimu pagrindinio ugdymo įstaigose";Y;N;27-AUG-20;27-AUG-20
+4001199;"Išlaidoms, susijusioms su mokytojų skaičiaus optimizavimu bendrojo ugdymo įstaigose";Y;N;27-AUG-20;27-AUG-20
 4001200;"Vilniaus Karoliniškių gimnazijos pastato Vilniuje, Sausio 13-osios g.17, rekonstravimas (ES)";Y;N;19-FEB-10;19-FEB-10
 4001201;"Infrastruktūros projektų plėtros rengimas (BĮ)";Y;N;19-FEB-10;19-FEB-10
 4001202;"Energijos vartojimo efektyvumo didinimas Vilniaus Salomėjos Neries gimnazijoje";Y;N;19-FEB-10;19-FEB-10
