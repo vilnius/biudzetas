@@ -203,6 +203,7 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 1010571;"Verkių seniūnija (Parama)";Y;N;14-MAR-08;14-MAR-08
 1010572;"Žvėryno seniūnija (Parama)";Y;N;14-MAR-08;14-MAR-08
 1010573;"Užsienio ryšių skyrius (parama)";Y;N;05-DEC-11;05-DEC-11
+1010574;"Civilinės metrikacijos skyrius (Parama)";Y;N;02-SEP-20;02-SEP-20
 1010581;"Kitos seniūnijų lėšos";Y;N;14-MAR-08;26-MAR-09
 1010591;"Už butus grąžinamas paskola";Y;N;14-MAR-08;27-DEC-19
 1010592;"Kitos išlaidos (konkurso lėšos, deponentai)";Y;N;14-MAR-08;14-MAR-08
@@ -390,6 +391,7 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 2000030;Nenaudojama;Y;N;20-NOV-07;13-JUN-14
 2000031;"Pastatų, esančių senamiestyje ir jo apsaugos zonose, fasadų elementų galimos avarinės būklės likvidavimas";Y;N;23-FEB-16;23-FEB-16
 2000032;"Daugiabučių namų laiptinių dezinfekcijos paslauga";Y;N;06-APR-20;06-APR-20
+2000033;"Išlaidų, susijusių su valstybės lygio ekstremaliosios situacijos dėl koronaviruso (COVID-19) infekcijos plitimo mažinimu, atliekant daugiabučių namų bendrųjų patalpų ir jiems priskirtų konteinerių paviršių dezinfekciją, padengimas";Y;N;02-SEP-20;02-SEP-20
 2000034;"Pavilnių ir Verkių regioninių parkų teritorijų tvarkymo darbai, rekreacinės paskirties objektų priežiūra (LL iš AARSP)";Y;N;10-FEB-15;10-FEB-15
 2000035;"Ekologinio švietimo programos rengimas ir įgyvendinimas (biudžetinė įstaiga)";Y;N;11-DEC-13;11-DEC-13
 2000036;"Pavilnių ir Verkių regioninių parkų teritorijų tvarkymo darbai, rekreacinės paskirties objektų priežiūra (Biudžetinė įstaiga)";Y;N;20-MAY-14;20-MAY-14
@@ -708,11 +710,13 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 3000657;"Eismo reguliavimo priemonių priežiūra ir remontas";Y;N;18-FEB-20;18-FEB-20
 3000658;"Eismo reguliavimo priemonių priežiūra ir remontas (inv.)";Y;N;18-FEB-20;18-FEB-20
 3000660;"Fontanų priežiūra";Y;N;20-NOV-07;30-APR-08
+3000668;"Išlaidų, susijusių su valstybės lygio ekstremaliosios situacijos dėl koronaviruso (COVID-19) ligos likvidavimu ir jos padarinių šalinimu, padengimas";Y;N;02-SEP-20;02-SEP-20
 3000669;"Darbai, susiję su COVID-19 likvidavimu";Y;N;03-APR-20;03-APR-20
 3000670;"Miesto kapinių priežiūra";Y;N;20-NOV-07;23-JUL-14
 3000671;"Miesto kapinių priežiūra (Skolintos lėšos-skoloms mokėti)";Y;N;21-FEB-11;25-FEB-11
 3000672;"Miesto kapinių priežiūra (11 šalt.)";Y;N;30-DEC-19;30-DEC-19
 3000673;"Miesto kapinių priežiūra (61 šalt.)";Y;N;10-FEB-20;10-FEB-20
+3000674;"Išlaidų, susijusių su valstybės lygio ekstremaliosios situacijos dėl koronaviruso (COVID-19) ligos likvidavimu ir jos padarinių šalinimu, padengimas";Y;N;02-SEP-20;02-SEP-20
 3000679;"Eismo reguliavimo priemonių priežiūra ir remontas (61 šalt.)";Y;N;27-JUL-18;27-JUL-18
 3000680;"Eismo reguliavimo priemonių priežiūra ir remontas";Y;N;20-NOV-07;08-JUL-08
 3000681;"Gyvenamųjų kvartalų privažiavimo kelių ir automobilių stovėjimo aikštelių dangų remontas, išplėtimas";Y;N;10-APR-08;19-APR-11
