@@ -488,6 +488,7 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 2000224;"Komunalinių atliekų programos įgyvendinimas (lėšų likutis)";Y;N;14-JAN-19;14-JAN-19
 2000225;"Pavilnių ir Verkių regioninių parkų teritorijų tvarkymo darbai, rekreacinės paskirties objektų priežiūra";Y;N;20-DEC-19;20-DEC-19
 2000226;"Medicininių ir infekuotų atliekų tvarkymo paslaugos";Y;N;18-MAR-20;18-MAR-20
+2000227;"Išlaidų, susijusių su valstybės lygio ekstremaliosios situacijos dėl koronaviruso (COVID-19) ligos likvidavimu ir jos padarinių šalinimu, padengimas";Y;N;03-SEP-20;03-SEP-20
 2000230;"Asignavimai išlaidoms finansuoti";Y;N;09-MAR-09;09-MAR-09
 2000240;"Jurgio Mačiūno meno kolekcijai iš dalies apmokėti";Y;N;01-FEB-10;01-FEB-10
 2000250;"Triukšmo valdymo funkcijos įgyvendinimas (VSRSP)";Y;N;19-JUN-14;19-JUN-14
@@ -3135,6 +3136,8 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 4040031;"Papildomas lėšų gavimas nuomojant patalpas";Y;N;31-DEC-19;31-DEC-19
 4040032;"Neformaliojo vaikų švietimo 15 eurų krepšelio lėšos (ES)";Y;N;31-DEC-19;31-DEC-19
 4040033;"Neformaliojo vaikų švietimo dotacija";Y;N;23-JUL-20;23-JUL-20
+4040034;"Neformaliojo vaikų švietimo veiklų finansavimas";Y;N;03-SEP-20;03-SEP-20
+4040035;"Neformaliojo vaikų (augančių socialinę riziką patiriančiose šeimose) švietimo veiklų finansavimas";Y;N;03-SEP-20;03-SEP-20
 4040040;"Mokamų paslaugų teikimas neformaliojo švietimo įstaigose";Y;N;31-DEC-19;31-DEC-19
 4040041;"Tėvų mokesčio surinkimas neformaliojo švietimo įstaigose (64 šalt.)";Y;N;31-DEC-19;31-DEC-19
 4040042;"Papildomas lėšų gavimas už patalpų nuomą ugdymo įstaigose";Y;N;31-DEC-19;31-DEC-19
@@ -3260,13 +3263,13 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 4B00776;"Administracijos direktoriaus 2009-10-26 d. įsakymas Nr. 30-1871 „Dėl lėšų skyrimo iš administracijos direktoriaus rezervo“	(Vilniaus „Šaltinio“ pagrindinei mokyklai)";Y;Y;29-OCT-09;29-OCT-09
 4B00777;"Administracijos direktoriaus 2009-10-26 d. įsakymas Nr. 30-1871 „Dėl lėšų skyrimo iš administracijos direktoriaus rezervo“ (Studentų organizacijai „OIKOS Vilnius“)";Y;Y;29-OCT-09;29-OCT-09
 4B00778;"Administracijos direktoriaus 2009-11-13 d. įsakymas Nr. 30-2002 „Dėl lėšų skyrimo iš administracijos direktoriaus rezervo“ 	(Antakalnio vid. - avarijos pasekmėm likviduoti, Žvėryno gimnazija – ventiliacinei sistemai sutvarkyti)";Y;Y;18-NOV-09;18-NOV-09
-4B00779;"Administracijos direktoriaus 2009-11-13 d. įsakymas Nr. 30-2002 „Dėl lėšų skyrimo iš administracijos direktoriaus rezervo	(Vilnies pagr. - edukacinei kelionei organizuoti)";Y;Y;18-NOV-09;18-NOV-09
+4B00779;"Administracijos direktoriaus 2009-11-13 d. įsakymas Nr. 30-2002 „Dėl lėšų skyrimo iš administracijos direktoriaus rezervo“ (Vilnies pagr. - edukacinei kelionei organizuoti)";Y;Y;18-NOV-09;02-SEP-20
 4B00780;"Administracijos direktoriaus 2009-11-30 d. įsakymas Nr. 30-2101 „Dėl lėšų skyrimo iš administracijos direktoriaus rezervo“ 	(Šv.Kristoforo pagr. – sporto salės remontui)";Y;Y;09-DEC-09;09-DEC-09
 4B00781;"Administracijos direktoriaus 2009-11-30 d. įsakymas Nr. 30-2101 „Dėl lėšų skyrimo iš administracijos direktoriaus rezervo“ 	(VšĮ Vaikų linija – kvalifikacijos kėlimo seminarui; Lietuvos nacionaliniam radijui – projektui organizuoti";Y;Y;09-DEC-09;09-DEC-09
 4B00782;"Administracijos direktoriaus 2009-11-30 d. įsakymas Nr. 30-2101 „Dėl lėšų skyrimo iš administracijos direktoriaus rezervo“ (Žvėryno gimnazija - jubiliejui organizuoti)";Y;Y;09-DEC-09;09-DEC-09
 4B00783;"Administracijos direktoriaus 2009-11-30 d. įsakymas Nr. 30-2101 „Dėl lėšų skyrimo iš administracijos direktoriaus rezervo“ (Užupio gimnazija – vaizdinėm IT priemonėm įsigyti)";Y;Y;09-DEC-09;09-DEC-09
 4B00784;"Administracijos direktoriaus 2009-12     įsakymas Nr. 30 „Dėl lėšų skyrimo iš Administracijos direktoriaus rezervo“ (Vilniaus Levo Karsavino vidurinei mokyklai skoloms už atliktus vidaus vandentiekio ir santechnikos remonto darbus apmokėti)";Y;Y;09-DEC-09;09-DEC-09
-4B00785;"Administracijos direktoriaus 2009-12-14 d. įsakymas Nr. 30-2172 „Dėl lėšų skyrimo iš administracijos direktoriaus rezervo (Žiburio prad.m-kla – langams pakeisti)";Y;Y;21-DEC-09;21-DEC-09
+4B00785;"Administracijos direktoriaus 2009-12-14 d. įsakymas Nr. 30-2172 „Dėl lėšų skyrimo iš administracijos direktoriaus rezervo“ (Žiburio prad.m-kla – langams pakeisti)";Y;Y;21-DEC-09;02-SEP-20
 4B00786;"Administracijos direktoriaus 2009-12-14 d. įsakymas Nr. 30-2172 „Dėl lėšų skyrimo iš administracijos direktoriaus rezervo“ (Užupio gimn. – komp.įrangai)";Y;Y;21-DEC-09;21-DEC-09
 4B00787;"Administracijos direktoriaus 2009-12-14 d. įsakymas Nr. 30-2172 „Dėl lėšų skyrimo iš administracijos direktoriaus rezervo“	(Saulėtekio vid. – projektui; M.Dobužinskio – jubiliejiniui vakarui)";Y;Y;21-DEC-09;21-DEC-09
 4B00788;"Administracijos direktoriaus 2009-11-30 d. įsakymas Nr. 30-2172 „Dėl lėšų skyrimo iš administracijos direktoriaus rezervo“ (Vilnies pagr. – už kanalizaciją ir nuotekas)";Y;Y;21-DEC-09;21-DEC-09
@@ -3779,6 +3782,7 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 6000763;"Infekcinių ligų profilaktika (ŽIV/AIDS, TBC/DOTS, VH ir kt. infekcinių susirgimų) ir benamių sveikatos priežiūros bei švarinimo paslaugos";Y;N;27-JAN-17;08-JAN-20
 6000764;"Ilgalaikės socialinio būsto nuomos mokesčio kompensavimas";Y;N;17-FEB-20;17-FEB-20
 6000765;"Socialinio būsto plėtra (pagal ES regioninę priemonę Nr. 08.1.2-CPVA-R-408) (ES likučiai)";Y;N;19-FEB-20;19-FEB-20
+6000766;"Išlaidų, susijusių su valstybės lygio ekstremaliosios situacijos dėl koronaviruso (COVID-19) ligos likvidavimu ir jos padarinių šalinimu, padengimas";Y;N;03-SEP-20;03-SEP-20
 6000770;"Vilniaus priklausomybės ligų centro išlaikymas";Y;N;20-NOV-07;14-MAR-08
 6000771;"Vilniaus miesto priklausomybės ligų centro išlaikymas (Valstybės biudžetas)";Y;N;17-APR-12;17-APR-12
 6000773;"Slaugos ir palaikomojo gydymo paslaugoms apmokėti iki 30 d. per metus, kai terminas už kurį apmoka ligonių kasa yra pasibaigęs";Y;N;28-MAY-20;28-MAY-20
@@ -4169,13 +4173,13 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 6B00850;"Viešosios įstaigos Vilniaus greitosios pagalbos universitetinės ligoninės nebaigto statyti korpuso Vilniuje, Šiltnamių g. 29, rekonstravimas ir pritaikymas Priėmimo skyriui";Y;Y;23-JUL-09;23-JUL-09
 6B00860;"Viešosios įstaigos Šeškinės poliklinikos pastato Vilniuje, Šeškinės g. 24, išorinių atitvarų rekonstravimas";Y;Y;23-JUL-09;23-JUL-09
 6B00861;"Medicinos technikos ir įrangos viešojoje įstaigoje Šeškinės poliklinikoje Vilniuje Šeškinės g. 24, atnaujinimas";Y;Y;23-JUL-09;23-JUL-09
-6B00862;"VšĮ Šeškinės poliklinikos „Vaikų ambulatorinių- konsultacijų centrų Vilniaus mieste įkūrimas siekiant pagerinti sveikatos priežiūros paslaugų prieinamumą ir kokybę (kofinansavimas Norvegijos fondui) (Savivaldybės privatizavimo fondo lėšos)";Y;Y;23-JUL-09;23-JUL-09
+6B00862;"VšĮ Šeškinės poliklinikos „Vaikų ambulatorinių- konsultacijų centrų Vilniaus mieste įkūrimas siekiant pagerinti sveikatos priežiūros paslaugų prieinamumą ir kokybę“ (kofinansavimas Norvegijos fondui) (Savivaldybės privatizavimo fondo lėšos)";Y;Y;23-JUL-09;02-SEP-20
 6B00870;"Viešosios įstaigos Vilniaus miesto universitetinės ligoninės Akušerijos, Naujagimių ir Vaikų skyrių Vilniuje, Antakalnio g. 57, rekonstravimas ir modernizavimas";Y;Y;23-JUL-09;23-JUL-09
 6B00880;"VšĮ Vilniaus greitosios pagalbos universitetinės ligoninės medicininė įranga (lizingas: B korpuso 8 aukštas, A korpuso 7 aukštas) (Savivaldybės privatizavimo fondo lėšos)";Y;Y;23-JUL-09;23-JUL-09
 6B00890;"VšĮ Vilniaus greitosios pagalbos universitetinės ligoninės medicininė įranga (lizingas: B korpuso 1 ir 2 aukštas) (Savivaldybės privatizavimo fondo lėšos)";Y;Y;23-JUL-09;23-JUL-09
 6B00900;"Socialinių reikalų departamento viešųjų įstaigų reorganizacija, restruktūrizacija, renovacija ir medicininės įrangos įsigijimas (Savivaldybės privatizavimo fondo lėšos)";Y;Y;23-JUL-09;23-JUL-09
 6B00970;"VšĮ Antakalnio poliklinikos laboratorijos patalpų rekonstrukcija ir įrangos įsigijimas (Savivaldybės privatizavimo fondo lėšos)";Y;Y;23-JUL-09;23-JUL-09
-6B00971;"VšĮ „Antakalnio poliklinika“ ambulatorinės reabilitacijos plėtra ir renovacija“ (Savivaldybės privatizavimo fondo lėšos)";Y;Y;23-JUL-09;23-JUL-09
+6B00971;"„VšĮ „Antakalnio poliklinika“ ambulatorinės reabilitacijos plėtra ir renovacija“ (Savivaldybės privatizavimo fondo lėšos)";Y;Y;23-JUL-09;02-SEP-20
 6B00980;"VšĮ Vilniaus greitosios medicinos pagalbos stoties ir pastočių rekonstravimas bei įrangos įsigijimas (Savivaldybės privatizavimo fondo lėšos)";Y;Y;23-JUL-09;23-JUL-09
 6B00991;"VšĮ Vilniaus miesto universitetinės ligoninės Vaikų ir akušerijos- ginekologijos korpuso išorinių atitvarų ir inžinerinių sistemų rekonstrukcija (Savivaldybės privatizavimo fondo lėšos)";Y;Y;23-JUL-09;23-JUL-09
 6B01000;"VšĮ Grigiškių pirminės sveikatos priežiūros centro restruktūrizacija, renovacija ir medicininės įrangos įsigijimas (Savivaldybės privatizavimo fondo lėšos)";Y;Y;23-JUL-09;23-JUL-09

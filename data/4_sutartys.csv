@@ -14409,10 +14409,10 @@ DEPARTAMENTAS;SUTARTIES_TIPAS;SUTARTIES_NUMERIS;SUDARYMO_METAI;SUTARTIES_PRADZIO
 "Vilniaus miesto savivaldybės administracija";"Finansavimo sutartis";A64-301/20;2020;17-JUL-20;;nuasmeninta;nuasmeninta;"Ekspertė (stipendijos ir kompensacijos)";1100;13292
 "Vilniaus miesto savivaldybės administracija";"Finansavimo sutartis";A64-300/20;2020;17-JUL-20;;nuasmeninta;nuasmeninta;"Ekspertė (stipendijos ir kompensacijos)";1100;13293
 "Vilniaus miesto savivaldybės administracija";"Finansavimo sutartis";A64-324/20;2020;06-JUL-20;;"Agnė Silickaitė";4780420324;"Ekspertė (stipendijos ir kompensacijos)";1100;13294
-"Vilniaus miesto savivaldybės administracija";"Finansavimo sutartis";A64-303/20;2020;17-JUL-20;;nuasmeninta;nuasmeninta;"Ekspertė (stipendijos ir kompensacijos)";1100;13295
 "Vilniaus miesto savivaldybės administracija";"Finansavimo sutartis";A64-326/20;2020;07-AUG-20;;nuasmeninta;nuasmeninta;"Ekspertas (stipendijos ir kompensacijos)";1100;13296
 "Vilniaus miesto savivaldybės administracija";Dokumentas;ND001;2020;27-AUG-20;;nuasmeninta;nuasmeninta;;1252.35;13304
 "Vilniaus miesto savivaldybės administracija";"Viešasis pirkimas";A64-269/20;2020;09-JUL-20;09-JUL-21;"Saugos tarnyba ""Argus"", UAB (Argus, R.Jonaičio IĮ saugos tarnyba)";141237452;;;13268
+"Vilniaus miesto savivaldybės administracija";"Kiti pirkimai";A291-1678/20;2020;01-SEP-20;11-DEC-20;"VšĮ Romų visuomenės centras";125607735;"Biudžeto lėšų naudojimo sutartis";2000;13318
 "Vilniaus miesto savivaldybės administracija";"Kiti pirkimai";A291-1506/20;2020;12-AUG-20;12-SEP-20;"VŠĮ ""SOS gyvūnai""";301536872;"SAVIVALDYBĖS BIUDŽETO LĖŠŲ NAUDOJIMO VILNIAUS MIESTO SAVIVALDYBĖS NEVYRIAUSYBINIŲ GYVŪNŲ GLOBOS ORGANIZACIJŲ RĖMIMO PROGRAMAI ĮGYVENDINTI SUTARTIS";4960;13255
 "Vilniaus miesto savivaldybės administracija";"Kiti pirkimai";A291-1507/20;2020;12-AUG-20;12-SEP-20;"""Tautmilės globa"" VŠĮ";302710895;"SAVIVALDYBĖS BIUDŽETO LĖŠŲ NAUDOJIMO VILNIAUS MIESTO SAVIVALDYBĖS NEVYRIAUSYBINIŲ GYVŪNŲ GLOBOS ORGANIZACIJŲ RĖMIMO PROGRAMAI ĮGYVENDINTI SUTARTIS";4926;13256
 "Vilniaus miesto savivaldybės administracija";"Viešasis pirkimas";A68-110/20;2020;17-AUG-20;17-AUG-21;"UAB Lietlieta";150147986;"Buitinės prekės";129.47;13258
@@ -14424,8 +14424,8 @@ DEPARTAMENTAS;SUTARTIES_TIPAS;SUTARTIES_NUMERIS;SUDARYMO_METAI;SUTARTIES_PRADZIO
 "Vilniaus miesto savivaldybės administracija";"Finansavimo sutartis";A291-1667/20;2020;28-AUG-20;;"VšĮ, Neo realism";302433455;;30000;13305
 "Vilniaus miesto savivaldybės administracija";"Viešasis pirkimas";A64-3/20;2020;08-JAN-20;07-SEP-20;"Civitta, UAB";302477747;;;13308
 "Vilniaus miesto savivaldybės administracija";"Kiti pirkimai";A64-349/20;2020;20-AUG-20;20-AUG-21;"UAB ""Stogų Panorama""";301232798;"Dėl pirkimo sutarties";;13279
+"Vilniaus miesto savivaldybės administracija";"Viešasis pirkimas";A-291-1713/20;2020;03-SEP-20;31-DEC-20;"Labdaros ir paramos fondas ,,Silentium""";304254892;"Jaunimo programos finansavimo sutartis";1380;13325
 "Vilniaus miesto savivaldybės administracija";"Viešasis pirkimas";A252-470/20(3.10.15E-AD8)/5;2020;25-JUN-20;12-AUG-20;"UAB Jaga LT";304953159;"Ispanijos dienų Rotušės aikštėje ir Sirvydo skvere įgarsinimo paslaugos";2231.24;13253
-"Vilniaus miesto savivaldybės administracija";"Viešasis pirkimas";A252-384/20(3.10.15E-AD8)/17;2020;25-MAY-20;08-AUG-20;nuasmeninta;nuasmeninta;"Edukacinė programa";100;13254
 "Vilniaus miesto savivaldybės administracija";"Viešasis pirkimas";A64-338/20;2020;12-AUG-20;11-AUG-23;"All Media Radijas, UAB";126021636;"Radijo klipų / reportažų kūrimo ir transliavimo paslaugos";23140.04;13310
 "Vilniaus miesto savivaldybės administracija";"Viešasis pirkimas";A252-203/20(3.10.15E-AD8);2020;17-MAR-20;17-MAR-20;"Petro ofsetas, UAB";222555490;"Vilniaus nuotraukos dovanų dėžutėse";3402.4;13290
 "Vilniaus miesto savivaldybės administracija";"Viešasis pirkimas";A68-107/20;2020;12-AUG-20;12-AUG-21;"OFFICE SYSTEM, UAB";300051282;"Kanceliarinės prekės";3774.7;13257
@@ -14442,3 +14442,11 @@ DEPARTAMENTAS;SUTARTIES_TIPAS;SUTARTIES_NUMERIS;SUDARYMO_METAI;SUTARTIES_PRADZIO
 "Vilniaus miesto savivaldybės administracija";"Viešasis pirkimas";A62-105/20;2020;22-JUL-20;01-SEP-20;"UAB CGS";300007186;"Vaikų žaidimo, sporto aikštelių, suoliukų, informacinių stendų remonto darbai";3291.2;13302
 "Vilniaus miesto savivaldybės administracija";"Kiti pirkimai";A291-1675/20;2020;31-AUG-20;31-DEC-20;"VŠĮ Įvairovės ir edukacijos namai";302567689;"Priemonės vykdymo ir lėšų tikslinio naudojimo sutartis";4000;13307
 "Vilniaus miesto savivaldybės administracija";"Viešasis pirkimas";A252-384/20(3.10.15E-AD8)-19;2020;25-MAY-20;31-AUG-20;nuasmeninta;nuasmeninta;"kultūrinių programų orgasnizavimas savaitgaliais Vilniuje";2037;13314
+"Vilniaus miesto savivaldybės administracija";"Įsakymas dėl našlaičiams skiriamos pašalpos";A15-1500/20(2.1.4E-SOI);2020;28-AUG-20;27-AUG-22;nuasmeninta;nuasmeninta;"Įsakymas dėl našlaičiams skiriamos pašalpos";2850;13319
+"Vilniaus miesto savivaldybės administracija";"Įsakymas dėl našlaičiams skiriamos pašalpos";A15-1500/20(2.1.4E-SOI);2020;28-AUG-20;27-AUG-22;nuasmeninta;nuasmeninta;"Įsakymas dėl našlaičiams skiriamos pašalpos";2850;13320
+"Vilniaus miesto savivaldybės administracija";"Įsakymas dėl našlaičiams skiriamos pašalpos";A15-1500/20(2.1.4E-SOI);2020;28-AUG-20;27-AUG-22;nuasmeninta;nuasmeninta;"Įsakymas dėl našlaičiams skiriamos pašalpos";2850;13321
+"Vilniaus miesto savivaldybės administracija";"Viešasis pirkimas";;2020;12-AUG-20;01-SEP-20;"Teatriukas, VšĮ";124544246;"Senamiesčio bendruomenės renginys";1395;13322
+"Vilniaus miesto savivaldybės administracija";"Viešasis pirkimas";A252-503/20(3.10.15E-AD8);2020;15-JUL-20;15-JUL-20;"Alpera, UAB";124082035;"suvenyriniai ženkliukai";3412.2;13323
+"Vilniaus miesto savivaldybės administracija";"Kiti pirkimai";A72-596/20;2020;03-SEP-20;03-SEP-21;"ESO, AB (Energijos skirstymo operatorius, AB)";304151376;"ELEKTROS ĮRENGINIŲ IŠKĖLIMO (REKONSTRUKCIJOS) PASLAUGOS";25249.77;13324
+"Vilniaus miesto savivaldybės administracija";"Viešasis pirkimas";A252-384/20(3.10.15E-AD8)/17;2020;25-MAY-20;08-AUG-20;nuasmeninta;nuasmeninta;"Edukacinė programa";100;13254
+"Vilniaus miesto savivaldybės administracija";"Finansavimo sutartis";A64-303/20;2020;17-JUL-20;;nuasmeninta;nuasmeninta;"Ekspertė (stipendijos ir kompensacijos)";1100;13295
