@@ -2534,7 +2534,7 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 4002025;"Vilniaus Jono Basanavičiaus progimnazijos pastato atnaujinimas (modernizavimas), sumažinant energijos suvartojimo sąnaudas (SB)";Y;N;25-FEB-16;27-DEC-19
 4002026;"Vilniaus „Žaros“gimnazijos pastato atnaujinimas (modernizavimas), sumažinant energijos suvartojimo sąnaudas (Kiti fondai)";Y;N;25-FEB-16;25-FEB-16
 4002027;"Vilniaus „Žaros“gimnazijos pastato atnaujinimas (modernizavimas), sumažinant energijos suvartojimo sąnaudas (SB)";Y;N;02-MAY-16;02-MAY-16
-4002028;"Bendrojo lavinimo įstaigų remonto darbai ir įrangos įsigijimas (SB)";Y;N;03-APR-15;03-APR-15
+4002028;"Bendrojo lavinimo įstaigų remonto darbai ir įrangos įsigijimas (SB)";Y;N;03-APR-15;15-SEP-20
 4002029;"Vilniaus lopšelio-darželio „Gintarėlis“ pastato atnaujinimas (modernizavimas), sumažinant energijos suvartojimo sąnaudas (Kiti fondai)";Y;N;25-FEB-16;25-FEB-16
 4002030;"Vilniaus lopšelio-darželio „Gintarėlis“ pastato atnaujinimas (modernizavimas), sumažinant energijos suvartojimo sąnaudas (skolintos lėšos)";Y;N;09-FEB-15;09-FEB-15
 4002031;"Vilniaus Pilaitės gimnazijos pastato atnaujinimas (modernizavimas), sumažinant energijos suvartojimo sąnaudas";Y;N;17-DEC-15;17-DEC-15
@@ -3542,6 +3542,7 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 6000190;"LR finansų ministerijos tarpusavio atsiskaitymai dėl kompensacijos savivaldybei išmokėtos sumos - suteiktos valstybės finansinės paramos užsienyje mirusių (žuvusių) LR piliečių palaikams parvežti į Lietuvos Respubliką";Y;N;20-NOV-07;20-MAR-09
 6000192;"MMA didinimui";Y;N;30-SEP-15;30-SEP-15
 6000193;"Vaikų globos pertvarka";Y;N;26-FEB-16;26-FEB-16
+6000194;" Vilniaus miesto vaikų dienos centrų tinklo plėtra (ES)";Y;N;15-SEP-20;15-SEP-20
 6000195;"Kompensacijos už išlaidas būstui šildyti socialiai pažeidžiamiems asmenims (Tarpusavio atsiskaitymai, LRV 2011-10-19 nutarimas Nr. 1207)";Y;N;04-NOV-11;04-NOV-11
 6000196;"Kompensacijos už išlaidas karštam vandeniui socialiai pažeidžiamiems asmenims (Tarpusavio atsiskaitymai, LRV 2011-10-19 nutarimas Nr. 1207)";Y;N;04-NOV-11;04-NOV-11
 6000197;"Kompensacijos socialinėms pašalpoms socialiai pažeidžiamiems asmenims (Tarpusavio atsiskaitymai, LRV 2011-10-19 nutarimas Nr. 1207)";Y;N;04-NOV-11;04-NOV-11
@@ -3696,7 +3697,7 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 6000671;"Socialinių renginių, konferencijų, seminarų, akcijų organizavimas";Y;N;13-OCT-14;27-DEC-19
 6000672;"Pagalbos pinigai šeimoms ir šeimynoms (SIS)";Y;N;31-DEC-19;31-DEC-19
 6000673;"Nakvynės namų A. Kojelavičiaus g. 50 rekonstrukcija";Y;N;17-FEB-20;17-FEB-20
-6000674;"Vilniaus miesto bendruomeninių vaikų globos namų ir vaikų dienos centrų tinklo plėtra (ES)";Y;N;17-FEB-20;17-FEB-20
+6000674;"Vilniaus miesto bendruomeninių vaikų globos namų tinklo plėtra (ES)";Y;N;17-FEB-20;15-SEP-20
 6000675;"Globėjų tarnybos (NVO)";Y;N;31-DEC-19;31-DEC-19
 6000676;"Paslaugos soc. rizikos veiksnius patiriantiems asmenims (NVO)";Y;N;31-DEC-19;31-DEC-19
 6000677;"Paslaugos vaikams ir jaunimui (NVO)";Y;N;31-DEC-19;31-DEC-19
@@ -3787,6 +3788,7 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 6000764;"Ilgalaikės socialinio būsto nuomos mokesčio kompensavimas";Y;N;17-FEB-20;17-FEB-20
 6000765;"Socialinio būsto plėtra (pagal ES regioninę priemonę Nr. 08.1.2-CPVA-R-408) (ES likučiai)";Y;N;19-FEB-20;19-FEB-20
 6000766;"Išlaidų, susijusių su valstybės lygio ekstremaliosios situacijos dėl koronaviruso (COVID-19) ligos likvidavimu ir jos padarinių šalinimu, padengimas";Y;N;03-SEP-20;03-SEP-20
+6000767;"Teikti paramą šeimoms ir asmenims būstui išsinuomoti";Y;N;15-SEP-20;15-SEP-20
 6000770;"Vilniaus priklausomybės ligų centro išlaikymas";Y;N;20-NOV-07;14-MAR-08
 6000771;"Vilniaus miesto priklausomybės ligų centro išlaikymas (Valstybės biudžetas)";Y;N;17-APR-12;17-APR-12
 6000773;"Slaugos ir palaikomojo gydymo paslaugoms apmokėti iki 30 d. per metus, kai terminas už kurį apmoka ligonių kasa yra pasibaigęs";Y;N;28-MAY-20;28-MAY-20
