@@ -725,6 +725,7 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 3000682;"Viešųjų tualetų remontas";Y;N;10-APR-08;30-APR-08
 3000683;"Gyvenamųjų kvartalų privažiavimo kelių ir automobilių stovėjimo aikštelių dangų remontas, išplėtimas (SKOLINTOS)";Y;N;12-MAY-08;12-MAY-08
 3000684;"Vandens gertuvių projektui vykdyti (įrengimo, nuomos ir eksploatavimo išlaidos)";Y;N;10-FEB-20;10-FEB-20
+3000685;"Česlovo Milošo laiptų Vilniuje remontas ir užrašų atnaujinimas";Y;N;24-SEP-20;24-SEP-20
 3000686;"Projektų administravimas";Y;N;11-OCT-19;11-OCT-19
 3000687;"Išlaidoms, susijusioms su Jo Šventenybės Popiežiaus Pranciškaus vizitu Lietuvoje 2018 m. rugsėjo 22 ir 23 d., padengti";Y;N;22-OCT-18;22-OCT-18
 3000688;"Kiti darbai komunalinių paslaugų srityje (61 šalt.)";Y;N;27-JUL-18;27-JUL-18
@@ -1830,6 +1831,7 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 4000471;"Vaikų vasaros poilsio finansavimas (SB)";Y;N;01-FEB-17;01-FEB-17
 4000472;"Tapatybės, kultūros, pilietiškumo ir kt. socialinių renginių finansavimas";Y;N;20-OCT-17;20-OCT-17
 4000473;"Vaikų vasaros stovyklų finansavimas (Valstybės lėšos)";Y;N;29-JUN-20;29-JUN-20
+4000474;"Vaikų vasaros stovyklų finansavimas (Valstybės skolintos lėšos)";Y;N;23-SEP-20;23-SEP-20
 4000475;"Jaunimo politikos efektyvaus įgyvendinimo strategijos Vilniaus mieste parengimas (ES)";Y;N;18-JUL-13;18-JUL-13
 4000476;"Profesionalių sporto klubų konkursinis finansavimas (BL)";Y;N;20-FEB-19;20-FEB-19
 4000477;"Spec. lėšų likučiai sporto mokyklose (ne tėvų mokestis)";Y;N;18-FEB-16;18-FEB-16
@@ -2349,6 +2351,11 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 4001110;"Vilniaus „Vilnios“ pagrindinė mokykla, Palydovo g. 29 A, Vilnius";Y;N;15-SEP-17;15-SEP-17
 4001111;"Vilniaus Genio progimnazijos pastato Lukiškių skg. 5, Vilnius (modernizavimas, VIP lėšos)";Y;N;29-MAY-18;29-MAY-18
 4001112;"Vilniaus Ateities mokyklos pastato atnaujinimo darbai (modernizavimas, VIP lėšos)";Y;N;29-MAY-18;29-MAY-18
+4001189;"Visuomenės psichikos sveikatos neigiamoms COVID-19 pandemijos pasekmėms mažinti ikimokyklinio ugdymo įstaigose";Y;N;23-SEP-20;23-SEP-20
+4001190;"Visuomenės psichikos sveikatos neigiamoms COVID-19 pandemijos pasekmėms mažinti pradinio ugdymo įstaigose";Y;N;23-SEP-20;23-SEP-20
+4001191;"Visuomenės psichikos sveikatos neigiamoms COVID-19 pandemijos pasekmėms mažinti pagrindinio ugdymo įstaigose";Y;N;23-SEP-20;23-SEP-20
+4001192;"Visuomenės psichikos sveikatos neigiamoms COVID-19 pandemijos pasekmėms mažinti bendrojo ugdymo įstaigose";Y;N;23-SEP-20;23-SEP-20
+4001193;"Vilniaus Šilo specialiosios mokyklos konsultacinių paslaugų teikimo programa";Y;N;23-SEP-20;23-SEP-20
 4001194;"Valstybės dotacija Vilniaus „Šaltinio“ pagrindinės mokyklos veiklai užtikrinti";Y;N;11-SEP-20;11-SEP-20
 4001195;"Valstybės dotacija išlaidoms, susijusioms su LVJC veikla";Y;N;11-SEP-20;11-SEP-20
 4001196;"Išlaidoms, susijusioms su mokytojų skaičiaus optimizavimu ikimokyklinio ugdymo įstaigose";Y;N;27-AUG-20;27-AUG-20
@@ -3884,7 +3891,13 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 6000872;"VšĮ Vilniaus miesto universitetinės ligoninės rentgeno aparato įsigijimas (Savivaldybės biudžeto lėšos)";Y;N;16-MAR-11;16-MAR-11
 6000873;"Vingio parko pastato, M. K. Čiurlionio g. 100, Vilniuje remontas ir pritaikymas visuomenės sveikatos biuro reikmėms";Y;N;10-SEP-20;10-SEP-20
 6000874;"Psichologinės gerovės ir psichikos sveikatos stiprinimo paslaugų teikimas (Visuomenės sveikatos biuras)";Y;N;17-SEP-20;17-SEP-20
+6000875;"VšĮ Centro poliklinikos universalios stacionarios rentgeno diagnostikos medicinos priemonės įsigijimas";Y;N;24-SEP-20;24-SEP-20
+6000876;"VšĮ Antakalnio poliklinikos universalios stacionarios rentgeno diagnostikos medicinos priemonės įsigijimas";Y;N;24-SEP-20;24-SEP-20
+6000877;"VšĮ Lazdynų poliklinikos universalios stacionarios rentgeno diagnostikos medicinos priemonės įsigijimas";Y;N;24-SEP-20;24-SEP-20
+6000878;"VšĮ Naujininkų poliklinikos universalios stacionarios rentgeno diagnostikos medicinos priemonės įsigijimas";Y;N;24-SEP-20;24-SEP-20
+6000879;"VšĮ Karoliniškių poliklinikos universalios stacionarios rentgeno diagnostikos medicinos priemonės įsigijimas";Y;N;24-SEP-20;24-SEP-20
 6000880;"VšĮ Vilniaus greitosios pagalbos  universitetinės ligoninės medicininė įranga (lizingas: B korpuso 8 aukštas, A korpuso 7 aukštas) (Savivaldybės privatizavimo fondo lėšos)";Y;N;14-MAR-08;30-MAR-09
+6000881;"VšĮ Šeškinės poliklinikos universalios stacionarios rentgeno diagnostikos medicinos priemonės įsigijimas";Y;N;24-SEP-20;24-SEP-20
 6000890;"VšĮ Vilniaus greitosios pagalbos  universitetinės ligoninės medicininė įranga (lizingas: B korpuso 1 ir 2 aukštas) (Savivaldybės privatizavimo fondo lėšos)";Y;N;14-MAR-08;30-MAR-09
 6000899;"Sveikatos priežiūros įstaigų reorganizacija, restruktūrizacija, renovacija ir medicininės įrangos įsigijimas (dotacijos iš FINMIN skoloms grąžinti)";Y;N;08-DEC-16;08-DEC-16
 6000900;"Socialinių reikalų departamento viešųjų įstaigų reorganizacija, restruktūrizacija, renovacija ir medicininės įrangos įsigijimas (Savivaldybės privatizavimo fondo lėšos)";Y;N;14-MAR-08;27-MAR-09
