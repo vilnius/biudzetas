@@ -2333,7 +2333,7 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 4001035;"Vilniaus Balsių progimnazijos, Bubilo g., išplėtimas (2M18 šalt.)";Y;N;02-JUN-20;02-JUN-20
 4001036;"Vilniaus Vladislavo Sirokomlės gimnazijos pastato modernizavimas (2M18 šalt.)";Y;N;02-JUN-20;02-JUN-20
 4001037;"Vilniaus Joachimo Lelevelio inžinerijos gimnazijos Vilniuje, Minties g. 3, priestato statyba (2M18 šalt.)";Y;N;02-JUN-20;02-JUN-20
-4001038;"Vilniaus Vytauto Didžiojo gimnazijos pastato Vilniuje, Augustijonų g. 8/10, remonto projekto korektūra (2M18 šalt.)";Y;N;02-JUN-20;02-JUN-20
+4001038;"Vilniaus Vytauto Didžiojo gimnazijos pastato Vilniuje, Augustijonų g. 8/10, remonto projekto korektūra (2M18 šalt.)";Y;N;02-JUN-20;06-OCT-20
 4001039;"Vilniaus Senvages gimnazijos pastato Vilniuje, Širvintų g. 80, atnaujinimas (2M18 šalt.)";Y;N;02-JUN-20;02-JUN-20
 4001040;"Vilniaus Vytauto Didžiojo gimnazijos pastato Vilniuje, Augustijonų g. 8/10, remonto projekto korektūra (01 šalt.)";Y;N;02-JUN-20;02-JUN-20
 4001041;"Vilniaus Senvages gimnazijos pastato Vilniuje, Širvintų g. 80, atnaujinimas (01 šalt.)";Y;N;02-JUN-20;02-JUN-20
@@ -4599,6 +4599,7 @@ PB0040;"Simono Konarskio mokyklos projektas";Y;N;22-FEB-18;22-FEB-18
 PB0046;"VGTU inžinerijos licėjaus projektas";Y;N;26-MAR-18;26-MAR-18
 PB0048;"Trakų Vokės gimnazijos projektas";Y;N;22-FEB-18;22-FEB-18
 PB0054;"Jono Basanavičiaus progimnazijos projektas";Y;N;02-MAR-18;02-MAR-18
+PB0056;"Fabijoniškių gimnazijos projektas SRF-SIĮ-2020-1-0056";Y;N;06-OCT-20;06-OCT-20
 PB007;"Ramunėlė L/D projektas";Y;N;25-NOV-15;25-NOV-15
 PB0070;"Žiogelis L/D projektas 09.2.1-ESFA-K-728-02-0070";Y;N;24-SEP-19;27-SEP-19
 PB0077;"Atžalyno M/D projektas 09.2.1-ESFA-K-728-02-0077";Y;N;20-NOV-19;20-NOV-19
