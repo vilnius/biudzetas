@@ -3816,6 +3816,7 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 6000796;"Medicinos personalo išlaikymas iš privalomojo sveikatos draudimo fondo lėšų (BĮ Vilniaus miesto savivaldybės visuomenės sveikatos biuras)";Y;N;14-MAY-13;14-MAY-13
 6000797;"Mokinių visuomenės sveikatos priežiūra (Vilniaus miesto savivaldybės visuomenės sveikatos biuras)";Y;N;11-FEB-14;11-FEB-14
 6000798;"Visuomenės sveikatos stiprinimas ir stebėsena (Vilniaus miesto savivaldybės visuomenės sveikatos biuras)";Y;N;11-FEB-14;11-FEB-14
+6000799;"Išlaidų kompensacija dėl COVID-19 ligos suvaldymo, esant valstybės lygio ekstremaliajai situacijai";Y;N;08-OCT-20;08-OCT-20
 6000800;"Deratizacijos paslaugos";Y;N;20-NOV-07;14-MAR-08
 6000801;"Mirusiųjų palaikų laikino laikymo (saugojimo) paslaugos (Savivaldybės lėšos)";Y;N;07-JAN-09;07-JAN-09
 6000802;"Administracijos direktoriaus 2011-03-31 įsakymas Nr. 30-508 (viešajai įstaigai „TC Veržuva“ pastatui renovuoti)";Y;N;12-APR-11;12-APR-11
@@ -4596,6 +4597,7 @@ PB0035;"Jurginėlis L/D profektas 09.2.1.-ESFA-K-728-02-0035";Y;N;27-JAN-20;27-J
 PB0039;"Pelėdos pradinės mokyklos projektas 09.2.1-ESFA-K-728-03-0039";Y;N;02-OCT-20;02-OCT-20
 PB004;"K.Mindaugo mokyklos projekto renovacijai sąmata";Y;N;18-APR-17;18-APR-17
 PB0040;"Simono Konarskio mokyklos projektas";Y;N;22-FEB-18;22-FEB-18
+PB0044;"Mastymo mokykla projektas 09.2.1-ESFA-K-728-02-0044";Y;N;07-OCT-20;08-OCT-20
 PB0046;"VGTU inžinerijos licėjaus projektas";Y;N;26-MAR-18;26-MAR-18
 PB0048;"Trakų Vokės gimnazijos projektas";Y;N;22-FEB-18;22-FEB-18
 PB0054;"Jono Basanavičiaus progimnazijos projektas";Y;N;02-MAR-18;02-MAR-18
@@ -4634,6 +4636,7 @@ PB0453;"Vilkpedės L/D projektas SRF-S1Į-2019-1-0453 Multifunkcinės sporto erd
 PB050;"Šeškinės pradinės mokyklos projektas BĮBA";Y;N;08-SEP-11;04-OCT-11
 PB052;"Pilaitės gimnazija projektas";Y;N;25-NOV-15;25-NOV-15
 PB068;"Trakų Vokės vid.mokyklos projektas BĮBA";Y;N;08-SEP-11;08-SEP-11
+PB083-1;"Projektas 09.2.1-ESFA-K-728-02-0083";Y;N;08-OCT-20;08-OCT-20
 PB204;"VJK Klevas (BĮBA)";Y;N;30-APR-13;30-APR-13
 PB2PROC;"2 % parama (BĮBA)";Y;N;14-JAN-13;14-JAN-13
 PBDSVE;"Dainų šventė (BĮBA)";Y;N;25-NOV-14;25-NOV-14
