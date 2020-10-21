@@ -944,13 +944,13 @@ DEPARTAMENTAS;SUTARTIES_TIPAS;SUTARTIES_NUMERIS;SUDARYMO_METAI;SUTARTIES_PRADZIO
 "Vilniaus miesto savivaldybės administracija";"Finansavimo sutartis";48-F.2011/37;2011;28-APR-11;28-APR-15;"Vilniaus autobusai, UAB";120058617;"Jungtinės veiklos (partnerystės) sutartis įgyvendinant projektą ""Ekologiškų atuobusų įsigijimas Vilniaus mieste I etapas""";2025000;4009
 "Vilniaus miesto savivaldybės administracija";"Bendra sutartis";14-265(1-223);2011;21-SEP-11;21-SEP-15;"Vilniaus autobusai, UAB";120058617;;;3361
 "Vilniaus miesto savivaldybės Komunalinio ūkio departamentas";"Skolų perleidimo įspėjimas";A50-29067;2010;13-DEC-10;31-DEC-15;"Vilniaus autobusai, UAB";120058617;"Sutarties A72-1033(3.1.36-FN4)/351 perėmimo sutartis";44771928.17;352
-"Vilniaus miesto savivaldybės administracija";"Kiti pirkimai";A64-443/19;2019;13-DEC-19;31-DEC-21;"UAB „Ignitis“";303383884;"Dėl sutarties";;13382
-"Vilniaus miesto savivaldybės administracija";"Kiti pirkimai";A64-373/19;2019;15-OCT-19;01-FEB-21;"UAB „Ignitis“";303383884;"Dėl gamtinių dujų pirkimo - pardavimo ir paslaugų teikimo sutarties Nr2019-1-0711";;11560
-"Vilniaus miesto savivaldybės administracija";"Kiti pirkimai";"A64- 373/19";2019;15-OCT-19;01-FEB-21;"UAB „Ignitis“";303383884;"Dėl gamtinių dujų pirkimo- pardavimo ir paslaugų teikimo sutartis";;11562
-"Vilniaus miesto savivaldybės administracija";"Kiti pirkimai";A64-373/19;2019;15-OCT-19;01-FEB-21;"UAB „Ignitis“";303383884;"Dgamtinių dujų pirkimo-pardavimo ir paslaugų teikimo sutarties Nr. 2019-0711";;11561
-"Vilniaus miesto savivaldybės administracija";"Kiti pirkimai";A72-2253/17(3.1.36-TD2);2017;08-DEC-17;23-DEC-17;"UAB „Ignitis“";303383884;"Gamtinių dujų pirkimo - pardavimo ir paslaugų sutartis Nr. 2017-1-5950 bendroji dalis";;9312
-"Vilniaus miesto savivaldybės administracija";"Kiti pirkimai";A68-2(3.10.23-FN4);2012;15-MAR-12;01-JAN-13;"UAB „Ignitis“";303383884;"Dėl  apmokėjimo už dujas (Moniuškos g. 27";;5733
-"Vilniaus miesto savivaldybės administracija";"Kiti pirkimai";A403;2014;29-JAN-14;30-JUN-14;"UAB „Ignitis“";303383884;"Dėl apmokėjimo už dujas";824.13;5651
+"Vilniaus miesto savivaldybės administracija";"Kiti pirkimai";A64-443/19;2019;13-DEC-19;31-DEC-21;"Ignitis, UAB";303383884;"Dėl sutarties";;13382
+"Vilniaus miesto savivaldybės administracija";"Kiti pirkimai";A64-373/19;2019;15-OCT-19;01-FEB-21;"Ignitis, UAB";303383884;"Dėl gamtinių dujų pirkimo - pardavimo ir paslaugų teikimo sutarties Nr2019-1-0711";;11560
+"Vilniaus miesto savivaldybės administracija";"Kiti pirkimai";"A64- 373/19";2019;15-OCT-19;01-FEB-21;"Ignitis, UAB";303383884;"Dėl gamtinių dujų pirkimo- pardavimo ir paslaugų teikimo sutartis";;11562
+"Vilniaus miesto savivaldybės administracija";"Kiti pirkimai";A64-373/19;2019;15-OCT-19;01-FEB-21;"Ignitis, UAB";303383884;"Dgamtinių dujų pirkimo-pardavimo ir paslaugų teikimo sutarties Nr. 2019-0711";;11561
+"Vilniaus miesto savivaldybės administracija";"Kiti pirkimai";A72-2253/17(3.1.36-TD2);2017;08-DEC-17;23-DEC-17;"Ignitis, UAB";303383884;"Gamtinių dujų pirkimo - pardavimo ir paslaugų sutartis Nr. 2017-1-5950 bendroji dalis";;9312
+"Vilniaus miesto savivaldybės administracija";"Kiti pirkimai";A68-2(3.10.23-FN4);2012;15-MAR-12;01-JAN-13;"Ignitis, UAB";303383884;"Dėl  apmokėjimo už dujas (Moniuškos g. 27";;5733
+"Vilniaus miesto savivaldybės administracija";"Kiti pirkimai";A403;2014;29-JAN-14;30-JUN-14;"Ignitis, UAB";303383884;"Dėl apmokėjimo už dujas";824.13;5651
 "Vilniaus miesto savivaldybės Komunalinio ūkio departamentas";"Kiti pirkimai";A66-152(2.7-ŪK);2008;26-NOV-08;31-DEC-08;"Projektas UAB";120086171;"Neprivatizuoto buto Gerosios Vilties g. 25-109 remontas";12925;279
 "Vilniaus miesto savivaldybės Komunalinio ūkio departamentas";"Kiti pirkimai";"Nr. A66-215 (16.33-ADM-10)";2007;03-DEC-07;31-DEC-07;"Projektas UAB";120086171;"Buto Geležinio Vilko g. 11-30 remonto darbų pirkimas";9860;10
 "Vilniaus miesto savivaldybės administracija";"Kiti pirkimai";A64-39/20;2020;11-FEB-20;11-FEB-21;"Projektų ekspertizė";120091161;"Komunalinių atliekų surinkimo konteinerių aikštelių įrengimo paveldosaugos ekspertų paslaugos";8470;13054
@@ -1287,6 +1287,7 @@ DEPARTAMENTAS;SUTARTIES_TIPAS;SUTARTIES_NUMERIS;SUDARYMO_METAI;SUTARTIES_PRADZIO
 "Vilniaus miesto savivaldybės administracijos Turto departamentas";"Kiti pirkimai";A121-14370;2009;22-JUL-09;30-SEP-09;"VMI prie LRFM";188659752;"Dėl vykdymo išlaidų apmokėjimo";17.4;169
 "Vilniaus miesto savivaldybės administracijos Turto departamentas";"Kiti pirkimai";A121-4611;2009;16-MAR-09;30-JUN-09;"VMI prie LRFM";188659752;"Dėl išlaidų,susijusių su procesinių dokumentų įteikimu";32;145
 "Vilniaus miesto savivaldybės administracijos Finansų valdymo ir apskaitos departamentas";"Kiti pirkimai";Nr.14-9-41;2004;10-JUN-04;10-JUN-20;"VMI prie LRFM";188659752;"Mokestinės paskolos sutartis";750030;2
+"Vilniaus miesto savivaldybės administracija";"Viešasis pirkimas";A252-415/20(3.10.15-AD8);2020;14-JUN-20;31-DEC-20;"K.Mickevičiaus leidykla ""Briedis""";120275624;"Vilniaus miesto žemėlapiai";2616;13552
 "Vilniaus miesto savivaldybės administracija";"Viešasis pirkimas";;2020;27-JUL-20;28-JUL-20;"K.Mickevičiaus leidykla ""Briedis""";120275624;"Žemėlapis ""Vilniaus dviračių maršrutai""";3168;13125
 "Vilniaus miesto savivaldybės administracija";"Viešasis pirkimas";A68-25/18;2018;07-MAY-18;31-JUL-18;"K.Mickevičiaus leidykla ""Briedis""";120275624;"Vilniaus miesto žemėlapiai";5445;9812
 "Vilniaus miesto savivaldybės administracija";"Viešasis pirkimas";78;2016;14-APR-16;31-DEC-16;"K.Mickevičiaus leidykla ""Briedis""";120275624;"Vilniaus žemėlapio parengimas";2975.7;8214
@@ -10821,6 +10822,7 @@ DEPARTAMENTAS;SUTARTIES_TIPAS;SUTARTIES_NUMERIS;SUDARYMO_METAI;SUTARTIES_PRADZIO
 "Vilniaus miesto savivaldybės administracija";"Viešasis pirkimas";A64-330/19;2019;13-SEP-19;13-OCT-19;"Lietuvos valstybinis simfoninis orkestras";190755747;"Pirkimo sutartis";9999;11413
 "Vilniaus miesto savivaldybės administracija";"Įsakymas dėl našlaičiams skiriamos pašalpos";A15-1684/14(2.1.4-SR7);2014;04-SEP-14;03-SEP-16;nuasmeninta;nuasmeninta;"Įsakymas dėl našlaičiams skiriamos pašalpos";2823.8;6132
 "Vilniaus miesto savivaldybės administracija";"Įsakymas dėl našlaičiams skiriamos pašalpos";A15-1684/14(2.1.4-SR7);2014;04-SEP-14;03-SEP-16;nuasmeninta;nuasmeninta;"Įsakymas dėl našlaičiams skiriamos pašalpos";9750;6132
+"Vilniaus miesto savivaldybės administracija";"Kiti pirkimai";A64-409/20;2020;21-OCT-20;21-NOV-20;"Apus turtas, UAB";302249875;"Dėl pirkimo sutarties";116.2;13551
 "Vilniaus miesto savivaldybės administracija";"Kiti pirkimai";64-400/20;2020;08-OCT-20;30-OCT-20;"Apus turtas, UAB";302249875;"Dėl pirkimo sutarties";547.72;13489
 "Vilniaus miesto savivaldybės administracija";"Kiti pirkimai";A64-366/20;2020;01-SEP-20;01-OCT-20;"Apus turtas, UAB";302249875;"Dėl pirkimo sutarties";605.42;13312
 "Vilniaus miesto savivaldybės administracija";"Kiti pirkimai";A64-330/20;2020;11-AUG-20;14-SEP-20;"Apus turtas, UAB";302249875;"Dėl pirkimo sutarties";428.26;13284
@@ -13105,6 +13107,8 @@ DEPARTAMENTAS;SUTARTIES_TIPAS;SUTARTIES_NUMERIS;SUDARYMO_METAI;SUTARTIES_PRADZIO
 "Vilniaus miesto savivaldybės administracija";"Finansavimo sutartis";A291-1500/20;2020;12-AUG-20;;" VšĮ%""Klasika LT""";2857888;;4200;13236
 "Vilniaus miesto savivaldybės administracija";"Finansavimo sutartis";A291-1500/20;2020;12-AUG-20;;" VšĮ%""Klasika LT""";2857888;;4200;13227
 "Vilniaus miesto savivaldybės administracija";"Viešasis pirkimas";A252-551/19(2.1.19-AD6);2019;28-AUG-19;30-SEP-19;"OV LABELS, UAB";302522256;"Rinkimų apylinkės įrengimas";1208.79;11500
+"Vilniaus miesto savivaldybės administracija";"Viešasis pirkimas";A252-229/20;2020;23-MAR-20;31-DEC-20;"Rinkos vizija, MB";303290565;;;13550
+"Vilniaus miesto savivaldybės administracija";"Viešasis pirkimas";A252-595/20;2020;20-AUG-20;20-NOV-20;"Rinkos vizija, MB";303290565;;;13549
 "Vilniaus miesto savivaldybės administracija";"Viešasis pirkimas";A252-493/20;2020;13-JUL-20;13-OCT-20;"Rinkos vizija, MB";303290565;;;13415
 "Vilniaus miesto savivaldybės administracija";"Viešasis pirkimas";A252-493/20(3.10.15E-VŠT);2020;13-JUL-20;13-OCT-20;"Rinkos vizija, MB";303290565;;;13413
 "Vilniaus miesto savivaldybės administracija";"Viešasis pirkimas";A252-711/19(2.1.19-VŠT);2019;13-NOV-19;13-DEC-19;"Rinkos vizija, MB";303290565;;;11718
@@ -14294,6 +14298,7 @@ DEPARTAMENTAS;SUTARTIES_TIPAS;SUTARTIES_NUMERIS;SUDARYMO_METAI;SUTARTIES_PRADZIO
 "Vilniaus miesto savivaldybės administracija";"Įsakymas dėl našlaičiams skiriamos pašalpos";A15-28/20(2.1.4E-SOI);2020;07-JAN-20;06-JAN-22;nuasmeninta;nuasmeninta;"Įsakymas dėl našlaičiams skiriamos pašalpos";2850;12012
 "Vilniaus miesto savivaldybės administracija";"Įsakymas dėl našlaičiams skiriamos pašalpos";A15-1490/20(2.1.4E-SOI);2020;26-AUG-20;25-AUG-22;nuasmeninta;nuasmeninta;"Įsakymas dėl našlaičiams skiriamos pašalpos";2850;13529
 "Vilniaus miesto savivaldybės administracija";"Finansavimo sutartis";A291-2483/19;2019;17-DEC-19;;"VšĮ""Atsakinga tėvystė""";304657459;"2019-12-06 Nr. A15-2395/19";600;11907
+"Vilniaus miesto savivaldybės administracija";"Viešasis pirkimas";A252-126/20(3.10.15E-AD8)/6;2020;27-FEB-20;31-DEC-20;"UAB ""Standartų spaustuvė""";220826740;"Turizmo leidinio ""Paupys"" spausdinimo paslaugos";453.75;13553
 "Vilniaus miesto savivaldybės administracija";"Viešasis pirkimas";A252-587/20(3.10.15E-AD8);2020;17-AUG-20;17-SEP-20;"UAB ""Standartų spaustuvė""";220826740;"Žurnalai ""Neakivaizdinis Vilnius.Ruduo, 2020""";2919;13278
 "Vilniaus miesto savivaldybės administracija";"Viešasis pirkimas";A252-126/20(3.10.15E-AD8)/5;2020;27-FEB-20;27-DEC-20;"UAB ""Standartų spaustuvė""";220826740;"Turizmo leidinio ""Grigiškės"" spausdinimo paslaugos";453.75;13436
 "Vilniaus miesto savivaldybės administracija";"Viešasis pirkimas";A252-126/20(3.10.15E-AD8)/4;2020;27-FEB-20;27-MAR-20;"UAB ""Standartų spaustuvė""";220826740;"Turizmo leidinio ""Karoliniškės"" spausdinimo paslaugos";453.75;13435
