@@ -57,7 +57,7 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 1000054;"Gyventojų gyvenamosios vietos deklaravimo duomenų ir gyvanamosios vietos neturinčių asmenų apskaitos duomenų tvarkymas";Y;N;14-MAR-08;23-MAR-09
 1000055;"Bendri darbo reikalai, darbo politikos formavimas ir įgyvendinimas (Viešųjų darbų administravimas)";Y;N;19-MAR-08;20-FEB-17
 1000056;"Bendrų ekonominių ir socialinių planavimo paslaugų administravimas ir valdymas (Turto departamentas)";Y;N;14-MAR-08;19-SEP-19
-1000057;"Centrinės institucijos išlaikymas (Socialinės paramos mokiniams administravimas)";Y;N;14-MAR-08;25-AUG-10
+1000057;"Centrinės institucijos išlaikymas (Socialinės paramos mokiniams administravimas)";Y;N;14-MAR-08;01-DEC-20
 1000058;"Bendri darbo reikalai, darbo politikos formavimas ir įgyvendinimas (Neįgaliųjų socialinė integracija)";Y;N;14-MAR-08;14-MAR-08
 1000059;"Gyventojų gyvenamosios vietos deklaravimo duomenų ir gyvanamosios vietos neturinčių asmenų apskaitos duomenų tvarkymas";Y;N;14-MAR-08;23-MAR-09
 1000060;"Bendrų ekonominių ir socialinių planavimo paslaugų administravimas ir valdymas";Y;N;20-NOV-07;23-MAR-09
@@ -136,6 +136,7 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 1000136;"Vienkartinės išmokos vaikams administravimas (finansavimo šaltinis 1.1.1.1.5)";Y;N;27-JUL-20;27-JUL-20
 1000137;"Vienkartinės išmokos vaikams administravimas (finansavimo šaltinis 1.1.1.1.1)";Y;N;27-JUL-20;27-JUL-20
 1000138;"Išlaidų, patirtų siekiant šalinti COVID-19 ligos (koronaviruso infekcijos) padarinius ir valdyti jos plitimą esant valstybės lygio ekstremaliajai situacijai, kompensavimas";Y;N;07-SEP-20;07-SEP-20
+1000139;"Socialinės paramos mokiniams administravimas (Socialinių išmokų skyrius)";Y;N;01-DEC-20;01-DEC-20
 1000150;Nenaudojama;Y;N;20-NOV-07;13-FEB-13
 1000151;"Tėvų mokesčio surinkimas jaunimo politiką  įgyvendinančiose įstaigose";Y;N;13-FEB-13;13-FEB-13
 1000152;"Išlaidų, susijusių su minimalios algos padidėjimu, finansavimas";Y;N;07-NOV-16;07-NOV-16
@@ -1837,7 +1838,7 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 4000471;"Vaikų vasaros poilsio finansavimas (SB)";Y;N;01-FEB-17;01-FEB-17
 4000472;"Tapatybės, kultūros, pilietiškumo ir kt. socialinių renginių finansavimas";Y;N;20-OCT-17;20-OCT-17
 4000473;"Vaikų vasaros stovyklų finansavimas (Valstybės lėšos)";Y;N;29-JUN-20;29-JUN-20
-4000474;"Vaikų vasaros stovyklų finansavimas (Valstybės skolintos lėšos)";Y;N;23-SEP-20;23-SEP-20
+4000474;"Vaikų vasaros stovyklų ir NVŠ veiklų finansavimas (Valstybės skolintos lėšos)";Y;N;23-SEP-20;01-DEC-20
 4000475;"Jaunimo politikos efektyvaus įgyvendinimo strategijos Vilniaus mieste parengimas (ES)";Y;N;18-JUL-13;18-JUL-13
 4000476;"Profesionalių sporto klubų konkursinis finansavimas (BL)";Y;N;20-FEB-19;20-FEB-19
 4000477;"Spec. lėšų likučiai sporto mokyklose (ne tėvų mokestis)";Y;N;18-FEB-16;18-FEB-16
@@ -3446,6 +3447,7 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 5000309;"Detaliųjų, specialiųjų, žemės sklypų ribų ir kitų planų, programų, schemų rengimas (30)";Y;N;31-DEC-19;31-DEC-19
 5000310;"ES Programos INTERREG BALTIC SEA REGION programa „CMM“";Y;N;03-JUN-20;03-JUN-20
 5000311;"ES Programos „ERASMUS + programos projektas MICROBE“";Y;N;17-NOV-20;17-NOV-20
+5000313;"ES Programos HORIZON 2020 projektas ROCK";Y;N;01-DEC-20;01-DEC-20
 5001010;"FS-13-PR-11010224, Bendruomeninių (viešųjų-vietinių) želdynų miesto seniūnijose įrengimo projektiniai pasiūlymai (II etapas)";Y;N;18-JUN-08;18-JUN-08
 5001020;"FS-01-PR-11020203, Verkių dvaro sodybos viršutinių parko takų mažųjų architektūros statinių ir tiltelio remontas bei rekonstrukcija";Y;N;18-JUN-08;18-JUN-08
 5001021;"FS-07-PR-11020203, Verkių dvaro sodybos viršutinių parko takų mažųjų architektūros statinių ir tiltelio remontas bei rekonstrukcija";Y;N;30-MAR-09;03-MAR-10
@@ -3562,6 +3564,7 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 6000161;"Papildoma piniginė socialinė parama (papildoma dotacija iš valstybės biudžeto)";Y;N;13-AUG-20;01-SEP-20
 6000162;"Socialinės pašalpos socialiai pažeidžiamiems asmenims (papildoma dotacija iš valstybės biudžeto)";Y;N;24-AUG-20;24-AUG-20
 6000163;"Kompensacijos už išlaidas būstui šildyti (papildoma dotacija iš valstybės biudžeto)";Y;N;28-OCT-20;28-OCT-20
+6000164;"Papildoma piniginė socialinė parama";Y;N;01-DEC-20;01-DEC-20
 6000170;"Vienkartinė parama socialiai pažeidžiamiems asmenims (Administracijos direktoriaus rezervas)";Y;N;20-NOV-07;07-MAY-09
 6000171;"Administracijos direktoriaus 2009-05-08 įsakymas Nr. 30-809 (vienkartinė parama)";Y;N;14-MAY-09;14-MAY-09
 6000172;"Administracijos direktoriaus 2009-07-10 d. įsakymas Nr. 30-1221 (Vienkartinė parama)";Y;N;14-JUL-09;14-JUL-09
