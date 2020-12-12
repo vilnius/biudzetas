@@ -1904,6 +1904,7 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 4000570;"Mokamų paslaugų teikimas muziejuose";Y;N;20-NOV-07;07-SEP-12
 4000571;"Spec. lėšų likučiai muziejuose (BIBA)";Y;N;27-FEB-13;27-DEC-19
 4000572;"Medinės architektūros paveldo muziejaus sukūrimas (28)";Y;N;17-SEP-20;17-SEP-20
+4000573;"Medinės architektūros paveldo muziejaus sukūrimas";Y;N;11-DEC-20;11-DEC-20
 4000577;"Spec. lėšų likučiai Naujosios Vilnios kultūros centre";Y;N;14-FEB-20;14-FEB-20
 4000578;"Vilniaus etninės kultūros centro išlaikymas (spec. lėšos)";Y;N;23-OCT-15;23-OCT-15
 4000579;"Vilniaus kultūros centro išlaikymas (spec. lėšos)";Y;N;23-FEB-12;23-FEB-12
@@ -1918,6 +1919,7 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 4000588;"Spe. lėšų likučiai Vilniaus kultūros centre";Y;N;19-FEB-18;19-FEB-18
 4000589;"Spec. lėšų likučiai Vilniaus etninės kultūros centre";Y;N;18-FEB-19;27-DEC-19
 4000590;"Papildomai gautos lėšos nuomojant patalpas kultūros centruose";Y;N;20-NOV-07;07-SEP-12
+4000591;"Projektas „European  Music Trails“";Y;N;11-DEC-20;11-DEC-20
 4000595;"Spec. lėšų likučiai kultūros centruose (BIBA)";Y;N;27-FEB-13;27-DEC-19
 4000597;"Spec. lėšų likučiai bibliotekose (BIBA)";Y;N;04-FEB-15;27-DEC-19
 4000600;"Mokamų paslaugų teikimas kultūros centruose";Y;N;20-NOV-07;07-SEP-12
@@ -3000,9 +3002,12 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 4018503;"Ikimokyklinio ugdymo įstaigų remonto darbai ir įrangos įsigijimas (66 šalt.)";Y;N;29-MAY-17;29-MAY-17
 4018504;"Vilniaus miesto švietimo įstaigų remonto darbai ir įrangos įsigijimas (SB)";Y;N;27-NOV-18;27-NOV-18
 4018505;"Vilniaus Gabrielės Petkevičaitės-Bitės suaugusiųjų mokymo centro pastato, Vitebsko  g. 21, renovacija (ES)";Y;N;09-FEB-15;09-FEB-15
+4018506;"Vilniaus miesto švietimo įstaigų remonto darbai ir įrangos įsigijimas (66 š.)";Y;N;11-DEC-20;11-DEC-20
 4018507;"Vilniaus Antakalnio progimnazijos vidaus remonto darbai (SB)";Y;N;16-MAR-17;16-MAR-17
 4018508;"Vilniaus Verkių daugiafunkcinio centro renovacija (SB)";Y;N;16-MAR-17;16-MAR-17
 4018510;"Vilniaus lopšelio-darželio „Ąžuolas“, Žirmūnų g. 32, ugdymo aplinkos modernizavimas (ES)";Y;N;06-FEB-15;06-FEB-15
+4018511;"Vilniaus miesto švietimo įstaigų remonto darbai ir įrangos įsigijimas (66 š.)";Y;N;11-DEC-20;11-DEC-20
+4018512;"Vilniaus miesto švietimo įstaigų remonto darbai ir įrangos įsigijimas (66 š.)";Y;N;11-DEC-20;11-DEC-20
 4018513;"Vilniaus miesto švietimo įstaigų remonto darbai ir įrangos įsigijimas (Paramos lėšos)";Y;N;28-JUL-15;28-JUL-15
 4018514;"Vilniaus miesto švietimo įstaigų remonto darbai ir įrangos įsigijimas pagrindinėse mokyklose (SB)";Y;N;03-APR-15;03-APR-15
 4018515;"Vilniaus miesto švietimo įstaigų remonto darbai ir įrangos įsigijimas (ikimokyklinės įstaigos) (skolintos lėšos)";Y;N;09-FEB-15;09-FEB-15
@@ -3033,6 +3038,8 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 4018543;"Vilniaus „Genio“ progimnazijos remontas";Y;N;29-JUN-17;29-JUN-17
 4018545;"Vilniaus lopšelio-darželio „Ąžuolas“, Žirmūnų g. 32, ugdymo aplinkos modernizavimas (skolintos lėšos)";Y;N;09-FEB-15;09-FEB-15
 4018546;"Vilniaus lopšelio-darželio „Kodėlčiukas“ remontas (SB)";Y;N;29-APR-16;29-APR-16
+4018547;"Vilniaus miesto švietimo įstaigų remonto darbai ir įrangos įsigijimas (66 š.)";Y;N;11-DEC-20;11-DEC-20
+4018548;"Vilniaus miesto švietimo įstaigų remonto darbai ir įrangos įsigijimas (66 š.)";Y;N;11-DEC-20;11-DEC-20
 4018550;"Vilniaus lopšelio-darželio „Geniukų kalvė“ remontas (Paramos lėšos)";Y;N;06-FEB-15;29-MAY-20
 4018551;"Vilniaus „Vilnios“ pagrindinė mokykla, Palydovo g. 29 A, Vilnius (modernizavimas, SB lėšos)";Y;N;08-AUG-17;17-AUG-17
 4018552;"Vilniaus Abraomo Kulviečio klasikinė gimnazija, Gedvydžių g. 8, Vilnius (modernizavimas, SB lėšos)";Y;N;08-AUG-17;17-AUG-17
