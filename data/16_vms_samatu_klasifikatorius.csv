@@ -3556,7 +3556,7 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 6000050;"Viešųjų darbų organizavimas kitose socialinių paslaugų įstaigose (Departamentas)";Y;N;20-NOV-07;14-MAR-08
 6000060;"Socialinė globa asmenims su sunkia negalia (Departamentas)";Y;N;20-NOV-07;27-DEC-19
 6000061;"Gyventojų užimtumo programų finansavimas";Y;N;09-JUN-17;09-JUN-17
-6000070;"Socialinė globa asmenims su sunkia negalia Vilniaus miesto vaikų pensione";Y;N;20-NOV-07;27-DEC-19
+6000070;"Socialinė globa asmenims su sunkia negalia Vilniaus miesto vaikų pensione";Y;N;20-NOV-07;13-JAN-21
 6000075;"MMA didinimui ir darbo apmokėjimo įstatymui įgyvendinti";Y;N;26-SEP-16;02-JUN-17
 6000080;"Socialinė globa asmenims su sunkia negalia pensionate ""Vilties namai""";Y;N;20-NOV-07;20-SEP-13
 6000087;"Socialinė globa asmenims su sunkia negalia ugdymo centre „Viltis“";Y;N;31-DEC-19;31-DEC-19
@@ -3671,7 +3671,7 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 6000390;"Dienos centro ""Šviesa"" išlaikymas (Savivaldybės lėšos)";Y;N;20-NOV-07;27-DEC-19
 6000391;"Tikslinės lėšos Vilties specialiosios mokyklos-daugiafunkcinio centro dienos socialinės globos skyriaus išlaikymui";Y;N;19-MAY-20;28-MAY-20
 6000399;"Tikslinės lėšos Vilniaus m. vaikų ir jaunimo pensiono išlaikymui";Y;N;19-MAY-20;19-MAY-20
-6000400;"Vilniaus miesto vaikų pensiono išlaikymas (Savivaldybės lėšos)";Y;N;20-NOV-07;27-DEC-19
+6000400;"Vilniaus miesto vaikų pensiono išlaikymas (Savivaldybės lėšos)";Y;N;20-NOV-07;13-JAN-21
 6000401;"Globos namų vaikams ir jaunimui, turintiems negalią, modernizavimas";Y;N;17-FEB-12;17-FEB-12
 6000402;"Socialinės paramos įstaigų infrastruktūros modernizavimas, optimizavimas ir renovacija";Y;N;02-NOV-18;27-DEC-19
 6000409;"Tikslinės lėšos Valakampių socialinių paslaugų namų išlaikymui";Y;N;19-MAY-20;19-MAY-20
@@ -3732,13 +3732,13 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 6000553;"Dienos centro ""Šviesa"" specialiosios programos lėšų likučiai";Y;N;16-JAN-17;16-JAN-17
 6000554;"Vilniaus miesto socialinės paramos centro specialiosios programos lėšų likučiai";Y;N;16-JAN-17;16-JAN-17
 6000555;"Vilniaus sutrikusio vystymosi kūdikių namų išlaikymas";Y;N;16-JAN-17;16-JAN-17
-6000556;"Vilniaus sutrikusio vystymosi kūdikių namų - pagalbos centro ""Šeimos slėnis"" dienos socialinės globos centro išlaikymas";Y;N;21-JUN-17;27-DEC-19
-6000557;"Vilniaus sutrikusio vystymosi kūdikių namų - pagalbos centro ""Šeimos slėnis"" dienos socialinės globos centro išlaikymas";Y;N;08-JAN-18;27-DEC-19
+6000556;"Vilniaus sutrikusio vystymosi kūdikių namų - pagalbos centro ""Šeimos slėnis""";Y;N;21-JUN-17;13-JAN-21
+6000557;"Vilniaus sutrikusio vystymosi kūdikių namų - pagalbos centro ""Šeimos slėnis""";Y;N;08-JAN-18;13-JAN-21
 6000558;"BĮ Valakampių socialinių paslaugų namų specialiosios programos lėšų likučiai";Y;N;09-JAN-18;09-JAN-18
-6000559;"Vilniaus miesto vaikų ir jaunimo pensiono specialiosios programos lėšų likučiai";Y;N;08-JAN-18;08-JAN-18
-6000560;"Vilniaus miesto vaikų pensiono specialioji programa";Y;N;20-NOV-07;01-MAR-12
+6000559;"Vilniaus Lakštingalos namų specialiosios programos lėšų likučiai";Y;N;08-JAN-18;13-JAN-21
+6000560;"Vilniaus miesto vaikų pensiono specialioji programa";Y;N;20-NOV-07;13-JAN-21
 6000561;"Dienos centro „Šviesa“ papildomas lėšų gavimas už nuomos paslaugas";Y;N;15-JUN-17;15-JUN-17
-6000562;"Vilniaus sutrikusio vystymosi kūdikių namų - pagalbos centro ""Šeimos slėnis"" - dienos socialinės globos centro specialioji programa";Y;N;03-JUL-18;27-DEC-19
+6000562;"Vilniaus sutrikusio vystymosi kūdikių namų - pagalbos centro ""Šeimos slėnis"" - specialioji programa";Y;N;03-JUL-18;13-JAN-21
 6000563;"Kompleksinės paslaugos šeimai Vilniaus mieste (ES) lėšų likučiai (SPC)";Y;N;08-JAN-18;27-DEC-19
 6000564;"Vilniaus miesto socialinės paramos centro integralios pagalbos projektas (ES lėšos)";Y;N;27-SEP-18;27-SEP-18
 6000565;"Projekto „Sveikos gyvensenos skatinimas ir moksleivių sveikatos raštingumo ugdymas Vilniaus mieste“ įgyvendinimas (SB)";Y;N;17-JAN-19;17-JAN-19
