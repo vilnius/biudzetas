@@ -3653,6 +3653,9 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 6000229;"Vilniaus miesto savivaldybės vykdomi bendradarbiavimo projektai (kitos lėšos)";Y;N;02-JAN-19;02-JAN-19
 6000230;"Išmokų vaikams administravimas (Socialinės paramos centras)";Y;N;20-NOV-07;14-MAR-08
 6000240;"Išmokų vaikams administravimas (Departamentas)";Y;N;20-NOV-07;27-DEC-19
+6000245;"Socialinės globos paslaugos vaikams institucijose";Y;N;15-JAN-21;15-JAN-21
+6000246;"Socialinės paslaugos";Y;N;15-JAN-21;15-JAN-21
+6000247;"Kompleksinės paslaugos šeimai Vilniaus mieste (SPS) (VB)";Y;N;15-JAN-21;15-JAN-21
 6000250;"Šalpos išmokos";Y;N;20-NOV-07;27-DEC-19
 6000251;"Tikslinių kompensacijų dalinis kompensavimas";Y;N;28-JUL-20;28-JUL-20
 6000260;"Šalpos išmokų administravimas (Socialinės paramos centras)";Y;N;20-NOV-07;14-MAR-08
@@ -3726,7 +3729,10 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 6000536;"Socialinės paramos centro Paslaugų namuose tarnybos išlaikymas (Valstybės biudžetas)";Y;N;16-APR-12;16-APR-12
 6000537;"Vilniaus miesto socialinės paramos centro išlaikymas (Valstybės biudžetas)";Y;N;16-APR-12;16-APR-12
 6000538;"Socialinės priežiūros socialinės rizikos šeimoms finansavimas (Socialinės paramos centras) (Valstybės biudžetas)";Y;N;16-APR-12;16-APR-12
+6000539;"Socialinės priežiūros paslaugos 16-21 m. amžiaus jaunuoliams, netekusiems tėvų globos (palydimoji globa)";Y;N;15-JAN-21;15-JAN-21
 6000540;"Socialinės paramos centro išlaikymas (Tarpusavio atsiskaitymai)";Y;N;20-NOV-07;14-MAR-08
+6000541;"Vilniaus vaikų socialinės globos namų „Gilė“ Psichosocialinės reabilitacijos centro išlaikymas";Y;N;15-JAN-21;15-JAN-21
+6000542;"Vilniaus vaikų socialinės globos namų „Gilė“ Psichosocialinės reabilitacijos centro išlaikymas";Y;N;15-JAN-21;15-JAN-21
 6000550;"Dienos centro ""Šviesa"" specialioji programa";Y;N;20-NOV-07;09-AUG-11
 6000551;"Socialinės globos įstaigų specialiosios programos likučiai";Y;N;20-MAY-13;20-MAY-13
 6000552;"Fabijoniškių socialinių paslaugų namų specialiosios programos lėšų likučiai";Y;N;26-FEB-16;26-FEB-16
@@ -3756,6 +3762,8 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 6000630;"VšĮ Markučių  dienos veiklos centro finansavimas (Departamentas)";Y;N;20-NOV-07;27-DEC-19
 6000640;"VšĮ Vyrų krizių ir informacijos centro finansavimas (Departamentas)";Y;N;20-NOV-07;27-DEC-19
 6000650;"VšĮ Vilniaus psichosocialinės reabilitacijos centro finansavimas (Departamentas)";Y;N;20-NOV-07;27-DEC-19
+6000655;"Akredituotos vaikų dienos socialinės priežiūros organizavimas";Y;N;15-JAN-21;15-JAN-21
+6000658;"Vilniaus miesto bendruomeninių vaikų globos namų tinklo plėtra (VB) (BVGN2)";Y;N;15-JAN-21;15-JAN-21
 6000659;"Tikslinės lėšos VšĮ mokymo centro „Mes esame“ finansavimui";Y;N;19-MAY-20;19-MAY-20
 6000660;"Nevalstybinių organizacijų vaikų dienos centrų finansavimas (Departamentas)";Y;N;20-NOV-07;10-OCT-18
 6000661;"Intensyvios terapijos (korekcijos) centro emocijų ir elgesio sutrikimų turintiems vaikams įkūrimas (Svajonių g. 56)";Y;N;03-NOV-15;29-FEB-16
