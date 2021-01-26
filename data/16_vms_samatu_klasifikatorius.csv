@@ -3581,6 +3581,7 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 6000103;"Vilniaus miesto bendruomeninių vaikų globos namų tinklo plėtra (ES) (BVGN2)";Y;N;13-OCT-20;13-OCT-20
 6000110;"Socialinės priežiūros socialinės rizikos šeimoms finansavimas iš specialių tikslinių dotacijų (Socialinės paramos centras)";Y;N;20-NOV-07;27-DEC-19
 6000111;"Nevyriausybinių organizacijų darbas su socialinės rizikos šeimomis";Y;N;16-SEP-14;27-DEC-19
+6000112;"Vilniaus miesto bendruomeninių vaikų globos namų tinklo plėtra (ES)";Y;N;25-JAN-21;25-JAN-21
 6000120;"Socialinės pašalpos ir kompensacijos socialiai pažeidžiamiems asmenims (Departamentas)";Y;N;20-NOV-07;27-DEC-19
 6000121;"Kompensacijos už išlaidas būstui šildyti (Departamentas)";Y;N;20-JAN-10;29-JAN-10
 6000122;"Kompensacijos už išlaidas karštam vandeniui (Departamentas)";Y;N;20-JAN-10;29-JAN-10
@@ -3735,6 +3736,9 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 6000540;"Socialinės paramos centro išlaikymas (Tarpusavio atsiskaitymai)";Y;N;20-NOV-07;14-MAR-08
 6000541;"Vilniaus vaikų socialinės globos namų „Gilė“ Psichosocialinės reabilitacijos centro išlaikymas";Y;N;15-JAN-21;15-JAN-21
 6000542;"Vilniaus vaikų socialinės globos namų „Gilė“ Psichosocialinės reabilitacijos centro išlaikymas";Y;N;15-JAN-21;15-JAN-21
+6000545;"Biudžetinės įstaigos Senjorų socialinių paslaugų namų išlaikymas";Y;N;25-JAN-21;25-JAN-21
+6000546;"Socialinė globa asmenims su sunkia negalia Biudžetinėje įstaigoje Senjorų socialinių paslaugų namuose";Y;N;25-JAN-21;25-JAN-21
+6000549;"Vilniaus miesto kompleksinių paslaugų centro „Šeimos slėnis“ specialiosios programos lėšų likučiai";Y;N;25-JAN-21;25-JAN-21
 6000550;"Dienos centro ""Šviesa"" specialioji programa";Y;N;20-NOV-07;09-AUG-11
 6000551;"Socialinės globos įstaigų specialiosios programos likučiai";Y;N;20-MAY-13;20-MAY-13
 6000552;"Fabijoniškių socialinių paslaugų namų specialiosios programos lėšų likučiai";Y;N;26-FEB-16;26-FEB-16
@@ -3977,6 +3981,8 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 6000880;"VšĮ Vilniaus greitosios pagalbos  universitetinės ligoninės medicininė įranga (lizingas: B korpuso 8 aukštas, A korpuso 7 aukštas) (Savivaldybės privatizavimo fondo lėšos)";Y;N;14-MAR-08;30-MAR-09
 6000881;"VšĮ Šeškinės poliklinikos universalios stacionarios rentgeno diagnostikos medicinos priemonės įsigijimas";Y;N;24-SEP-20;24-SEP-20
 6000882;"VšĮ Mykolo Marcinkevičiaus ligoninės, Kauno g. 7, teikiamų paslaugų plėtra ir optimizavimas (stacionarinė paliatyvi pagalba, palaikomasis gydymas ir slauga, geriatrija, terapija, neurologija) pastatant priestatą ir įsigyjant med. įrangą";Y;N;19-NOV-20;19-NOV-20
+6000883;"Kompleksinių paslaugų centro negalią turintiems vaikams ir jų šeimos nariams „Čiauškutė“  rekonstrukcija";Y;N;25-JAN-21;25-JAN-21
+6000884;"VšĮ „Senevita“ finansavimas";Y;N;25-JAN-21;25-JAN-21
 6000890;"VšĮ Vilniaus greitosios pagalbos  universitetinės ligoninės medicininė įranga (lizingas: B korpuso 1 ir 2 aukštas) (Savivaldybės privatizavimo fondo lėšos)";Y;N;14-MAR-08;30-MAR-09
 6000899;"Sveikatos priežiūros įstaigų reorganizacija, restruktūrizacija, renovacija ir medicininės įrangos įsigijimas (dotacijos iš FINMIN skoloms grąžinti)";Y;N;08-DEC-16;08-DEC-16
 6000900;"Socialinių reikalų departamento viešųjų įstaigų reorganizacija, restruktūrizacija, renovacija ir medicininės įrangos įsigijimas (Savivaldybės privatizavimo fondo lėšos)";Y;N;14-MAR-08;27-MAR-09
