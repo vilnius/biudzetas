@@ -700,6 +700,8 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 3000635;"Sanitarinis valymas ir aplinkos apsauga";Y;N;23-FEB-16;23-FEB-16
 3000636;"Sanitarinis valymas ir aplinkos apsauga  (Pagal taikos sutartį Savivaldybės skoliniams įsipareigojimams grąžinti (dotacijos))";Y;N;09-DEC-16;09-DEC-16
 3000637;"Sanitarinis valymas ir aplinkos apsauga";Y;N;10-JUN-20;10-JUN-20
+3000638;"Smėlio-druskos įsigijimas ir barstymas";Y;N;27-JAN-21;27-JAN-21
+3000639;"Mažųjų skverų (žaliųjų salelių) įrengimas";Y;N;27-JAN-21;27-JAN-21
 3000640;"Gatvių ir kelių priežiūra ir remontas";Y;N;20-NOV-07;11-JUN-12
 3000641;"Susisiekimo statiniu, lietas nuotekų tinklų, eismo reguliavimo priemoniu prieziur ir remontas";Y;N;15-JAN-09;15-JAN-09
 3000642;"Komunalinių statinių prieziura";Y;N;15-JAN-09;15-JAN-09
@@ -728,6 +730,9 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 3000672;"Miesto kapinių priežiūra (11 šalt.)";Y;N;30-DEC-19;30-DEC-19
 3000673;"Miesto kapinių priežiūra (61 šalt.)";Y;N;10-FEB-20;10-FEB-20
 3000674;"Išlaidų, susijusių su valstybės lygio ekstremaliosios situacijos dėl koronaviruso (COVID-19) ligos likvidavimu ir jos padarinių šalinimu, padengimas";Y;N;02-SEP-20;02-SEP-20
+3000675;"Darbai susiję su valstybės lygio ekstremaliosios situacijos dėl koronaviruso (COVID-19) ligos likvidavimu ir jos padarinių šalinimu";Y;N;27-JAN-21;27-JAN-21
+3000676;"Garažų iškėlimas. Teritorijų tvarkymas po garažų iškėlimo";Y;N;27-JAN-21;27-JAN-21
+3000677;"Paplūdimių priežiūra";Y;N;27-JAN-21;27-JAN-21
 3000678;"Kiti darbai komunalinių paslaugų srityje";Y;N;10-DEC-20;10-DEC-20
 3000679;"Eismo reguliavimo priemonių priežiūra ir remontas (61 šalt.)";Y;N;27-JUL-18;27-JUL-18
 3000680;"Eismo reguliavimo priemonių priežiūra ir remontas";Y;N;20-NOV-07;08-JUL-08
@@ -2628,6 +2633,7 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 4005011;"Vilniaus Mykolo Biržiškos gimnazijos Taikos g. 81 sporto aikštyno rekonstrukcija su projektavimo darbais ir įrangos įsigijimu";Y;N;14-FEB-20;14-FEB-20
 4005012;"Vilniaus Pilaitės baseino įrengimas su projektavimo darbais ir įrangos įsigijimu, Įsruties g. 3";Y;N;14-FEB-20;14-FEB-20
 4005013;"Sveikatingumo erdvių seniūnijoje įrengimas";Y;N;14-FEB-20;14-FEB-20
+4005014;"Vilniaus Pilaitės baseino įrengimas su projektavimo darbais ir įrangos įsigijimu, Įsruties g. 3 (13 šalt.)";Y;N;27-JAN-21;27-JAN-21
 4005049;"Skola VVK (SB)";Y;N;17-DEC-18;17-DEC-18
 4005050;"Gelbėtojų stoties ir irklavimo bazės prie Žaliųjų ežerų rekonstrukcija (BL)";Y;N;19-FEB-18;19-FEB-18
 4005060;"Sporto aikštelių įrengimas viešosiose erdvėse (skolos dengimas)";Y;N;19-FEB-18;19-FEB-18
@@ -3697,6 +3703,8 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 6000450;"Kitos bendros valstybės paslaugos (Socialinės paramos centras)";Y;N;20-NOV-07;14-MAR-08
 6000460;"Socialinės paramos centro Paslaugų namuose tarnybos išlaikymas";Y;N;20-NOV-07;01-MAR-12
 6000461;"Tikslinės lėšos Socialinės paramos centro Paslaugų namuose tarnybos išlaikymui";Y;N;28-MAY-20;28-MAY-20
+6000465;"Dienos centro „Bičiulis“ finansavimas";Y;N;27-JAN-21;27-JAN-21
+6000466;"Dienos centro „Labirintai“ finansavimas";Y;N;27-JAN-21;27-JAN-21
 6000470;"Socialinės paramos centro išlaikymas (Savivaldybės lėšos)";Y;N;20-NOV-07;27-DEC-19
 6000471;"Socialinės priežiūros socialinės rizikos šeimoms finansavimas iš savivaldybės lėšų (Socialinės paramos centras)";Y;N;14-MAR-08;14-MAR-08
 6000472;"Socialinių išmokų bei kompensacijų administravimas (Socialinės paramos centras)";Y;N;17-DEC-10;17-DEC-10
