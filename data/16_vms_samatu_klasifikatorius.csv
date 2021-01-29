@@ -1,5 +1,5 @@
 KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
-0000000;Nedetalizuojama;Y;N;19-NOV-07;13-APR-10
+0000000;Nedetalizuojama;Y;N;19-NOV-07;28-JAN-21
 1000000;"Administracijos sąmatos";Y;Y;20-NOV-07;29-SEP-09
 1000001;"Bendrų ekonominių ir socialinių planavimo paslaugų administravimas ir valdymas";Y;N;14-MAR-08;27-DEC-19
 1000002;"Savivaldos institucijos (Taryba)";Y;N;14-MAR-08;20-FEB-17
@@ -256,6 +256,7 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 1300172;"Paskolų mokėjimas pagal grafiką (skolintos lėšos)";Y;N;31-OCT-13;31-OCT-13
 1300173;"Paskolų  mokėjimas pagal grafiką (Lėšų likučiai iš SB lėšų )";Y;N;25-JUL-14;25-JUL-14
 1300174;"Pagal taikos sutartį savivaldybės paskoloms grąžinti";Y;N;23-FEB-18;23-FEB-18
+1300175;"Trumpalaikės 2020 m. paskolos grąžinimas (61 šalt.)";Y;N;28-JAN-21;28-JAN-21
 1300180;"Palūkanų mokėjimas pagal grafiką (1.2.2)";Y;N;06-DEC-11;06-DEC-11
 1500001;"Vidinės informacinės infrastruktūros palaikymas";Y;N;06-DEC-11;27-DEC-19
 1500002;"Vilniaus miesto savivaldybės administracijos tipinių veiklos procesų ir procedūrų visapusiškas tyrimas ir optimizavimas";Y;N;06-DEC-11;06-DEC-11
