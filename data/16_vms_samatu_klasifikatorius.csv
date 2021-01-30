@@ -113,7 +113,7 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 1000110;Nenaudojama;Y;N;20-NOV-07;10-NOV-17
 1000111;"Socialinės reabilitacijos paslaugų neįgaliesiems bendruomenėje projektų administravimas";Y;N;22-FEB-18;22-FEB-18
 1000115;"Dėl ekonomikos krizės neproporcingai sumažinto darbo užmokesčio (atlyginimo) dalies grąžinimas (20 proc.)";Y;N;22-FEB-18;22-FEB-18
-1000116;"Tarpinstitucinio bendradarbiavimo koordinatoriaus pareigybės išlaikymas";Y;N;07-MAR-18;27-DEC-19
+1000116;"Koordinuotai teikiamų paslaugų vaikams nuo gimimo iki 18 metų (turintiems didelių ir labai didelių specialiųjų ugdymosi poreikių – iki 21 metų) ir vaiko atstovams koordinavimas";Y;N;07-MAR-18;29-JAN-21
 1000117;"Institucijos valdymo išlaidos (Tarpinstitucinio bendradarbiavimo koordinavimo skyrius)";Y;N;02-JUL-18;02-JUL-18
 1000118;"Institucijos valdymo išlaidos (Administracija). Kitos išlaidos";Y;N;31-DEC-19;31-DEC-19
 1000119;"Institucijos valdymo išlaidos (Seniūnijos). Kitos išlaidos";Y;N;31-DEC-19;31-DEC-19
@@ -128,7 +128,7 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 1000128;"Dalyvavimas rengiant ir vykdant mobilizaciją";Y;N;31-DEC-19;31-DEC-19
 1000129;"Civilinė sauga";Y;N;31-DEC-19;31-DEC-19
 1000130;Nenaudojama;Y;N;20-NOV-07;31-DEC-19
-1000131;"Tarpinstitucinio bendradarbiavimo koordinatoriaus pareigybės išlaikymas";Y;N;31-DEC-19;31-DEC-19
+1000131;"Koordinuotai teikiamų paslaugų vaikams nuo gimimo iki 18 metų (turintiems didelių ir labai didelių specialiųjų ugdymosi poreikių – iki 21 metų) ir vaiko atstovams koordinavimas";Y;N;31-DEC-19;29-JAN-21
 1000132;"Bendruomenių patalpų išlaikymo išlaidos";Y;N;31-DEC-19;31-DEC-19
 1000133;"Seniūnaičių veiklos finansavimas";Y;N;31-DEC-19;31-DEC-19
 1000134;"Socialinių išmokų ir kompensacijų administravimas";Y;N;22-JAN-20;22-JAN-20
@@ -137,6 +137,8 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 1000137;"Vienkartinės išmokos vaikams administravimas (finansavimo šaltinis 1.1.1.1.1)";Y;N;27-JUL-20;27-JUL-20
 1000138;"Išlaidų, patirtų siekiant šalinti COVID-19 ligos (koronaviruso infekcijos) padarinius ir valdyti jos plitimą esant valstybės lygio ekstremaliajai situacijai, kompensavimas";Y;N;07-SEP-20;07-SEP-20
 1000139;"Socialinės paramos mokiniams administravimas (Socialinių išmokų skyrius)";Y;N;01-DEC-20;01-DEC-20
+1000140;Nenaudojama;Y;N;20-NOV-07;29-JAN-21
+1000141;"Akredituotos vaikų dienos socialinės priežiūros administravimas";Y;N;29-JAN-21;29-JAN-21
 1000150;Nenaudojama;Y;N;20-NOV-07;13-FEB-13
 1000151;"Tėvų mokesčio surinkimas jaunimo politiką  įgyvendinančiose įstaigose";Y;N;13-FEB-13;13-FEB-13
 1000152;"Išlaidų, susijusių su minimalios algos padidėjimu, finansavimas";Y;N;07-NOV-16;07-NOV-16
@@ -248,6 +250,7 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 1100012;"Vilniaus miesto 2021-2030 metų strateginio plano parengimas";Y;N;25-FEB-20;25-FEB-20
 1100013;"Savivaldybės įmonių ir įstaigų kontrolės vykdymas";Y;N;03-AUG-20;03-AUG-20
 1100014;"Bylinėjimosi arbitraže išlaidų apmokėjimui (2019-01-23 sprendimas Nr. 1-1919)";Y;N;27-AUG-20;27-AUG-20
+1100015;"Skolų grąžinimas pagal mokėjimų atidėjimo sutartis (skolintos lėšos)";Y;N;29-JAN-21;29-JAN-21
 1100100;"Vilniaus miesto 2010-2020 metų strateginio plano parengimas (ES)";Y;N;30-NOV-11;30-NOV-11
 1100500;"Administracijos direktoriaus 2012-05-04 įsakymas Nr. 30-899, 3 p.";Y;N;07-MAY-12;07-MAY-12
 1200001;"Korupcijai atsparios aplinkos kūrimas";Y;N;23-JUL-20;23-JUL-20
@@ -4610,6 +4613,7 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 9000202;"Žvėryno seniūnijos teritorijos priežiūra ir atnaujinimas";Y;N;03-FEB-10;03-FEB-10
 9000203;"Žvėryno seniūnijos teritorijos priežiūra ir atnaujinimas";Y;N;03-FEB-10;03-FEB-10
 9000204;"Remti bendruomeninę veiklą Žvėryno seniūnijoje";Y;N;24-MAY-12;27-DEC-19
+9000211;"Bendruomenių kultūrinių projektų finansavimas";Y;N;29-JAN-21;29-JAN-21
 9000214;"Bendruomeninės veiklos savivaldybėje administravimas";Y;N;31-AUG-17;31-AUG-17
 9000215;"Seniūnaičių veiklos finansavimas";Y;N;22-FEB-18;22-FEB-18
 9B00001;"Antakalnio bendruomenės kultūrinės veiklos plėtra";Y;Y;03-FEB-10;03-FEB-10
