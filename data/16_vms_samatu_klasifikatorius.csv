@@ -3503,6 +3503,7 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 5000314;"ES programos URBACT III projektas RURBAN (ES lėšos)";Y;N;29-DEC-20;30-DEC-20
 5000315;"ES Programos URBACT III projektas ""RU-URBAN""";Y;N;14-JAN-21;14-JAN-21
 5000316;"ES Programos ""ERASMUS + programos projektas MICROBE""";Y;N;11-JAN-21;11-JAN-21
+5000320;"Savivaldybėms priskirtų geodezijos ir kartografijos darbų (paslaugų) vykdymas";Y;N;02-FEB-21;02-FEB-21
 5000321;"Tauro kalno parko ir Liuteronų sodų tvarkymas Pietinėje tikslinėje teritorijoje";Y;N;26-JAN-21;26-JAN-21
 5000323;"Tauro kalno parko ir Liuteronų sodų tvarkymas Pietinėje tikslinėje teritorijoje";Y;N;26-JAN-21;26-JAN-21
 5001010;"FS-13-PR-11010224, Bendruomeninių (viešųjų-vietinių) želdynų miesto seniūnijose įrengimo projektiniai pasiūlymai (II etapas)";Y;N;18-JUN-08;18-JUN-08
@@ -3903,6 +3904,7 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 6000780;"Vilniaus priklausomybės ligų centro specialioji programa";Y;N;20-NOV-07;14-MAR-08
 6000781;"Vilniaus miesto savivaldybės visuomenės sveikatos biuro specialioji programa";Y;N;19-NOV-13;19-NOV-13
 6000782;"Vilniaus miesto savivaldybės visuomenės sveikatos biuro specialiosios programos lėšų likučiai";Y;N;27-JAN-17;27-JAN-17
+6000785;"Gulinčių nefrologinių ligonių pervežimas iš palaikomojo gydymo ir slaugos ligoninių dializės paslaugoms  (VšĮ GMPS)";Y;N;02-FEB-21;02-FEB-21
 6000790;"Vilniaus sveiko miesto biuro išlaikymas";Y;N;20-NOV-07;14-MAR-08
 6000791;"Vilniaus miesto savivaldybės visuomenės sveikatos biuro visuomenės sveikatos priežiūros veiklos finansavimas";Y;N;18-NOV-11;18-NOV-11
 6000793;"ES struktūrinių fondų lėšų bendrai finansuojamo projekto Nr. 08.4.2-ESFA-V-621-01-002 „Žemo slenksčio stacionarinių paslaugų teikimas Vilniaus miesto savivaldybėje“";Y;N;06-JAN-21;06-JAN-21
@@ -4320,6 +4322,7 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 6B01095;"„Mūsų namai“- laikino gyvenimo namų vaikus auginančioms moterims, neturinčioms gyvenamosios vietos, įsteigimas (rekonstrukcija)";Y;Y;30-SEP-09;30-SEP-09
 7000000;"Kontrolieriaus tarnybos sąmatos";Y;Y;20-NOV-07;14-MAR-08
 7000010;"Kontrolės priežiūros institucijos";Y;N;20-NOV-07;27-DEC-19
+7001000;"Koordinuotai teikiamos paslaugos";Y;N;02-FEB-21;02-FEB-21
 8000000;"Turto departamento sąmatos";Y;Y;14-MAR-08;14-MAR-08
 8000001;"Paramos priemonių smulkiąjam ir vidutiniam verslui įgyvendinimas, Privatizavimo fondas";Y;N;14-MAR-08;05-NOV-08
 8000002;"Komunalinio ūkio plėtra, Privatizavimo fondas";Y;N;14-MAR-08;05-NOV-08
