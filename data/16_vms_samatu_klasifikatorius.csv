@@ -693,6 +693,7 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 3000615;"Pastatų konstrukcijų ir inžinerinių tinklų priežiūra";Y;N;02-AUG-11;02-AUG-11
 3000616;"Susisiekimo infrastruktūros projektavimas (savivaldybės biudžetas)";Y;N;03-AUG-11;03-AUG-11
 3000617;"Susisiekimo infrastruktūros projektavimas (EOS)";Y;N;31-DEC-19;31-DEC-19
+3000618;"Susisiekimo infrastruktūros projektavimas";Y;N;03-FEB-21;03-FEB-21
 3000619;"Programos ""Žalias miestas"" vykdymui (Skolintos lėšos-skoloms mokėti)";Y;N;21-FEB-11;25-FEB-11
 3000620;"Intensyvaus autotransporto zonų humanizavimas (programos ""Žalias Miestas"" dalis )";Y;N;20-NOV-07;30-APR-08
 3000629;"Ne pagal tikslinę paskirtį panaudotų lėšų grąžinimas";Y;N;18-FEB-20;18-FEB-20
@@ -725,6 +726,7 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 3000656;"Tiltų ir viadukų priežiūra ir remontas (61 šalt.)";Y;N;27-JUL-18;27-JUL-18
 3000657;"Eismo reguliavimo priemonių priežiūra ir remontas";Y;N;18-FEB-20;18-FEB-20
 3000658;"Eismo reguliavimo priemonių priežiūra ir remontas (inv.)";Y;N;18-FEB-20;18-FEB-20
+3000659;"Gatvių, kelių ir lietaus nuotekų tinklų priežiūra ir remontas";Y;N;03-FEB-21;03-FEB-21
 3000660;"Fontanų priežiūra";Y;N;20-NOV-07;30-APR-08
 3000665;"Tiltų ir viadukų priežiūra ir remontas";Y;N;10-DEC-20;10-DEC-20
 3000668;"Išlaidų, susijusių su valstybės lygio ekstremaliosios situacijos dėl koronaviruso (COVID-19) ligos likvidavimu ir jos padarinių šalinimu, padengimas";Y;N;02-SEP-20;02-SEP-20
@@ -840,6 +842,7 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 3000901;"Vilniaus Vakarinio aplinkelio paraiškų ir projektų finansavimui iš ES fondų techninės dokumentacijos rengimui (privatizavimo fondas)";Y;N;01-JUL-08;21-JUL-08
 3000902;"Vilniaus Vakarinio aplinkkelio paraiškų ir projektų finansavimui iš ES fondų, techninės dokumentacijos rengimui (savivaldybės biudžetas)";Y;N;04-FEB-10;04-FEB-10
 3000903;"Vilniaus Vakarinio aplinkkelio, paraiškų ir projektų finansavimui iš ES fondų, techninės dokumentacijos rengimui – skoloms mokėti (skolintos lėšos)";Y;N;03-MAR-11;03-MAR-11
+3000904;"Paraiškų ir projektų, finansuojamų iš ES fondų, techninės dokumentacijos rengimui";Y;N;03-FEB-21;03-FEB-21
 3000909;"Transeuropinio tinklo jungtis - Vilniaus miesto vakarinio aplinkkelio III etapas (nuo Ozo g.) (projektavimo darbai) (skolintos lėšos)";Y;N;03-MAR-11;03-MAR-11
 3000910;"Gedimino prospekto rekonstrukcija (projektavimas ir statyba, III etapas) privatizavimo lėšos";Y;N;20-NOV-07;28-SEP-10
 3000911;"Gedimino prospekto rekonstrukcija (projektavimas ir statyba, III etapas) kelių fondo  lėšos";Y;N;20-NOV-07;17-DEC-14
@@ -851,6 +854,7 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 3000925;"Paminklo dr. Jonui Basanavičiui pastatymas ir aikštės prie Lietuvos nacionalinės filharmonijos sutvarkymas";Y;N;04-AUG-16;04-AUG-16
 3000926;"Paminklo dr. Jonui Basanavičiui pastatymas ir aikštės prie Lietuvos nacionalinės filharmonijos sutvarkymas (Valstybės biudžetas)";Y;N;09-DEC-16;09-DEC-16
 3000927;"Paminklo dr. Jonui Basanavičiui pastatymas ir aikštės prie Lietuvos nacionalinės filharmonijos sutvarkymas (61 šalt.)";Y;N;22-JAN-19;22-JAN-19
+3000929;"Antžeminių automobilių stovėjimo aikštelių įrengimas ir išplėtimas";Y;N;03-FEB-21;03-FEB-21
 3000930;"Požeminių automobilių stovėjimo aikštelių įrengimas (privatizav)";Y;N;20-NOV-07;20-DEC-11
 3000931;"Požeminių automobilių stovėjimo aikštelių įrengimas (savivaldybės biudžetas)";Y;N;03-MAR-11;03-MAR-11
 3000932;"Dviračių saugojimo paviljonų įrengimas";Y;N;14-FEB-18;22-JAN-20
@@ -1063,6 +1067,7 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 3001431;"Vilniaus miesto kapinių statinių remontas ir plėtimas (Skolintos lėšos)";Y;N;02-APR-09;03-APR-09
 3001432;"Vilniaus miesto kapinių statinių remontas ir plėtimas (TA)";Y;N;27-JUN-18;27-DEC-19
 3001435;"Vilniaus miesto kapinių statinių remontas ir plėtimas";Y;N;15-DEC-15;15-DEC-15
+3001437;"Vilniaus miesto susisiekimo infrastruktūros vystymas (priežiūra, remontas, rekonstrukcija)";Y;N;03-FEB-21;03-FEB-21
 3001439;"Stelos Sausio 13-ąją nukentėjusiųjų atminimui įamžinti pagaminimui ir pastatymui";Y;N;22-SEP-20;22-SEP-20
 3001440;"Rasų kapinių centrinės koplyčios restauravimo darbai (privatizavimo fondas)";Y;N;14-MAR-08;03-APR-09
 3001441;"Rasų kapinių centrinės koplyčios restauravimo darbai";Y;N;30-MAR-09;30-MAR-09
@@ -1075,6 +1080,8 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 3001472;"Bendro naudojimo komunalinių statinių remontas ir rekonstrukcija senamiestyje";Y;N;10-APR-08;08-JUL-08
 3001473;"Vilniaus senamiesčio skverų tvarkymas";Y;N;10-APR-08;08-JUL-08
 3001474;"Rasų kapinių centrinės koplyčios restauravimo darbai";Y;N;10-APR-08;30-APR-08
+3001477;"Sacharovo aikštės sutvarkymas";Y;N;03-FEB-21;03-FEB-21
+3001479;"Lukiškių aikštės sutvarkymo darbai su techninio darbo projekto parengimu ir projekto vykdymo priežiūra (I etapas)";Y;N;03-FEB-21;03-FEB-21
 3001480;"Paminklas politiniams kaliniams ir tremtiniams Karveliškių kapinėse (190)";Y;N;14-MAR-08;30-MAR-09
 3001481;"Poilsio zonos Justiniškėse Taikos g tvarkymo darbams atlikti ( valstybės 700,0)";Y;N;10-APR-08;30-APR-08
 3001482;"Vingio parko prieigų tvarkymas , pasirengimas Vilnius Europos kultūros sostinė 2009 (skolintos 1500,0)";Y;N;10-APR-08;08-JUL-08
@@ -1181,7 +1188,13 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 3001584;"Valstybinio Trakų Vokės parko tvarkymas ir pritaikymas lankymui ir tausojančiam naudojimui (69 šalt.)";Y;N;18-FEB-20;18-FEB-20
 3001585;"Neries senvagės rekreacinės infrastruktūros įrengimas su aktyvaus poilsio ir pėsčiųjų bei dviračių trasomis (skol. lėšos)";Y;N;21-MAY-20;21-MAY-20
 3001586;"Centrinės gatvės bulvaro su rekreacine įranga įrengimas Paplaujos rajone";Y;N;07-SEP-20;07-SEP-20
+3001587;"Centrinės gatvės bulvaro su rekreacine įranga įrengimas Paplaujos rajone";Y;N;03-FEB-21;03-FEB-21
+3001588;"Viešųjų erdvių tvarkymas Pietinėje tikslinėje teritorijoje prie rekonstruojamų Aukštaičių, Paupio ir Drujos gatvių";Y;N;03-FEB-21;03-FEB-21
 3001590;"J.Basanavičiaus-Mindaugo g. sankryžoje skulptūrinio elemento sukūrimas (skolintos)";Y;N;12-MAY-08;12-MAY-08
+3001591;"Pėsčiųjų - dviračių takų infrastruktūros atnaujinimas ir plėtra Žalgirio, Rinktinės, Širvintų, Kernavės gatvėse Šiaurinėje tikslinėje teritorijoje";Y;N;03-FEB-21;03-FEB-21
+3001593;"Pėsčiųjų tunelio po geležinkeliu Vilniaus miesto Iešmininkų gatvėje įrengimas";Y;N;03-FEB-21;03-FEB-21
+3001595;"Dviračių turizmo trasų ir maršrutų (jungčių su Trakų ir Vilniaus rajonų savivaldybėmis) ženklinimas (įgyvendinama su Vilniaus, Trakų, Širvintų rajonų savivaldybėmis)";Y;N;03-FEB-21;03-FEB-21
+3001597;"Kompleksinis gyvenamojo rajono kvartalo Žirmūnų, Minties, Tuskulėnų gatvių trikampyje viešosios infrastruktūros atnaujinimas";Y;N;03-FEB-21;03-FEB-21
 3001598;"Kompleksinis gyvenamojo rajono kvartalo Žirmūnų, Minties, Tuskulėnų gatvių trikampyje, toliau – „Žirmūnų trikampis“ bendrai naudojamų teritorijų ir viešosios infrastruktūros atnaujinimas";Y;N;03-JUN-20;03-JUN-20
 3001599;"Valstybinio Sapiegų parko tvarkymas ir pritaikymas lankymui ir tausojančiam naudojimui (13 šalt.)";Y;N;19-JUN-19;19-JUN-19
 3001600;"Esamų dviračio takų sujungimas (biudžeto)";Y;N;12-MAY-08;12-MAY-08
@@ -1212,18 +1225,41 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 3001625;"Dviračių takų infrastruktūros atnaujinimas ir plėtra Algirdo, V.Mykolaičio-Putino, Geležinkelio, Dariaus ir Girėno gatvėse Pietinėje tikslinėje teritorijoje";Y;N;18-FEB-20;18-FEB-20
 3001626;"Dviračių takų infrastruktūros atnaujinimas ir plėtra Algirdo, V.Mykolaičio-Putino, Geležinkelio, Dariaus ir Girėno gatvėse Pietinėje tikslinėje teritorijoje (ES)";Y;N;18-FEB-20;18-FEB-20
 3001627;"Kernavės g. nuo Žalgirio g. iki Lvovo g. rekonstrukcija, įrengiant modernias eismo saugos priemones";Y;N;26-OCT-20;26-OCT-20
+3001628;"Giedraičių ir kitų Šnipiškių gatvių tarp Lvovo ir Žalgirio gatvių rekonstravimas, įrengiant modernias eismo saugos priemones";Y;N;03-FEB-21;03-FEB-21
 3001630;"Ž.Ežerų g. pėščiųjų tako su apšvietimu įrengimas (kelių fondas)";Y;N;12-MAY-08;12-MAY-08
 3001631;"Pėsčiųjų dviračių tilto per Nerį tarp Lazdynų ir Naujamiesčio (Užvingio salos tiltas) įrengimas ir viešosios erdvės sutvarkymas";Y;N;18-FEB-20;18-FEB-20
 3001632;"Žaliųjų ežerų gatvės ruožo nuo Santariškių žiedo iki P. Baublio gatvės rekonstrukcija (KPPP)";Y;N;22-MAY-18;22-MAY-18
+3001633;"Gamtinės Neries senvagės kraštovaizdžio arealų būklės atkūrimas (tarp Linkmenų ir Geležinio Vilko gatvių)";Y;N;03-FEB-21;03-FEB-21
 3001634;"Kairėnų gatvės ruožo nuo Plytinės gatvės iki administracinės Vilniaus miesto ribos rekonstrukcija (KPPP)";Y;N;22-MAY-18;22-MAY-18
+3001635;"Požeminės perėjos įrengimas Vilniaus miesto Zuikių gatvėje";Y;N;03-FEB-21;03-FEB-21
+3001636;"Neries senvagės rekreacinės infrastruktūros įrengimas su aktyvaus poilsio ir pėsčiųjų bei dviračių trasomis";Y;N;03-FEB-21;03-FEB-21
+3001637;"Neries senvagės rekreacinės infrastruktūros įrengimas su aktyvaus poilsio ir pėsčiųjų bei dviračių trasomis";Y;N;03-FEB-21;03-FEB-21
+3001638;"Kernavės g. nuo Žalgirio g. iki Lvovo g. rekonstrukcija, įrengiant modernias eismo saugos priemones";Y;N;03-FEB-21;03-FEB-21
 3001640;"Vilniaus miesto dviračių takų specialiojo plano parengimas (Savivaldybės biudžeto lėšos)";Y;N;20-FEB-12;20-FEB-12
 3001641;"Vilniaus miesto dviračių takų specialiojo plano parengimas (ES lėšos)";Y;N;15-FEB-13;15-FEB-13
 3001642;"Vilniaus miesto dviračių takų specialiojo plano parengimas (Privatizavimo fondo lėšos)";Y;N;07-NOV-13;07-NOV-13
+3001643;"Kultūrinį-istorinį reformacijos paveldą reprezentuojančio Reformatų sodo atkūrimas ir sutvarkymas";Y;N;03-FEB-21;03-FEB-21
+3001644;"Kultūrinį-istorinį reformacijos paveldą reprezentuojančio Reformatų sodo atkūrimas ir sutvarkymas";Y;N;03-FEB-21;03-FEB-21
+3001645;"Kultūrinį-istorinį reformacijos paveldą reprezentuojančio Reformatų sodo atkūrimas ir sutvarkymas";Y;N;03-FEB-21;03-FEB-21
+3001646;"Neries slėnio rekreacinės paskirties takų ir jų jungčių, saugos ir kitos viešųjų erdvių infrastruktūros įrengimas";Y;N;03-FEB-21;03-FEB-21
+3001647;"Neries slėnio rekreacinės paskirties takų ir jų jungčių, saugos ir kitos viešųjų erdvių infrastruktūros įrengimas";Y;N;03-FEB-21;03-FEB-21
+3001648;"Dviračių takų infrastruktūros atnaujinimas ir plėtra Algirdo, V.Mykolaičio-Putino, Geležinkelio, Dariaus ir Girėno gatvėse Pietinėje tikslinėje teritorijoje";Y;N;03-FEB-21;03-FEB-21
+3001649;"Dviračių takų infrastruktūros atnaujinimas ir plėtra Algirdo, V.Mykolaičio-Putino, Geležinkelio, Dariaus ir Girėno gatvėse Pietinėje tikslinėje teritorijoje";Y;N;03-FEB-21;03-FEB-21
 3001650;"Architektūros parko infrastruktūros objektų įrengimas (Savivaldybės biudžeto lėšos)";Y;N;20-FEB-12;20-FEB-12
 3001651;"Architektūros parko infrastruktūros objektų įrengimas (Privatizavimo fondo lėšos)";Y;N;07-NOV-13;07-NOV-13
+3001653;"Viešųjų erdvių tvarkymas Šiaurinėje tikslinėje teritorijoje tarp Giedraičių g. ir Kintų g., ir prie Giedraičų g.";Y;N;03-FEB-21;03-FEB-21
+3001655;"Neries krantinių modernizavimas, sukuriant inovatyvias erdves kūrybai, sąlygas aktyviam poilsiui, sveikatingumo renginiams Šiaurinėje teritorijoje";Y;N;03-FEB-21;03-FEB-21
+3001656;"Neries krantinių modernizavimas, sukuriant inovatyvias erdves kūrybai, sąlygas aktyviam poilsiui, sveikatingumo renginiams Šiaurinėje teritorijoje";Y;N;03-FEB-21;03-FEB-21
+3001657;"Vilniaus istorinių Rasų kapinių, koplyčių, tvorų, atskirų paminklų tvarkyba";Y;N;03-FEB-21;03-FEB-21
+3001658;"Vilniaus istorinių Rasų kapinių, koplyčių, tvorų, atskirų paminklų tvarkyba";Y;N;03-FEB-21;03-FEB-21
 3001660;"Nemenčinės plento ir Lizdeikos gatvių jungties įrengimas (Savivaldybės biudžeto lėšos)";Y;N;20-FEB-12;20-FEB-12
 3001661;"Nemenčinės plento ir Lizdeikos gatvių jungties įrengimas (Paramos lėšos socialinės infrastruktūros plėtrai)";Y;N;20-FEB-12;20-FEB-12
 3001662;"Nemenčinės plento ir Lizdeikos gatvių jungties įrengimas (Privatizavimo fondo lėšos)";Y;N;07-NOV-13;07-NOV-13
+3001665;"Naujamiesčio viešųjų erdvių tvarkymas (Vingrių šaltinio skveras ir Amatų g.)";Y;N;03-FEB-21;03-FEB-21
+3001666;"Naujamiesčio viešųjų erdvių tvarkymas (Vingrių šaltinio skveras ir Amatų g.)";Y;N;03-FEB-21;03-FEB-21
+3001667;"Viešosios erdvės tvarkymas Pietinėje tikslinėje teritorijoje prie Amatų gatvės";Y;N;03-FEB-21;03-FEB-21
+3001668;"Viešosios erdvės tvarkymas Pietinėje tikslinėje teritorijoje prie Amatų gatvės";Y;N;03-FEB-21;03-FEB-21
+3001669;"Viešosios erdvės tvarkymas Pietinėje tikslinėje teritorijoje prie Amatų gatvės";Y;N;03-FEB-21;03-FEB-21
 3001670;"Vilniaus miesto Santariškių g. dalies rekonstrukcija su požeminio pėsčiųjų tunelio įrengimu (Europos Sąjungos lėšos)";Y;N;17-FEB-12;17-FEB-12
 3001671;"Vilniaus miesto Santariškių g. dalies rekonstrukcija su požeminio pėsčiųjų tunelio įrengimu (Valstybės biudžetas)";Y;N;17-FEB-12;17-FEB-12
 3001672;"Vilniaus miesto Santariškių g. dalies rekonstrukcija su požeminio pėsčiųjų tunelio įrengimu (Skolintos lėšos (Paskolos savivaldybės vardu)";Y;N;17-FEB-12;17-FEB-12
@@ -1231,6 +1267,7 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 3001780;"Skolų už atliktus darbus apmokėjimas";Y;N;19-FEB-13;19-FEB-13
 3001781;"Skolų už atliktus darbus apmokėjimas(savivaldybės biudžeto lėšų likutis)";Y;N;05-MAR-15;05-MAR-15
 3001800;"Valstybės vadovų palaidojimo vietos sutvarkymas Antakalnio kapinėse";Y;N;20-FEB-12;20-FEB-12
+3001802;"Lazdynų sveikatinimo centro prieigų aplinkos sutvarkymas";Y;N;03-FEB-21;03-FEB-21
 3001803;"Lazdynų sveikatingumo centro prieigų aplinkos sutvarkymas (skol. lėšos)";Y;N;14-MAY-20;14-MAY-20
 3001804;"Lazdynų sveikatinimo centro prieigų aplinkos sutvarkymas";Y;N;18-FEB-20;18-FEB-20
 3001805;"Lazdynų sveikatingumo centro prieigų aplinkos sutvarkymas";Y;N;07-APR-16;07-APR-16
@@ -3223,6 +3260,7 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 4040042;"Papildomas lėšų gavimas už patalpų nuomą ugdymo įstaigose";Y;N;31-DEC-19;31-DEC-19
 4040043;"Neformalaus ugdymo įstaigų veiklos finansavimas ir plėtra (69 šalt.)";Y;N;31-DEC-19;31-DEC-19
 4040044;"Neformaliojo vaikų švietimo 15 eurų krepšelio lėšos (vasaros metu)";Y;N;10-JUN-20;10-JUN-20
+4040045;"Neformaliojo vaikų švietimo finansavimas - 15 eurų krepšelis (Valstybės lėšos)";Y;N;03-FEB-21;03-FEB-21
 4B00020;"Moksleivio krepšelio finansavimas Vilniaus m. ikimokyklinėse įstaigose";Y;Y;23-JUL-09;23-JUL-09
 4B00030;"Moksleivio krepšelio nevalstybinėms  ikimokyklinio ugdymo  įstaigoms  finansavimas";Y;Y;23-JUL-09;23-JUL-09
 4B00050;"Vilniaus lopšelio-darželio ""Gilužis"" remonto darbams atlikti** (spec. tikslinė dotacija kitoms programoms finansuoti)";Y;Y;23-JUL-09;23-JUL-09
@@ -3446,8 +3484,8 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 5000185;"FS-03-PR-13010201, Panerių erozinio kalvyno kraštovaizdžio specialusis planas";Y;N;26-JAN-15;26-JAN-15
 5000187;"Skolų apmokėjimui";Y;N;06-DEC-16;06-DEC-16
 5000188;"Detaliųjų, specialiųjų,  žemės sklypų ribų ir kitų planų, programų, schemų rengimas";Y;N;28-JAN-16;28-JAN-16
-5000189;"Detaliųjų, specialiųjų, žemės sklypų ribų ir kitų planų, programų, schemų rengimas (30)";Y;N;28-JAN-16;27-DEC-19
-5000190;"FS-01-PR-13010201, Detaliųjų, specialiųjų,  žemės sklypų ribų ir kitų planų, programų, schemų rengimas";Y;N;20-NOV-07;27-DEC-19
+5000189;"Erdvinių planų, jų rinkinių, schemų rengimas ir tvarkymas";Y;N;28-JAN-16;03-FEB-21
+5000190;"FS-01-PR-13010201, Detaliųjų, specialiųjų,  žemės sklypų ribų ir kitų planų, programų, schemų rengimas";Y;N;20-NOV-07;03-FEB-21
 5000191;"FS-16-PR-13010201, Detaliųjų, specialiųjų, žemės sklypų ribų ir kitų planų, programų, schemų rengimas";Y;N;19-NOV-09;19-NOV-09
 5000192;"FS-16-PR-13010201, Detaliųjų, specialiųjų,  žemės sklypų ribų ir kitų planų, programų, schemų rengimas (VMSA direktoriaus 2009-12-14 įsakymas Nr.30-2172)";Y;N;21-DEC-09;21-DEC-09
 5000193;"Misionierių sodų projektiniai pasiūlymai";Y;N;08-MAR-11;08-MAR-11
@@ -3466,7 +3504,7 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 5000206;"ES programos URBACT III projektas Re-Generation";Y;N;12-FEB-16;17-JAN-17
 5000207;"Paminklo Jonui Basanavičiui statybos vietos (tarp Subačiaus g. ir Aušros Vartų g.) žvalgomųjų archeologinių ir istorinių tyrimų atlikimas";Y;N;07-SEP-16;07-SEP-16
 5000208;"ES programos HORIZON 2020 projektas „ROCK“";Y;N;08-MAY-17;08-MAY-17
-5000209;"Žemės sklypų įregistravimas NTR";Y;N;26-MAY-17;27-DEC-19
+5000209;"Erdvinių planų, jų rinkinių, schemų rengimas ir tvarkymas";Y;N;26-MAY-17;03-FEB-21
 5000210;"FS-01-PR-13010401, Skverų,aikščių,  žaidimų aikštelių, viešųjų erdvių projektų rengimas, reklamos ir mažosios architektūros projektai ir sprendiniai";Y;N;20-NOV-07;20-NOV-20
 5000211;"FS-16-PR-13010401, Skverų,aikščių,  žaidimų aikštelių, viešųjų erdvių projektų rengimas, reklamos ir mažosios architektūros projektai ir sprendiniai (AD 2009-11-30 įsakymas Nr. 30-2101- VŠĮ J. Ivanauskaitės  kūrybos paveldo centrui)";Y;N;09-DEC-09;09-DEC-09
 5000212;"Lėšos SB „Rytas“ Šv.Kristoforo ąžuolinės skulptūros pastatymui paremti (AD rezervo lėšos pagal 2012-06-07 įsakymą Nr.30-1126)";Y;N;08-JUN-12;08-JUN-12
@@ -3496,7 +3534,7 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 5000306;"ES programos HORIZON 2020 projektas „CIVITAS SUMPs-Up“ (SB)";Y;N;15-MAY-19;15-MAY-19
 5000307;"ES programos HORIZON 2020 projektas „CIVITAS SUMPs-Up“ (ES)";Y;N;15-MAY-19;15-MAY-19
 5000308;"Programos INTERREG BALTIC SEA REGION projektą „CMM“";Y;N;18-FEB-20;18-FEB-20
-5000309;"Detaliųjų, specialiųjų, žemės sklypų ribų ir kitų planų, programų, schemų rengimas (30)";Y;N;31-DEC-19;31-DEC-19
+5000309;"Erdvinių planų, jų rinkinių, schemų rengimas ir tvarkymas";Y;N;31-DEC-19;03-FEB-21
 5000310;"ES Programos INTERREG BALTIC SEA REGION programa „CMM“";Y;N;03-JUN-20;03-JUN-20
 5000311;"ES Programos „ERASMUS + programos projektas MICROBE“";Y;N;17-NOV-20;17-NOV-20
 5000313;"ES Programos HORIZON 2020 projektas ROCK";Y;N;01-DEC-20;01-DEC-20
