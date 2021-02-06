@@ -3264,6 +3264,7 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 4040043;"Neformalaus ugdymo įstaigų veiklos finansavimas ir plėtra (69 šalt.)";Y;N;31-DEC-19;31-DEC-19
 4040044;"Neformaliojo vaikų švietimo 15 eurų krepšelio lėšos (vasaros metu)";Y;N;10-JUN-20;10-JUN-20
 4040045;"Neformaliojo vaikų švietimo finansavimas - 15 eurų krepšelis (Valstybės lėšos)";Y;N;03-FEB-21;03-FEB-21
+4040046;"Neformaliojo vaikų (augančių socialinę riziką patiriančiose šeimose) švietimo veiklų finansavimas";Y;N;05-FEB-21;05-FEB-21
 4B00020;"Moksleivio krepšelio finansavimas Vilniaus m. ikimokyklinėse įstaigose";Y;Y;23-JUL-09;23-JUL-09
 4B00030;"Moksleivio krepšelio nevalstybinėms  ikimokyklinio ugdymo  įstaigoms  finansavimas";Y;Y;23-JUL-09;23-JUL-09
 4B00050;"Vilniaus lopšelio-darželio ""Gilužis"" remonto darbams atlikti** (spec. tikslinė dotacija kitoms programoms finansuoti)";Y;Y;23-JUL-09;23-JUL-09
@@ -4483,6 +4484,8 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 8000121;"Dotacija VšĮ Šiaurės miestelis";Y;N;25-FEB-20;25-FEB-20
 8000122;"Daugiafunkcinio Lazdynų sveikatingumo centro įkūrimas (skolintos)";Y;N;10-APR-20;10-APR-20
 8000124;"Daugiafunkcinio Lazdynų sveikatingumo centro įkūrimas (infrastruktūros parama)";Y;N;13-MAY-20;13-MAY-20
+8000125;"Balsių bendruomenės centrui viešosios ir privačios partnerystės būdu ruošiamam investicijų planui";Y;N;05-FEB-21;05-FEB-21
+8000126;"Pavilnio bendruomenės centro architektūrinių ar idėjų organizavimui";Y;N;05-FEB-21;05-FEB-21
 8000128;"Projektų techninės dokumentacijos rengimas";Y;N;31-DEC-19;31-DEC-19
 8000129;"Dotacija VšĮ Šiaurės miestelis";Y;N;31-DEC-19;31-DEC-19
 8000130;"Skolų mokėjimas pagal pasirašytas skolų grąžinimo sutartis ir kitų finansinių įsipareigojimų vykdymas";Y;N;04-MAR-14;04-MAR-14
