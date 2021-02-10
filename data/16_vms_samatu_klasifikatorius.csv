@@ -874,6 +874,8 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 3000960;"Ukmergės g. nuo Žadeikos g. iki senosios miesto ribos rekonstrukcija";Y;N;20-NOV-07;30-APR-08
 3000961;"Ukmergės g. nuo Žadeikos g. iki senosios miesto ribos rekonstrukcija(skolintos 100,0)";Y;N;10-APR-08;30-APR-08
 3000962;"Požeminės perėjos įrengimas Vilniaus miesto Zuikių gatvėje (ES)";Y;N;18-FEB-20;18-FEB-20
+3000963;"Projekto UAB „Vilniaus viešasis transportas“ veiklos optimizavimas, viešojo transporto priemonių parką, esantį adresu Verkių g. 52, Vilniuje, restruktūrizuojant į atskirus įmonės parkus";Y;N;09-FEB-21;09-FEB-21
+3000964;"Projekto UAB „Vilniaus viešasis transportas“ veiklos optimizavimas, viešojo transporto priemonių parką, esantį adresu Verkių g. 52, Vilniuje, restruktūrizuojant į atskirus įmonės parkus";Y;N;09-FEB-21;09-FEB-21
 3000970;"Šiaurinės gatvės statyba";Y;N;20-NOV-07;03-MAR-11
 3000971;"Teritorijos projektavimui ir įrengimui ties P. Vileišio gatve, Antakalnyje nuo Šilo g. iki Valakampių tilto (Privatizavimo fondo lėšos)";Y;N;07-NOV-13;07-NOV-13
 3000975;"Kalvarijų gatvės ruožui nuo P.Lukšio gatvės iki Apkasų gatvės rekonstruoti";Y;N;28-APR-16;28-APR-16
@@ -1249,6 +1251,7 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 3001649;"Dviračių takų infrastruktūros atnaujinimas ir plėtra Algirdo, V.Mykolaičio-Putino, Geležinkelio, Dariaus ir Girėno gatvėse Pietinėje tikslinėje teritorijoje";Y;N;03-FEB-21;03-FEB-21
 3001650;"Architektūros parko infrastruktūros objektų įrengimas (Savivaldybės biudžeto lėšos)";Y;N;20-FEB-12;20-FEB-12
 3001651;"Architektūros parko infrastruktūros objektų įrengimas (Privatizavimo fondo lėšos)";Y;N;07-NOV-13;07-NOV-13
+3001652;"Elektromobilių įkrovos aikštelių įrengimas";Y;N;09-FEB-21;09-FEB-21
 3001653;"Viešųjų erdvių tvarkymas Šiaurinėje tikslinėje teritorijoje tarp Giedraičių g. ir Kintų g., ir prie Giedraičų g.";Y;N;03-FEB-21;03-FEB-21
 3001654;"Viešųjų erdvių tvarkymas Šiaurinėje tikslinėje teritorijoje tarp Giedraičių g. ir Kintų g., ir prie Giedraičų g.";Y;N;04-FEB-21;04-FEB-21
 3001655;"Neries krantinių modernizavimas, sukuriant inovatyvias erdves kūrybai, sąlygas aktyviam poilsiui, sveikatingumo renginiams Šiaurinėje teritorijoje";Y;N;03-FEB-21;03-FEB-21
@@ -1284,10 +1287,17 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 3001822;"Japoniško sodo įkūrimas teritorijoje prie Lvovo g. ir Geležinio Vilko g.";Y;N;08-JAN-21;08-JAN-21
 3001823;"Japoniško sodo įkūrimas teritorijoje prie Lvovo ir Geležinio Vilko g. (ES)";Y;N;08-JAN-21;08-JAN-21
 3001824;"Japoniško sodo įkūrimas teritorijoje prie Lvovo ir Geležinio Vilko g. (VB)";Y;N;08-JAN-21;08-JAN-21
+3001825;"Viešojo transporto e.bilieto sistemos vystymas Vilniaus regione";Y;N;09-FEB-21;09-FEB-21
+3001826;"Viešojo transporto e.bilieto sistemos vystymas Vilniaus regione";Y;N;09-FEB-21;09-FEB-21
+3001827;"Viešojo transporto eismo juostų plėtra Vilniaus m. savivaldybės teritorijoje";Y;N;09-FEB-21;09-FEB-21
+3001828;"Viešojo transporto eismo juostų plėtra Vilniaus m. savivaldybės teritorijoje";Y;N;09-FEB-21;09-FEB-21
 3001829;"Pėsčiųjų viaduko per Narbuto gatvę statyba (KPPP)";Y;N;22-MAY-18;22-MAY-18
 3001830;"Dviračių tako T. Narbuto gatvėje nuo Pilaitės pr. iki Konstitucijos pr. statyba (SB)";Y;N;13-FEB-17;13-FEB-17
 3001831;"Dviračių takų su rekreacine infrastruktūra įrengimas algirdo, V. Mykolaičio - Putino, Geležinkelio, Dariaus ir Girėno gatvėse, Pietinėje ITV teritorijoje";Y;N;14-FEB-18;14-FEB-18
 3001832;"Dviračių tako T. Narbuto gatvėje nuo Pilaitės pr. iki Konstitucijos pr. statyba (13 šalt.)";Y;N;18-FEB-20;18-FEB-20
+3001837;"Kilpinis eismo reguliavimas Vilniaus m. senamiesčio branduolio teritorijoje";Y;N;09-FEB-21;09-FEB-21
+3001838;"Dviračių ir kitų riedėjimo priemonių laikymo ir saugojimo infrastruktūros įrengimas Vilniaus miesto savivaldybės teritorijoje";Y;N;09-FEB-21;09-FEB-21
+3001839;"Dviračių ir kitų riedėjimo priemonių laikymo ir saugojimo infrastruktūros įrengimas Vilniaus miesto savivaldybės teritorijoje";Y;N;09-FEB-21;09-FEB-21
 3001840;"Dviračių tako nuo Ukmergės g. iki Konstitucijos pr. statyba";Y;N;13-FEB-17;27-DEC-19
 3001900;"Suoliukai Katedros aikštėje (pagal projektą ""Dovana Vilniui"")";Y;N;09-SEP-13;09-SEP-13
 3001910;"Vingio parko infrastruktūros tvarkymo darbai, pasirengiant 2014 m. dainų šventei";Y;N;04-JUL-14;23-JUL-14
@@ -4541,6 +4551,7 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 8000120;"Projektų techninės dokumentacijos rengimas";Y;N;25-FEB-20;25-FEB-20
 8000121;"Dotacija VšĮ Šiaurės miestelis";Y;N;25-FEB-20;25-FEB-20
 8000122;"Daugiafunkcinio Lazdynų sveikatingumo centro įkūrimas (skolintos)";Y;N;10-APR-20;10-APR-20
+8000123;"Daugiafunkcinio Lazdynų sveikatingumo centro įkūrimas (ES)";Y;N;09-FEB-21;09-FEB-21
 8000124;"Daugiafunkcinio Lazdynų sveikatingumo centro įkūrimas (infrastruktūros parama)";Y;N;13-MAY-20;13-MAY-20
 8000125;"Balsių bendruomenės centrui viešosios ir privačios partnerystės būdu ruošiamam investicijų planui";Y;N;05-FEB-21;05-FEB-21
 8000126;"Pavilnio bendruomenės centro architektūrinių ar idėjų organizavimui";Y;N;05-FEB-21;05-FEB-21
