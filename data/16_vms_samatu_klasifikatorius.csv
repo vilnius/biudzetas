@@ -699,6 +699,7 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 3000618;"Susisiekimo infrastruktūros projektavimas";Y;N;03-FEB-21;03-FEB-21
 3000619;"Programos ""Žalias miestas"" vykdymui (Skolintos lėšos-skoloms mokėti)";Y;N;21-FEB-11;25-FEB-11
 3000620;"Intensyvaus autotransporto zonų humanizavimas (programos ""Žalias Miestas"" dalis )";Y;N;20-NOV-07;30-APR-08
+3000621;"Susisiekimo infrastruktūros projektavimas";Y;N;18-MAR-21;18-MAR-21
 3000629;"Ne pagal tikslinę paskirtį panaudotų lėšų grąžinimas";Y;N;18-FEB-20;18-FEB-20
 3000630;"Sanitarinis valymas ir aplinkos apsauga";Y;N;20-NOV-07;20-APR-11
 3000631;"Sanitarinis valymas ir aplinkos apsauga (Skolintos lėšos-skoloms mokėti)";Y;N;21-FEB-11;19-APR-11
@@ -2742,6 +2743,7 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 4006307;"Mokamų paslaugų teikimas neformaliojo švietimo įstaigose (sport.)";Y;N;31-DEC-19;31-DEC-19
 4006308;"Papildomas lėšų gavimas nuomojant patalpas (sport.)";Y;N;31-DEC-19;31-DEC-19
 4006309;"Mokamų paslaugų neformaliojo švietimo įstaigose teikimas(Vilniaus moksleivių sveikatos centas)";Y;N;31-DEC-19;31-DEC-19
+4006310;"Sporto mokyklų Covid-19 išlaidų padengimas";Y;N;18-MAR-21;18-MAR-21
 4006350;"Vilniaus Užupio gimnazijos šaudyklos renovacija";Y;N;05-FEB-14;05-FEB-14
 4006500;"VšĮ „Užupio meno inkubatorius“ plėtra (skolintos lėšos)";Y;N;23-FEB-12;23-FEB-12
 4006510;"„Menų spaustuvės“ kūrybinių verslų inkubatoriaus infrastruktūros plėtra: baigiamasis etapas (skolintos lėšos)";Y;N;23-FEB-12;23-FEB-12
@@ -3628,6 +3630,7 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 5000320;"Savivaldybėms priskirtų geodezijos ir kartografijos darbų (paslaugų) vykdymas";Y;N;02-FEB-21;02-FEB-21
 5000321;"Tauro kalno parko ir Liuteronų sodų tvarkymas Pietinėje tikslinėje teritorijoje";Y;N;26-JAN-21;26-JAN-21
 5000323;"Tauro kalno parko ir Liuteronų sodų tvarkymas Pietinėje tikslinėje teritorijoje";Y;N;26-JAN-21;26-JAN-21
+5000324;"Nacionalinės koncertų salės „Tautos namai“, V. Mykolaičio-Putino g. 5, statyba";Y;N;18-MAR-21;18-MAR-21
 5001010;"FS-13-PR-11010224, Bendruomeninių (viešųjų-vietinių) želdynų miesto seniūnijose įrengimo projektiniai pasiūlymai (II etapas)";Y;N;18-JUN-08;18-JUN-08
 5001020;"FS-01-PR-11020203, Verkių dvaro sodybos viršutinių parko takų mažųjų architektūros statinių ir tiltelio remontas bei rekonstrukcija";Y;N;18-JUN-08;18-JUN-08
 5001021;"FS-07-PR-11020203, Verkių dvaro sodybos viršutinių parko takų mažųjų architektūros statinių ir tiltelio remontas bei rekonstrukcija";Y;N;30-MAR-09;03-MAR-10
