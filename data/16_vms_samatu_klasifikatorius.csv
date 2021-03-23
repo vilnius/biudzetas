@@ -910,6 +910,7 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 3001021;"V.Kudirkos paminklo statyba (privatizavimo f  )";Y;N;10-APR-08;30-APR-08
 3001022;"V.Kudirkos paminklo statyba (spec. tikslinė dotacija) ";Y;N;12-MAY-08;10-JUL-08
 3001023;"Viešosios aplinkos humanizavimas racionalizuojant transporto eismą miesto centrinėje dalyje (Vilniaus senamiesčio pavyzdžiu)";Y;N;14-OCT-20;14-OCT-20
+3001024;"Viešosios aplinkos humanizavimas racionalizuojant transporto eismą miesto centrinėje dalyje (Vilniaus senamiesčio pavyzdžiu)";Y;N;22-MAR-21;22-MAR-21
 3001029;"Gariūnų gatvės ir Gariūnų tilto rekonstrukcija (Europos Sąjungos lėšos)";Y;N;07-FEB-14;07-FEB-14
 3001030;"Gariūnų gatvės ir Gariūnų tilto rekonstrukcija (privatizavimo f  )";Y;N;20-NOV-07;30-APR-08
 3001031;"Gariūnų gatvės ir Gariūnų tilto rekonstrukcija (skolintos 400,0)";Y;N;10-APR-08;30-APR-08
@@ -3844,6 +3845,8 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 6000462;"Vilniaus miesto socialinės paramos centro Paslaugų namuose tarnybos COVID-19 išlaidų padengimas (01)";Y;N;19-FEB-21;19-FEB-21
 6000465;"Dienos centro „Bičiulis“ finansavimas";Y;N;27-JAN-21;27-JAN-21
 6000466;"Dienos centro „Labirintai“ finansavimas";Y;N;27-JAN-21;27-JAN-21
+6000467;"Tikslinės lėšos Vilniaus miesto socialinės paramos centro Paslaugų namuose tarnybos profsąjungos narių darbo užmokesčiui";Y;N;22-MAR-21;22-MAR-21
+6000468;"Tikslinės lėšos Vilniaus miesto socialinės paramos centro profsąjungos narių darbo užmokesčiui";Y;N;22-MAR-21;22-MAR-21
 6000469;"Vilniaus miesto socialinės paramos centro COVID-19 išlaidų padengimas (01)";Y;N;19-FEB-21;19-FEB-21
 6000470;"Socialinės paramos centro išlaikymas (Savivaldybės lėšos)";Y;N;20-NOV-07;27-DEC-19
 6000471;"Socialinės priežiūros socialinės rizikos šeimoms finansavimas iš savivaldybės lėšų (Socialinės paramos centras)";Y;N;14-MAR-08;14-MAR-08
