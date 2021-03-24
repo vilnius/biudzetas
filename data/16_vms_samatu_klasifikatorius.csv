@@ -2453,6 +2453,9 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 4001160;"Mokymo lėšos skaitmeninio ugdymo plėtrai nevalstybinėms bendrojo ugdymo įstaigoms";Y;N;09-OCT-20;09-OCT-20
 4001161;"Mokymo lėšos skaitmeninio ugdymo plėtrai nevalstybinėms pagrindinio ugdymo įstaigoms";Y;N;09-OCT-20;09-OCT-20
 4001162;"Mokymo lėšos skaitmeninio ugdymo plėtrai nevalstybinėms pradinio ugdymo įstaigoms";Y;N;09-OCT-20;20-JAN-21
+4001186;"Konsultacijos mokiniams, patiriantiems mokymosi sunkumų, centralizuota sąmata";Y;N;23-MAR-21;23-MAR-21
+4001187;"Konsultacijos mokiniams, patiriantiems mokymosi sunkumų pradinio ugdymo įstaigose";Y;N;23-MAR-21;23-MAR-21
+4001188;"Konsultacijos mokiniams, patiriantiems mokymosi sunkumų nevalstybinėse pradinio ugdymo įstaigose";Y;N;23-MAR-21;23-MAR-21
 4001189;"Visuomenės psichikos sveikatos neigiamoms COVID-19 pandemijos pasekmėms mažinti ikimokyklinio ugdymo įstaigose";Y;N;23-SEP-20;23-SEP-20
 4001190;"Visuomenės psichikos sveikatos neigiamoms COVID-19 pandemijos pasekmėms mažinti pradinio ugdymo įstaigose";Y;N;23-SEP-20;23-SEP-20
 4001191;"Visuomenės psichikos sveikatos neigiamoms COVID-19 pandemijos pasekmėms mažinti pagrindinio ugdymo įstaigose";Y;N;23-SEP-20;23-SEP-20
@@ -3190,6 +3193,10 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 4018559;"Ikimokyklinio ir priešmokyklinio ugdymo grupių, pirmų ir kitų klasių bei žaidimo aikštelių įrengimas pagrindinio ugdymo įstaigose (SB)";Y;N;29-JUN-18;29-JUN-18
 4018560;"Ikimokyklinio ugdymo įstaigų skolų dengimas (savarankiškos įstaigos)";Y;N;09-FEB-15;09-FEB-15
 4018561;"Ikimokyklinio ugdymo įstaigų skolų dengimas";Y;N;09-FEB-15;09-FEB-15
+4018562;"Konsultacijos mokiniams, patiriantiems mokymosi sunkumų pagrindinio ugdymo įstaigose";Y;N;23-MAR-21;23-MAR-21
+4018563;"Konsultacijos mokiniams, patiriantiems mokymosi sunkumų bendrojo ugdymo įstaigose";Y;N;23-MAR-21;23-MAR-21
+4018564;"Konsultacijos mokiniams, patiriantiems mokymosi sunkumų nevalstybinėse pagrindinio ugdymo įstaigose";Y;N;23-MAR-21;23-MAR-21
+4018565;"Konsultacijos mokiniams, patiriantiems mokymosi sunkumų nevalstybinėse bendrojo ugdymo įstaigose";Y;N;23-MAR-21;23-MAR-21
 4018566;"Ikimokyklinio ugdymo įstaigų infrastruktūros plėtros projektų rengimas (13 šalt.)";Y;N;08-FEB-21;08-FEB-21
 4018567;"Bendrojo lavinimo įstaigų infrastruktūros plėtros projektų rengimas (13 šalt.)";Y;N;08-FEB-21;08-FEB-21
 4018568;"Pradinio ugdymo įstaigų infrastruktūros plėtros projektų rengimas (13 šalt.)";Y;N;08-FEB-21;08-FEB-21
