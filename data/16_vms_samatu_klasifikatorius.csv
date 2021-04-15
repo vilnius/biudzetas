@@ -315,6 +315,7 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 1600018;"Paramos lėšos, skirtos apsaugos nuo viruso priemonėms įsigyti";Y;N;23-MAR-20;23-MAR-20
 1600019;"Išlaidų, susijusių su valstybės lygio ekstremaliosios situacijos dėl koronaviruso (COVID-19) ligos likvidavimu ir jos padarinių šalinimu, padengimas (AD rezervo)";Y;N;26-AUG-20;26-AUG-20
 1600020;"Išlaidų, susijusių su valstybės lygio ekstremaliosios situacijos dėl koronaviruso (COVID-19) ligos likvidavimu ir jos padarinių šalinimu,  padengimas (SB lėšų)";Y;N;26-AUG-20;26-AUG-20
+1600021;"Asignavimai, skirti pasirengti galimai avarijai Astravo AE";Y;N;14-APR-21;14-APR-21
 1600101;"Nusikaltimų ir kitų teisės pažeidimų prevencinių priemonių įgyvendinimas (Privatizavimo fondas)";Y;N;09-FEB-15;09-FEB-15
 1800001;"Bendrosios dotacijos kompensacija valstybės biudžetui";Y;N;06-DEC-11;06-DEC-11
 1800002;"Administracijos direktoriaus rezervo sąmata";Y;N;06-DEC-11;06-DEC-11
@@ -3929,6 +3930,7 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 6000569;"Tikslinės lėšos Vilniaus miesto kompleksinių paslaugų centro „Šeimos slėnis“ išlaikymui";Y;N;19-MAY-20;04-FEB-21
 6000570;"Pensionato ""Vilties namai"" specialioji programa";Y;N;20-NOV-07;20-SEP-13
 6000571;"Vilniaus kompleksinių paslaugų centro „Šeimos slėnis“ COVID-19 išlaidų padengimas (01)";Y;N;19-FEB-21;19-FEB-21
+6000572;"Senjorų socialinių paslaugų namų veiklai vykdyti";Y;N;14-APR-21;14-APR-21
 6000580;"Fabijoniškių pensiono specialioji programa";Y;N;20-NOV-07;01-MAR-12
 6000581;"Vilniaus miesto krizių centro COVID-19 išlaidų padengimas (20)";Y;N;19-FEB-21;19-FEB-21
 6000582;"Vilniaus miesto socialinės paramos centro COVID-19 išlaidų padengimas (20)";Y;N;19-FEB-21;19-FEB-21
