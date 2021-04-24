@@ -251,6 +251,7 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 1100013;"Savivaldybės įmonių ir įstaigų kontrolės vykdymas";Y;N;03-AUG-20;03-AUG-20
 1100014;"Bylinėjimosi arbitraže išlaidų apmokėjimui (2019-01-23 sprendimas Nr. 1-1919)";Y;N;27-AUG-20;27-AUG-20
 1100015;"Skolų grąžinimas pagal mokėjimų atidėjimo sutartis (skolintos lėšos)";Y;N;29-JAN-21;29-JAN-21
+1100016;"Bylinėjimosi arbitraže išlaidų apmokėjimui (2021-04-21 sprendimas Nr. 1-929)";Y;N;23-APR-21;23-APR-21
 1100100;"Vilniaus miesto 2010-2020 metų strateginio plano parengimas (ES)";Y;N;30-NOV-11;30-NOV-11
 1100500;"Administracijos direktoriaus 2012-05-04 įsakymas Nr. 30-899, 3 p.";Y;N;07-MAY-12;07-MAY-12
 1200001;"Korupcijai atsparios aplinkos kūrimas";Y;N;23-JUL-20;23-JUL-20
@@ -259,7 +260,9 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 1300172;"Paskolų mokėjimas pagal grafiką (skolintos lėšos)";Y;N;31-OCT-13;31-OCT-13
 1300173;"Paskolų  mokėjimas pagal grafiką (Lėšų likučiai iš SB lėšų )";Y;N;25-JUL-14;25-JUL-14
 1300174;"Pagal taikos sutartį savivaldybės paskoloms grąžinti";Y;N;23-FEB-18;23-FEB-18
-1300175;"Trumpalaikės 2020 m. paskolos grąžinimas (61 šalt.)";Y;N;28-JAN-21;28-JAN-21
+1300175;"Trumpalaikės 2020 m. paskolos grąžinimas (61 š.)";Y;N;28-JAN-21;23-APR-21
+1300176;"Trumpalaikės 2020 m. paskolos grąžinimas (21 š.)";Y;N;23-APR-21;23-APR-21
+1300177;"Trumpalaikės 2020 m. paskolos grąžinimas (01 š.)";Y;N;23-APR-21;23-APR-21
 1300180;"Palūkanų mokėjimas pagal grafiką (1.2.2)";Y;N;06-DEC-11;06-DEC-11
 1500001;"Vidinės informacinės infrastruktūros palaikymas";Y;N;06-DEC-11;27-DEC-19
 1500002;"Vilniaus miesto savivaldybės administracijos tipinių veiklos procesų ir procedūrų visapusiškas tyrimas ir optimizavimas";Y;N;06-DEC-11;06-DEC-11
@@ -463,6 +466,7 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 2000097;"Žemės sklypo, esančio tarp Vytenio g. 31, 37, 39 ir Birželio 23-osios g. 9, 13, užterštos teritorijos sutvarkymas (01)";Y;N;16-OCT-19;16-OCT-19
 2000098;"Lopšelio – darželio „Kurpaitė“ užterštos teritorijos sutvarkymas (01)";Y;N;16-OCT-19;16-OCT-19
 2000099;"Vandens tiekimo ir nuotekų tvarkymo infrastruktūros plėtros specialaus plano parengimas";Y;N;31-DEC-19;31-DEC-19
+2000100;Nenaudojama;Y;N;20-NOV-07;23-APR-21
 2000120;"Teismo, šildymo, leidybos, programinės įrangos priežiūros bei mokymo paslaugų, nekiln. turto inventorizavimo, įvertinimo, analizės ir kt išlaidų padengimas bei Savivaldybės spec duomenų bazės susiejimas";Y;N;20-NOV-07;14-MAR-08
 2000121;"Kitos ekonominės veiklos administravimas";Y;N;21-JAN-10;21-JAN-10
 2000122;"Teismo, antstolių, notarų paslaugoms ir skelbimams spaudoje  apmokėti";Y;N;04-FEB-10;04-FEB-10
