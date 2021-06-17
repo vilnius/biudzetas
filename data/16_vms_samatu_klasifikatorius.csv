@@ -3935,8 +3935,8 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 6000541;"Vilniaus vaikų socialinės globos namų „Gilė“ Psichosocialinės reabilitacijos centro išlaikymas";Y;N;15-JAN-21;15-JAN-21
 6000542;"Vilniaus vaikų socialinės globos namų „Gilė“ Psichosocialinės reabilitacijos centro išlaikymas";Y;N;15-JAN-21;15-JAN-21
 6000543;"Vilniaus vaikų socialinės globos namų „Gilė“ COVID-19 išlaidų padengimas (01)";Y;N;19-FEB-21;19-FEB-21
-6000545;"Biudžetinės įstaigos Senjorų socialinių paslaugų namų išlaikymas";Y;N;25-JAN-21;25-JAN-21
-6000546;"Socialinė globa asmenims su sunkia negalia Biudžetinėje įstaigoje Senjorų socialinių paslaugų namuose";Y;N;25-JAN-21;25-JAN-21
+6000545;"Senjorų socialinės globos namų veiklai vykdyti";Y;N;25-JAN-21;16-JUN-21
+6000546;"Socialinė globa asmenims su sunkia negalia Biudžetinėje įstaigoje Senjorų socialinės globos namai";Y;N;25-JAN-21;16-JUN-21
 6000549;"Vilniaus miesto kompleksinių paslaugų centro „Šeimos slėnis“ specialioji programos lėšų likučiai";Y;N;25-JAN-21;04-FEB-21
 6000550;"Dienos centro ""Šviesa"" specialioji programa";Y;N;20-NOV-07;09-AUG-11
 6000551;"Socialinės globos įstaigų specialiosios programos likučiai";Y;N;20-MAY-13;20-MAY-13
@@ -3960,8 +3960,12 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 6000569;"Tikslinės lėšos Vilniaus miesto kompleksinių paslaugų centro „Šeimos slėnis“ išlaikymui";Y;N;19-MAY-20;04-FEB-21
 6000570;"Pensionato ""Vilties namai"" specialioji programa";Y;N;20-NOV-07;20-SEP-13
 6000571;"Vilniaus kompleksinių paslaugų centro „Šeimos slėnis“ COVID-19 išlaidų padengimas (01)";Y;N;19-FEB-21;19-FEB-21
-6000572;"Senjorų socialinių paslaugų namų veiklai vykdyti";Y;N;14-APR-21;14-APR-21
+6000572;"Senjorų socialinės globos namų veiklai vykdyti";Y;N;14-APR-21;16-JUN-21
 6000573;"Vaikų globos pertvarka";Y;N;01-JUN-21;01-JUN-21
+6000574;"Projektas „Vilniaus miesto socialinių paslaugų infrastruktūros tinklo kūrimas ir plėtra asmenims, turintiems proto ir (arba) psichikos negalią“";Y;N;16-JUN-21;16-JUN-21
+6000575;"Projektas „Vilniaus miesto socialinių paslaugų infrastruktūros tinklo kūrimas ir plėtra asmenims, turintiems proto ir (arba) psichikos negalią“";Y;N;16-JUN-21;16-JUN-21
+6000576;"BĮ Senjorų socialinės globos namų išlaikymas";Y;N;16-JUN-21;16-JUN-21
+6000579;"BĮ Senjorų socialinės globos namai specialioji programa";Y;N;16-JUN-21;16-JUN-21
 6000580;"Fabijoniškių pensiono specialioji programa";Y;N;20-NOV-07;01-MAR-12
 6000581;"Vilniaus miesto krizių centro COVID-19 išlaidų padengimas (20)";Y;N;19-FEB-21;19-FEB-21
 6000582;"Vilniaus miesto socialinės paramos centro COVID-19 išlaidų padengimas (20)";Y;N;19-FEB-21;19-FEB-21
