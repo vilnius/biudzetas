@@ -3746,7 +3746,7 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 6000075;"MMA didinimui ir darbo apmokėjimo įstatymui įgyvendinti";Y;N;26-SEP-16;02-JUN-17
 6000080;"Socialinė globa asmenims su sunkia negalia pensionate ""Vilties namai""";Y;N;20-NOV-07;20-SEP-13
 6000087;"Socialinė globa asmenims su sunkia negalia ugdymo centre „Viltis“";Y;N;31-DEC-19;31-DEC-19
-6000088;"Socialinė globa asmenims su sunkia negalia ugdymo centre „Viltis“";Y;N;09-DEC-19;09-DEC-19
+6000088;"Socialinė globa asmenims su vidutine negalia ugdymo centre „Viltis“";Y;N;09-DEC-19;02-JUL-21
 6000089;"Socialinė globa asmenims su sunkia negalia Verkių specialiojoje mokykloje-daugiafunkciniame centre";Y;N;09-DEC-19;09-DEC-19
 6000090;"Socialinė globa asmenims su sunkia negalia Fabijoniškių pensione";Y;N;20-NOV-07;27-DEC-19
 6000091;"Socialinė globa asmenims su sunkia negalia Dienos centre ""Šviesa""";Y;N;14-MAR-08;27-MAR-09
@@ -3866,6 +3866,8 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 6000400;"Vilniaus miesto vaikų pensiono išlaikymas (Savivaldybės lėšos)";Y;N;20-NOV-07;13-JAN-21
 6000401;"Globos namų vaikams ir jaunimui, turintiems negalią, modernizavimas";Y;N;17-FEB-12;17-FEB-12
 6000402;"Socialinės paramos įstaigų infrastruktūros modernizavimas, optimizavimas ir renovacija";Y;N;02-NOV-18;27-DEC-19
+6000403;"Darbo apmokėjimo įstatymui įgyvendinti";Y;N;02-JUL-21;02-JUL-21
+6000404;"MMA didinimui ir darbo apmokėjimo įstatymui įgyvendinti";Y;N;02-JUL-21;02-JUL-21
 6000405;"VšĮ „Senevita“ COVID-19 išlaidų padengimas";Y;N;02-APR-21;02-APR-21
 6000408;"Valakampių socialinių paslaugų namų  COVID-19 išlaidų padengimas (01)";Y;N;19-FEB-21;19-FEB-21
 6000409;"Tikslinės lėšos Valakampių socialinių paslaugų namų išlaikymui";Y;N;19-MAY-20;19-MAY-20
@@ -3879,13 +3881,14 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 6000431;"Grupinio gyvenimo namų vaikams, krizių tarnybos ir laikino  apgyvendinimo namų motinoms ir vaikams įkūrimas (Savivaldybės biudžeto lėšos)";Y;N;06-JAN-11;06-JAN-11
 6000432;"Tikslinės lėšos Vilniaus miesto krizių centro išlaikymui";Y;N;19-MAY-20;19-MAY-20
 6000433;"Vilniaus miesto krizių centro COVID-19 išlaidų padengimas (01)";Y;N;19-FEB-21;19-FEB-21
-6000440;"Vilniaus miesto nakvynės namų išlaikymas (Savivaldybės lėšos)";Y;N;20-NOV-07;27-DEC-19
+6000440;"Vilniaus miesto nakvynės namų išlaikymas (Savivaldybės lėšos)";Y;N;20-NOV-07;02-JUL-21
 6000441;"Tikslinės lėšos Vilniaus miesto nakvynės namų išlaikymui";Y;N;19-MAY-20;19-MAY-20
-6000442;"Vilniaus miesto nakvynės namų COVID-19 išlaidų padengimas (01)";Y;N;19-FEB-21;19-FEB-21
+6000442;"Vilniaus „Vilko pėdos“ namų COVID-19 išlaidų padengimas (01)";Y;N;19-FEB-21;02-JUL-21
 6000450;"Kitos bendros valstybės paslaugos (Socialinės paramos centras)";Y;N;20-NOV-07;14-MAR-08
 6000460;"Socialinės paramos centro Paslaugų namuose tarnybos išlaikymas";Y;N;20-NOV-07;01-MAR-12
 6000461;"Tikslinės lėšos Socialinės paramos centro Paslaugų namuose tarnybos išlaikymui";Y;N;28-MAY-20;28-MAY-20
 6000462;"Vilniaus miesto socialinės paramos centro Paslaugų namuose tarnybos COVID-19 išlaidų padengimas (01)";Y;N;19-FEB-21;19-FEB-21
+6000463;"MMA didinimui ir darbo apmokėjimo įstatymui įgyvendinti";Y;N;02-JUL-21;02-JUL-21
 6000465;"Dienos centro „Bičiulis“ finansavimas";Y;N;27-JAN-21;27-JAN-21
 6000466;"Dienos centro „Labirintai“ finansavimas";Y;N;27-JAN-21;27-JAN-21
 6000467;"Tikslinės lėšos Vilniaus miesto socialinės paramos centro Paslaugų namuose tarnybos profsąjungos narių darbo užmokesčiui";Y;N;22-MAR-21;22-MAR-21
@@ -3935,8 +3938,10 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 6000541;"Vilniaus vaikų socialinės globos namų „Gilė“ Psichosocialinės reabilitacijos centro išlaikymas";Y;N;15-JAN-21;15-JAN-21
 6000542;"Vilniaus vaikų socialinės globos namų „Gilė“ Psichosocialinės reabilitacijos centro išlaikymas";Y;N;15-JAN-21;15-JAN-21
 6000543;"Vilniaus vaikų socialinės globos namų „Gilė“ COVID-19 išlaidų padengimas (01)";Y;N;19-FEB-21;19-FEB-21
+6000544;"MMA didinimui ir darbo apmokėjimo įstatymui įgyvendinti";Y;N;02-JUL-21;02-JUL-21
 6000545;"Senjorų socialinės globos namų veiklai vykdyti";Y;N;25-JAN-21;16-JUN-21
 6000546;"Socialinė globa asmenims su sunkia negalia Biudžetinėje įstaigoje Senjorų socialinės globos namai";Y;N;25-JAN-21;16-JUN-21
+6000547;"Papildomas lėšų gavimas už patalpų nuomą";Y;N;02-JUL-21;02-JUL-21
 6000549;"Vilniaus miesto kompleksinių paslaugų centro „Šeimos slėnis“ specialioji programos lėšų likučiai";Y;N;25-JAN-21;04-FEB-21
 6000550;"Dienos centro ""Šviesa"" specialioji programa";Y;N;20-NOV-07;09-AUG-11
 6000551;"Socialinės globos įstaigų specialiosios programos likučiai";Y;N;20-MAY-13;20-MAY-13
@@ -3965,6 +3970,8 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 6000574;"Projektas „Vilniaus miesto socialinių paslaugų infrastruktūros tinklo kūrimas ir plėtra asmenims, turintiems proto ir (arba) psichikos negalią“";Y;N;16-JUN-21;16-JUN-21
 6000575;"Projektas „Vilniaus miesto socialinių paslaugų infrastruktūros tinklo kūrimas ir plėtra asmenims, turintiems proto ir (arba) psichikos negalią“";Y;N;16-JUN-21;16-JUN-21
 6000576;"BĮ Senjorų socialinės globos namų išlaikymas";Y;N;16-JUN-21;16-JUN-21
+6000577;"MMA didinimui ir darbo apmokėjimo įstatymui įgyvendinti";Y;N;02-JUL-21;02-JUL-21
+6000578;"MMA didinimui ir darbo apmokėjimo įstatymui įgyvendinti";Y;N;02-JUL-21;02-JUL-21
 6000579;"BĮ Senjorų socialinės globos namai specialioji programa";Y;N;16-JUN-21;16-JUN-21
 6000580;"Fabijoniškių pensiono specialioji programa";Y;N;20-NOV-07;01-MAR-12
 6000581;"Vilniaus miesto krizių centro COVID-19 išlaidų padengimas (20)";Y;N;19-FEB-21;19-FEB-21
@@ -3975,9 +3982,9 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 6000586;"Dienos centro „Šviesa“ COVID-19 išlaidų padengimas (64)";Y;N;19-FEB-21;19-FEB-21
 6000587;"Valakampių socialinių paslaugų namų  COVID-19 išlaidų padengimas (20)";Y;N;19-FEB-21;19-FEB-21
 6000588;"Vilniaus Lakštingalos namų COVID-19 išlaidų padengimas (20)";Y;N;19-FEB-21;19-FEB-21
-6000589;"Vilniaus miesto nakvynės namų COVID-19 išlaidų padengimas (20)";Y;N;19-FEB-21;19-FEB-21
+6000589;"Vilniaus „Vilko pėdos“ namų COVID-19 išlaidų padengimas (20)";Y;N;19-FEB-21;02-JUL-21
 6000590;"Vilniaus miesto motinos ir vaiko pensiono specialioji programa";Y;N;20-NOV-07;20-SEP-13
-6000600;"Vilniaus miesto nakvynės namų specialioji programa";Y;N;20-NOV-07;14-MAR-08
+6000600;"Vilniaus miesto nakvynės namų specialioji programa";Y;N;20-NOV-07;02-JUL-21
 6000610;"Socialinės paramos centro specialioji programa";Y;N;20-NOV-07;01-MAR-12
 6000620;"VšĮ mokymo centro ""Mes esame"" finansavimas (Departamentas)";Y;N;20-NOV-07;27-DEC-19
 6000630;"VšĮ Markučių  dienos veiklos centro finansavimas (Departamentas)";Y;N;20-NOV-07;27-DEC-19
