@@ -5169,7 +5169,6 @@ IPLAUKU_DATA;SALTINIO_PAV;IMOKOS_KODAI;APRASYMAS;SUMA
 17-SEP-18;KITOS;94;"Kitos pajamos";21900
 29-MAY-18;KITOS;94;"Kitos pajamos";2366.73
 14-MAY-18;KITOS;94;"Kitos pajamos";71000
-22-OCT-18;KITOS;94;"Kitos pajamos";6445
 22-MAY-18;KITOS;94;"Kitos pajamos";30200
 12-MAY-18;KITOS;94;"Kitos pajamos";15900
 11-MAY-18;KITOS;94;"Kitos pajamos";17360
@@ -5281,6 +5280,7 @@ IPLAUKU_DATA;SALTINIO_PAV;IMOKOS_KODAI;APRASYMAS;SUMA
 04-OCT-18;KITOS;94;"Kitos pajamos";141.19
 15-JUN-18;KITOS;94;"Kitos pajamos";40516
 05-JUL-18;KITOS;94;"Kitos pajamos";141.19
+22-OCT-18;KITOS;94;"Kitos pajamos";6445
 27-SEP-18;KITOS;94;"Kitos pajamos";109
 26-JAN-18;KITOS;94;"Kitos pajamos";4101.62
 06-JAN-17;KITOS;94;"Kitos pajamos";141.19
@@ -7797,6 +7797,7 @@ IPLAUKU_DATA;SALTINIO_PAV;IMOKOS_KODAI;APRASYMAS;SUMA
 30-DEC-16;PASKOLA;;"Paskola pinigų srautams subalansuoti";918570.69
 22-DEC-16;PASKOLA;;"Paskola pinigų srautams subalansuoti";175750.77
 08-DEC-16;PASKOLA;;"Paskola pinigų srautams subalansuoti";120873.53
+24-SEP-18;PASKOLA;;"Paskola pinigų srautams subalansuoti";5996000
 23-JUN-17;PASKOLA;;"Paskola pinigų srautams subalansuoti";416313.06
 04-AUG-17;PASKOLA;;"Paskola pinigų srautams subalansuoti";1835596.25
 28-OCT-16;PASKOLA;;"Paskola pinigų srautams subalansuoti";278293.28
@@ -7808,4 +7809,3 @@ IPLAUKU_DATA;SALTINIO_PAV;IMOKOS_KODAI;APRASYMAS;SUMA
 24-MAR-17;PASKOLA;;"Paskola pinigų srautams subalansuoti";1267531.57
 20-MAR-17;PASKOLA;;"Paskola pinigų srautams subalansuoti";149372.62
 13-MAR-17;PASKOLA;;"Paskola pinigų srautams subalansuoti";638455.97
-24-SEP-18;PASKOLA;;"Paskola pinigų srautams subalansuoti";5996000
