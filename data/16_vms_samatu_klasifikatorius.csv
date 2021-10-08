@@ -1297,6 +1297,7 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 3001808;"Šeškinės komplekso prieigų aplinkos sutvarkymas ir pritaikymas lankymui (ES)";Y;N;18-FEB-20;18-FEB-20
 3001809;"Vilniaus miesto darnaus judumo plano sprendinių įgyvendinimas";Y;N;18-FEB-20;18-FEB-20
 3001810;"Vilniaus miesto darnaus judumo plano sprendinių įgyvendinimas (ES)";Y;N;18-FEB-20;18-FEB-20
+3001819;"Japoniško sodo įkūrimas teritorijoje prie Lvovo ir Geležinio Vilko g. (savivaldybės biudžeto lėšos)";Y;N;07-OCT-21;07-OCT-21
 3001820;"Japoniško sodo įkūrimas teritorijoje prie Lvovo g. ir Geležinio Vilko g. (SB)";Y;N;13-FEB-17;27-DEC-19
 3001821;"VšĮ „Vilniaus japoniškas sodas“ išlaikymas";Y;N;14-OCT-20;16-OCT-20
 3001822;"Japoniško sodo įkūrimas teritorijoje prie Lvovo g. ir Geležinio Vilko g.";Y;N;08-JAN-21;08-JAN-21
@@ -1991,6 +1992,7 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 4000572;"Medinės architektūros paveldo muziejaus sukūrimas (28)";Y;N;17-SEP-20;17-SEP-20
 4000573;"Medinės architektūros paveldo muziejaus sukūrimas";Y;N;11-DEC-20;11-DEC-20
 4000574;"Menų spaustuvės (Šiltadaržio g. 6) infrastruktūros plėtra (28)";Y;N;14-JUL-21;14-JUL-21
+4000575;"Medinės architektūros paveldo muziejaus sukūrimas (01)";Y;N;07-OCT-21;07-OCT-21
 4000576;"Trakų Vokės dvaro sodybos rūmų tvarkybos darbai (28)";Y;N;14-JUL-21;14-JUL-21
 4000577;"Spec. lėšų likučiai Naujosios Vilnios kultūros centre";Y;N;14-FEB-20;14-FEB-20
 4000578;"Vilniaus etninės kultūros centro išlaikymas (spec. lėšos)";Y;N;23-OCT-15;23-OCT-15
@@ -4939,6 +4941,10 @@ LIKUTIS;"LIKUTIS IKI 2020 01 01";Y;N;14-APR-20;14-APR-20
 MOB1959;"Mobili aplikacija VVSB";Y;N;29-MAR-21;29-MAR-21
 MUD_AED;"Suminė MUD AED sąmata";Y;Y;30-NOV-15;30-NOV-15
 NEPARAM;"Gauta pagal sutartis, sąskaitas, aktus";Y;N;08-FEB-21;08-FEB-21
+ORT-CEN;"ORT centras";Y;N;07-OCT-21;07-OCT-21
+ORT-GVF;"Gerosios valios fondas (GVF)";Y;N;07-OCT-21;07-OCT-21
+ORT-LON;"ORT Londono parama";Y;N;07-OCT-21;07-OCT-21
+ORT-STE;"ORT STEAM";Y;N;07-OCT-21;07-OCT-21
 PAR23;"Neatlygintinai, pagal dovanojimo, paramos ir/ ar labdaros sutartį gautas turtas ir lėšos";Y;N;14-MAY-21;14-MAY-21
 PB0001;"Simono Daukanto gimnazijos projektas 09.2.1-ESFA-V-719-01-0001";Y;N;09-DEC-19;09-DEC-19
 PB0007;"Medinės architektūros paveldo muziejaus Vilniuje, Polocko g.52, sukūrimas";Y;N;23-JUL-19;24-JUL-19
