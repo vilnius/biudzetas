@@ -739,6 +739,7 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 3000659;"Gatvių, kelių ir lietaus nuotekų tinklų priežiūra ir remontas";Y;N;03-FEB-21;03-FEB-21
 3000660;"Fontanų priežiūra";Y;N;20-NOV-07;30-APR-08
 3000665;"Tiltų ir viadukų priežiūra ir remontas";Y;N;10-DEC-20;10-DEC-20
+3000667;"Netesybos už projekto „Kareivių gatvės atkarpos tarp Žirmūnų ir Verkių gatvių bei Kareivių ir Verkių gatvių sankryžos rekonstrukcija įrengiant eismo saugos priemones“ sutarties nutraukimą";Y;N;11-OCT-21;11-OCT-21
 3000668;"Išlaidų, susijusių su valstybės lygio ekstremaliosios situacijos dėl koronaviruso (COVID-19) ligos likvidavimu ir jos padarinių šalinimu, padengimas";Y;N;02-SEP-20;02-SEP-20
 3000669;"Darbai, susiję su COVID-19 likvidavimu";Y;N;03-APR-20;03-APR-20
 3000670;"Miesto kapinių priežiūra";Y;N;20-NOV-07;23-JUL-14
@@ -1985,7 +1986,7 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 4000550;"Muziejų išlaikymas ir jų darbo organizavimas";Y;N;20-NOV-07;11-JUL-08
 4000551;"Muziejų išlaikymas ir jų darbo organizavimas (be nuomos ir mokamų paslaugų)";Y;N;11-JUL-08;06-SEP-12
 4000552;"Muziejų išlaikymas ir jų darbo organizavimas(remonto darbai)";Y;N;11-JUL-08;27-DEC-19
-4000555;"Vilniaus miesto savivaldybės literatūrinio A. Puškino muziejus pastato, esančio Subačiaus g. 124, Vilniuje, Šv. Varvaros  koplyčios tvarkybos darbai (SB)";Y;N;09-FEB-17;09-FEB-17
+4000555;"Vilniaus miesto savivaldybės literatūrinio A. Puškino muziejus pastato, esančio Subačiaus g. 124, Vilniuje, Šv. Varvaros koplyčios tvarkybos darbai (SB)";Y;N;09-FEB-17;11-OCT-21
 4000560;"Papildomai gautos lėšos nuomojant patalpas muziejuose";Y;N;20-NOV-07;07-SEP-12
 4000570;"Mokamų paslaugų teikimas muziejuose";Y;N;20-NOV-07;07-SEP-12
 4000571;"Spec. lėšų likučiai muziejuose (BIBA)";Y;N;27-FEB-13;27-DEC-19
@@ -4696,6 +4697,7 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 8000130;"Skolų mokėjimas pagal pasirašytas skolų grąžinimo sutartis ir kitų finansinių įsipareigojimų vykdymas";Y;N;04-MAR-14;04-MAR-14
 8000131;"Pastato Kauno g. 43 rekonstrukcija (Privatizavimo fondo lėšos)";Y;N;30-SEP-14;30-SEP-14
 8000132;"Pastato Vitebsko g. 21 rekonstrukcija";Y;N;30-SEP-14;30-SEP-14
+8000133;"Daugiafunkcinio Lazdynų sveikatingumo centro įkūrimas (savivaldybės biudžeto lėšos)";Y;N;11-OCT-21;11-OCT-21
 8000140;"Vilniaus miesto savivaldybės būsto ir ūkinių pastatų, parduodamų pagal LR Paramos būstui įsigyti ar išsinuomoti įstatymą, vertinimo išlaidos";Y;N;26-FEB-16;26-FEB-16
 8000141;"Turto išpirkimas Savivaldybės funkcijoms įgyvendinti";Y;N;09-FEB-17;09-FEB-17
 8000142;"Negyvenamųjų pastatų, statinių, patalpų ir butų remonto, renovacijos, priežiūros ir kitos eksploatavimo išlaidos";Y;N;28-MAR-18;28-MAR-18
