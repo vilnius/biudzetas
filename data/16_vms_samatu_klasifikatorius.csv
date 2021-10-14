@@ -2678,10 +2678,26 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 4001421;"Mokymo lėšos mokyklos bibliotekos darbuotojams išlaikyti gimnazijose ir vidurinio tipo mokyklose (SAVARANKIŠKOS ĮSTAIGOS)";Y;N;05-OCT-21;05-OCT-21
 4001422;"Mokymo lėšos mokyklos bibliotekos darbuotojams išlaikyti nevalstybinėms pradinio ugdymo įstaigoms";Y;N;05-OCT-21;05-OCT-21
 4001423;"Mokymo lėšos mokyklos bibliotekos darbuotojams išlaikyti nevalstybinėms bendrojo lavinimo įstaigoms";Y;N;05-OCT-21;05-OCT-21
+4001424;"Savivaldybės biudžeto lėšos mokyklos bibliotekos darbuotojams išlaikyti pradinėse mokyklose (BĮBA)";Y;N;13-OCT-21;13-OCT-21
+4001425;"Savivaldybės biudžeto lėšos mokyklos bibliotekos darbuotojams išlaikyti pradinėse mokyklose (SAVARANKIŠKOS ĮSTAIGOS)";Y;N;13-OCT-21;13-OCT-21
+4001426;"Savivaldybės biudžeto lėšos mokyklos bibliotekos darbuotojams išlaikyti pagrindinėse mokyklose (BĮBA)";Y;N;13-OCT-21;13-OCT-21
+4001427;"Savivaldybės biudžeto lėšos mokyklos bibliotekos darbuotojams išlaikyti pagrindinėse mokyklose (SAVARANKIŠKOS ĮSTAIGOS)";Y;N;13-OCT-21;13-OCT-21
+4001428;"Savivaldybės biudžeto lėšos mokyklos bibliotekos darbuotojams išlaikyti gimnazijose ir vidurinio tipo mokyklose (BĮBA)";Y;N;13-OCT-21;13-OCT-21
+4001429;"Savivaldybės biudžeto lėšos mokyklos bibliotekos darbuotojams išlaikyti gimnazijose ir vidurinio tipo mokyklose (SAVARANKIŠKOS ĮSTAIGOS)";Y;N;13-OCT-21;13-OCT-21
 4001430;"GovTech projektas, Kaip automatizuoti mokinių priėmimo į mokyklas procesą? (VB)";Y;N;09-SEP-21;09-SEP-21
 4001431;"GovTech projektas, Kaip automatizuoti mokinių priėmimo į mokyklas procesą? (SB)";Y;N;09-SEP-21;09-SEP-21
 4001432;"GovTech projektas, Švietimo pagalbos centralizavimas Vilniaus mieste (VB)";Y;N;09-SEP-21;09-SEP-21
 4001433;"GovTech projektas, Švietimo pagalbos centralizavimas Vilniaus mieste (SB)";Y;N;09-SEP-21;09-SEP-21
+4001434;"Konsultacijos mokiniams, patyrusiems mokymosi praradimus pradinio ugdymo įstaigose";Y;N;13-OCT-21;13-OCT-21
+4001435;"Konsultacijos mokiniams, patyrusiems mokymosi praradimus pagrindinio ugdymo įstaigose";Y;N;13-OCT-21;13-OCT-21
+4001436;"Konsultacijos mokiniams, patyrusiems mokymosi praradimus bendrojo ugdymo įstaigose";Y;N;13-OCT-21;13-OCT-21
+4001437;"Konsultacijos mokiniams, patyrusiems mokymosi praradimus nevalstybinėse pradinio ugdymo įstaigose";Y;N;13-OCT-21;13-OCT-21
+4001438;"Konsultacijos mokiniams, patyrusiems mokymosi praradimus nevalstybinėse pagrindinio ugdymo įstaigose";Y;N;13-OCT-21;13-OCT-21
+4001439;"Konsultacijos mokiniams, patyrusiems mokymosi praradimus nevalstybinėse bendrojo ugdymo įstaigose";Y;N;13-OCT-21;13-OCT-21
+4001440;"Konsultacijos mokiniams, patyrusiems mokymosi praradimus, centralizuota sąmata";Y;N;13-OCT-21;13-OCT-21
+4001441;"Socialinę riziką patiriančių ikimokyklinio amžiaus vaikų išlaikymas";Y;N;13-OCT-21;13-OCT-21
+4001442;"Covid-19 išlaidoms kompensuoti";Y;N;13-OCT-21;13-OCT-21
+4001443;"Mokslo paskirties pastato statyba Tolminkiemio g. (SB)";Y;N;13-OCT-21;13-OCT-21
 4002000;"Neįgaliųjų ir sutrikusio intelekto vaikų socialinės globos centro įkūrimas (Vilniaus specialiajame lopšelyje-darželyje „Čiauškutis“) (Europos Sąjungos lėšos)";Y;N;22-FEB-12;22-FEB-12
 4002001;"Vilniaus Viršuliškių vidurinės mokyklos pastato Vilniuje, Viršuliškių g. 7, rekonstravimas (Europos Sąjungos lėšos)";Y;N;22-FEB-12;22-FEB-12
 4002002;"Vilniaus Naujininkų vidurinės mokyklos pastato Šaltkalvių g. 32, rekonstravimas (Europos Sąjungos lėšos)";Y;N;22-FEB-12;22-FEB-12
