@@ -2,7 +2,7 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 0000000;Nedetalizuojama;Y;N;19-NOV-07;28-JAN-21
 1000000;"Administracijos sąmatos";Y;Y;20-NOV-07;29-SEP-09
 1000001;"Bendrų ekonominių ir socialinių planavimo paslaugų administravimas ir valdymas";Y;N;14-MAR-08;27-DEC-19
-1000002;"Savivaldos institucijos (Taryba)";Y;N;14-MAR-08;20-FEB-17
+1000002;"Savivaldos institucijos (Taryba)";Y;N;14-MAR-08;25-OCT-21
 1000003;"Bendrų ekonominių ir socialinių planavimo paslaugų administravimas ir valdymas";Y;N;14-MAR-08;27-DEC-19
 1000004;"Civilinės būklės aktų registravimas";Y;N;14-MAR-08;14-MAR-08
 1000005;"Valstybės garantijų nuomininkams, išsikeliantiems iš savininkams grąžintų gyvenamųjų namų ar jų dalių ir butų, vykdymas";Y;N;14-MAR-08;08-FEB-11
@@ -1254,6 +1254,7 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 3001636;"Neries senvagės rekreacinės infrastruktūros įrengimas su aktyvaus poilsio ir pėsčiųjų bei dviračių trasomis";Y;N;03-FEB-21;03-FEB-21
 3001637;"Neries senvagės rekreacinės infrastruktūros įrengimas su aktyvaus poilsio ir pėsčiųjų bei dviračių trasomis";Y;N;03-FEB-21;03-FEB-21
 3001638;"Kernavės g. nuo Žalgirio g. iki Lvovo g. rekonstrukcija, įrengiant modernias eismo saugos priemones";Y;N;03-FEB-21;03-FEB-21
+3001639;"Dviračių takų infrastruktūros atnaujinimas ir plėtra Algirdo, V.Mykolaičio-Putino, Geležinkelio, Dariaus ir Girėno gatvėse Pietinėje tikslinėje teritorijoje (3M03)";Y;N;25-OCT-21;25-OCT-21
 3001640;"Vilniaus miesto dviračių takų specialiojo plano parengimas (Savivaldybės biudžeto lėšos)";Y;N;20-FEB-12;20-FEB-12
 3001641;"Vilniaus miesto dviračių takų specialiojo plano parengimas (ES lėšos)";Y;N;15-FEB-13;15-FEB-13
 3001642;"Vilniaus miesto dviračių takų specialiojo plano parengimas (Privatizavimo fondo lėšos)";Y;N;07-NOV-13;07-NOV-13
@@ -3421,6 +3422,7 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 4040036;"Neformaliojo vaikų švietimo 15 eurų krepšelio lėšos";Y;N;09-APR-21;09-APR-21
 4040037;"Papildomas lėšų gavimas nuomojant patalpas";Y;N;20-JUL-21;20-JUL-21
 4040038;"Moksleivių pilietiškumo ir savivaldos ugdymas (SB)";Y;N;20-JUL-21;20-JUL-21
+4040039;"Rudens stovyklų finansavimas (Valstybės lėšos)";Y;N;25-OCT-21;25-OCT-21
 4040040;"Mokamų paslaugų teikimas neformaliojo švietimo įstaigose";Y;N;31-DEC-19;31-DEC-19
 4040041;"Tėvų mokesčio surinkimas neformaliojo švietimo įstaigose (64 šalt.)";Y;N;31-DEC-19;31-DEC-19
 4040042;"Papildomas lėšų gavimas už patalpų nuomą ugdymo įstaigose";Y;N;31-DEC-19;31-DEC-19
