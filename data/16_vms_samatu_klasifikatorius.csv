@@ -33,8 +33,8 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 1000030;"Duomenų apie suteiktą valstybės pagalbą teikimas valstybės pagalbos registrui";Y;N;20-NOV-07;20-FEB-17
 1000031;"Bendrų ekonominių ir socialinių planavimo paslaugų administravimas ir valdymas (Finansų departamentas)";Y;N;14-MAR-08;27-DEC-19
 1000032;"Savivaldybei priskirtos valstybinės žemės ir kito valstybės turto valdymas, naudojimas ir disponavimas juo patikėjimo teise";Y;N;14-MAR-08;01-JUL-11
-1000033;"Bendrų ekonominių ir socialinių planavimo paslaugų administravimas ir valdymas (Miesto plėtros departamentas)";Y;N;14-MAR-08;27-DEC-19
-1000034;"Centrinės institucijos išlaikymas (Miesto ūkio departamentas)";Y;N;14-MAR-08;27-DEC-19
+1000033;"Bendrų ekonominių ir socialinių planavimo paslaugų administravimas ir valdymas (Miesto plėtros departamentas)";Y;N;14-MAR-08;04-NOV-21
+1000034;"Centrinės institucijos išlaikymas (Miesto ūkio departamentas)";Y;N;14-MAR-08;04-NOV-21
 1000035;"Žmogaus teisių apsauga (Vaikų teisių apsaugos tarnyba)";Y;N;14-MAR-08;01-JUL-11
 1000036;"Žmogaus teisių apsauga (Vaikų teisių apsaugos tarnyba)";Y;N;14-MAR-08;20-FEB-17
 1000037;"Centrinės institucijos išlaikymas (Sveikatos skyrius)";Y;N;14-MAR-08;27-DEC-19
@@ -118,8 +118,8 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 1000118;"Institucijos valdymo išlaidos (Administracija). Kitos išlaidos";Y;N;31-DEC-19;31-DEC-19
 1000119;"Institucijos valdymo išlaidos (Seniūnijos). Kitos išlaidos";Y;N;31-DEC-19;31-DEC-19
 1000120;Nenaudojama;Y;N;20-NOV-07;31-DEC-19
-1000121;"Institucijos valdymo išlaidos (Vyriausiojo miesto architekto skyrius, Žemės tvarkymo ir administravimo skyrius). Kitos išlaidos";Y;N;31-DEC-19;31-DEC-19
-1000122;"Institucijos valdymo išlaidos (Infrastruktūros skyrius, Būsto administravimo skyrius, Eismo organizavimo skyrius, Energetikos skyrius, Miesto tvarkymo ir aplinkos apsaugos skyrius, Želdynų skyrius). Kitos išlaidos";Y;N;31-DEC-19;31-DEC-19
+1000121;"Institucijos valdymo išlaidos (Miesto planavimo ir architektūros, Miestovaizdžio, Kultūros paveldo apsaugos, Statybos reglamentavimo, Teritorijų planavimo ir plėtros projektų, Žemės tvarkymo ir administravimo skyriai). Kitos išlaidos";Y;N;31-DEC-19;04-NOV-21
+1000122;"Institucijos valdymo išlaidos (Infrastruktūros skyrius, Būsto administravimo skyrius, Eismo organizavimo skyrius, Energetikos skyrius, Miesto tvarkymo ir aplinkos apsaugos skyrius). Kitos išlaidos";Y;N;31-DEC-19;04-NOV-21
 1000123;"Institucijos valdymo išlaidos (Sveikatos apsaugos skyrius). Kitos išlaidos";Y;N;31-DEC-19;31-DEC-19
 1000124;"Institucijos valdymo išlaidos (Socialinių paslaugų skyrius). Kitos išlaidos";Y;N;31-DEC-19;31-DEC-19
 1000125;"Institucijos valdymo išlaidos (Kultūros skyrius, Sporto ir sveikatingumo skyrius). Kitos išlaidos";Y;N;31-DEC-19;31-DEC-19
