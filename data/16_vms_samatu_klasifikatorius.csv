@@ -566,6 +566,7 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 3000051;"Išmokėti kompensaciją vežėjams (Skolintos lėšos-skoloms mokėti)";Y;N;21-FEB-11;25-MAR-11
 3000052;"Išmokėti kompensaciją vežėjams (iš SB likučių)";Y;N;31-OCT-13;31-OCT-13
 3000053;"Išmokėti kompensaciją vežėjams (Pagal taikos sutartį Savivaldybės skoliniams įsipareigojimams grąžinti (dotacijos))";Y;N;09-DEC-16;09-DEC-16
+3000057;"Savivaldybių išlaidoms, patirtoms vykdant įsipareigojimus vietinio transporto vežėjams, kurie negavo pajamų dėl su COVID-19 pandemija susijusių keleivių vežimo apribojimų, esant valstybės lygio ekstremaliajai situacijai, kompensuoti";Y;N;01-DEC-21;01-DEC-21
 3000060;"Išlaidų kompensavimas (už šildymą)";Y;N;20-NOV-07;30-APR-08
 3000061;"Tarpusavio atsiskaitymai (kompensacijos už šildyma) Administracijos direktoriaus 2009-09-14 įsakymas Nr.30-1534 (LRV 2009-08-17 nutarimas Nr.863)";Y;N;15-DEC-08;18-SEP-09
 3000070;"Išlaidų kompensavimas (už karštą vandenį)";Y;N;20-NOV-07;30-APR-08
@@ -5005,6 +5006,7 @@ PB0077;"Atžalyno M/D projektas 09.2.1-ESFA-K-728-02-0077";Y;N;20-NOV-19;20-NOV-
 PB0079;"Vilniaus d/m ""Lokiukas""";Y;N;31-JAN-18;31-JAN-18
 PB008;"Gintarėlis L/D projektas";Y;N;25-NOV-15;25-NOV-15
 PB0083;"Trakų vokės gimnazijos projektas 09.2.1-ESFA-K-728-03-0083";Y;N;02-OCT-20;02-OCT-20
+PB008SU;"Vilniaus ugdymo įstaigų veiklos stebėsenos, analizės ir vertinimo bandomosios platformos sukūrimas";Y;N;01-DEC-21;01-DEC-21
 PB00P1;"M.K.Čiurlionio namų projektas";Y;N;04-DEC-18;04-DEC-18
 PB010;"Neįgaliųjų ir sutrikusio intelekto vaikų SGC įkūrimas Čiauškučio l/d";Y;N;19-SEP-12;20-SEP-12
 PB0103;"Lokiukas D/M projektas 09.2.1-ESFA-K-728-02-0103";Y;N;20-NOV-19;20-NOV-19
