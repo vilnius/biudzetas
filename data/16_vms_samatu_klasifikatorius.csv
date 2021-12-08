@@ -4274,6 +4274,7 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 6000893;"SARS-CoV-2 RNR nustatymo, kaupinių PGR ir SARS-CoV-2 viruso variantų nustatymo PGR  metodu atliktus tyrimus";Y;N;25-NOV-21;25-NOV-21
 6000894;"COVID-19 ligos ėminių tyrimui ar greitajam testui paėmimo mobiliuosiuose punktuose ir COVID-19 tyrimo ar greitojo testo atlikimo paslauga (BĮ VVSB)";Y;N;25-NOV-21;25-NOV-21
 6000895;"COVID-19 ligos ėminių tyrimui ar greitajam testui paėmimo mobiliuosiuose punktuose ir COVID-19 ligos (koronaviruso infekcijos) tyrimo ar greitojo testo atlikimo paslauga";Y;N;25-NOV-21;25-NOV-21
+6000896;"Ėminių COVID-19 (koronoviruso infekcijos) tyrimui ar greitajam testui paėmimo COVID-19 ligos tyrimo ar greitojo testo atlikimo paslauga, suteikta ne mobiliuose punktuose";Y;N;07-DEC-21;07-DEC-21
 6000899;"Sveikatos priežiūros įstaigų reorganizacija, restruktūrizacija, renovacija ir medicininės įrangos įsigijimas (dotacijos iš FINMIN skoloms grąžinti)";Y;N;08-DEC-16;08-DEC-16
 6000900;"Socialinių reikalų departamento viešųjų įstaigų reorganizacija, restruktūrizacija, renovacija ir medicininės įrangos įsigijimas (Savivaldybės privatizavimo fondo lėšos)";Y;N;14-MAR-08;27-MAR-09
 6000901;"Socialinių reikalų ir sveikatos departamento viešųjų įstaigų reorganizacija, restruktūrizacija, renovacija ir medicininės įrangos įsigijimas (Savivaldybės biudžeto lėšos)";Y;N;16-MAR-11;16-MAR-11
@@ -5032,10 +5033,12 @@ PB029;"Puškino mokyklos projekto sąmata";Y;N;15-MAY-17;15-MAY-17
 PB031;"Emilijos Pliaterytės progimnazijos projektas BĮBA";Y;N;08-SEP-11;04-OCT-11
 PB031-1;"Basanavičiaus progimnazijos ES projektas Nr. VP1-2.2-ŠMM-05-K-01-031";Y;N;28-MAY-12;28-MAY-12
 PB0453;"Vilkpedės L/D projektas SRF-S1Į-2019-1-0453 Multifunkcinės sporto erdvės įrengimas";Y;N;03-AUG-20;03-AUG-20
+PB0486;"Sporto rėmimo projektas „Labai išsiilgusiems užsiėmimų, kurie smagūs“";Y;N;07-DEC-21;07-DEC-21
 PB050;"Šeškinės pradinės mokyklos projektas BĮBA";Y;N;08-SEP-11;04-OCT-11
 PB052;"Pilaitės gimnazija projektas";Y;N;25-NOV-15;25-NOV-15
 PB068;"Trakų Vokės vid.mokyklos projektas BĮBA";Y;N;08-SEP-11;08-SEP-11
 PB083-1;"Projektas 09.2.1-ESFA-K-728-02-0083";Y;N;08-OCT-20;08-OCT-20
+PB1070;"Sporto rėmimo projektas „Plaukimo ABC“";Y;N;07-DEC-21;07-DEC-21
 PB1165;"Sporto rėmimo projektas (multifunkcinės erdvės įrengimas)";Y;N;12-NOV-21;12-NOV-21
 PB204;"VJK Klevas (BĮBA)";Y;N;30-APR-13;30-APR-13
 PB2PROC;"2 % parama (BĮBA)";Y;N;14-JAN-13;14-JAN-13
