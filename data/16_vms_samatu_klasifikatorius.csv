@@ -2706,6 +2706,8 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 4001441;"Socialinę riziką patiriančių ikimokyklinio amžiaus vaikų išlaikymas";Y;N;13-OCT-21;13-OCT-21
 4001442;"Covid-19 išlaidoms kompensuoti";Y;N;13-OCT-21;13-OCT-21
 4001443;"Mokslo paskirties pastato statyba Tolminkiemio g. (SB)";Y;N;13-OCT-21;13-OCT-21
+4001444;"Lėšos, skirtos ugdymo planui įgyvendinti pagrindinio ugdymo įstaigose (BĮBA)";Y;N;13-DEC-21;13-DEC-21
+4001445;"Lėšos, skirtos ugdymo planui įgyvendinti bendrojo ugdymo įstaigose (BĮBA)";Y;N;13-DEC-21;13-DEC-21
 4002000;"Neįgaliųjų ir sutrikusio intelekto vaikų socialinės globos centro įkūrimas (Vilniaus specialiajame lopšelyje-darželyje „Čiauškutis“) (Europos Sąjungos lėšos)";Y;N;22-FEB-12;22-FEB-12
 4002001;"Vilniaus Viršuliškių vidurinės mokyklos pastato Vilniuje, Viršuliškių g. 7, rekonstravimas (Europos Sąjungos lėšos)";Y;N;22-FEB-12;22-FEB-12
 4002002;"Vilniaus Naujininkų vidurinės mokyklos pastato Šaltkalvių g. 32, rekonstravimas (Europos Sąjungos lėšos)";Y;N;22-FEB-12;22-FEB-12
@@ -3972,6 +3974,8 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 6000501;"MMA didinimui ir darbo apmokėjimo įstatymui įgyvendinti";Y;N;26-OCT-15;02-JUN-17
 6000502;"Tikslinės lėšos Socialinės paramos centro išlaikymui";Y;N;19-MAY-20;19-MAY-20
 6000503;"Projekto „Socialinės paramos prieinamumo didinimas“ įgyvendinimas SPC";Y;N;28-MAY-20;28-MAY-20
+6000505;"Projektas „Vilniaus miesto socialinių paslaugų infrastruktūros tinklo kūrimas ir plėtra asmenims, turintiems proto ir (arba) psichikos negalią“";Y;N;13-DEC-21;13-DEC-21
+6000506;"Projektas „Vilniaus miesto socialinių paslaugų infrastruktūros tinklo kūrimas ir plėtra asmenims, turintiems proto ir (arba) psichikos negalią“";Y;N;13-DEC-21;13-DEC-21
 6000507;"Vilniaus Antakalnio vaikų socialinės globos namų COVID-19 išlaidų padengimas (01)";Y;N;19-FEB-21;19-FEB-21
 6000508;"Tikslinės lėšos Vilniaus Antakalnio vaikų socialinės globos namų išlaikymui";Y;N;19-MAY-20;19-MAY-20
 6000509;"Tikslinės lėšos Vilniaus vaikų socialinės globos namų „Gilė“ išlaikymui";Y;N;19-MAY-20;19-MAY-20
@@ -4283,6 +4287,7 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 6000894;"COVID-19 ligos ėminių tyrimui ar greitajam testui paėmimo mobiliuosiuose punktuose ir COVID-19 tyrimo ar greitojo testo atlikimo paslauga (BĮ VVSB)";Y;N;25-NOV-21;25-NOV-21
 6000895;"COVID-19 ligos ėminių tyrimui ar greitajam testui paėmimo mobiliuosiuose punktuose ir COVID-19 ligos (koronaviruso infekcijos) tyrimo ar greitojo testo atlikimo paslauga";Y;N;25-NOV-21;25-NOV-21
 6000896;"Ėminių COVID-19 (koronoviruso infekcijos) tyrimui ar greitajam testui paėmimo COVID-19 ligos tyrimo ar greitojo testo atlikimo paslauga, suteikta ne mobiliuose punktuose";Y;N;07-DEC-21;07-DEC-21
+6000897;"Informacijos apie kitoje šalyje asmeniui atliktą skiepijimą nuo ar persirgimą COVID-19 liga pagal asmens pateiktą kitos šalies sveikatos priežiūros įstaigos jam išduotą persirgimo dokumentą (PGR tyr.), įvedimą į el. informacinę sistemą";Y;N;13-DEC-21;13-DEC-21
 6000899;"Sveikatos priežiūros įstaigų reorganizacija, restruktūrizacija, renovacija ir medicininės įrangos įsigijimas (dotacijos iš FINMIN skoloms grąžinti)";Y;N;08-DEC-16;08-DEC-16
 6000900;"Socialinių reikalų departamento viešųjų įstaigų reorganizacija, restruktūrizacija, renovacija ir medicininės įrangos įsigijimas (Savivaldybės privatizavimo fondo lėšos)";Y;N;14-MAR-08;27-MAR-09
 6000901;"Socialinių reikalų ir sveikatos departamento viešųjų įstaigų reorganizacija, restruktūrizacija, renovacija ir medicininės įrangos įsigijimas (Savivaldybės biudžeto lėšos)";Y;N;16-MAR-11;16-MAR-11
