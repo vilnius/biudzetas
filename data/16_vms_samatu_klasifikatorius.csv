@@ -139,6 +139,7 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 1000139;"Socialinės paramos mokiniams administravimas (Socialinių išmokų skyrius)";Y;N;01-DEC-20;01-DEC-20
 1000140;Nenaudojama;Y;N;20-NOV-07;29-JAN-21
 1000141;"Akredituotos vaikų dienos socialinės priežiūros administravimas";Y;N;29-JAN-21;29-JAN-21
+1000142;"Išlaidų, susijusių su mobiliųjų COVID-19 testavimo punktų įrengimu ir darbo juose organizavimu, kompensavimas";Y;N;28-DEC-21;28-DEC-21
 1000150;Nenaudojama;Y;N;20-NOV-07;13-FEB-13
 1000151;"Tėvų mokesčio surinkimas jaunimo politiką  įgyvendinančiose įstaigose";Y;N;13-FEB-13;13-FEB-13
 1000152;"Išlaidų, susijusių su minimalios algos padidėjimu, finansavimas";Y;N;07-NOV-16;07-NOV-16
@@ -236,6 +237,7 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 1010620;"Projekto „Patirties keitimasis organizacijose tarptautinio bendradarbiavimo srityje“ įgyvendinimas";Y;N;28-MAY-19;28-MAY-19
 1010621;"Projekto „Šiaurės ir Baltijos šalių viešojo administravimo mobilumo ir tinklų programa tarp Vilniaus ir Joensuu, Kristiansando, Kristianstado ir Geteborgo“ įgyvendinimas";Y;N;26-JUN-19;26-JUN-19
 1010622;"Projekto „Nekilnojamojo turto valdymo ypatumai: nekilnojamojo turto nuoma, skolinimas, patikėjimas, pastatų naudojimas ir viešosios infrastruktūros priežiūra“ įgyvendinimas";Y;N;27-JUL-20;27-JUL-20
+1010623;"Projekto „Šiaurės ir Baltijos šalių mobilumo programa bendradarbiavimo miesto plėtros klasuimais“ įgyvendinimas";Y;N;28-DEC-21;28-DEC-21
 1100001;"Teismo, antstolių, notarų paslaugoms ir skelbimams spaudoje apmokėti (sena)";Y;N;30-NOV-11;29-JAN-20
 1100002;"Vilniaus miesto 2010-2020 metų strateginio plano parengimas";Y;N;30-NOV-11;30-NOV-11
 1100003;"Finansų valdymo ir apskaitos sistemos diegimo plėtra ir analizės paslaugos - II etapas";Y;N;30-NOV-11;30-NOV-11
@@ -2708,6 +2710,13 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 4001443;"Mokslo paskirties pastato statyba Tolminkiemio g. (SB)";Y;N;13-OCT-21;13-OCT-21
 4001444;"Lėšos, skirtos ugdymo planui įgyvendinti pagrindinio ugdymo įstaigose (BĮBA)";Y;N;13-DEC-21;13-DEC-21
 4001445;"Lėšos, skirtos ugdymo planui įgyvendinti bendrojo ugdymo įstaigose (BĮBA)";Y;N;13-DEC-21;13-DEC-21
+4001446;"„Creation of Modern Ethnocultural“ projektas";Y;N;28-DEC-21;28-DEC-21
+4001447;"II Ugdymo koncentro mokinių matematikos pasiekimų gerinimas naudojant dirbtinio intelekto technologiją";Y;N;28-DEC-21;28-DEC-21
+4001448;"Ikimokyklinio ir bendrojo ugdymo mokyklų veiklos tobulinimas";Y;N;28-DEC-21;28-DEC-21
+4001449;"Kryptingas vaikų mokymosi mokytis kompetencijų ugdymas taikant „Mąstymo įpročių"" metodą";Y;N;28-DEC-21;28-DEC-21
+4001450;"„New garden in little ladybug"" projektas";Y;N;28-DEC-21;28-DEC-21
+4001451;"Nuoseklus ir sistemingas vaikų individualios pažangos stebėjimas ir pasiekimų vertinimas: „Vertinimas mokymuisi""";Y;N;28-DEC-21;28-DEC-21
+4001452;"„Twinings"" projektas";Y;N;28-DEC-21;28-DEC-21
 4002000;"Neįgaliųjų ir sutrikusio intelekto vaikų socialinės globos centro įkūrimas (Vilniaus specialiajame lopšelyje-darželyje „Čiauškutis“) (Europos Sąjungos lėšos)";Y;N;22-FEB-12;22-FEB-12
 4002001;"Vilniaus Viršuliškių vidurinės mokyklos pastato Vilniuje, Viršuliškių g. 7, rekonstravimas (Europos Sąjungos lėšos)";Y;N;22-FEB-12;22-FEB-12
 4002002;"Vilniaus Naujininkų vidurinės mokyklos pastato Šaltkalvių g. 32, rekonstravimas (Europos Sąjungos lėšos)";Y;N;22-FEB-12;22-FEB-12
