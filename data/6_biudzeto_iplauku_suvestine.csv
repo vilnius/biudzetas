@@ -1,5 +1,4 @@
 IPLAUKU_DATA;SALTINIO_PAV;IMOKOS_KODAI;APRASYMAS;SUMA
-06-JAN-17;VMI;37;"Pajamos iš mokesčių inspekcijos";30.62
 18-FEB-19;VMI;37;"Pajamos iš mokesčių inspekcijos";2233.55
 18-FEB-19;VMI;37;"Pajamos iš mokesčių inspekcijos";947129.04
 15-FEB-19;VMI;37;"Pajamos iš mokesčių inspekcijos";341688.33
@@ -219,6 +218,7 @@ IPLAUKU_DATA;SALTINIO_PAV;IMOKOS_KODAI;APRASYMAS;SUMA
 16-JUN-17;VMI;37;"Pajamos iš mokesčių inspekcijos";75.36
 05-JUN-17;VMI;37;"Pajamos iš mokesčių inspekcijos";636.98
 13-FEB-17;VMI;37;"Pajamos iš mokesčių inspekcijos";29.27
+06-JAN-17;VMI;37;"Pajamos iš mokesčių inspekcijos";30.62
 08-MAR-19;VMI;37;"Pajamos iš mokesčių inspekcijos";1726.18
 09-OCT-17;VMI;37;"Pajamos iš mokesčių inspekcijos";4.17
 04-OCT-17;VMI;37;"Pajamos iš mokesčių inspekcijos";2.13
@@ -1445,23 +1445,6 @@ IPLAUKU_DATA;SALTINIO_PAV;IMOKOS_KODAI;APRASYMAS;SUMA
 11-DEC-17;VMI;84;"Pajamos iš mokesčių inspekcijos";141.4
 29-NOV-16;VMI;84;"Pajamos iš mokesčių inspekcijos";345.55
 07-MAR-16;VMI;84;"Pajamos iš mokesčių inspekcijos";8600
-06-JAN-17;VMI;22K;"Pajamos iš mokesčių inspekcijos";690567
-06-JAN-17;VMI;22K;"Pajamos iš mokesčių inspekcijos";92054.88
-27-FEB-17;VMI;22K;"Pajamos iš mokesčių inspekcijos";117988.52
-09-MAY-17;VMI;22K;"Pajamos iš mokesčių inspekcijos";40745.4
-09-MAY-17;VMI;22K;"Pajamos iš mokesčių inspekcijos";1376968.76
-05-DEC-16;VMI;22K;"Pajamos iš mokesčių inspekcijos";612994.78
-05-DEC-16;VMI;22K;"Pajamos iš mokesčių inspekcijos";183584.52
-06-APR-17;VMI;22K;"Pajamos iš mokesčių inspekcijos";410478.04
-06-APR-17;VMI;22K;"Pajamos iš mokesčių inspekcijos";26578.37
-06-APR-17;VMI;22K;"Pajamos iš mokesčių inspekcijos";606949.96
-01-FEB-17;VMI;22K;"Pajamos iš mokesčių inspekcijos";81378.12
-23-NOV-18;VMI;22K;"Pajamos iš mokesčių inspekcijos";333678.1
-21-NOV-18;VMI;22K;"Pajamos iš mokesčių inspekcijos";203875.77
-22-MAR-17;VMI;22K;"Pajamos iš mokesčių inspekcijos";1131639
-22-MAR-17;VMI;22K;"Pajamos iš mokesčių inspekcijos";230160.87
-27-FEB-19;VMI;22K;"Pajamos iš mokesčių inspekcijos";332285.96
-26-APR-17;VMI;22K;"Pajamos iš mokesčių inspekcijos";634039.88
 18-FEB-19;VMI;22K;"Pajamos iš mokesčių inspekcijos";16390519.31
 15-FEB-19;VMI;22K;"Pajamos iš mokesčių inspekcijos";2555746.98
 13-FEB-19;VMI;22K;"Pajamos iš mokesčių inspekcijos";1098231.56
@@ -1985,10 +1968,13 @@ IPLAUKU_DATA;SALTINIO_PAV;IMOKOS_KODAI;APRASYMAS;SUMA
 05-JUN-17;VMI;22K;"Pajamos iš mokesčių inspekcijos";3420.28
 05-MAY-17;VMI;22K;"Pajamos iš mokesčių inspekcijos";1311819.78
 05-MAY-17;VMI;22K;"Pajamos iš mokesčių inspekcijos";350955.06
+26-APR-17;VMI;22K;"Pajamos iš mokesčių inspekcijos";634039.88
 13-FEB-17;VMI;22K;"Pajamos iš mokesčių inspekcijos";10023.37
 13-FEB-17;VMI;22K;"Pajamos iš mokesčių inspekcijos";1511368
 17-JAN-17;VMI;22K;"Pajamos iš mokesčių inspekcijos";8232987
 17-JAN-17;VMI;22K;"Pajamos iš mokesčių inspekcijos";41082.85
+06-JAN-17;VMI;22K;"Pajamos iš mokesčių inspekcijos";690567
+06-JAN-17;VMI;22K;"Pajamos iš mokesčių inspekcijos";92054.88
 08-MAR-19;VMI;22K;"Pajamos iš mokesčių inspekcijos";973841.9
 04-DEC-17;VMI;22K;"Pajamos iš mokesčių inspekcijos";147886.7
 04-DEC-17;VMI;22K;"Pajamos iš mokesčių inspekcijos";511715.85
@@ -2020,6 +2006,7 @@ IPLAUKU_DATA;SALTINIO_PAV;IMOKOS_KODAI;APRASYMAS;SUMA
 13-APR-17;VMI;22K;"Pajamos iš mokesčių inspekcijos";313206.25
 07-APR-17;VMI;22K;"Pajamos iš mokesčių inspekcijos";65557.63
 30-MAR-17;VMI;22K;"Pajamos iš mokesčių inspekcijos";40088.74
+27-FEB-17;VMI;22K;"Pajamos iš mokesčių inspekcijos";117988.52
 22-FEB-17;VMI;22K;"Pajamos iš mokesčių inspekcijos";264978.45
 25-JAN-17;VMI;22K;"Pajamos iš mokesčių inspekcijos";955691.03
 25-JAN-17;VMI;22K;"Pajamos iš mokesčių inspekcijos";2328.52
@@ -2165,6 +2152,8 @@ IPLAUKU_DATA;SALTINIO_PAV;IMOKOS_KODAI;APRASYMAS;SUMA
 16-MAY-17;VMI;22K;"Pajamos iš mokesčių inspekcijos";61585.09
 16-MAY-17;VMI;22K;"Pajamos iš mokesčių inspekcijos";238.4
 16-MAY-17;VMI;22K;"Pajamos iš mokesčių inspekcijos";2292662
+09-MAY-17;VMI;22K;"Pajamos iš mokesčių inspekcijos";40745.4
+09-MAY-17;VMI;22K;"Pajamos iš mokesčių inspekcijos";1376968.76
 25-APR-17;VMI;22K;"Pajamos iš mokesčių inspekcijos";741523.45
 28-MAR-17;VMI;22K;"Pajamos iš mokesčių inspekcijos";18954.51
 21-MAR-17;VMI;22K;"Pajamos iš mokesčių inspekcijos";118524.14
@@ -2192,6 +2181,8 @@ IPLAUKU_DATA;SALTINIO_PAV;IMOKOS_KODAI;APRASYMAS;SUMA
 30-JUN-16;VMI;22K;"Pajamos iš mokesčių inspekcijos";634593.39
 13-JUN-16;VMI;22K;"Pajamos iš mokesčių inspekcijos";1044638.28
 09-JUN-16;VMI;22K;"Pajamos iš mokesčių inspekcijos";618404.6
+05-DEC-16;VMI;22K;"Pajamos iš mokesčių inspekcijos";612994.78
+05-DEC-16;VMI;22K;"Pajamos iš mokesčių inspekcijos";183584.52
 04-MAY-16;VMI;22K;"Pajamos iš mokesčių inspekcijos";424604.66
 04-MAY-16;VMI;22K;"Pajamos iš mokesčių inspekcijos";267491.6
 22-NOV-17;VMI;22K;"Pajamos iš mokesčių inspekcijos";84077.44
@@ -2307,6 +2298,9 @@ IPLAUKU_DATA;SALTINIO_PAV;IMOKOS_KODAI;APRASYMAS;SUMA
 24-MAY-17;VMI;22K;"Pajamos iš mokesčių inspekcijos";70518.62
 30-MAY-17;VMI;22K;"Pajamos iš mokesčių inspekcijos";5512.18
 30-MAY-17;VMI;22K;"Pajamos iš mokesčių inspekcijos";432617.39
+06-APR-17;VMI;22K;"Pajamos iš mokesčių inspekcijos";410478.04
+06-APR-17;VMI;22K;"Pajamos iš mokesčių inspekcijos";26578.37
+06-APR-17;VMI;22K;"Pajamos iš mokesčių inspekcijos";606949.96
 17-NOV-16;VMI;22K;"Pajamos iš mokesčių inspekcijos";1018047.93
 17-NOV-16;VMI;22K;"Pajamos iš mokesčių inspekcijos";74319.01
 28-OCT-16;VMI;22K;"Pajamos iš mokesčių inspekcijos";451756.77
@@ -2705,6 +2699,7 @@ IPLAUKU_DATA;SALTINIO_PAV;IMOKOS_KODAI;APRASYMAS;SUMA
 03-FEB-16;VMI;22K;"Pajamos iš mokesčių inspekcijos";414652.79
 21-JAN-16;VMI;22K;"Pajamos iš mokesčių inspekcijos";529672.54
 12-JAN-16;VMI;22K;"Pajamos iš mokesčių inspekcijos";232977.79
+01-FEB-17;VMI;22K;"Pajamos iš mokesčių inspekcijos";81378.12
 13-NOV-15;VMI;22K;"Pajamos iš mokesčių inspekcijos";141090.56
 13-NOV-15;VMI;22K;"Pajamos iš mokesčių inspekcijos";37007.26
 13-NOV-15;VMI;22K;"Pajamos iš mokesčių inspekcijos";184253.29
@@ -3071,6 +3066,8 @@ IPLAUKU_DATA;SALTINIO_PAV;IMOKOS_KODAI;APRASYMAS;SUMA
 12-JAN-15;VMI;22K;"Pajamos iš mokesčių inspekcijos";37900.57
 12-JAN-15;VMI;22K;"Pajamos iš mokesčių inspekcijos";47928.56
 26-NOV-18;VMI;22K;"Pajamos iš mokesčių inspekcijos";319238.47
+23-NOV-18;VMI;22K;"Pajamos iš mokesčių inspekcijos";333678.1
+21-NOV-18;VMI;22K;"Pajamos iš mokesčių inspekcijos";203875.77
 22-NOV-18;VMI;22K;"Pajamos iš mokesčių inspekcijos";30980.01
 22-NOV-18;VMI;22K;"Pajamos iš mokesčių inspekcijos";194775.87
 28-FEB-19;VMI;22K;"Pajamos iš mokesčių inspekcijos";645680.19
@@ -3106,6 +3103,8 @@ IPLAUKU_DATA;SALTINIO_PAV;IMOKOS_KODAI;APRASYMAS;SUMA
 26-JAN-17;VMI;22K;"Pajamos iš mokesčių inspekcijos";15589.37
 26-JAN-17;VMI;22K;"Pajamos iš mokesčių inspekcijos";1491.97
 21-APR-17;VMI;22K;"Pajamos iš mokesčių inspekcijos";842485.04
+22-MAR-17;VMI;22K;"Pajamos iš mokesčių inspekcijos";1131639
+22-MAR-17;VMI;22K;"Pajamos iš mokesčių inspekcijos";230160.87
 31-MAR-17;VMI;22K;"Pajamos iš mokesčių inspekcijos";8717.04
 31-MAR-17;VMI;22K;"Pajamos iš mokesčių inspekcijos";676323.29
 31-MAR-17;VMI;22K;"Pajamos iš mokesčių inspekcijos";115745.21
@@ -3114,6 +3113,7 @@ IPLAUKU_DATA;SALTINIO_PAV;IMOKOS_KODAI;APRASYMAS;SUMA
 31-MAR-17;VMI;22K;"Pajamos iš mokesčių inspekcijos";31096.55
 28-FEB-17;VMI;22K;"Pajamos iš mokesčių inspekcijos";476842.57
 20-DEC-16;VMI;22K;"Pajamos iš mokesčių inspekcijos";239907
+27-FEB-19;VMI;22K;"Pajamos iš mokesčių inspekcijos";332285.96
 26-FEB-19;VMI;22K;"Pajamos iš mokesčių inspekcijos";549300.28
 02-NOV-15;KITOS;;"Kitos pajamos";1430
 18-FEB-15;KITOS;;"Kitos pajamos";6.25
@@ -3152,16 +3152,6 @@ IPLAUKU_DATA;SALTINIO_PAV;IMOKOS_KODAI;APRASYMAS;SUMA
 05-AUG-16;KITOS;99;"Kitos pajamos";138128.77
 07-AUG-15;KITOS;99;"Kitos pajamos";66009.91
 26-MAY-15;KITOS;99;"Kitos pajamos";11847.2
-22-MAR-17;KITOS;91;"Kitos pajamos";257.62
-06-JAN-17;KITOS;91;"Kitos pajamos";62.91
-27-FEB-17;KITOS;91;"Kitos pajamos";251.63
-23-JAN-17;KITOS;91;"Kitos pajamos";51.07
-06-SEP-18;KITOS;91;"Kitos pajamos";3585.16
-27-FEB-19;KITOS;91;"Kitos pajamos";23.58
-27-FEB-19;KITOS;91;"Kitos pajamos";114.42
-27-FEB-19;KITOS;91;"Kitos pajamos";477.43
-11-FEB-19;KITOS;91;"Kitos pajamos";102.55
-22-MAR-17;KITOS;91;"Kitos pajamos";108
 18-FEB-19;KITOS;91;"Kitos pajamos";200
 15-FEB-19;KITOS;91;"Kitos pajamos";180
 25-MAR-19;KITOS;91;"Kitos pajamos";105
@@ -3604,6 +3594,8 @@ IPLAUKU_DATA;SALTINIO_PAV;IMOKOS_KODAI;APRASYMAS;SUMA
 23-AUG-17;KITOS;91;"Kitos pajamos";8.1
 23-AUG-17;KITOS;91;"Kitos pajamos";179.2
 23-AUG-17;KITOS;91;"Kitos pajamos";194.38
+22-MAR-17;KITOS;91;"Kitos pajamos";108
+22-MAR-17;KITOS;91;"Kitos pajamos";257.62
 14-DEC-17;KITOS;91;"Kitos pajamos";41.47
 08-DEC-17;KITOS;91;"Kitos pajamos";851.01
 08-DEC-17;KITOS;91;"Kitos pajamos";782.25
@@ -3639,6 +3631,7 @@ IPLAUKU_DATA;SALTINIO_PAV;IMOKOS_KODAI;APRASYMAS;SUMA
 26-APR-17;KITOS;91;"Kitos pajamos";100
 26-APR-17;KITOS;91;"Kitos pajamos";289.01
 17-JAN-17;KITOS;91;"Kitos pajamos";432.71
+06-JAN-17;KITOS;91;"Kitos pajamos";62.91
 08-MAR-19;KITOS;91;"Kitos pajamos";940
 08-MAR-19;KITOS;91;"Kitos pajamos";940
 08-MAR-19;KITOS;91;"Kitos pajamos";940
@@ -3683,6 +3676,7 @@ IPLAUKU_DATA;SALTINIO_PAV;IMOKOS_KODAI;APRASYMAS;SUMA
 07-FEB-17;KITOS;91;"Kitos pajamos";332.72
 27-FEB-17;KITOS;91;"Kitos pajamos";11555
 27-FEB-17;KITOS;91;"Kitos pajamos";40.89
+27-FEB-17;KITOS;91;"Kitos pajamos";251.63
 22-FEB-17;KITOS;91;"Kitos pajamos";2650.59
 25-JAN-17;KITOS;91;"Kitos pajamos";.03
 28-NOV-16;KITOS;91;"Kitos pajamos";2059.99
@@ -4022,6 +4016,7 @@ IPLAUKU_DATA;SALTINIO_PAV;IMOKOS_KODAI;APRASYMAS;SUMA
 06-FEB-17;KITOS;91;"Kitos pajamos";97.51
 05-SEP-16;KITOS;91;"Kitos pajamos";3730.18
 05-SEP-16;KITOS;91;"Kitos pajamos";30
+23-JAN-17;KITOS;91;"Kitos pajamos";51.07
 20-JAN-17;KITOS;91;"Kitos pajamos";2143
 05-JUL-16;KITOS;91;"Kitos pajamos";76.71
 24-MAY-16;KITOS;91;"Kitos pajamos";867.68
@@ -4623,6 +4618,7 @@ IPLAUKU_DATA;SALTINIO_PAV;IMOKOS_KODAI;APRASYMAS;SUMA
 22-NOV-18;KITOS;91;"Kitos pajamos";48.73
 22-NOV-18;KITOS;91;"Kitos pajamos";100
 26-NOV-18;KITOS;91;"Kitos pajamos";20
+06-SEP-18;KITOS;91;"Kitos pajamos";3585.16
 28-FEB-19;KITOS;91;"Kitos pajamos";100
 28-FEB-19;KITOS;91;"Kitos pajamos";13428
 28-FEB-19;KITOS;91;"Kitos pajamos";886.24
@@ -4637,6 +4633,10 @@ IPLAUKU_DATA;SALTINIO_PAV;IMOKOS_KODAI;APRASYMAS;SUMA
 23-FEB-17;KITOS;91;"Kitos pajamos";112.72
 29-DEC-16;KITOS;91;"Kitos pajamos";799
 02-FEB-17;KITOS;91;"Kitos pajamos";3714.33
+27-FEB-19;KITOS;91;"Kitos pajamos";23.58
+27-FEB-19;KITOS;91;"Kitos pajamos";114.42
+27-FEB-19;KITOS;91;"Kitos pajamos";477.43
+11-FEB-19;KITOS;91;"Kitos pajamos";102.55
 21-APR-17;KITOS;91;"Kitos pajamos";734.66
 22-MAR-17;KITOS;91;"Kitos pajamos";15088
 22-MAR-17;KITOS;91;"Kitos pajamos";3588
@@ -4908,7 +4908,6 @@ IPLAUKU_DATA;SALTINIO_PAV;IMOKOS_KODAI;APRASYMAS;SUMA
 15-FEB-17;KITOS;90;"Kitos pajamos";2088
 13-MAR-17;KITOS;90;"Kitos pajamos";3918
 31-MAR-17;KITOS;90;"Kitos pajamos";23550
-06-APR-17;KITOS;100;"Kitos pajamos";22.78
 25-FEB-19;KITOS;100;"Kitos pajamos";7.55
 23-JAN-19;KITOS;100;"Kitos pajamos";13.77
 16-JAN-19;KITOS;100;"Kitos pajamos";736.66
@@ -5011,6 +5010,7 @@ IPLAUKU_DATA;SALTINIO_PAV;IMOKOS_KODAI;APRASYMAS;SUMA
 11-JUL-17;KITOS;100;"Kitos pajamos";21.56
 06-APR-17;KITOS;100;"Kitos pajamos";23.41
 06-APR-17;KITOS;100;"Kitos pajamos";551.7
+06-APR-17;KITOS;100;"Kitos pajamos";22.78
 30-DEC-16;KITOS;100;"Kitos pajamos";592.61
 20-JAN-16;KITOS;100;"Kitos pajamos";30.22
 17-DEC-15;KITOS;100;"Kitos pajamos";5.98
@@ -5122,15 +5122,6 @@ IPLAUKU_DATA;SALTINIO_PAV;IMOKOS_KODAI;APRASYMAS;SUMA
 10-MAR-15;KITOS;96;"Kitos pajamos";87394.42
 24-MAR-15;KITOS;96;"Kitos pajamos";896318.56
 04-MAR-15;KITOS;96;"Kitos pajamos";475249.57
-06-FEB-19;KITOS;94;"Kitos pajamos";10000
-26-APR-17;KITOS;94;"Kitos pajamos";134000
-03-MAR-17;KITOS;94;"Kitos pajamos";30000
-24-JAN-17;KITOS;94;"Kitos pajamos";27644.66
-26-JAN-17;KITOS;94;"Kitos pajamos";6300
-30-JAN-17;KITOS;94;"Kitos pajamos";12900
-16-JAN-15;KITOS;94;"Kitos pajamos";144.81
-28-FEB-19;KITOS;94;"Kitos pajamos";108
-06-FEB-19;KITOS;94;"Kitos pajamos";15900
 13-FEB-19;KITOS;94;"Kitos pajamos";61700
 23-JAN-19;KITOS;94;"Kitos pajamos";141.19
 17-JAN-19;KITOS;94;"Kitos pajamos";10900
@@ -5148,6 +5139,8 @@ IPLAUKU_DATA;SALTINIO_PAV;IMOKOS_KODAI;APRASYMAS;SUMA
 29-NOV-18;KITOS;94;"Kitos pajamos";254
 29-NOV-18;KITOS;94;"Kitos pajamos";10000
 28-NOV-18;KITOS;94;"Kitos pajamos";46221.1
+06-FEB-19;KITOS;94;"Kitos pajamos";15900
+06-FEB-19;KITOS;94;"Kitos pajamos";10000
 14-NOV-18;KITOS;94;"Kitos pajamos";28000
 14-NOV-18;KITOS;94;"Kitos pajamos";46221.1
 13-NOV-18;KITOS;94;"Kitos pajamos";26555
@@ -5213,6 +5206,7 @@ IPLAUKU_DATA;SALTINIO_PAV;IMOKOS_KODAI;APRASYMAS;SUMA
 29-DEC-17;KITOS;94;"Kitos pajamos";731.26
 05-MAR-18;KITOS;94;"Kitos pajamos";3600
 05-JAN-18;KITOS;94;"Kitos pajamos";141.19
+26-APR-17;KITOS;94;"Kitos pajamos";134000
 25-JAN-17;KITOS;94;"Kitos pajamos";14400
 25-JAN-17;KITOS;94;"Kitos pajamos";5488.7
 25-JAN-17;KITOS;94;"Kitos pajamos";60300
@@ -5327,6 +5321,7 @@ IPLAUKU_DATA;SALTINIO_PAV;IMOKOS_KODAI;APRASYMAS;SUMA
 31-MAR-16;KITOS;94;"Kitos pajamos";13572.86
 31-MAR-16;KITOS;94;"Kitos pajamos";1507.14
 24-AUG-17;KITOS;94;"Kitos pajamos";4173.48
+03-MAR-17;KITOS;94;"Kitos pajamos";30000
 17-NOV-16;KITOS;94;"Kitos pajamos";49200
 03-OCT-16;KITOS;94;"Kitos pajamos";485.91
 22-JUL-16;KITOS;94;"Kitos pajamos";797.31
@@ -5395,6 +5390,8 @@ IPLAUKU_DATA;SALTINIO_PAV;IMOKOS_KODAI;APRASYMAS;SUMA
 12-SEP-16;KITOS;94;"Kitos pajamos";600
 12-SEP-16;KITOS;94;"Kitos pajamos";7000
 29-MAR-16;KITOS;94;"Kitos pajamos";244.73
+24-JAN-17;KITOS;94;"Kitos pajamos";27644.66
+26-JAN-17;KITOS;94;"Kitos pajamos";6300
 14-AUG-15;KITOS;94;"Kitos pajamos";122
 17-AUG-15;KITOS;94;"Kitos pajamos";62.78
 17-AUG-15;KITOS;94;"Kitos pajamos";20794.72
@@ -5405,6 +5402,7 @@ IPLAUKU_DATA;SALTINIO_PAV;IMOKOS_KODAI;APRASYMAS;SUMA
 21-FEB-17;KITOS;94;"Kitos pajamos";9100
 25-FEB-16;KITOS;94;"Kitos pajamos";244.87
 03-FEB-16;KITOS;94;"Kitos pajamos";1726.66
+30-JAN-17;KITOS;94;"Kitos pajamos";12900
 19-JAN-17;KITOS;94;"Kitos pajamos";49900
 23-OCT-15;KITOS;94;"Kitos pajamos";247
 06-OCT-15;KITOS;94;"Kitos pajamos";141.19
@@ -5536,6 +5534,7 @@ IPLAUKU_DATA;SALTINIO_PAV;IMOKOS_KODAI;APRASYMAS;SUMA
 13-MAR-15;KITOS;94;"Kitos pajamos";100
 13-MAR-15;KITOS;94;"Kitos pajamos";145
 05-MAR-15;KITOS;94;"Kitos pajamos";251.15
+16-JAN-15;KITOS;94;"Kitos pajamos";144.81
 15-JAN-15;KITOS;94;"Kitos pajamos";20273.4
 06-JAN-15;KITOS;94;"Kitos pajamos";435
 06-JAN-15;KITOS;94;"Kitos pajamos";145
@@ -5545,6 +5544,7 @@ IPLAUKU_DATA;SALTINIO_PAV;IMOKOS_KODAI;APRASYMAS;SUMA
 07-JAN-15;KITOS;94;"Kitos pajamos";264.13
 26-NOV-18;KITOS;94;"Kitos pajamos";16000
 25-NOV-18;KITOS;94;"Kitos pajamos";40400
+28-FEB-19;KITOS;94;"Kitos pajamos";108
 20-FEB-17;KITOS;94;"Kitos pajamos";8400
 20-FEB-17;KITOS;94;"Kitos pajamos";25000
 26-JAN-17;KITOS;94;"Kitos pajamos";645
@@ -5705,9 +5705,6 @@ IPLAUKU_DATA;SALTINIO_PAV;IMOKOS_KODAI;APRASYMAS;SUMA
 28-FEB-17;KITOS;93;"Kitos pajamos";87960
 27-FEB-19;KITOS;93;"Kitos pajamos";70500
 27-FEB-19;KITOS;93;"Kitos pajamos";144420
-27-FEB-19;KITOS;97;"Kitos pajamos";133785.33
-27-FEB-19;KITOS;97;"Kitos pajamos";28937
-21-DEC-16;KITOS;97;"Kitos pajamos";55.1
 20-FEB-19;KITOS;97;"Kitos pajamos";269.81
 26-MAR-19;KITOS;97;"Kitos pajamos";121385
 26-MAR-19;KITOS;97;"Kitos pajamos";4653.91
@@ -6039,6 +6036,7 @@ IPLAUKU_DATA;SALTINIO_PAV;IMOKOS_KODAI;APRASYMAS;SUMA
 28-AUG-15;KITOS;97;"Kitos pajamos";14400
 24-AUG-15;KITOS;97;"Kitos pajamos";1521.21
 16-JUL-15;KITOS;97;"Kitos pajamos";1336.88
+21-DEC-16;KITOS;97;"Kitos pajamos";55.1
 30-MAR-15;KITOS;97;"Kitos pajamos";5700
 04-JUN-15;KITOS;97;"Kitos pajamos";5500
 04-JUN-15;KITOS;97;"Kitos pajamos";918.3
@@ -6074,6 +6072,8 @@ IPLAUKU_DATA;SALTINIO_PAV;IMOKOS_KODAI;APRASYMAS;SUMA
 27-FEB-19;KITOS;97;"Kitos pajamos";5661.72
 27-FEB-19;KITOS;97;"Kitos pajamos";4720.67
 27-FEB-19;KITOS;97;"Kitos pajamos";978.8
+27-FEB-19;KITOS;97;"Kitos pajamos";133785.33
+27-FEB-19;KITOS;97;"Kitos pajamos";28937
 31-DEC-18;KITOS;95;"Kitos pajamos";14267.8
 31-DEC-18;KITOS;95;"Kitos pajamos";10316.59
 29-JAN-19;KITOS;95;"Kitos pajamos";10000
@@ -6236,7 +6236,6 @@ IPLAUKU_DATA;SALTINIO_PAV;IMOKOS_KODAI;APRASYMAS;SUMA
 26-NOV-18;KITOS;95;"Kitos pajamos";410000
 26-NOV-18;KITOS;95;"Kitos pajamos";950000
 28-FEB-19;KITOS;95;"Kitos pajamos";35000
-17-FEB-17;KITOS;98;"Kitos pajamos";15000
 28-DEC-17;KITOS;98;"Kitos pajamos";1364606.28
 19-DEC-17;KITOS;98;"Kitos pajamos";23964.12
 19-DEC-17;KITOS;98;"Kitos pajamos";23300
@@ -6433,6 +6432,7 @@ IPLAUKU_DATA;SALTINIO_PAV;IMOKOS_KODAI;APRASYMAS;SUMA
 30-JUN-15;KITOS;98;"Kitos pajamos";27207.8
 29-SEP-16;KITOS;98;"Kitos pajamos";39100
 13-SEP-16;KITOS;98;"Kitos pajamos";936.42
+17-FEB-17;KITOS;98;"Kitos pajamos";15000
 11-MAY-16;KITOS;98;"Kitos pajamos";1306600
 11-MAY-16;KITOS;98;"Kitos pajamos";486.56
 11-MAY-16;KITOS;98;"Kitos pajamos";30000
@@ -6698,11 +6698,6 @@ IPLAUKU_DATA;SALTINIO_PAV;IMOKOS_KODAI;APRASYMAS;SUMA
 12-JUN-15;KITOS;;"Kitos pajamos";370150
 05-JUN-15;KITOS;;"Kitos pajamos";300000
 03-FEB-15;KITOS;;"Kitos pajamos";130329.01
-02-FEB-17;KITOS;;"Kitos pajamos";759.33
-23-NOV-18;KITOS;;"Kitos pajamos";14618
-27-FEB-19;KITOS;;"Kitos pajamos";39617.94
-27-FEB-19;KITOS;;"Kitos pajamos";8586.61
-27-FEB-17;KITOS;;"Kitos pajamos";40791.98
 26-MAR-19;KITOS;;"Kitos pajamos";17033.69
 14-MAR-19;KITOS;;"Kitos pajamos";1758.79
 14-MAR-19;KITOS;;"Kitos pajamos";400
@@ -6765,6 +6760,7 @@ IPLAUKU_DATA;SALTINIO_PAV;IMOKOS_KODAI;APRASYMAS;SUMA
 05-DEC-16;KITOS;;"Kitos pajamos";5839.54
 07-DEC-17;KITOS;;"Kitos pajamos";100
 13-NOV-17;KITOS;;"Kitos pajamos";28693.82
+27-FEB-17;KITOS;;"Kitos pajamos";40791.98
 28-NOV-16;KITOS;;"Kitos pajamos";60239.46
 10-FEB-17;KITOS;;"Kitos pajamos";1500
 27-NOV-17;KITOS;;"Kitos pajamos";45812.48
@@ -6847,6 +6843,7 @@ IPLAUKU_DATA;SALTINIO_PAV;IMOKOS_KODAI;APRASYMAS;SUMA
 29-MAR-16;KITOS;;"Kitos pajamos";65000
 21-MAR-16;KITOS;;"Kitos pajamos";17165
 18-JAN-16;KITOS;;"Kitos pajamos";3223.86
+02-FEB-17;KITOS;;"Kitos pajamos";759.33
 30-NOV-15;KITOS;;"Kitos pajamos";2300
 27-APR-15;KITOS;;"Kitos pajamos";183.3
 11-SEP-15;KITOS;;"Kitos pajamos";1170.43
@@ -6938,12 +6935,15 @@ IPLAUKU_DATA;SALTINIO_PAV;IMOKOS_KODAI;APRASYMAS;SUMA
 21-JAN-15;KITOS;;"Kitos pajamos";56000
 12-JAN-15;KITOS;;"Kitos pajamos";1395.3
 12-JAN-15;KITOS;;"Kitos pajamos";8041
+23-NOV-18;KITOS;;"Kitos pajamos";14618
 17-MAY-17;KITOS;;"Kitos pajamos";5328.68
 13-APR-17;KITOS;;"Kitos pajamos";12761.17
 28-DEC-16;KITOS;;"Kitos pajamos";78543.65
 27-APR-17;KITOS;;"Kitos pajamos";86649.79
 30-MAR-17;KITOS;;"Kitos pajamos";1659.68
 28-FEB-17;KITOS;;"Kitos pajamos";446.15
+27-FEB-19;KITOS;;"Kitos pajamos";39617.94
+27-FEB-19;KITOS;;"Kitos pajamos";8586.61
 21-DEC-18;KITOS;SOCMIN;"Kitos pajamos";10400
 10-JAN-19;KITOS;SOCMIN;"Kitos pajamos";250000
 09-OCT-18;KITOS;SOCMIN;"Kitos pajamos";158000
@@ -7114,7 +7114,6 @@ IPLAUKU_DATA;SALTINIO_PAV;IMOKOS_KODAI;APRASYMAS;SUMA
 16-APR-15;FM;;"Pajamos iš finansų ministerijos";5500
 28-JAN-15;FM;;"Pajamos iš finansų ministerijos";8000
 28-JAN-16;FM;;"Pajamos iš finansų ministerijos";7000
-06-APR-17;FM;VL11;"Pajamos iš finansų ministerijos";27000
 27-DEC-18;FM;VL11;"Pajamos iš finansų ministerijos";14300
 21-MAR-18;FM;VL11;"Pajamos iš finansų ministerijos";19000
 25-OCT-18;FM;VL11;"Pajamos iš finansų ministerijos";21300
@@ -7129,6 +7128,7 @@ IPLAUKU_DATA;SALTINIO_PAV;IMOKOS_KODAI;APRASYMAS;SUMA
 17-OCT-16;FM;VL11;"Pajamos iš finansų ministerijos";6000
 15-NOV-17;FM;VL11;"Pajamos iš finansų ministerijos";12000
 25-APR-17;FM;VL11;"Pajamos iš finansų ministerijos";100
+06-APR-17;FM;VL11;"Pajamos iš finansų ministerijos";27000
 18-JUL-16;FM;VL11;"Pajamos iš finansų ministerijos";6000
 07-OCT-15;FM;VL11;"Pajamos iš finansų ministerijos";19079
 07-MAR-16;FM;VL11;"Pajamos iš finansų ministerijos";16000
@@ -7178,7 +7178,6 @@ IPLAUKU_DATA;SALTINIO_PAV;IMOKOS_KODAI;APRASYMAS;SUMA
 17-SEP-18;FM;2M17;"Pajamos iš finansų ministerijos";132360
 30-MAR-16;FM;2M17;"Pajamos iš finansų ministerijos";261000
 23-DEC-15;FM;2M17;"Pajamos iš finansų ministerijos";126940
-20-NOV-18;FM;2M18;"Pajamos iš finansų ministerijos";72876.2
 05-DEC-18;FM;2M18;"Pajamos iš finansų ministerijos";600000
 30-NOV-18;FM;2M18;"Pajamos iš finansų ministerijos";7985.31
 18-OCT-18;FM;2M18;"Pajamos iš finansų ministerijos";69137.9
@@ -7223,6 +7222,7 @@ IPLAUKU_DATA;SALTINIO_PAV;IMOKOS_KODAI;APRASYMAS;SUMA
 30-SEP-15;FM;2M18;"Pajamos iš finansų ministerijos";16671.83
 15-DEC-16;FM;2M18;"Pajamos iš finansų ministerijos";84350.92
 02-NOV-15;FM;2M18;"Pajamos iš finansų ministerijos";105672.84
+20-NOV-18;FM;2M18;"Pajamos iš finansų ministerijos";72876.2
 02-FEB-18;"FM STD";10;"Specialios tikslinės dotacijos";31600
 10-JAN-19;"FM STD";33;"Specialios tikslinės dotacijos";550700
 02-JUL-18;"FM STD";33;"Specialios tikslinės dotacijos";576100
@@ -7747,13 +7747,10 @@ IPLAUKU_DATA;SALTINIO_PAV;IMOKOS_KODAI;APRASYMAS;SUMA
 14-FEB-19;"FM STD";2M28;"Specialios tikslinės dotacijos";57684.98
 11-JAN-19;"FM STD";2M28;"Specialios tikslinės dotacijos";2683.02
 19-FEB-19;"FM STD";2M29;"Specialios tikslinės dotacijos";40700
-18-APR-17;PASKOLA;;"Paskola pinigų srautams subalansuoti";232208.24
-23-DEC-16;PASKOLA;;"Paskola pinigų srautams subalansuoti";141751.14
-30-DEC-16;PASKOLA;;"Paskola pinigų srautams subalansuoti";918570.69
-28-APR-17;PASKOLA;;"Paskola pinigų srautams subalansuoti";146816.16
 24-SEP-18;PASKOLA;;"Paskola pinigų srautams subalansuoti";5996000
 27-DEC-17;PASKOLA;;"Paskola pinigų srautams subalansuoti";650090.92
 22-DEC-17;PASKOLA;;"Paskola pinigų srautams subalansuoti";50000
+28-APR-17;PASKOLA;;"Paskola pinigų srautams subalansuoti";146816.16
 28-AUG-17;PASKOLA;;"Paskola pinigų srautams subalansuoti";5000000
 23-JUN-17;PASKOLA;;"Paskola pinigų srautams subalansuoti";416313.06
 12-JUN-17;PASKOLA;;"Paskola pinigų srautams subalansuoti";104361.02
@@ -7794,6 +7791,7 @@ IPLAUKU_DATA;SALTINIO_PAV;IMOKOS_KODAI;APRASYMAS;SUMA
 24-OCT-16;PASKOLA;;"Paskola pinigų srautams subalansuoti";153276.63
 22-AUG-16;PASKOLA;;"Paskola pinigų srautams subalansuoti";68081.19
 11-OCT-16;PASKOLA;;"Paskola pinigų srautams subalansuoti";150000
+18-APR-17;PASKOLA;;"Paskola pinigų srautams subalansuoti";232208.24
 31-AUG-16;PASKOLA;;"Paskola pinigų srautams subalansuoti";651828.49
 27-OCT-16;PASKOLA;;"Paskola pinigų srautams subalansuoti";1070325.13
 27-DEC-16;PASKOLA;;"Paskola pinigų srautams subalansuoti";1161557.05
@@ -7805,7 +7803,9 @@ IPLAUKU_DATA;SALTINIO_PAV;IMOKOS_KODAI;APRASYMAS;SUMA
 24-MAR-17;PASKOLA;;"Paskola pinigų srautams subalansuoti";1267531.57
 20-MAR-17;PASKOLA;;"Paskola pinigų srautams subalansuoti";149372.62
 13-MAR-17;PASKOLA;;"Paskola pinigų srautams subalansuoti";638455.97
+23-DEC-16;PASKOLA;;"Paskola pinigų srautams subalansuoti";141751.14
 12-DEC-16;PASKOLA;;"Paskola pinigų srautams subalansuoti";283703.15
 25-MAR-15;PASKOLA;;"Paskola pinigų srautams subalansuoti";4739295.65
+30-DEC-16;PASKOLA;;"Paskola pinigų srautams subalansuoti";918570.69
 22-DEC-16;PASKOLA;;"Paskola pinigų srautams subalansuoti";175750.77
 08-DEC-16;PASKOLA;;"Paskola pinigų srautams subalansuoti";120873.53
