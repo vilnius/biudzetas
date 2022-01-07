@@ -648,6 +648,7 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 3000403;"Atliekų surinkimo iš viešųjų teritorijų priemonių įsigijimas ir įrengimas (AARSP)";Y;N;31-JUL-14;04-AUG-14
 3000404;"Invazinių rūšių kontrolės priemonių įgyvendinimas (AARSP)";Y;N;30-DEC-21;30-DEC-21
 3000410;"Aprūpinti gamtosauginiais komplektais avarines tarnybas";Y;N;20-NOV-07;07-MAR-11
+3000415;"Smėlio-druskos įsigijimas ir barstymas";Y;N;06-JAN-22;06-JAN-22
 3000420;"Pavojingų medžiagų saugojimas Chemijos institute";Y;N;20-NOV-07;08-JUL-08
 3000430;"VŠĮ Vilniaus apskrities atliekų centro išlaikymas";Y;N;20-NOV-07;08-JUL-08
 3000440;"Komunalinių atliekų iš romų gyvenamųjų teritorijų išvežimas";Y;N;20-NOV-07;08-JUL-08
@@ -1283,6 +1284,8 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 3001660;"Nemenčinės plento ir Lizdeikos gatvių jungties įrengimas (Savivaldybės biudžeto lėšos)";Y;N;20-FEB-12;20-FEB-12
 3001661;"Nemenčinės plento ir Lizdeikos gatvių jungties įrengimas (Paramos lėšos socialinės infrastruktūros plėtrai)";Y;N;20-FEB-12;20-FEB-12
 3001662;"Nemenčinės plento ir Lizdeikos gatvių jungties įrengimas (Privatizavimo fondo lėšos)";Y;N;07-NOV-13;07-NOV-13
+3001663;"Neries slėnio rekreacinės paskirties takų ir jų jungčių, saugos ir kitos viešųjų erdvių infrastuktūros įrengimas";Y;N;06-JAN-22;06-JAN-22
+3001664;"Neries senvagės rekreacinės infrastruktūros įrengimas su aktyvaus poilsio ir pėsčiųjų bei dviračių trasomis";Y;N;06-JAN-22;06-JAN-22
 3001665;"Naujamiesčio viešųjų erdvių tvarkymas (Vingrių šaltinio skveras ir Amatų g.)";Y;N;03-FEB-21;03-FEB-21
 3001666;"Naujamiesčio viešųjų erdvių tvarkymas (Vingrių šaltinio skveras ir Amatų g.)";Y;N;03-FEB-21;03-FEB-21
 3001667;"Viešosios erdvės tvarkymas Pietinėje tikslinėje teritorijoje prie Amatų gatvės";Y;N;03-FEB-21;03-FEB-21
@@ -1291,6 +1294,13 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 3001670;"Vilniaus miesto Santariškių g. dalies rekonstrukcija su požeminio pėsčiųjų tunelio įrengimu (Europos Sąjungos lėšos)";Y;N;17-FEB-12;17-FEB-12
 3001671;"Vilniaus miesto Santariškių g. dalies rekonstrukcija su požeminio pėsčiųjų tunelio įrengimu (Valstybės biudžetas)";Y;N;17-FEB-12;17-FEB-12
 3001672;"Vilniaus miesto Santariškių g. dalies rekonstrukcija su požeminio pėsčiųjų tunelio įrengimu (Skolintos lėšos (Paskolos savivaldybės vardu)";Y;N;17-FEB-12;17-FEB-12
+3001673;"Centrinės gatvės-bulvaro su rekreacine įranga įrengimas Paplaujos rajone";Y;N;06-JAN-22;06-JAN-22
+3001674;"Kultūrinį - istorinį reformacijos paveldą reprezentuojančio Reformatų sodo atkūrimas ir sutvarkymas";Y;N;06-JAN-22;06-JAN-22
+3001675;"Neries krantinių modernizavimas, sukuriant inovatyvias erdves kūrybai, sąlygas aktyviam poilsiui, sveikatingumo renginiams Šiaurinėje teritorijoje";Y;N;06-JAN-22;06-JAN-22
+3001676;"Viešosios erdvės tvarkymas Pietinėje tikslinėje teritorijoje prie Amatų gatvės";Y;N;06-JAN-22;06-JAN-22
+3001677;"Viešosios erdvės tvarkymas Pietinėje tikslinėje teritorijoje prie Vingrių gatvės";Y;N;06-JAN-22;06-JAN-22
+3001678;"Viešųjų erdvių tvarkymas Šiaurinėje tikslinėje teritorijoje tarp Giedraičių g. ir Kintų g., ir prie Giedraičių g";Y;N;06-JAN-22;06-JAN-22
+3001679;"Naujamiesčio viešųjų erdvių tvarkymas (Vingrių šaltinio skveras)";Y;N;06-JAN-22;06-JAN-22
 3001680;"AB „Vilniaus šilumos tinklai“ įstatinio kapitalo didinimui (SB)";Y;N;13-FEB-17;13-FEB-17
 3001780;"Skolų už atliktus darbus apmokėjimas";Y;N;19-FEB-13;19-FEB-13
 3001781;"Skolų už atliktus darbus apmokėjimas(savivaldybės biudžeto lėšų likutis)";Y;N;05-MAR-15;05-MAR-15
