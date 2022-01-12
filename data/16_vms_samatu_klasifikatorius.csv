@@ -321,6 +321,7 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 1600019;"Išlaidų, susijusių su valstybės lygio ekstremaliosios situacijos dėl koronaviruso (COVID-19) ligos likvidavimu ir jos padarinių šalinimu, padengimas (AD rezervo)";Y;N;26-AUG-20;26-AUG-20
 1600020;"Išlaidų, susijusių su valstybės lygio ekstremaliosios situacijos dėl koronaviruso (COVID-19) ligos likvidavimu ir jos padarinių šalinimu,  padengimas (SB lėšų)";Y;N;26-AUG-20;26-AUG-20
 1600021;"Asignavimai, skirti pasirengti galimai avarijai Astravo AE";Y;N;14-APR-21;14-APR-21
+1600022;"Asignavimai, skirti Astravo AE branduolinei avarijai pasirengti";Y;N;11-JAN-22;11-JAN-22
 1600101;"Nusikaltimų ir kitų teisės pažeidimų prevencinių priemonių įgyvendinimas (Privatizavimo fondas)";Y;N;09-FEB-15;09-FEB-15
 1800001;"Bendrosios dotacijos kompensacija valstybės biudžetui";Y;N;06-DEC-11;06-DEC-11
 1800002;"Administracijos direktoriaus rezervo sąmata";Y;N;06-DEC-11;06-DEC-11
@@ -2728,6 +2729,12 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 4001450;"„New garden in little ladybug"" projektas";Y;N;28-DEC-21;28-DEC-21
 4001451;"Nuoseklus ir sistemingas vaikų individualios pažangos stebėjimas ir pasiekimų vertinimas: „Vertinimas mokymuisi""";Y;N;28-DEC-21;28-DEC-21
 4001452;"„Twinings"" projektas";Y;N;28-DEC-21;28-DEC-21
+4001453;"Mokymo lėšos skaitmeninio ugdymo plėtrai nevalstybinėms ikimokyklinio ugdymo įstaigoms";Y;N;11-JAN-22;11-JAN-22
+4001454;"Mokymo lėšos skaitmeninio ugdymo plėtrai nevalstybinėms bendrojo ugdymo įstaigoms";Y;N;11-JAN-22;11-JAN-22
+4001455;"Mokymo lėšos skaitmeninio ugdymo plėtrai nevalstybinėms pagrindinio ugdymo įstaigoms";Y;N;11-JAN-22;11-JAN-22
+4001456;"Mokymo lėšos skaitmeninio ugdymo plėtrai bendrojo ugdymo įstaigoms";Y;N;11-JAN-22;11-JAN-22
+4001457;"Mokymo lėšos skaitmeninio ugdymo plėtrai pagrindinio ugdymo įstaigoms";Y;N;11-JAN-22;11-JAN-22
+4001458;"Mokymo lėšos skaitmeninio ugdymo plėtrai pradinėms mokykloms";Y;N;11-JAN-22;11-JAN-22
 4002000;"Neįgaliųjų ir sutrikusio intelekto vaikų socialinės globos centro įkūrimas (Vilniaus specialiajame lopšelyje-darželyje „Čiauškutis“) (Europos Sąjungos lėšos)";Y;N;22-FEB-12;22-FEB-12
 4002001;"Vilniaus Viršuliškių vidurinės mokyklos pastato Vilniuje, Viršuliškių g. 7, rekonstravimas (Europos Sąjungos lėšos)";Y;N;22-FEB-12;22-FEB-12
 4002002;"Vilniaus Naujininkų vidurinės mokyklos pastato Šaltkalvių g. 32, rekonstravimas (Europos Sąjungos lėšos)";Y;N;22-FEB-12;22-FEB-12
