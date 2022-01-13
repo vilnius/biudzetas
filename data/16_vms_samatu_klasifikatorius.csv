@@ -3998,6 +3998,7 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 6000471;"Socialinės priežiūros socialinės rizikos šeimoms finansavimas iš savivaldybės lėšų (Socialinės paramos centras)";Y;N;14-MAR-08;14-MAR-08
 6000472;"Socialinių išmokų bei kompensacijų administravimas (Socialinės paramos centras)";Y;N;17-DEC-10;17-DEC-10
 6000473;"Savarankiško gyvenimo  namų „Savi namai“ ir dienos centro psichikos negalią  turintiems asmenims įkūrimas (Savivaldybės biudžeto lėšos)";Y;N;06-JAN-11;28-OCT-11
+6000474;"Gerovės konsultantų modelio įdiegimas Vilniaus mieste";Y;N;12-JAN-22;12-JAN-22
 6000480;"Dienos centro ""Šviesa"" išlaikymas (Tarpusavio atsiskaitymai)";Y;N;20-NOV-07;27-DEC-19
 6000481;"Tikslinės lėšos Vilniaus Žolyno vaikų socialinės globos namų išlaikymui";Y;N;19-MAY-20;19-MAY-20
 6000482;"Vilniaus Žolyno vaikų socialinės globos namų COVID-19 išlaidų padengimas (01)";Y;N;19-FEB-21;19-FEB-21
@@ -4086,6 +4087,9 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 6000588;"Vilniaus Lakštingalos namų COVID-19 išlaidų padengimas (20)";Y;N;19-FEB-21;19-FEB-21
 6000589;"Vilniaus „Vilko pėdos“ namų COVID-19 išlaidų padengimas (20)";Y;N;19-FEB-21;02-JUL-21
 6000590;"Vilniaus miesto motinos ir vaiko pensiono specialioji programa";Y;N;20-NOV-07;20-SEP-13
+6000591;"Vilties specialiosios mokyklos-daugiafunkcinio centro dienos socialinės globos skyriaus specialioji programa";Y;N;12-JAN-22;12-JAN-22
+6000592;"Verkių specialiosios mokyklos-daugiafunkcio centro dienos socialinės globos skyriaus specialioji programa";Y;N;12-JAN-22;12-JAN-22
+6000593;"Specialiojo lopšelio-darželio „Čiauškutis“ dienos centro specialioji programa";Y;N;12-JAN-22;12-JAN-22
 6000600;"Vilniaus miesto nakvynės namų specialioji programa";Y;N;20-NOV-07;02-JUL-21
 6000610;"Socialinės paramos centro specialioji programa";Y;N;20-NOV-07;01-MAR-12
 6000620;"VšĮ mokymo centro ""Mes esame"" finansavimas (Departamentas)";Y;N;20-NOV-07;27-DEC-19
@@ -4093,6 +4097,7 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 6000640;"VšĮ Vyrų krizių ir informacijos centro finansavimas (Departamentas)";Y;N;20-NOV-07;27-DEC-19
 6000650;"VšĮ Vilniaus psichosocialinės reabilitacijos centro finansavimas (Departamentas)";Y;N;20-NOV-07;27-DEC-19
 6000655;"Akredituotos vaikų dienos socialinės priežiūros organizavimas";Y;N;15-JAN-21;15-JAN-21
+6000657;"Gerovės konsultantų modelio įdiegimas Vilniaus mieste";Y;N;12-JAN-22;12-JAN-22
 6000658;"Vilniaus miesto bendruomeninių vaikų globos namų tinklo plėtra (VB) (BVGN2)";Y;N;15-JAN-21;15-JAN-21
 6000659;"Tikslinės lėšos VšĮ mokymo centro „Mes esame“ finansavimui";Y;N;19-MAY-20;19-MAY-20
 6000660;"Nevalstybinių organizacijų vaikų dienos centrų finansavimas (Departamentas)";Y;N;20-NOV-07;10-OCT-18
@@ -4201,8 +4206,10 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 6000765;"Socialinio būsto plėtra (pagal ES regioninę priemonę Nr. 08.1.2-CPVA-R-408) (ES likučiai)";Y;N;19-FEB-20;19-FEB-20
 6000766;"Išlaidų, susijusių su valstybės lygio ekstremaliosios situacijos dėl koronaviruso (COVID-19) ligos likvidavimu ir jos padarinių šalinimu, padengimas";Y;N;03-SEP-20;03-SEP-20
 6000767;"Teikti paramą šeimoms ir asmenims būstui išsinuomoti";Y;N;15-SEP-20;15-SEP-20
+6000768;"Teismo išlaidų ir antstolių paslaugų apmokėjimas (SPS)";Y;N;12-JAN-22;12-JAN-22
 6000770;"Vilniaus priklausomybės ligų centro išlaikymas";Y;N;20-NOV-07;14-MAR-08
 6000771;"Vilniaus miesto priklausomybės ligų centro išlaikymas (Valstybės biudžetas)";Y;N;17-APR-12;17-APR-12
+6000772;"Susitarimas su VŠT dėl skolos administravimo išlaidų VMB grąžinimo";Y;N;12-JAN-22;12-JAN-22
 6000773;"Slaugos ir palaikomojo gydymo paslaugoms apmokėti iki 30 d. per metus, kai terminas už kurį apmoka ligonių kasa yra pasibaigęs";Y;N;28-MAY-20;28-MAY-20
 6000774;"Specializuotos (ASSIP) pagalbos teikimas asmenims po mėginimo nusižudyti       ";Y;N;19-FEB-20;19-FEB-20
 6000775;"Skubios psichologinės pagalbos įvykio vietoje užtikrinimas     ";Y;N;19-FEB-20;19-FEB-20
