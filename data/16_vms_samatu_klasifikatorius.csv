@@ -3863,6 +3863,8 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 6000110;"Socialinės priežiūros socialinės rizikos šeimoms finansavimas iš specialių tikslinių dotacijų (Socialinės paramos centras)";Y;N;20-NOV-07;27-DEC-19
 6000111;"Nevyriausybinių organizacijų darbas su socialinės rizikos šeimomis";Y;N;16-SEP-14;27-DEC-19
 6000112;"Vilniaus miesto bendruomeninių vaikų globos namų tinklo plėtra (ES)";Y;N;25-JAN-21;25-JAN-21
+6000113;"Nefrologinių ligonių pavėžėjimo bei apgyvendinimo savarankiško gyvenimo namuose paslaugos";Y;N;18-JAN-22;18-JAN-22
+6000114;"Viešojo transporto bilietai Vilniaus miesto socialinių paslaugų įstaigų darbuotojams";Y;N;18-JAN-22;18-JAN-22
 6000115;"Asmeninės pagalbos teikimas";Y;N;19-JUL-21;19-JUL-21
 6000116;"Asmeninės pagalbos teikimo administravimas (SPC)";Y;N;19-JUL-21;19-JUL-21
 6000120;"Socialinės pašalpos ir kompensacijos socialiai pažeidžiamiems asmenims (Departamentas)";Y;N;20-NOV-07;27-DEC-19
@@ -4027,6 +4029,8 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 6000521;"Vilniaus Minties vaikų socialinės globos namų išlaikymas (Valstybės biudžetas)";Y;N;16-APR-12;16-APR-12
 6000522;"Vilniaus Antakalnio vaikų socialinės globos namų išlaikymas (Valstybės biudžetas)";Y;N;16-APR-12;16-APR-12
 6000523;"Vilniaus vaikų socialinės globos namų „Gilė“ išlaikymas (Valstybės biudžetas)";Y;N;16-APR-12;16-APR-12
+6000524;"Gerovės konsultantų modelio įdiegimas Vilniaus mieste";Y;N;18-JAN-22;18-JAN-22
+6000525;"Gerovės konsultantų modelio įdiegimas Vilniaus mieste";Y;N;18-JAN-22;18-JAN-22
 6000530;"Vilniaus miesto nakvynės namų išlaikymas (Tarpusavio atsiskaitymai)";Y;N;20-NOV-07;16-APR-12
 6000531;"Vilniaus miesto vaikų ir jaunimo pensiono išlaikymas (Valstybės biudžetas)";Y;N;16-APR-12;16-APR-12
 6000532;"Pensiono „Vilties namai“ išlaikymas (Valstybės biudžetas)";Y;N;16-APR-12;16-APR-12
@@ -4042,7 +4046,7 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 6000542;"Vilniaus vaikų socialinės globos namų „Gilė“ Psichosocialinės reabilitacijos centro išlaikymas";Y;N;15-JAN-21;15-JAN-21
 6000543;"Vilniaus vaikų socialinės globos namų „Gilė“ COVID-19 išlaidų padengimas (01)";Y;N;19-FEB-21;19-FEB-21
 6000544;"MMA didinimui ir darbo apmokėjimo įstatymui įgyvendinti";Y;N;02-JUL-21;02-JUL-21
-6000545;"Senjorų socialinės globos namų veiklai vykdyti";Y;N;25-JAN-21;16-JUN-21
+6000545;"VšĮ „Senjorų socialinės globos namai“ finansavimas";Y;N;25-JAN-21;18-JAN-22
 6000546;"Socialinė globa asmenims su sunkia negalia Biudžetinėje įstaigoje Senjorų socialinės globos namai";Y;N;25-JAN-21;16-JUN-21
 6000547;"Papildomas lėšų gavimas už patalpų nuomą";Y;N;02-JUL-21;02-JUL-21
 6000549;"Vilniaus miesto kompleksinių paslaugų centro „Šeimos slėnis“ specialioji programos lėšų likučiai";Y;N;25-JAN-21;04-FEB-21
@@ -4068,11 +4072,11 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 6000569;"Tikslinės lėšos Vilniaus miesto kompleksinių paslaugų centro „Šeimos slėnis“ išlaikymui";Y;N;19-MAY-20;04-FEB-21
 6000570;"Pensionato ""Vilties namai"" specialioji programa";Y;N;20-NOV-07;20-SEP-13
 6000571;"Vilniaus kompleksinių paslaugų centro „Šeimos slėnis“ COVID-19 išlaidų padengimas (01)";Y;N;19-FEB-21;19-FEB-21
-6000572;"Senjorų socialinės globos namų veiklai vykdyti";Y;N;14-APR-21;16-JUN-21
+6000572;"VšĮ „Senjorų socialinės globos namai“ finansavimas";Y;N;14-APR-21;18-JAN-22
 6000573;"Vaikų globos pertvarka";Y;N;01-JUN-21;01-JUN-21
 6000574;"Projektas „Vilniaus miesto socialinių paslaugų infrastruktūros tinklo kūrimas ir plėtra asmenims, turintiems proto ir (arba) psichikos negalią“";Y;N;16-JUN-21;16-JUN-21
 6000575;"Projektas „Vilniaus miesto socialinių paslaugų infrastruktūros tinklo kūrimas ir plėtra asmenims, turintiems proto ir (arba) psichikos negalią“";Y;N;16-JUN-21;16-JUN-21
-6000576;"BĮ Senjorų socialinės globos namų išlaikymas";Y;N;16-JUN-21;16-JUN-21
+6000576;"VšĮ „Senjorų socialinės globos namai“ finansavimas";Y;N;16-JUN-21;18-JAN-22
 6000577;"MMA didinimui ir darbo apmokėjimo įstatymui įgyvendinti";Y;N;02-JUL-21;02-JUL-21
 6000578;"MMA didinimui ir darbo apmokėjimo įstatymui įgyvendinti";Y;N;02-JUL-21;02-JUL-21
 6000579;"BĮ Senjorų socialinės globos namai specialioji programa";Y;N;16-JUN-21;16-JUN-21
@@ -4110,7 +4114,7 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 6000667;"Pagalbos pinigai budintiems globotojams";Y;N;22-MAY-18;27-DEC-19
 6000668;"Apnakvindinimo paslaugos Nakvynės namų A. Kojelavičiaus g. 50 gyventojams rekonstrukcijos metu";Y;N;28-JUN-18;28-JUN-18
 6000669;"Nakvynės namų A. Kojelavičiaus g. 50 rekonstrukcija (ES lėšos)";Y;N;27-SEP-18;27-SEP-18
-6000670;"Socialinės paslaugos (Departamentas)";Y;N;20-NOV-07;27-DEC-19
+6000670;"Socialinės paslaugos (Departamentas)";Y;N;20-NOV-07;18-JAN-22
 6000671;"Socialinių renginių, konferencijų, seminarų, akcijų organizavimas";Y;N;13-OCT-14;27-DEC-19
 6000672;"Pagalbos pinigai šeimoms ir šeimynoms (SIS)";Y;N;31-DEC-19;31-DEC-19
 6000673;"Nakvynės namų A. Kojelavičiaus g. 50 rekonstrukcija";Y;N;17-FEB-20;17-FEB-20
@@ -4207,9 +4211,10 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 6000766;"Išlaidų, susijusių su valstybės lygio ekstremaliosios situacijos dėl koronaviruso (COVID-19) ligos likvidavimu ir jos padarinių šalinimu, padengimas";Y;N;03-SEP-20;03-SEP-20
 6000767;"Teikti paramą šeimoms ir asmenims būstui išsinuomoti";Y;N;15-SEP-20;15-SEP-20
 6000768;"Teismo išlaidų ir antstolių paslaugų apmokėjimas (SPS)";Y;N;12-JAN-22;12-JAN-22
+6000769;"Projektas „Vilniaus miesto socialinių paslaugų infrastruktūros tinklo kūrimas ir plėtra asmenims, turintiems proto ir (arba) psichikos negalią“";Y;N;18-JAN-22;18-JAN-22
 6000770;"Vilniaus priklausomybės ligų centro išlaikymas";Y;N;20-NOV-07;14-MAR-08
 6000771;"Vilniaus miesto priklausomybės ligų centro išlaikymas (Valstybės biudžetas)";Y;N;17-APR-12;17-APR-12
-6000772;"Susitarimas su VŠT dėl skolos administravimo išlaidų VMB grąžinimo";Y;N;12-JAN-22;12-JAN-22
+6000772;"Susitarimas su VŠT pagal išieškojimo negalimumo aktus, vartotojo mirties faktą patvirtinantį dokumentą";Y;N;12-JAN-22;18-JAN-22
 6000773;"Slaugos ir palaikomojo gydymo paslaugoms apmokėti iki 30 d. per metus, kai terminas už kurį apmoka ligonių kasa yra pasibaigęs";Y;N;28-MAY-20;28-MAY-20
 6000774;"Specializuotos (ASSIP) pagalbos teikimas asmenims po mėginimo nusižudyti       ";Y;N;19-FEB-20;19-FEB-20
 6000775;"Skubios psichologinės pagalbos įvykio vietoje užtikrinimas     ";Y;N;19-FEB-20;19-FEB-20
