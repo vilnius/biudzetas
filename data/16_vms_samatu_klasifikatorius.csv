@@ -745,6 +745,7 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 3000659;"Gatvių, kelių ir lietaus nuotekų tinklų priežiūra ir remontas";Y;N;03-FEB-21;03-FEB-21
 3000660;"Fontanų priežiūra";Y;N;20-NOV-07;30-APR-08
 3000663;"Kitos išlaidos eismo organizavimo srityje";Y;N;23-NOV-21;23-NOV-21
+3000664;"Kiti darbai komunalinių paslaugų srityje (MTAAS)";Y;N;20-JAN-22;20-JAN-22
 3000665;"Tiltų ir viadukų priežiūra ir remontas";Y;N;10-DEC-20;10-DEC-20
 3000667;"Netesybos už projekto „Kareivių gatvės atkarpos tarp Žirmūnų ir Verkių gatvių bei Kareivių ir Verkių gatvių sankryžos rekonstrukcija įrengiant eismo saugos priemones“ sutarties nutraukimą";Y;N;11-OCT-21;11-OCT-21
 3000668;"Išlaidų, susijusių su valstybės lygio ekstremaliosios situacijos dėl koronaviruso (COVID-19) ligos likvidavimu ir jos padarinių šalinimu, padengimas";Y;N;02-SEP-20;02-SEP-20
@@ -781,6 +782,7 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 3000699;"Seniūnijų projektų įgyvendinimui";Y;N;31-DEC-19;31-DEC-19
 3000700;"Bendrabučių inžinerinės infrastruktūros (pastatų inžinerinių tinklų bei statybinių konstrukcijų) priežiūra";Y;N;20-NOV-07;08-JUL-08
 3000701;"Bendrabučių inžinerinės infrastruktūros (pastatų inžinerinių tinklų bei statybinių konstrukcijų) priežiūra (Skolintos lėšos-skoloms mokėti)";Y;N;21-FEB-11;25-FEB-11
+3000702;"Paplūdimių priežiūra";Y;N;20-JAN-22;20-JAN-22
 3000710;"Nekilnojamojo turto inventorizacija, registracija ir įvertinimas";Y;N;20-NOV-07;08-JUL-08
 3000711;"Nekilnojamojo turto inventorizacija, registracija ir įvertinimas (Skolintos lėšos-skoloms mokėti)";Y;N;21-FEB-11;25-FEB-11
 3000719;"Gatvių apšvietimo tinklų priežiūra, remontas ir atstatymas (Skolintos lėšos-skoloms mokėti)";Y;N;21-FEB-11;06-JUN-11
@@ -3970,7 +3972,7 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 6000400;"Vilniaus miesto vaikų pensiono išlaikymas (Savivaldybės lėšos)";Y;N;20-NOV-07;13-JAN-21
 6000401;"Globos namų vaikams ir jaunimui, turintiems negalią, modernizavimas";Y;N;17-FEB-12;17-FEB-12
 6000402;"Socialinės paramos įstaigų infrastruktūros modernizavimas, optimizavimas ir renovacija";Y;N;02-NOV-18;27-DEC-19
-6000403;"Darbo apmokėjimo įstatymui įgyvendinti";Y;N;02-JUL-21;02-JUL-21
+6000403;"Darbo apmokėjimo įstatymui įgyvendinti ir įstaigų komunalinėms išlaidoms padengti";Y;N;02-JUL-21;20-JAN-22
 6000404;"MMA didinimui ir darbo apmokėjimo įstatymui įgyvendinti";Y;N;02-JUL-21;02-JUL-21
 6000405;"VšĮ „Senevita“ COVID-19 išlaidų padengimas";Y;N;02-APR-21;02-APR-21
 6000408;"Valakampių socialinių paslaugų namų  COVID-19 išlaidų padengimas (01)";Y;N;19-FEB-21;19-FEB-21
@@ -4097,6 +4099,7 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 6000592;"Verkių specialiosios mokyklos-daugiafunkcio centro dienos socialinės globos skyriaus specialioji programa";Y;N;12-JAN-22;12-JAN-22
 6000593;"Specialiojo lopšelio-darželio „Čiauškutis“ dienos centro specialioji programa";Y;N;12-JAN-22;12-JAN-22
 6000600;"Vilniaus miesto nakvynės namų specialioji programa";Y;N;20-NOV-07;02-JUL-21
+6000607;"Vilniaus „Vilko pėdos“ namų specialioji programos lėšų likučiai";Y;N;20-JAN-22;20-JAN-22
 6000610;"Socialinės paramos centro specialioji programa";Y;N;20-NOV-07;01-MAR-12
 6000620;"VšĮ mokymo centro ""Mes esame"" finansavimas (Departamentas)";Y;N;20-NOV-07;27-DEC-19
 6000630;"VšĮ Markučių  dienos veiklos centro finansavimas (Departamentas)";Y;N;20-NOV-07;27-DEC-19
@@ -4335,6 +4338,7 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 6000895;"COVID-19 ligos ėminių tyrimui ar greitajam testui paėmimo mobiliuosiuose punktuose ir COVID-19 ligos (koronaviruso infekcijos) tyrimo ar greitojo testo atlikimo paslauga";Y;N;25-NOV-21;25-NOV-21
 6000896;"Ėminių COVID-19 (koronoviruso infekcijos) tyrimui ar greitajam testui paėmimo COVID-19 ligos tyrimo ar greitojo testo atlikimo paslauga, suteikta ne mobiliuose punktuose";Y;N;07-DEC-21;07-DEC-21
 6000897;"Informacijos apie kitoje šalyje asmeniui atliktą skiepijimą nuo ar persirgimą COVID-19 liga pagal asmens pateiktą kitos šalies sveikatos priežiūros įstaigos jam išduotą persirgimo dokumentą (PGR tyr.), įvedimą į el. informacinę sistemą";Y;N;13-DEC-21;13-DEC-21
+6000898;"Kompleksinių paslaugų centro negalią turintiems vaikams ir jų šeimos nariams „Čiauškutė“  rekonstrukcija";Y;N;20-JAN-22;20-JAN-22
 6000899;"Sveikatos priežiūros įstaigų reorganizacija, restruktūrizacija, renovacija ir medicininės įrangos įsigijimas (dotacijos iš FINMIN skoloms grąžinti)";Y;N;08-DEC-16;08-DEC-16
 6000900;"Socialinių reikalų departamento viešųjų įstaigų reorganizacija, restruktūrizacija, renovacija ir medicininės įrangos įsigijimas (Savivaldybės privatizavimo fondo lėšos)";Y;N;14-MAR-08;27-MAR-09
 6000901;"Socialinių reikalų ir sveikatos departamento viešųjų įstaigų reorganizacija, restruktūrizacija, renovacija ir medicininės įrangos įsigijimas (Savivaldybės biudžeto lėšos)";Y;N;16-MAR-11;16-MAR-11
