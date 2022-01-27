@@ -3871,6 +3871,8 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 6000114;"Viešojo transporto bilietai Vilniaus miesto socialinių paslaugų įstaigų darbuotojams";Y;N;18-JAN-22;18-JAN-22
 6000115;"Asmeninės pagalbos teikimas";Y;N;19-JUL-21;19-JUL-21
 6000116;"Asmeninės pagalbos teikimo administravimas (SPC)";Y;N;19-JUL-21;19-JUL-21
+6000118;"Asmeninės pagalbos teikimas";Y;N;26-JAN-22;26-JAN-22
+6000119;"Asmeninės pagalbos teikimo administravimas (SPC)";Y;N;26-JAN-22;26-JAN-22
 6000120;"Socialinės pašalpos ir kompensacijos socialiai pažeidžiamiems asmenims (Departamentas)";Y;N;20-NOV-07;27-DEC-19
 6000121;"Kompensacijos už išlaidas būstui šildyti (Departamentas)";Y;N;20-JAN-10;29-JAN-10
 6000122;"Kompensacijos už išlaidas karštam vandeniui (Departamentas)";Y;N;20-JAN-10;29-JAN-10
@@ -3954,6 +3956,7 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 6000270;"Šalpos išmokų administravimas (Departamentas)";Y;N;20-NOV-07;27-DEC-19
 6000280;"Transporto išlaidų kompensacijos neįgaliesiems";Y;N;20-NOV-07;14-MAR-08
 6000290;"Išmokos neįgaliesiems (Neįgaliųjų reikalų departamento prie SADM lėšos)";Y;N;20-NOV-07;14-MAR-08
+6000291;"Išmokos neįgaliesiems (Neįgaliųjų reikalų departamento prie SADM dotacija)";Y;N;26-JAN-22;26-JAN-22
 6000300;"Vienkartinės pašalpos ginkluoto pasipriešinimo (rezistencijos) dalyviams ir žuvusių rezistentų šeimoms";Y;N;20-NOV-07;30-MAR-09
 6000310;"Vienkartinių pašalpų ginkluoto pasipriešinimo (rezistencijos) dalyviams ir žuvusių rezistentų šeimoms administravimas";Y;N;20-NOV-07;27-MAR-09
 6000320;"Vienkartinės kompensacijos asmenims, sužalotiems atliekant būtinąją karinę tarnybą sovietinėje armijoje ir žuvusiųjų šeimoms";Y;N;20-NOV-07;27-MAR-09
