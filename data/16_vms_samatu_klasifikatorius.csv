@@ -691,6 +691,7 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 3000582;"Vilniaus miesto valstybinių miškų, valdomų Vilniaus miesto savivaldybės, priežiūros, apsaugos ir tvarkymo darbai (2M26)";Y;N;12-OCT-16;12-OCT-16
 3000583;"Dviračių ir kito bevariklio transporto takų ir kelių, kitų su tuo susijusių infrastruktūros elementų projektavimas, įrengimas ir priežiūra (SB)";Y;N;15-NOV-16;15-NOV-16
 3000590;"Projekto ""Atstatykime Vilniaus pasakų parką"" vykdymas";Y;N;20-NOV-07;29-JAN-14
+3000599;"Želdynų ir želdinių apsauga, tvarkymas, stebėsena, kūrimas, veisimas";Y;N;27-JAN-22;27-JAN-22
 3000600;"Jeruzalės ežerėlio išvalymas ir kraštovaizdžio atkūrimas";Y;N;20-NOV-07;29-JAN-14
 3000601;"Želdynų ir želdinių apsauga, tvarkymas, stebėsena, kūrimas, veisimas ir kt. (SB)";Y;N;15-NOV-16;15-NOV-16
 3000602;"Padangų atliekų transportavimas";Y;N;02-NOV-17;02-NOV-17
@@ -5183,3 +5184,6 @@ VR10105;"Savižudybių prevencijos prioritetų nustatymas, savižudybių prevenc
 VR10107;"Stiprinti sveikos gyvensenos įgūdžius bendruomenėse bei vykdyti visuomenės sveiką stebėseną savivaldybėse (Vilniaus rajonas)";Y;N;14-APR-20;14-APR-20
 VR630-1;"Sveikos gyvensenos skatinimas ir moksleivių sveikatos raštingumo ugdymas Vilniaus rajone";Y;N;14-APR-20;14-APR-20
 VRSB1-8;"Vilniaus rajono savivaldybės snurto artimoje aplinkoje prevencijos ir pagalbos teikimo nukentėjusiems 2018-2020 metų programa";Y;N;14-APR-20;14-APR-20
+VŠNUOMA;"VŠĮ Papildomas lėšų gavimas už patalpų nuomą";Y;N;27-JAN-22;27-JAN-22
+VŠPASL;"VŠĮ Mokamų paslaugų teikimas neformaliojo švietimo įstaigose";Y;N;27-JAN-22;27-JAN-22
+VŠUGDYM;"VŠĮ Tėvų mokesčio surinkimas";Y;N;27-JAN-22;27-JAN-22
