@@ -140,6 +140,7 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 1000140;Nenaudojama;Y;N;20-NOV-07;29-JAN-21
 1000141;"Akredituotos vaikų dienos socialinės priežiūros administravimas";Y;N;29-JAN-21;29-JAN-21
 1000142;"Išlaidų, susijusių su mobiliųjų COVID-19 testavimo punktų įrengimu ir darbo juose organizavimu, kompensavimas";Y;N;28-DEC-21;28-DEC-21
+1000143;"Socialinės reabilitacijos paslaugų neįgaliesiems bendruomenėje projektų administravimas";Y;N;01-FEB-22;01-FEB-22
 1000150;Nenaudojama;Y;N;20-NOV-07;13-FEB-13
 1000151;"Tėvų mokesčio surinkimas jaunimo politiką  įgyvendinančiose įstaigose";Y;N;13-FEB-13;13-FEB-13
 1000152;"Išlaidų, susijusių su minimalios algos padidėjimu, finansavimas";Y;N;07-NOV-16;07-NOV-16
@@ -2862,10 +2863,10 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 4006312;"Vilniaus ledo arenos Jotvingių g. 1 įrengimas su projektavimo darbais ir įrangos įsigijimu";Y;N;25-MAR-21;25-MAR-21
 4006313;"Arenos Ozo g. pirkimas (Jeep Arena) (BL)";Y;N;20-DEC-21;20-DEC-21
 4006314;"Arenos Ozo g. pirkimas (Jeep Arena) (SL)";Y;N;20-DEC-21;20-DEC-21
-4006315;"Išlaikyti sporto mokyklas ir organizuoti darbą";Y;N;22-DEC-21;22-DEC-21
-4006316;"Išlaikyti sporto mokyklas ir organizuoti darbą";Y;N;22-DEC-21;22-DEC-21
-4006317;"Išlaikyti sporto mokyklas ir organizuoti darbą";Y;N;22-DEC-21;22-DEC-21
-4006318;"Išlaikyti sporto mokyklas ir organizuoti darbą";Y;N;22-DEC-21;22-DEC-21
+4006315;"Dotacija VšĮ Vilniaus miesto krepšinio mokyklai";Y;N;22-DEC-21;01-FEB-22
+4006316;"Dotacija VšĮ Sostinės sporto centrui";Y;N;22-DEC-21;01-FEB-22
+4006317;"Dotacija VšĮ Vilniaus miesto sporto mokyklai „Sostinės tauras“";Y;N;22-DEC-21;01-FEB-22
+4006318;"Dotacija VšĮ Vilniaus miesto moksleivių sveikatos centrui";Y;N;22-DEC-21;01-FEB-22
 4006350;"Vilniaus Užupio gimnazijos šaudyklos renovacija";Y;N;05-FEB-14;05-FEB-14
 4006500;"VšĮ „Užupio meno inkubatorius“ plėtra (skolintos lėšos)";Y;N;23-FEB-12;23-FEB-12
 4006510;"„Menų spaustuvės“ kūrybinių verslų inkubatoriaus infrastruktūros plėtra: baigiamasis etapas (skolintos lėšos)";Y;N;23-FEB-12;23-FEB-12
@@ -4378,6 +4379,11 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 6001001;"Palaikomojo gydymo ir slaugos paslaugų kokybės gerinimas ir plėtra VšĮ Grigiškių sveikatos priežiūros centre (Valstybės biudžeto lėšos)";Y;N;15-FEB-13;15-FEB-13
 6001002;"Palaikomojo gydymo ir slaugos paslaugų kokybės gerinimas ir plėtra VšĮ Grigiškių sveikatos priežiūros centre (Europos Sąjungos lėšos)";Y;N;15-FEB-13;15-FEB-13
 6001003;"Palaikomojo gydymo ir slaugos paslaugų kokybės gerinimas ir plėtra VšĮ Grigiškių sveikatos priežiūros centre (Skolintos lėšos)";Y;N;07-JUN-13;07-JUN-13
+6001004;"Vilniaus romų integracijos į visuomenę priemonių įgyvendinimas";Y;N;01-FEB-22;01-FEB-22
+6001005;"VšĮ Vilkpėdės ligoninės, Vilkpėdės g. 3, Vilniuje nenaudojamų patalpų  pritaikymas gydymo paskirčiai ir įrengimas. Energetinio efektyvumo gerinimas";Y;N;01-FEB-22;01-FEB-22
+6001006;"VšĮ Naujosios Vilnios poliklinikos Naujininkų filialo, S. Dariaus ir S. Girėno g. 18, Vilniuje energetinio efektyvumo gerinimas. Teritorijos pertvarkymas";Y;N;01-FEB-22;01-FEB-22
+6001007;"VšĮ Naujosios Vilnios poliklinikos, V. Sirokomlės g. 8, Vilniuje energetinio efektyvumo gerinimas.";Y;N;01-FEB-22;01-FEB-22
+6001008;"VšĮ Karoliniškių poliklinikos Pilaitės filialo priestato statyba ir įrengimas";Y;N;01-FEB-22;01-FEB-22
 6001021;"SĮ „Gydomoji gamyba“ gamybinių patalpų pritaikymas įmonės veiklai ir administracinių patalpų rekonstrukcija (Savivaldybės privatizavimo fondo lėšos)";Y;N;30-MAR-09;29-MAY-20
 6001030;"VšĮ Vilniaus greitosios pagalbos universitetinės ligoninės šilumos punktų projektavimo ir renovacijos darbai (Savivaldybės privatizavimo fondo lėšos)";Y;N;14-MAR-08;30-MAR-09
 6001041;"VšĮ Centro poliklinikos „Krūties ir gimdos kaklelio onkologinių ligų prevencijos, ankstyvos diagnostikos ir kokybiško gydymo modelis“ (kofinansavimas Norvegijos fondui) (Savivaldybės privatizavimo fondo lėšos)";Y;N;30-MAR-09;30-MAR-09
