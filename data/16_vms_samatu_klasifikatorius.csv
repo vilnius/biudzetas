@@ -2743,6 +2743,11 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 4001456;"Mokymo lėšos skaitmeninio ugdymo plėtrai bendrojo ugdymo įstaigoms";Y;N;11-JAN-22;11-JAN-22
 4001457;"Mokymo lėšos skaitmeninio ugdymo plėtrai pagrindinio ugdymo įstaigoms";Y;N;11-JAN-22;11-JAN-22
 4001458;"Mokymo lėšos skaitmeninio ugdymo plėtrai pradinėms mokykloms";Y;N;11-JAN-22;11-JAN-22
+4001459;"Lėšos, skirtos pedagoginių darbuotojų, išlaikomų iš savivaldybių biudžetų lėšų, darbo užmokesčiui mokėti";Y;N;03-FEB-22;03-FEB-22
+4001460;"Lėšos, skirtos ugdymo planui įgyvendinti pagrindinėse mokyklose (SKAITLIS)";Y;N;03-FEB-22;03-FEB-22
+4001461;"Lėšos, skirtos ugdymo planui įgyvendinti pagrindinėse mokyklose (SAVARANKIŠKOS ĮSTAIGOS)";Y;N;03-FEB-22;03-FEB-22
+4001462;"Lėšos, skirtos ugdymo planui įgyvendinti gimnazijose ir vidurinio tipo mokyklose (SKAITLIS)";Y;N;03-FEB-22;03-FEB-22
+4001463;"Lėšos, skirtos ugdymo planui įgyvendinti gimnazijose ir vidurinio tipo mokyklose (SAVARANKIŠKOS ĮSTAIGOS)";Y;N;03-FEB-22;03-FEB-22
 4002000;"Neįgaliųjų ir sutrikusio intelekto vaikų socialinės globos centro įkūrimas (Vilniaus specialiajame lopšelyje-darželyje „Čiauškutis“) (Europos Sąjungos lėšos)";Y;N;22-FEB-12;22-FEB-12
 4002001;"Vilniaus Viršuliškių vidurinės mokyklos pastato Vilniuje, Viršuliškių g. 7, rekonstravimas (Europos Sąjungos lėšos)";Y;N;22-FEB-12;22-FEB-12
 4002002;"Vilniaus Naujininkų vidurinės mokyklos pastato Šaltkalvių g. 32, rekonstravimas (Europos Sąjungos lėšos)";Y;N;22-FEB-12;22-FEB-12
@@ -3786,6 +3791,7 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 5000326;"Nacionalinės koncertų salės „Tautos namai“,  Vilniuje, V. Mykolaičio-Putino g. 5, projekto įgyvendinimas";Y;N;19-MAR-21;19-MAR-21
 5000327;"Nacionalinės koncertų salės „Tautos namai“,  Vilniuje, V. Mykolaičio-Putino g. 5, projekto įgyvendinimas";Y;N;21-APR-21;21-APR-21
 5000400;"Miesto planavimo, projektavimo procesų modernizavimas";Y;N;02-FEB-22;02-FEB-22
+5000563;"ES programos HORIZON 2020 projektas CAMPAIGNERS";Y;N;03-FEB-22;03-FEB-22
 5000564;"ES programos HORIZON 2020 projektas „CAMPAIGNERS“";Y;N;28-JUL-21;28-JUL-21
 5001010;"FS-13-PR-11010224, Bendruomeninių (viešųjų-vietinių) želdynų miesto seniūnijose įrengimo projektiniai pasiūlymai (II etapas)";Y;N;18-JUN-08;18-JUN-08
 5001020;"FS-01-PR-11020203, Verkių dvaro sodybos viršutinių parko takų mažųjų architektūros statinių ir tiltelio remontas bei rekonstrukcija";Y;N;18-JUN-08;18-JUN-08
@@ -4110,6 +4116,12 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 6000591;"Vilties specialiosios mokyklos-daugiafunkcinio centro dienos socialinės globos skyriaus specialioji programa";Y;N;12-JAN-22;12-JAN-22
 6000592;"Verkių specialiosios mokyklos-daugiafunkcio centro dienos socialinės globos skyriaus specialioji programa";Y;N;12-JAN-22;12-JAN-22
 6000593;"Specialiojo lopšelio-darželio „Čiauškutis“ dienos centro specialioji programa";Y;N;12-JAN-22;12-JAN-22
+6000594;"Socialinės reabilitacijos paslaugų neįgaliesiems bendruomenėje projektų finansavimas";Y;N;03-FEB-22;03-FEB-22
+6000595;"Socialinio būsto plėtra (pagal ES regioninę priemonę Nr. 08.1.2-CPVA-R408-01-0011)";Y;N;03-FEB-22;03-FEB-22
+6000596;"„Būsto pritaikymas neįgaliems žmonėms“ programos įgyvendinimas (liftų įrengimas)";Y;N;03-FEB-22;03-FEB-22
+6000597;"„Būsto pritaikymas neįgaliems žmonėms“ programos įgyvendinimo administravimo išlaidoms";Y;N;03-FEB-22;03-FEB-22
+6000598;"Būsto pritaikymas neįgaliesiems (liftų priežiūra)";Y;N;03-FEB-22;03-FEB-22
+6000599;"„Būsto pritaikymas neįgaliems žmonėms“ programos įgyvendinimo administravimo išlaidoms";Y;N;03-FEB-22;03-FEB-22
 6000600;"Vilniaus miesto nakvynės namų specialioji programa";Y;N;20-NOV-07;02-JUL-21
 6000607;"Vilniaus „Vilko pėdos“ namų specialioji programos lėšų likučiai";Y;N;20-JAN-22;20-JAN-22
 6000610;"Socialinės paramos centro specialioji programa";Y;N;20-NOV-07;01-MAR-12
