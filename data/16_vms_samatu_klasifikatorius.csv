@@ -4398,7 +4398,7 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 6001004;"Vilniaus romų integracijos į visuomenę priemonių įgyvendinimas";Y;N;01-FEB-22;01-FEB-22
 6001005;"VšĮ Vilkpėdės ligoninės, Vilkpėdės g. 3, Vilniuje nenaudojamų patalpų  pritaikymas gydymo paskirčiai ir įrengimas. Energetinio efektyvumo gerinimas";Y;N;01-FEB-22;01-FEB-22
 6001006;"VšĮ Naujosios Vilnios poliklinikos Naujininkų filialo, S. Dariaus ir S. Girėno g. 18, Vilniuje energetinio efektyvumo gerinimas. Teritorijos pertvarkymas";Y;N;01-FEB-22;01-FEB-22
-6001007;"VšĮ Naujosios Vilnios poliklinikos, V. Sirokomlės g. 8, Vilniuje energetinio efektyvumo gerinimas.";Y;N;01-FEB-22;01-FEB-22
+6001007;"VšĮ Naujosios Vilnios poliklinikos, V. Sirokomlės g. 8, Vilniuje energetinio efektyvumo gerinimas";Y;N;01-FEB-22;07-FEB-22
 6001008;"VšĮ Karoliniškių poliklinikos Pilaitės filialo priestato statyba ir įrengimas";Y;N;01-FEB-22;01-FEB-22
 6001021;"SĮ „Gydomoji gamyba“ gamybinių patalpų pritaikymas įmonės veiklai ir administracinių patalpų rekonstrukcija (Savivaldybės privatizavimo fondo lėšos)";Y;N;30-MAR-09;29-MAY-20
 6001030;"VšĮ Vilniaus greitosios pagalbos universitetinės ligoninės šilumos punktų projektavimo ir renovacijos darbai (Savivaldybės privatizavimo fondo lėšos)";Y;N;14-MAR-08;30-MAR-09
@@ -4814,6 +4814,7 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 8000114;"Teritorijos šalia Vizitiečių vienuolyno Vilniaus m.  Drujos g. 11, tvarkymas, Nr. 05.6.1-APVA-V-020-01-0042";Y;N;19-NOV-20;19-NOV-20
 8000115;"Vilniaus kino biuro veiklos palaikymas";Y;N;21-JUL-21;21-JUL-21
 8000116;"Vilniaus miesto 700 metų jubiliejaus programos „Vilniui 700” įgyvendinimas";Y;N;21-JUL-21;21-JUL-21
+8000117;"Organizuoti lyderystės konferenciją";Y;N;07-FEB-22;07-FEB-22
 8000119;"Griovimo, sklypo sutvarkymo darbai VšĮ Northtown Vilnius teritorijoje";Y;N;06-SEP-21;06-SEP-21
 8000120;"Projektų techninės dokumentacijos rengimas";Y;N;25-FEB-20;25-FEB-20
 8000121;"Dotacija VšĮ Šiaurės miestelis";Y;N;25-FEB-20;25-FEB-20
@@ -4858,6 +4859,7 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 8000310;"Gardino g. 2A labdaros valgyklai išpirkti (privatizavimo fondo lėšos)";Y;N;10-FEB-14;10-FEB-14
 8000311;"Lėšos gautos pagal susitarimą dėl paramos pinigais suteikimo Lvovo g. 21B, griovimui";Y;N;09-APR-21;09-APR-21
 8000312;"Žemės išpirkimas, perėmimas Savivaldybės funkcijoms įgyvendinti";Y;N;25-JAN-22;25-JAN-22
+8000313;"Žemės išpirkimas, perėmimas Savivaldybės funkcijoms įgyvendinti";Y;N;07-FEB-22;07-FEB-22
 8000320;"Kalvarijų g. 61 išpirkimui (privatizavimo fondo lėšos)";Y;N;10-FEB-14;10-FEB-14
 8000330;"Giedraičių g. 60A išpirkimui (privatizavimo fondo lėšos)";Y;N;10-FEB-14;10-FEB-14
 8000340;"UAB ,,Ekinsta “ salės išpirkimui (privatizavimo fondo lėšos)";Y;N;10-FEB-14;10-FEB-14
