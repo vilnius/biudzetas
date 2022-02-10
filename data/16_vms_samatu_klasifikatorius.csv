@@ -283,6 +283,7 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 1500014;"Paslaugų ir asmenų aptarnavimo kokybės gerinimas";Y;N;21-FEB-17;21-FEB-17
 1500015;"Paslaugų ir asmenų aptarnavimo kokybės gerinimas (Europos sąjungos dotacijos)";Y;N;07-NOV-18;07-NOV-18
 1500016;"Savivaldybėms priskirtų geodezijos ir kartografijos darbų (savivaldybių erdvinių duomenų rinkinių tvarkymas) organizavimas ir vykdymas";Y;N;15-JAN-19;15-JAN-19
+1500017;"Informacinių sistemų palaikymas ir plėtra";Y;N;09-FEB-22;09-FEB-22
 1500020;"Dokumentų valdymo sistemos plėtra ir palaikymas";Y;N;31-DEC-19;31-DEC-19
 1500021;"Informacinių ir ryšių technologijų paslaugos";Y;N;31-DEC-19;31-DEC-19
 1500022;"Informacinių sistemų saugumo priemonių plėtra ir palaikymas";Y;N;31-DEC-19;31-DEC-19
@@ -1308,6 +1309,26 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 3001678;"Viešųjų erdvių tvarkymas Šiaurinėje tikslinėje teritorijoje tarp Giedraičių g. ir Kintų g., ir prie Giedraičių g";Y;N;06-JAN-22;06-JAN-22
 3001679;"Naujamiesčio viešųjų erdvių tvarkymas (Vingrių šaltinio skveras)";Y;N;06-JAN-22;06-JAN-22
 3001680;"AB „Vilniaus šilumos tinklai“ įstatinio kapitalo didinimui (SB)";Y;N;13-FEB-17;13-FEB-17
+3001681;"A juostų įrengimas (ne ES projektai)";Y;N;09-FEB-22;09-FEB-22
+3001682;"A juostų įrengimas T. Narbuto g.";Y;N;09-FEB-22;09-FEB-22
+3001683;"A juostų įrengimas T. Narbuto g.";Y;N;09-FEB-22;09-FEB-22
+3001684;"Vokiečių gatvės rekonstrukcija";Y;N;09-FEB-22;09-FEB-22
+3001685;"Vilniaus miesto susisiekimo infrastruktūros vystymas";Y;N;09-FEB-22;09-FEB-22
+3001686;"Perkūnkiemio skvero įrengimas";Y;N;09-FEB-22;09-FEB-22
+3001687;"Susisiekimo infrastruktūros projektavimas";Y;N;09-FEB-22;09-FEB-22
+3001688;"Susisiekimo infrastruktūros projektavimas";Y;N;09-FEB-22;09-FEB-22
+3001689;"Susisiekimo optimizavimas pagal darnaus judumo principus Šeškinės daugiafunkcio komplekso prieigose, įrengiant tam tinkamą infrastruktūrą su inžinerinėmis komunikacijomis";Y;N;09-FEB-22;09-FEB-22
+3001690;"Dviračių takų infrastruktūros atnaujinimas ir plėtra Algirdo, V.Mykolaičio-Putino, Geležinkelio, Dariaus ir Girėno gatvėse Pietinėje tikslinėje teritorijoje";Y;N;09-FEB-22;09-FEB-22
+3001691;"Dviračių takų infrastruktūros atnaujinimas ir plėtra Algirdo, V.Mykolaičio-Putino, Geležinkelio, Dariaus ir Girėno gatvėse Pietinėje tikslinėje teritorijoje";Y;N;09-FEB-22;09-FEB-22
+3001692;"Gilužio g. / su Pilaitės pr. sankryža";Y;N;09-FEB-22;09-FEB-22
+3001693;"Ašmenėlės g. projektavimas ir įrengimas";Y;N;09-FEB-22;09-FEB-22
+3001694;"Ašmenėlės g. projektavimas ir įrengimas";Y;N;09-FEB-22;09-FEB-22
+3001695;"Šeimyniškių g. rekonstrukcija";Y;N;09-FEB-22;09-FEB-22
+3001696;"Vėjo g. įrengimas";Y;N;09-FEB-22;09-FEB-22
+3001697;"Žaliųjų ežerų g. rekonstrukcija tarp Balsių ir Europos parko (dviračių takas)";Y;N;09-FEB-22;09-FEB-22
+3001698;"Eišiškių pl. - Užusienio - Geologų dviejų sankryžų rekonstravimas";Y;N;09-FEB-22;09-FEB-22
+3001699;"Bukčių pėsčiųjų tilto per Nerį įrengimas";Y;N;09-FEB-22;09-FEB-22
+3001700;"Vilniaus lietaus nuotekų tinklų plėtra, rekonstrukcija ir inventorizavimas";Y;N;09-FEB-22;09-FEB-22
 3001780;"Skolų už atliktus darbus apmokėjimas";Y;N;19-FEB-13;19-FEB-13
 3001781;"Skolų už atliktus darbus apmokėjimas(savivaldybės biudžeto lėšų likutis)";Y;N;05-MAR-15;05-MAR-15
 3001800;"Valstybės vadovų palaidojimo vietos sutvarkymas Antakalnio kapinėse";Y;N;20-FEB-12;20-FEB-12
@@ -1320,6 +1341,7 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 3001808;"Šeškinės komplekso prieigų aplinkos sutvarkymas ir pritaikymas lankymui (ES)";Y;N;18-FEB-20;18-FEB-20
 3001809;"Vilniaus miesto darnaus judumo plano sprendinių įgyvendinimas";Y;N;18-FEB-20;18-FEB-20
 3001810;"Vilniaus miesto darnaus judumo plano sprendinių įgyvendinimas (ES)";Y;N;18-FEB-20;18-FEB-20
+3001811;"Elektromobilių įkrovimo stotelių, įprastos galios, įrengimas Vilniaus mieste";Y;N;09-FEB-22;09-FEB-22
 3001812;"Viešojo transporto eismo juostų plėtra Vilniaus m. savivaldybės teritorijoje";Y;N;31-JAN-22;31-JAN-22
 3001813;"Kilpinis eismo reguliavimas Vilniaus m. senamiesčio branduolio teritorijoje";Y;N;31-JAN-22;31-JAN-22
 3001814;"Vietinės rinkliavos už naudojimąsi Tarybos nustatytomis mokamomis vietomis";Y;N;31-JAN-22;31-JAN-22
@@ -2016,6 +2038,8 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 4000553;"Kultūros projektų finansavimas bibliotekoms";Y;N;19-NOV-21;19-NOV-21
 4000554;"VšĮ „Menų spaustuvė“ infrastruktūros pagerinimas";Y;N;08-FEB-22;08-FEB-22
 4000555;"Vilniaus miesto savivaldybės literatūrinio A. Puškino muziejus pastato, esančio Subačiaus g. 124, Vilniuje, Šv. Varvaros koplyčios tvarkybos darbai (SB)";Y;N;09-FEB-17;11-OCT-21
+4000556;"Vilniaus rotušės pastato rekonstrukcija (13)";Y;N;09-FEB-22;09-FEB-22
+4000557;"Patalpų Vilniaus g. 39 pritaikymas Šv. Kristoforo orkestro veiklai (61)";Y;N;09-FEB-22;09-FEB-22
 4000560;"Papildomai gautos lėšos nuomojant patalpas muziejuose";Y;N;20-NOV-07;07-SEP-12
 4000561;"Kultūros projektų finansavimas muziejams";Y;N;19-NOV-21;19-NOV-21
 4000569;"Kultūros projektų finansavimas kultūros centrams";Y;N;19-NOV-21;19-NOV-21
@@ -2873,6 +2897,7 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 4006316;"Dotacija VšĮ Sostinės sporto centrui";Y;N;22-DEC-21;01-FEB-22
 4006317;"Dotacija VšĮ Vilniaus miesto sporto mokyklai „Sostinės tauras“";Y;N;22-DEC-21;01-FEB-22
 4006318;"Dotacija VšĮ Vilniaus miesto moksleivių sveikatos centrui";Y;N;22-DEC-21;01-FEB-22
+4006319;"Nekilnojamų daiktų Žirmūnų g. 1H ir 1P pirkimas";Y;N;09-FEB-22;09-FEB-22
 4006350;"Vilniaus Užupio gimnazijos šaudyklos renovacija";Y;N;05-FEB-14;05-FEB-14
 4006500;"VšĮ „Užupio meno inkubatorius“ plėtra (skolintos lėšos)";Y;N;23-FEB-12;23-FEB-12
 4006510;"„Menų spaustuvės“ kūrybinių verslų inkubatoriaus infrastruktūros plėtra: baigiamasis etapas (skolintos lėšos)";Y;N;23-FEB-12;23-FEB-12
@@ -3498,6 +3523,7 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 4040056;"Europos socialinio fondo agentūros (ESFA) projektas - „Alternatyvių investicijų detektorius""";Y;N;09-DEC-21;09-DEC-21
 4040057;"Europos solidarumo korpuso projektas - „Sulaužyti rėmeliai""";Y;N;09-DEC-21;09-DEC-21
 4040058;"Sostinės vaikų ir jaunimo centras";Y;N;19-JAN-22;19-JAN-22
+4040059;"NVŠ krepšelio finansavimas didelių ir labai didelių specialiųjų poreikių turintiems vaikams";Y;N;09-FEB-22;09-FEB-22
 4B00020;"Moksleivio krepšelio finansavimas Vilniaus m. ikimokyklinėse įstaigose";Y;Y;23-JUL-09;23-JUL-09
 4B00030;"Moksleivio krepšelio nevalstybinėms  ikimokyklinio ugdymo  įstaigoms  finansavimas";Y;Y;23-JUL-09;23-JUL-09
 4B00050;"Vilniaus lopšelio-darželio ""Gilužis"" remonto darbams atlikti** (spec. tikslinė dotacija kitoms programoms finansuoti)";Y;Y;23-JUL-09;23-JUL-09
@@ -4831,6 +4857,11 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 8000131;"Pastato Kauno g. 43 rekonstrukcija (Privatizavimo fondo lėšos)";Y;N;30-SEP-14;30-SEP-14
 8000132;"Pastato Vitebsko g. 21 rekonstrukcija";Y;N;30-SEP-14;30-SEP-14
 8000133;"Daugiafunkcinio Lazdynų sveikatingumo centro įkūrimas (savivaldybės biudžeto lėšos)";Y;N;11-OCT-21;11-OCT-21
+8000134;"Daugiafunkcinio Lazdynų sveikatingumo centro įkūrimas (SB likutis)";Y;N;09-FEB-22;09-FEB-22
+8000135;"Daugiafunkcinio Lazdynų sveikatingumo centro įkūrimas (ES likutis)";Y;N;09-FEB-22;09-FEB-22
+8000136;"Daugiafunkcinio Lazdynų sveikatingumo centro įkūrimas (VB likutis)";Y;N;09-FEB-22;09-FEB-22
+8000137;"Japoniško sodo įkūrimas teritorijoje prie Lvovo ir Geležinio Vilko g. (ES likutis)";Y;N;09-FEB-22;09-FEB-22
+8000138;"Japoniško sodo įkūrimas teritorijoje prie Lvovo ir Geležinio Vilko g. (VB likutis)";Y;N;09-FEB-22;09-FEB-22
 8000140;"Vilniaus miesto savivaldybės būsto ir ūkinių pastatų, parduodamų pagal LR Paramos būstui įsigyti ar išsinuomoti įstatymą, vertinimo išlaidos";Y;N;26-FEB-16;26-FEB-16
 8000141;"Turto išpirkimas Savivaldybės funkcijoms įgyvendinti";Y;N;09-FEB-17;09-FEB-17
 8000142;"Negyvenamųjų pastatų, statinių, patalpų ir butų remonto, renovacijos, priežiūros ir kitos eksploatavimo išlaidos";Y;N;28-MAR-18;28-MAR-18
