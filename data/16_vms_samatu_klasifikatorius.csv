@@ -329,6 +329,7 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 1800002;"Administracijos direktoriaus rezervo sąmata";Y;N;06-DEC-11;06-DEC-11
 1800003;"Kitoms savivaldybėms perduotos mokinio krepšelio lėšos";Y;N;06-DEC-11;06-DEC-11
 1800004;"Nepaskirstytos paramos lėšos infrastruktūros plėtrai";Y;N;13-FEB-17;13-FEB-17
+1800005;"Nepaskirstytos lėšos vadovaujančių darbuotojų minimaliems pareiginės algos koeficientams padidinti";Y;N;22-FEB-22;22-FEB-22
 1B00004;"Civilinės būklės aktų registravimas";Y;Y;23-JUL-09;23-JUL-09
 1B00005;"Valstybės garantijų nuomininkams, išsikeliantiems iš savininkams grąžintų gyvenamųjų namų ar jų dalių ir butų, vykdymas";Y;Y;23-JUL-09;23-JUL-09
 1B00006;"Nuosavybės teisių atkūrimo sprendimų priėmimas";Y;Y;23-JUL-09;23-JUL-09
@@ -508,6 +509,10 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 2000228;"Tvarios energijos veiksmų plano rengimas įgyvendinti Merų paktą";Y;N;04-FEB-21;04-FEB-21
 2000229;"Paviršinių ir požeminių vandenų apsaugos priemonių įgyvendinimas (AARSP lėšų likutis)";Y;N;04-FEB-21;04-FEB-21
 2000230;"Asignavimai išlaidoms finansuoti";Y;N;09-MAR-09;09-MAR-09
+2000231;"Vandens tiekimo ir nuotekų tvarkymo infrastruktūros plėtra (UAB „Vilniaus vandenys“ įstatinio kapitalo didinimas)";Y;N;22-FEB-22;22-FEB-22
+2000232;"VšĮ Atnaujinkime miestą veiklos finansavimas";Y;N;22-FEB-22;22-FEB-22
+2000233;"VšĮ „Technikos muziejus“ saulės elektrinių įrengimas pagal Klimato kaitos programą";Y;N;22-FEB-22;22-FEB-22
+2000234;"Vilniaus regiono komunalinių atliekų tvarkymo sistemos plėtra";Y;N;22-FEB-22;22-FEB-22
 2000240;"Jurgio Mačiūno meno kolekcijai iš dalies apmokėti";Y;N;01-FEB-10;01-FEB-10
 2000250;"Triukšmo valdymo funkcijos įgyvendinimas (VSRSP)";Y;N;19-JUN-14;19-JUN-14
 2000251;"Triukšmo valdymo funkcijos įgyvendinimas";Y;N;10-FEB-15;10-FEB-15
@@ -1345,6 +1350,10 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 3001812;"Viešojo transporto eismo juostų plėtra Vilniaus m. savivaldybės teritorijoje";Y;N;31-JAN-22;31-JAN-22
 3001813;"Kilpinis eismo reguliavimas Vilniaus m. senamiesčio branduolio teritorijoje";Y;N;31-JAN-22;31-JAN-22
 3001814;"Vietinės rinkliavos už naudojimąsi Tarybos nustatytomis mokamomis vietomis";Y;N;31-JAN-22;31-JAN-22
+3001815;Nenaudojama;Y;N;22-FEB-22;22-FEB-22
+3001816;Nenaudojama;Y;N;22-FEB-22;22-FEB-22
+3001817;Nenaudojama;Y;N;22-FEB-22;22-FEB-22
+3001818;Nenaudojama;Y;N;22-FEB-22;22-FEB-22
 3001819;"Japoniško sodo įkūrimas teritorijoje prie Lvovo ir Geležinio Vilko g. (savivaldybės biudžeto lėšos)";Y;N;07-OCT-21;07-OCT-21
 3001820;"Japoniško sodo įkūrimas teritorijoje prie Lvovo g. ir Geležinio Vilko g. (SB)";Y;N;13-FEB-17;27-DEC-19
 3001821;"VšĮ „Vilniaus japoniškas sodas“ išlaikymas";Y;N;14-OCT-20;16-OCT-20
