@@ -702,6 +702,7 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 3000582;"Vilniaus miesto valstybinių miškų, valdomų Vilniaus miesto savivaldybės, priežiūros, apsaugos ir tvarkymo darbai (2M26)";Y;N;12-OCT-16;12-OCT-16
 3000583;"Dviračių ir kito bevariklio transporto takų ir kelių, kitų su tuo susijusių infrastruktūros elementų projektavimas, įrengimas ir priežiūra (SB)";Y;N;15-NOV-16;15-NOV-16
 3000590;"Projekto ""Atstatykime Vilniaus pasakų parką"" vykdymas";Y;N;20-NOV-07;29-JAN-14
+3000598;"Invazinių rūšių kontrolės priemonių įgyvendinimas (AARSP) Uosialapių klevų naikinimas";Y;N;07-APR-22;07-APR-22
 3000599;"Želdynų ir želdinių apsauga, tvarkymas, stebėsena, kūrimas, veisimas";Y;N;27-JAN-22;27-JAN-22
 3000600;"Jeruzalės ežerėlio išvalymas ir kraštovaizdžio atkūrimas";Y;N;20-NOV-07;29-JAN-14
 3000601;"Želdynų ir želdinių apsauga, tvarkymas, stebėsena, kūrimas, veisimas ir kt. (SB)";Y;N;15-NOV-16;15-NOV-16
@@ -5192,10 +5193,10 @@ LIKUTIS;"LIKUTIS IKI 2020 01 01";Y;N;14-APR-20;14-APR-20
 MOB1959;"Mobili aplikacija VVSB";Y;N;29-MAR-21;29-MAR-21
 MUD_AED;"Suminė MUD AED sąmata";Y;Y;30-NOV-15;30-NOV-15
 NEPARAM;"Gauta pagal sutartis, sąskaitas, aktus";Y;N;08-FEB-21;08-FEB-21
-ORT-CEN;"ORT centras";Y;N;07-OCT-21;07-OCT-21
-ORT-GVF;"Gerosios valios fondas (GVF)";Y;N;07-OCT-21;07-OCT-21
-ORT-LON;"ORT Londono parama";Y;N;07-OCT-21;07-OCT-21
-ORT-STE;"ORT STEAM";Y;N;07-OCT-21;07-OCT-21
+ORT_CEN;"ORT centras";Y;N;07-OCT-21;07-APR-22
+ORT_GVF;"Gerosios valios fondas (GVF)";Y;N;07-OCT-21;07-APR-22
+ORT_LON;"ORT Londono parama";Y;N;07-OCT-21;07-APR-22
+ORT_STE;"ORT STEAM";Y;N;07-OCT-21;07-APR-22
 PAR23;"Neatlygintinai, pagal dovanojimo, paramos ir/ ar labdaros sutartį gautas turtas ir lėšos";Y;N;14-MAY-21;14-MAY-21
 PB0001;"Simono Daukanto gimnazijos projektas 09.2.1-ESFA-V-719-01-0001";Y;N;09-DEC-19;09-DEC-19
 PB0007;"Medinės architektūros paveldo muziejaus Vilniuje, Polocko g.52, sukūrimas";Y;N;23-JUL-19;24-JUL-19
@@ -5227,33 +5228,33 @@ PB008SU;"Vilniaus ugdymo įstaigų veiklos stebėsenos, analizės ir vertinimo b
 PB00P1;"M.K.Čiurlionio namų projektas";Y;N;04-DEC-18;04-DEC-18
 PB010;"Neįgaliųjų ir sutrikusio intelekto vaikų SGC įkūrimas Čiauškučio l/d";Y;N;19-SEP-12;20-SEP-12
 PB0103;"Lokiukas D/M projektas 09.2.1-ESFA-K-728-02-0103";Y;N;20-NOV-19;20-NOV-19
-PB012-1;"A.Puškino muziejau projektas BĮBA";Y;N;05-MAR-12;05-MAR-12
-PB012-2;"Memorialinių muziejų direkcijos projektas BĮBA";Y;N;05-MAR-12;05-MAR-12
-PB012-3;"Trakų vokės gimnazija projektas";Y;N;25-NOV-15;25-NOV-15
+PB012_1;"A.Puškino muziejau projektas BĮBA";Y;N;05-MAR-12;07-APR-22
+PB012_2;"Memorialinių muziejų direkcijos projektas BĮBA";Y;N;05-MAR-12;07-APR-22
+PB012_3;"Trakų vokės gimnazija projektas";Y;N;25-NOV-15;07-APR-22
 PB013;"Vilniaus Centro mokykla projektas";Y;N;25-NOV-15;25-NOV-15
 PB016;"SUC ""Aidas"" projektas BĮBA";Y;N;08-SEP-11;04-OCT-11
 PB017;"Vaduvos darželio-mokyklos projektas BĮBA";Y;N;08-SEP-11;04-OCT-11
 PB018;"Konarskio mokyklos projektas BĮBA";Y;N;18-OCT-16;18-OCT-16
-PB02-48;"Gluosnis L/D projektas 09.2.1-ESFA-K-728-02-0048";Y;N;20-NOV-19;20-NOV-19
 PB020;"Vilniaus ""Žaros"" gimnazija projektas";Y;N;25-NOV-15;25-NOV-15
 PB021;"Bitutė L/D projektas";Y;N;25-NOV-15;25-NOV-15
 PB023;"Karaliaus Mindaugo vid. mokyklos projektas BĮBA";Y;N;08-SEP-11;04-OCT-11
 PB024;"Trakų Vokės vid mokyklos projektas BĮBA";Y;N;08-SEP-11;04-OCT-11
-PB024-2;"Vilniaus Fabijoniškių mokykla";Y;N;05-JUL-16;05-JUL-16
-PB024-3;"Saulėtekio m-kla nuo 2016-10-21";Y;N;10-NOV-16;10-NOV-16
 PB0249;"Pranciškaus Skorinos mokykla projektas BĮBA";Y;N;31-MAY-19;31-MAY-19
+PB024_2;"Vilniaus Fabijoniškių mokykla";Y;N;05-JUL-16;07-APR-22
+PB024_3;"Saulėtekio m-kla nuo 2016-10-21";Y;N;10-NOV-16;07-APR-22
 PB025;"Fabijoniškių vid.mokyklos projektas BĮBA";Y;N;08-SEP-11;04-OCT-11
-PB025-2;"Saulutės darželis-mokykla";Y;N;25-OCT-16;25-OCT-16
+PB025_2;"Saulutės darželis-mokykla";Y;N;25-OCT-16;07-APR-22
 PB027;"Darželio-mokyklos ""Lokiukas"" projektas BĮBA";Y;N;08-SEP-11;04-OCT-11
 PB029;"Puškino mokyklos projekto sąmata";Y;N;15-MAY-17;15-MAY-17
+PB02_48;"Gluosnis L/D projektas 09.2.1-ESFA-K-728-02-0048";Y;N;20-NOV-19;07-APR-22
 PB031;"Emilijos Pliaterytės progimnazijos projektas BĮBA";Y;N;08-SEP-11;04-OCT-11
-PB031-1;"Basanavičiaus progimnazijos ES projektas Nr. VP1-2.2-ŠMM-05-K-01-031";Y;N;28-MAY-12;28-MAY-12
+PB031_1;"Basanavičiaus progimnazijos ES projektas Nr. VP1-2.2-ŠMM-05-K-01-031";Y;N;28-MAY-12;07-APR-22
 PB0453;"Vilkpedės L/D projektas SRF-S1Į-2019-1-0453 Multifunkcinės sporto erdvės įrengimas";Y;N;03-AUG-20;03-AUG-20
 PB0486;"Sporto rėmimo projektas „Labai išsiilgusiems užsiėmimų, kurie smagūs“";Y;N;07-DEC-21;07-DEC-21
 PB050;"Šeškinės pradinės mokyklos projektas BĮBA";Y;N;08-SEP-11;04-OCT-11
 PB052;"Pilaitės gimnazija projektas";Y;N;25-NOV-15;25-NOV-15
 PB068;"Trakų Vokės vid.mokyklos projektas BĮBA";Y;N;08-SEP-11;08-SEP-11
-PB083-1;"Projektas 09.2.1-ESFA-K-728-02-0083";Y;N;08-OCT-20;08-OCT-20
+PB083_1;"Projektas 09.2.1-ESFA-K-728-02-0083";Y;N;08-OCT-20;07-APR-22
 PB1070;"Sporto rėmimo projektas „Plaukimo ABC“";Y;N;07-DEC-21;07-DEC-21
 PB1165;"Sporto rėmimo projektas (multifunkcinės erdvės įrengimas)";Y;N;12-NOV-21;12-NOV-21
 PB204;"VJK Klevas (BĮBA)";Y;N;30-APR-13;30-APR-13
@@ -5324,8 +5325,8 @@ VLN_RAJ;"Finansavimas iš Vilniaus rajono savivaldybės administracijos";Y;N;15-
 VR10104;"Plėtoti sveiką gyvenseną ir stiprinti mokinių įgūdžius ugdymo įstaigose (Vilniaus rajonas)";Y;N;14-APR-20;14-APR-20
 VR10105;"Savižudybių prevencijos prioritetų nustatymas, savižudybių prevencijos priemonių ir joms įgyvendinti reikiamo finansavimo planavimas (LRV prioritetas) (Vilniaus rajonas)";Y;N;14-APR-20;14-APR-20
 VR10107;"Stiprinti sveikos gyvensenos įgūdžius bendruomenėse bei vykdyti visuomenės sveiką stebėseną savivaldybėse (Vilniaus rajonas)";Y;N;14-APR-20;14-APR-20
-VR630-1;"Sveikos gyvensenos skatinimas ir moksleivių sveikatos raštingumo ugdymas Vilniaus rajone";Y;N;14-APR-20;14-APR-20
-VRSB1-8;"Vilniaus rajono savivaldybės snurto artimoje aplinkoje prevencijos ir pagalbos teikimo nukentėjusiems 2018-2020 metų programa";Y;N;14-APR-20;14-APR-20
+VR630_1;"Sveikos gyvensenos skatinimas ir moksleivių sveikatos raštingumo ugdymas Vilniaus rajone";Y;N;14-APR-20;07-APR-22
+VRSB1_8;"Vilniaus rajono savivaldybės snurto artimoje aplinkoje prevencijos ir pagalbos teikimo nukentėjusiems 2018-2020 metų programa";Y;N;14-APR-20;07-APR-22
 VŠNUOMA;"VŠĮ Papildomas lėšų gavimas už patalpų nuomą";Y;N;27-JAN-22;27-JAN-22
 VŠPASL;"VŠĮ Mokamų paslaugų teikimas neformaliojo švietimo įstaigose";Y;N;27-JAN-22;27-JAN-22
 VŠUGDYM;"VŠĮ Tėvų mokesčio surinkimas";Y;N;27-JAN-22;27-JAN-22
