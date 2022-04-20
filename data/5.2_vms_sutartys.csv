@@ -4080,7 +4080,7 @@ SISTEMINIS_NUMERIS;DEPARTAMENTAS;SUTARTIES_TIPAS;SUTARTIES_NUMERIS;SUDARYMO_META
 10930;"Vilniaus miesto savivaldybės administracija";"Viešasis pirkimas";A252-127/19(3.10.15E-AD8);2019;19-APR-19;19-APR-19;"UAB „Name“";304497442;"Neakivaizdinis Vilnius";12099.99
 10931;"Vilniaus miesto savivaldybės administracija";"Viešasis pirkimas";A252-120/19(3.10.15E-AD8);2019;09-APR-19;09-APR-19;"Vestekspress, UAB";110461363;"Kino pavasaris";12099.99
 10933;"Vilniaus miesto savivaldybės administracija";"Viešasis pirkimas";A64-159/19;2019;09-MAY-19;09-MAY-22;"Toi toi Lietuva, UAB";110876434;"Vilniaus miesto biotualetų priežiūros paslaugos";61176
-11050;"Vilniaus miesto savivaldybės administracija";"Viešasis pirkimas";A64-143/19;2019;29-APR-19;29-APR-21;"Samus UAB";300026208;"Pašto ir kurjerių paslaugų užsakymas Sutarties nr. A64-143/19";
+11050;"Vilniaus miesto savivaldybės administracija";"Viešasis pirkimas";A64-143/19;2019;29-APR-19;29-APR-21;"Samus, UAB";300026208;"Pašto ir kurjerių paslaugų užsakymas Sutarties nr. A64-143/19";
 11058;"Vilniaus miesto savivaldybės administracija";"Viešasis pirkimas";A64-199/19;2019;12-JUN-19;31-DEC-19;"Dallis, UAB";302626080;"Pagrindinė sutartis";12098.79
 11061;"Vilniaus miesto savivaldybės administracija";"Kiti pirkimai";A64-96/18(3.10.22-TD2);2018;30-APR-18;30-APR-21;"Advanced advice UAB";300514353;"Valstybinio sapiegų parko tvarkymas ir pritaikymas lankymui ir tausojančiam naudojimui";5808
 11062;"Vilniaus miesto savivaldybės administracija";"Kiti pirkimai";A72-1200/16(3.1.36-TD2);2016;25-JUL-16;25-JUL-19;"Mykolo Marcinkevičiaus ligoninė";124245856;"Palaikomojo gydymo ir slaugos paslaugoms teikti lėšų perdavimo ir naudojimo sutartis";
@@ -5060,11 +5060,6 @@ SISTEMINIS_NUMERIS;DEPARTAMENTAS;SUTARTIES_TIPAS;SUTARTIES_NUMERIS;SUDARYMO_META
 11728;"Vilniaus miesto savivaldybės administracija";"Finansavimo sutartis";A252-667/19(3.10.15E-AD6);2019;25-OCT-19;;"Baltijos Brasta, UAB";177304814;"WC pertvaros ir jų montavimas";773.04
 11748;"Vilniaus miesto savivaldybės administracija";"Kiti pirkimai";A64-380/19;2019;18-OCT-19;18-OCT-20;nuasmeninta;nuasmeninta;"Mokymo konsultavimo paslaugos";2880
 11765;"Vilniaus miesto savivaldybės administracija";"Viešasis pirkimas";A68-121/19;2019;19-NOV-19;19-NOV-20;"Archiformus, UAB";303419469;"Darbo stalai";12099.99
-13291;"Vilniaus miesto savivaldybės administracija";"Finansavimo sutartis";A64-302/20;2020;17-JUL-20;;nuasmeninta;nuasmeninta;"Ekspertė (stipendijos ir kompensacijos)";1100
-12208;"Vilniaus miesto savivaldybės administracija";"Finansavimo sutartis";A291-94/20;2020;25-FEB-20;;"Saulės ženklas VO sporto klubas";125789152;"2019-03-07 įsakymu Nr. 30-568/19 ""Dėl lėšų skyrimo Vilniaus miesto sporto klubų projektų įgyvendinimo 2019-2021 metais programos projektams""";10000
-12622;"Vilniaus miesto savivaldybės administracija";"Kiti pirkimai";A291-621/20;2020;14-MAY-20;30-NOV-20;"Labdaros ir paramos fondas „Harė Krišna maistas kūnui ir sielai“";191759175;"VILNIAUS MIESTO SAVIVALDYBĖS 2020 METŲ UŽIMTUMO DIDINIMO PROGRAMOS ĮGYVENDINIMO IR FINANSAVIMO SUTARTIS";19000
-14156;"Vilniaus miesto savivaldybės administracija";"Finansavimo sutartis";A291-59/21;2021;09-FEB-21;;"Saulės ženklas VO sporto klubas";125789152;"VMS administracijos direktoriaus 2019 m. kovo 7 d. įsakymas Nr. 30-568/19 „Dėl lėšų skyrimo Vilniaus miesto sporto klubų projektų įgyvendinimo 2019–2021 metais programos projektams“ skiriamos lėšos projektui Nr. 7";10000
-14720;"Vilniaus miesto savivaldybės administracija";"Kiti pirkimai";A291-1089/21;2021;26-APR-21;30-NOV-21;"Labdaros ir paramos fondas „Harė Krišna maistas kūnui ir sielai“";191759175;"VILNIAUS MIESTO SAVIVALDYBĖS 2021 METŲ UŽIMTUMO DIDINIMO PROGRAMOS ĮGYVENDINIMO IR FINANSAVIMO SUTARTIS";19000
 11807;"Vilniaus miesto savivaldybės administracija";"Finansavimo sutartis";A291-2448/19;2019;11-DEC-19;;"VšĮ""Tomaga""";301733229;"2019-12-06 Nr. A15-2395/19";5500
 11808;"Vilniaus miesto savivaldybės administracija";"Finansavimo sutartis";A291-2453/19;2019;11-DEC-19;;"Žydų kultūros ir informacijos centras, VšĮ";300670911;"2019-12-09 Nr. A15-2408/19";10000
 11809;"Vilniaus miesto savivaldybės administracija";"Finansavimo sutartis";A291-2449/19;2019;11-DEC-19;;"VšĮ""Trakų Vokės dvaro sodyba""";303218377;"2019-12-11 Nr. A15-2427/19";15000
@@ -5560,6 +5555,7 @@ SISTEMINIS_NUMERIS;DEPARTAMENTAS;SUTARTIES_TIPAS;SUTARTIES_NUMERIS;SUDARYMO_META
 12281;"Vilniaus miesto savivaldybės administracija";"Kiti pirkimai";A64-12/20;2020;17-JAN-20;17-JUL-20;"Ecoservice, UAB";123044722;"Indvidualios atliekų paėmimo ir vežimo Vilniaus miesto savivaldybės teritorijos penktoje zonoje ""Centras"" paslaugos";9998.16
 12203;"Vilniaus miesto savivaldybės administracija";"Viešasis pirkimas";A68-87/19;2019;28-AUG-19;27-AUG-20;"Altas automotive, UAB";303687353;;
 12207;"Vilniaus miesto savivaldybės administracija";"Finansavimo sutartis";A291-132/20;2020;26-FEB-20;;"Vilniaus vandensvydžio sporto klubas Delfinas";193148229;"2019-03-07 įsakymu Nr. 30-568/19 ""Dėl lėšų skyrimo Vilniaus miesto sporto klubų projektų įgyvendinimo 2019-2021 metais programos projektams""";50000
+12208;"Vilniaus miesto savivaldybės administracija";"Finansavimo sutartis";A291-94/20;2020;25-FEB-20;;"Saulės ženklas VO sporto klubas";125789152;"2019-03-07 įsakymu Nr. 30-568/19 ""Dėl lėšų skyrimo Vilniaus miesto sporto klubų projektų įgyvendinimo 2019-2021 metais programos projektams""";10000
 12256;"Vilniaus miesto savivaldybės administracija";"Finansavimo sutartis";A291-170/20;2020;27-FEB-20;;"Sporto klubas ""Cosma""";125097969;"2019 m. kovo 7 d. įsakymu Nr. 30-568/19 ""Dėl lėšų skyrimo Vilniaus miesto sporto klubų projektų įgyvendinimo 2019-2021 metais programos projektams""";50000
 12296;"Vilniaus miesto savivaldybės administracija";"Kiti pirkimai";A291-358/20;2020;12-MAR-20;31-DEC-20;"Vilniaus Arkivyskupijos Caritas";191677454;"Biudžeto lėšų naudojimo sutartis";6000
 12333;"Vilniaus miesto savivaldybės administracija";Dokumentas;A252-200/20(3.10.15E-KUL);2020;16-MAR-20;;nuasmeninta;nuasmeninta;"Sąskaita faktūra pagal 2020-03-16 lydraštį Nr. A252-200/20(3.10.15E-KUL)";1650
@@ -5780,6 +5776,7 @@ SISTEMINIS_NUMERIS;DEPARTAMENTAS;SUTARTIES_TIPAS;SUTARTIES_NUMERIS;SUDARYMO_META
 12597;"Vilniaus miesto savivaldybės administracija";"Kiti pirkimai";A64-204/20;2020;25-MAY-20;10-JUN-20;"Apus turtas, UAB";302249875;"Dėl pirkimo sutarties";974.12
 12598;"Vilniaus miesto savivaldybės administracija";"Viešasis pirkimas";A64-182/20;2020;06-MAY-20;30-JUN-20;"Labdaros ir paramos fondas ""Maisto bankas""";192015172;"Labdaros maisto paruošimas ir pristatymas";
 12599;"Vilniaus miesto savivaldybės administracija";"Viešasis pirkimas";"A64 - 192/20";2020;18-MAY-20;30-JUN-20;"Dussmann Service, UAB";111617783;"Nutolusių padalinių apsaugos paslaugos";
+12622;"Vilniaus miesto savivaldybės administracija";"Kiti pirkimai";A291-621/20;2020;14-MAY-20;30-NOV-20;"Labdaros ir paramos fondas „Harė Krišna maistas kūnui ir sielai“";191759175;"VILNIAUS MIESTO SAVIVALDYBĖS 2020 METŲ UŽIMTUMO DIDINIMO PROGRAMOS ĮGYVENDINIMO IR FINANSAVIMO SUTARTIS";19000
 12623;"Vilniaus miesto savivaldybės administracija";"Kiti pirkimai";A291-633/20;2020;15-MAY-20;30-NOV-20;"Informacijos kaupimo ir sklaidos centras VŠĮ";301675320;"VILNIAUS MIESTO SAVIVALDYBĖS 2020 METŲ UŽIMTUMO DIDINIMO PROGRAMOS ĮGYVENDINIMO IR FINANSAVIMO SUTARTIS";5600
 12624;"Vilniaus miesto savivaldybės administracija";"Viešasis pirkimas";A252-132/20(3.10.15E-AD8)-2;2020;28-FEB-20;28-FEB-20;"AVEC LIT, UAB";111653676;"kultūrinė programa";1231.78
 12668;"Vilniaus miesto savivaldybės administracija";"Finansavimo sutartis";A291-780/20;2020;28-MAY-20;;"Vilniaus dziudo ir imtynių sporto klubas Viesulas";302440478;"Vilniaus miesto savivaldybės 2020 m. biudžeto lėšos, numatytos Administracijos direktoriaus 2020 m. gegužės 4 d. įsakymo Nr. 30-1004/20 dėl paraiškų savivaldybės 2020 metų biudžeto lėšomis finansuojamiems sporto projektams. Projekto nr. 45";1000
@@ -6500,6 +6497,7 @@ SISTEMINIS_NUMERIS;DEPARTAMENTAS;SUTARTIES_TIPAS;SUTARTIES_NUMERIS;SUDARYMO_META
 13526;"Vilniaus miesto savivaldybės administracija";"Finansavimo sutartis";A252-628/20(3.10.15E-ADV);2020;01-OCT-20;;"Konferenta, UAB";301503833;"Sąskaita faktūra F-013698";2809.62
 13278;"Vilniaus miesto savivaldybės administracija";"Viešasis pirkimas";A252-587/20(3.10.15E-AD8);2020;17-AUG-20;17-SEP-20;"UAB ""Standartų spaustuvė""";220826740;"Žurnalai ""Neakivaizdinis Vilnius.Ruduo, 2020""";2919
 13281;"Vilniaus miesto savivaldybės administracija";Dokumentas;IT2;2020;24-AUG-20;;nuasmeninta;nuasmeninta;"Sąskaitos faktūra pirkimui Nr. 397";1252.35
+13291;"Vilniaus miesto savivaldybės administracija";"Finansavimo sutartis";A64-302/20;2020;17-JUL-20;;nuasmeninta;nuasmeninta;"Ekspertė (stipendijos ir kompensacijos)";1100
 13292;"Vilniaus miesto savivaldybės administracija";"Finansavimo sutartis";A64-301/20;2020;17-JUL-20;;nuasmeninta;nuasmeninta;"Ekspertė (stipendijos ir kompensacijos)";1100
 13293;"Vilniaus miesto savivaldybės administracija";"Finansavimo sutartis";A64-300/20;2020;17-JUL-20;;nuasmeninta;nuasmeninta;"Ekspertė (stipendijos ir kompensacijos)";1100
 13294;"Vilniaus miesto savivaldybės administracija";"Finansavimo sutartis";A64-324/20;2020;06-JUL-20;;nuasmeninta;nuasmeninta;"Ekspertė (stipendijos ir kompensacijos)";1100
@@ -6822,8 +6820,12 @@ SISTEMINIS_NUMERIS;DEPARTAMENTAS;SUTARTIES_TIPAS;SUTARTIES_NUMERIS;SUDARYMO_META
 13650;"Vilniaus miesto savivaldybės administracija";"Viešasis pirkimas";;2020;04-SEP-20;27-OCT-20;"Projektų lyga, MB";304057578;"Įvykdyti rinkimų apylinkių inventoriaus montavimo ir remonto darbai";1089
 13669;"Vilniaus miesto savivaldybės administracija";"Kiti pirkimai";A64-347/20;2020;19-AUG-20;19-SEP-20;"Statybos projektų ekspertizės centras,UAB";124850887;"'KAREIVIŲ GATVĖS TARP VERKIŲ G. IR KALVARIJŲ G., VILNIUJE, KAPITALINIO REMONTO PROJEKTAS BENDROJI EKSPERTIZĖ";6500
 13672;"Vilniaus miesto savivaldybės administracija";"Finansavimo sutartis";A291-2630/20;2020;13-NOV-20;31-JAN-21;"VšĮ""Menų fabrikas""";302473898;"Programos „Kuriu Vilnių“ projektų finansavimas“, projekto Nr. A639-110/20.";66990
-13673;"Vilniaus miesto savivaldybės administracija";"Viešasis pirkimas";A64-454/20;2020;17-NOV-20;16-FEB-21;"Socialinės informacijos centras";302409835;;
 13674;"Vilniaus miesto savivaldybės administracija";"Viešasis pirkimas";A64-448/20;2020;12-NOV-20;17-FEB-21;"Socialinės informacijos centras";302409835;;
+13819;"Vilniaus miesto savivaldybės administracija";"Viešasis pirkimas";A64-484/20;2020;08-DEC-20;07-JUN-21;"Socialinės informacijos centras";302409835;;
+14604;"Vilniaus miesto savivaldybės administracija";"Kiti pirkimai";A292-230/21;2021;14-MAY-21;31-DEC-50;"Šv.Juozapo globos namai, VšĮ";148509129;"PAPILDOMAS SUSITARIMAS DĖL SUTARTIES NR. A72-150(3.1.36-SR)";10000000
+14156;"Vilniaus miesto savivaldybės administracija";"Finansavimo sutartis";A291-59/21;2021;09-FEB-21;;"Saulės ženklas VO sporto klubas";125789152;"VMS administracijos direktoriaus 2019 m. kovo 7 d. įsakymas Nr. 30-568/19 „Dėl lėšų skyrimo Vilniaus miesto sporto klubų projektų įgyvendinimo 2019–2021 metais programos projektams“ skiriamos lėšos projektui Nr. 7";10000
+14720;"Vilniaus miesto savivaldybės administracija";"Kiti pirkimai";A291-1089/21;2021;26-APR-21;30-NOV-21;"Labdaros ir paramos fondas „Harė Krišna maistas kūnui ir sielai“";191759175;"VILNIAUS MIESTO SAVIVALDYBĖS 2021 METŲ UŽIMTUMO DIDINIMO PROGRAMOS ĮGYVENDINIMO IR FINANSAVIMO SUTARTIS";19000
+13673;"Vilniaus miesto savivaldybės administracija";"Viešasis pirkimas";A64-454/20;2020;17-NOV-20;16-FEB-21;"Socialinės informacijos centras";302409835;;
 13690;"Vilniaus miesto savivaldybės administracija";"Viešasis pirkimas";A291-2696/20;2020;19-NOV-20;31-DEC-20;"Lietuvos romų bendruomenė";303328172;"Jaunimo programos finansavimo sutartis";2000
 13709;"Vilniaus miesto savivaldybės administracija";"Viešasis pirkimas";A68-123/20;2020;24-SEP-20;31-DEC-20;"IT Gama, UAB";302786971;;
 13710;"Vilniaus miesto savivaldybės administracija";"Finansavimo sutartis";A68-148/20;2020;08-OCT-20;;"IT Gama, UAB";302786971;;
@@ -6968,7 +6970,6 @@ SISTEMINIS_NUMERIS;DEPARTAMENTAS;SUTARTIES_TIPAS;SUTARTIES_NUMERIS;SUDARYMO_META
 14050;"Vilniaus miesto savivaldybės administracija";"Finansavimo sutartis";A62-143/20;2020;07-SEP-20;;"Coreal UAB";302815362;"2020-09-07 Nr. A62-143/20";1270378
 14051;"Vilniaus miesto savivaldybės administracija";"Kiti pirkimai";A64-12/21;2021;08-JAN-21;08-JAN-24;nuasmeninta;nuasmeninta;"Pirkimo sutartis";
 13814;"Vilniaus miesto savivaldybės administracija";"Viešasis pirkimas";A68-120/20;2020;22-SEP-20;22-NOV-20;"Keluva, UAB";121543961;"Pakuočių atliekų surinkimo priemonės (konteineriai)";26710.02
-13819;"Vilniaus miesto savivaldybės administracija";"Viešasis pirkimas";A64-484/20;2020;08-DEC-20;07-JUN-21;"Socialinės informacijos centras";302409835;;
 13824;"Vilniaus miesto savivaldybės administracija";"Kiti pirkimai";A252-787/20(2.1.19-AD6);2020;10-NOV-20;09-NOV-21;"Gelsva, UAB";120596772;"Mineralinis vanduo";12099.99
 13825;"Vilniaus miesto savivaldybės administracija";"Viešasis pirkimas";A252-124/20(3.10.15E-AD8)/8;2020;27-FEB-20;27-MAR-20;"Humanitas, UAB";233990960;"suvenyrinės knygos";110
 13864;"Vilniaus miesto savivaldybės administracija";Įsakymas;A15-1997/20(2.1.4E-KUL);2020;11-DEC-20;;"Vilniaus miesto savivaldybės administracija";188710061;"Remontai, 4 programa „Kultūra“ sąmata Nr. 4000509";84800
@@ -7466,7 +7467,6 @@ SISTEMINIS_NUMERIS;DEPARTAMENTAS;SUTARTIES_TIPAS;SUTARTIES_NUMERIS;SUDARYMO_META
 14601;"Vilniaus miesto savivaldybės administracija";"Kiti pirkimai";A64-333/20;2020;11-AUG-20;31-DEC-21;"UAB Projektų rengimo centras";300612420;"PROJEKTAVIMO PASLAUGŲ SUTARTIS";104894.9
 14602;"Vilniaus miesto savivaldybės administracija";"Kiti pirkimai";A64-333/20;2020;11-AUG-20;31-DEC-21;"UAB Projektų rengimo centras";300612420;"PROJEKTAVIMO PASLAUGŲ SUTARTIS";104894.9
 14603;"Vilniaus miesto savivaldybės administracija";"Viešasis pirkimas";A64-134/21;2021;23-APR-21;23-JUL-21;"City Service Cleaning, UAB";305229162;"Dezinfekcijos paslaugos ""Litexpo"" vakcinavimo centre";1036.91
-14604;"Vilniaus miesto savivaldybės administracija";"Kiti pirkimai";A292-230/21;2021;14-MAY-21;31-DEC-50;"Šv.Juozapo globos namai, VšĮ";148509129;"PAPILDOMAS SUSITARIMAS DĖL SUTARTIES NR. A72-150(3.1.36-SR)";10000000
 14606;"Vilniaus miesto savivaldybės administracija";"Finansavimo sutartis";A291-1207/21;2021;19-MAY-21;;"Užantis, VšĮ";302311323;;3000
 14608;"Vilniaus miesto savivaldybės administracija";"Viešasis pirkimas";A62-13/21;2021;08-FEB-21;30-AUG-21;"Akordas 1, UAB";120546940;"STATYBOS RANGOS SUTARTIS";337026.95
 14611;"Vilniaus miesto savivaldybės administracija";"Kiti pirkimai";A291-1213/21;2021;20-MAY-21;31-DEC-21;"Visuomeninė organizacija vaikų ir jaunimo dienos centras ""Mūsų nameliai""";300012233;"BIUDŽETO LĖŠŲ NAUDOJIMO SUTARTIS";15360
@@ -8172,6 +8172,8 @@ SISTEMINIS_NUMERIS;DEPARTAMENTAS;SUTARTIES_TIPAS;SUTARTIES_NUMERIS;SUDARYMO_META
 15073;"Vilniaus miesto savivaldybės administracija";"Viešasis pirkimas";A62-69/21;2021;26-MAY-21;31-AUG-21;"UAB Sportinės dangos";302582082;"Vilniaus Antakalnio progimnazijos progimnazijos sporto aikštyno atnaujinimo darbai";64184.45
 15074;"Vilniaus miesto savivaldybės administracija";"Viešasis pirkimas";A62-70/21;2021;26-MAY-21;31-AUG-21;"UAB Sportinės dangos";302582082;"Vilniaus Emilijos Pliaterytės progimnazijos sporto aikštyno atnaujinimo darbai";135371.65
 15075;"Vilniaus miesto savivaldybės administracija";"Viešasis pirkimas";A62-103/21;2021;23-JUN-21;31-AUG-21;"UAB EUROSPORTAS LT";302872598;"Kaukysos sporto aikštyno atnaujinimo darbai";312918.1
+15258;"Vilniaus miesto savivaldybės administracija";"Viešasis pirkimas";A64-331/21;2021;14-OCT-21;31-DEC-21;"Asociacija Moterų informacijos centras";191919014;"Pirkimo sutartis";9975
+15677;"Vilniaus miesto savivaldybės administracija";"Kiti pirkimai";A292-651/21;2021;23-DEC-21;31-DEC-50;"Marijampolės specialieji globos namai";300663201;"PAPILDOMAS SUSITARIMAS DĖL SUTARTIES NR. A72-64(3.1.36-SR) PAKEITIMO";700000
 15385;"Vilniaus miesto savivaldybės administracija";"Viešasis pirkimas";A64-382/21;2021;30-NOV-21;29-NOV-24;"Fleet Complete Lietuva, UAB";301673643;"PIRKIMO SUTARTIS";9496.08
 15605;"Vilniaus miesto savivaldybės administracija";"Finansavimo sutartis";A64-362/21;2021;15-NOV-21;;"UAB Baltijos auditas ir ko";124890796;;10648
 15583;"Vilniaus miesto savivaldybės administracija";Dokumentas;A55-13926/21;2021;21-DEC-21;;"UAB Baltijos auditas ir ko";124890796;Sąskaita-faktūra;10648
@@ -8444,7 +8446,6 @@ SISTEMINIS_NUMERIS;DEPARTAMENTAS;SUTARTIES_TIPAS;SUTARTIES_NUMERIS;SUDARYMO_META
 15222;"Vilniaus miesto savivaldybės administracija";"Kiti pirkimai";A291-2327/21;2021;20-OCT-21;31-DEC-21;"Maltos ordino pagalbos tarnyba";190740859;"PAPILDOMAS SUSITARIMAS PRIE 2021-09-21 BIUDŽETO LĖŠŲ NAUDOJIMO";35366.26
 15232;"Vilniaus miesto savivaldybės administracija";Įsakymas;A15-1455/21(2.1.4E-KUL);2021;25-OCT-21;;"Vilniaus miesto savivaldybės administracija";188710061;;3500
 15255;"Vilniaus miesto savivaldybės administracija";"Kiti pirkimai";A292-129/21;2021;29-MAR-21;31-DEC-50;"Sveikatos metai viešoji įstaiga";302826152;"SOCIALINĖS GLOBOS PASLAUGŲ TEIKIMO SENYVO AMŽIAUS IR NEĮGALIEMS ASMENIMS SUTARTIS";500000
-15258;"Vilniaus miesto savivaldybės administracija";"Viešasis pirkimas";A64-331/21;2021;14-OCT-21;31-DEC-21;"Asociacija Moterų informacijos centras";191919014;"Pirkimo sutartis";9975
 15284;"Vilniaus miesto savivaldybės administracija";"Viešasis pirkimas";A64-304/21;2021;28-SEP-21;28-OCT-21;nuasmeninta;nuasmeninta;"Vilniaus miesto savivaldybės 2022, 2023 bei 2024 metų biudžeto lėšomis remiamų aukšto meistriškumo sporto projektų paraiškų vertinimas.";1452
 15285;"Vilniaus miesto savivaldybės administracija";"Viešasis pirkimas";A64-305/21;2021;28-SEP-21;28-OCT-21;nuasmeninta;nuasmeninta;"Vilniaus miesto savivaldybės 2022, 2023 bei 2024 metų biudžeto lėšomis remiamų aukšto meistriškumo sporto projektų paraiškų vertinimas.";1452
 15286;"Vilniaus miesto savivaldybės administracija";"Kiti pirkimai";A291-2507/21;2021;10-NOV-21;31-DEC-21;"Naujosios Vilnios poliklinika VŠĮ";124246043;"BIUDŽETO LĖŠŲ NAUDOJIMO SUTARTIS (NVP APSAUGA)";57100
@@ -8539,7 +8540,6 @@ SISTEMINIS_NUMERIS;DEPARTAMENTAS;SUTARTIES_TIPAS;SUTARTIES_NUMERIS;SUDARYMO_META
 15654;"Vilniaus miesto savivaldybės administracija";"Viešasis pirkimas";A252-242/21(3.10.15E-AD8)/4;2021;21-APR-21;31-DEC-21;"INDIANA.LT UAB";302641591;"leidinių ir kito reklaminio turinio maketavimo ir dizaino paslaugos";3605.8
 15655;"Vilniaus miesto savivaldybės administracija";"Viešasis pirkimas";A252-482/21(3.10.15E-AD8)/5;2021;03-DEC-21;31-DEC-21;"INDIANA.LT UAB";302641591;"reklamos ir rinkodaros paslaugos";3617.9
 15666;"Vilniaus miesto savivaldybės administracija";"Finansavimo sutartis";A252-759/21(2.1.19-AD6);2021;15-DEC-21;;"Form System, UAB";300634598;"skambučių centro, 20 aukšto ir kitų erdvių interjero paslaugos";
-15677;"Vilniaus miesto savivaldybės administracija";"Kiti pirkimai";A292-651/21;2021;23-DEC-21;31-DEC-50;"Marijampolės specialieji globos namai";300663201;"PAPILDOMAS SUSITARIMAS DĖL SUTARTIES NR. A72-64(3.1.36-SR) PAKEITIMO";700000
 15680;"Vilniaus miesto savivaldybės administracija";"Kiti pirkimai";A292-653/21;2021;23-DEC-21;31-DEC-50;"Viešoji įstaiga Kazlų Rūdos Socialinės paramos centras";266104560;"PAPILDOMAS SUSITARIMAS DĖL SUTARTIES NR. A292-144/20(3.1.36-TD2) PAKEITIMO";700000
 15686;"Vilniaus miesto savivaldybės administracija";"Finansavimo sutartis";A252-710/21(3.10.15-MTA);2021;26-NOV-21;;"DND Talis, UAB";125001050;" (DARBO DRABUŽIAI,BATAI) pagal prašymą atlikti viešą pirkimą A252-710/21(3.10.15-MTA";2294.89
 15486;"Vilniaus miesto savivaldybės administracija";"Viešasis pirkimas";A64-356/21;2021;11-NOV-21;10-NOV-22;"Mediaskopas, UAB";124636456;"Žiniasklaidos stebėsenos ir analizės paslaugų pirkimas.";9031.44
@@ -9081,6 +9081,7 @@ SISTEMINIS_NUMERIS;DEPARTAMENTAS;SUTARTIES_TIPAS;SUTARTIES_NUMERIS;SUDARYMO_META
 16018;"Vilniaus miesto savivaldybės administracija";"Kiti pirkimai";A291-756/22;2022;07-MAR-22;31-DEC-22;"Naujosios Vilnios poliklinika VŠĮ";124246043;"BIUDŽETO LĖŠŲ NAUDOJIMO SUTARTIS (NAUJOSIOS VILNIOS POLIKLINIKA)";520000
 16058;"Vilniaus miesto savivaldybės administracija";"Viešasis pirkimas";A252-11/22(2.1.19-T2);2022;17-JAN-22;31-DEC-22;"Fotohobis, UAB";301585798;"Fotoprekių pirkimas";3629.99
 16161;"Vilniaus miesto savivaldybės administracija";"Viešasis pirkimas";A62-209/22;2022;21-MAR-22;21-DEC-22;"Gevaina, IĮ";301835636;Čiužiniai;12099.99
+16173;"Vilniaus miesto savivaldybės administracija";"Kiti pirkimai";A291-1240/22;2022;19-APR-22;31-DEC-22;"Lietuvos intensyvios kardiologijos ir skubiosios medicinos asociacija";304091452;"PRIEMONĖS VYKDYMO IR LĖŠŲ TIKSLINIO NAUDOJIMO";9900
 16007;"Vilniaus miesto savivaldybės administracija";"Kiti pirkimai";A291-430/22;2022;25-FEB-22;31-DEC-22;"Asociacija „Vilniaus lietaus vaikai“";305366887;"LIETUVOS RESPUBLIKOS VALSTYBĖS BIUDŽETO IR (AR) SAVIVALDYBĖS BIUDŽETO LĖŠŲ NAUDOJIMO SUTARTIS";53975
 16008;"Vilniaus miesto savivaldybės administracija";"Kiti pirkimai";A291-486/22;2022;28-FEB-22;31-DEC-22;"Vilniaus krašto žmonių su negalia sąjunga";191893217;"LIETUVOS RESPUBLIKOS VALSTYBĖS BIUDŽETO IR (AR) SAVIVALDYBĖS BIUDŽETO LĖŠŲ NAUDOJIMO SUTARTIS";38272
 16009;"Vilniaus miesto savivaldybės administracija";"Kiti pirkimai";A291-670/22;2022;02-MAR-22;31-DEC-22;"Išsėtinės sklerozės draugija ""Feniksai""";304076906;"LIETUVOS RESPUBLIKOS VALSTYBĖS BIUDŽETO IR (AR) SAVIVALDYBĖS BIUDŽETO LĖŠŲ NAUDOJIMO SUTARTIS";16461
@@ -9174,6 +9175,11 @@ SISTEMINIS_NUMERIS;DEPARTAMENTAS;SUTARTIES_TIPAS;SUTARTIES_NUMERIS;SUDARYMO_META
 16154;"Vilniaus miesto savivaldybės administracija";"Viešasis pirkimas";A64-445/21;2021;30-DEC-21;30-DEC-22;"SDG, UAB";135899565;"Saugos ir sveikatos bei priešgaisrinės saugos mokymų paslaugų sutartis";3630
 16166;"Vilniaus miesto savivaldybės administracija";"Įsakymas dėl našlaičiams skiriamos pašalpos";A15-528/22(2.1.4E-SOI);2022;14-APR-22;13-APR-22;nuasmeninta;nuasmeninta;"Įsakymas dėl vienkartinių išmokų įsikurti Nr. A15-528/22(2.1.4E-SOI) 2022-04-14";3000
 16172;"Vilniaus miesto savivaldybės administracija";"Viešasis pirkimas";A252-13/22(3.10.15E-AD8)/8;2022;12-JAN-22;31-DEC-22;nuasmeninta;nuasmeninta;"leidinių platinimo paslaugos";117
+16174;"Vilniaus miesto savivaldybės administracija";"Kiti pirkimai";A291-1236/22;2022;19-APR-22;31-DEC-22;"VšĮ AJA viešieji ryšiai";300067945;"PRIEMONĖS VYKDYMO IR LĖŠŲ TIKSLINIO NAUDOJIMO SUTARTIS";14000
+16175;"Vilniaus miesto savivaldybės administracija";"Kiti pirkimai";A291-1233/22;2022;19-APR-22;31-DEC-22;"ŽIV ir AIDS paveiktų moterų bei jų artimųjų asociacija";125407072;"PRIEMONĖS VYKDYMO IR LĖŠŲ TIKSLINIO NAUDOJIMO SUTARTIS";12300
+16176;"Vilniaus miesto savivaldybės administracija";"Viešasis pirkimas";A62-280/22;2022;19-APR-22;01-DEC-22;"MB Homo eminens";304050587;"SAUGIOS APLINKOS TYRIMO PASLAUGOS";10164
+16177;"Vilniaus miesto savivaldybės administracija";"Viešasis pirkimas";A62-283/22;2022;20-APR-22;20-OCT-22;"ATEA, UAB";122588443;"VAIZDO STEBĖJIMO KAMERŲ ĮRENGIMO, PRIEŽIŪROS IR REMONTO PASLAUGOS";12098.79
+16178;"Vilniaus miesto savivaldybės administracija";"Kiti pirkimai";A291-1224/22;2022;15-APR-22;31-DEC-22;"Lietuvos Sakaliukų sąjunga";191910022;"Biudžeto lėšų naudojimo sutartis";15020
 16035;"Vilniaus miesto savivaldybės administracija";"Viešasis pirkimas";A62-196/22;2022;15-MAR-22;10-MAR-24;"Itaip, UAB";304971164;;
 16036;"Vilniaus miesto savivaldybės administracija";"Finansavimo sutartis";A291-158/22;2022;10-FEB-22;;"Menų spaustuvė VŠĮ";125873853;;151700
 16037;"Vilniaus miesto savivaldybės administracija";"Finansavimo sutartis";A291-170/22;2022;14-FEB-22;;"Užupio meno inkubatorius, VŠĮ";126053783;"Dotacijos sutartis";70000
