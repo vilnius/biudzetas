@@ -142,6 +142,8 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 1000142;"Išlaidų, susijusių su mobiliųjų COVID-19 testavimo punktų įrengimu ir darbo juose organizavimu, kompensavimas";Y;N;28-DEC-21;28-DEC-21
 1000143;"Socialinės reabilitacijos paslaugų neįgaliesiems bendruomenėje projektų administravimas";Y;N;01-FEB-22;01-FEB-22
 1000144;"Globos (rūpybos) išmokai ir globos (rūpybos) išmokos tiksliniam priedui padidintai daliai administruoti";Y;N;17-MAR-22;17-MAR-22
+1000145;"Bendruomeninės veiklos savivaldybėje administravimas";Y;N;28-APR-22;28-APR-22
+1000146;"Bendruomeninės veiklos savivaldybėje kuriant palankią daugiakultūrę aplinką administravimas";Y;N;28-APR-22;28-APR-22
 1000150;Nenaudojama;Y;N;20-NOV-07;13-FEB-13
 1000151;"Tėvų mokesčio surinkimas jaunimo politiką  įgyvendinančiose įstaigose";Y;N;13-FEB-13;13-FEB-13
 1000152;"Išlaidų, susijusių su minimalios algos padidėjimu, finansavimas";Y;N;07-NOV-16;07-NOV-16
@@ -2054,6 +2056,7 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 4000555;"Vilniaus miesto savivaldybės literatūrinio A. Puškino muziejus pastato, esančio Subačiaus g. 124, Vilniuje, Šv. Varvaros koplyčios tvarkybos darbai (SB)";Y;N;09-FEB-17;11-OCT-21
 4000556;"Vilniaus rotušės pastato rekonstrukcija (13)";Y;N;09-FEB-22;09-FEB-22
 4000557;"Patalpų Vilniaus g. 39 pritaikymas Šv. Kristoforo orkestro veiklai (61)";Y;N;09-FEB-22;09-FEB-22
+4000558;"Dotacija VšĮ „Vilnius UNESCO literatūros miestas“";Y;N;28-APR-22;28-APR-22
 4000560;"Papildomai gautos lėšos nuomojant patalpas muziejuose";Y;N;20-NOV-07;07-SEP-12
 4000561;"Kultūros projektų finansavimas muziejams";Y;N;19-NOV-21;19-NOV-21
 4000569;"Kultūros projektų finansavimas kultūros centrams";Y;N;19-NOV-21;19-NOV-21
@@ -5127,7 +5130,9 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 9000214;"Bendruomeninės veiklos savivaldybėje administravimas";Y;N;31-AUG-17;31-AUG-17
 9000215;"Seniūnaičių veiklos finansavimas";Y;N;22-FEB-18;22-FEB-18
 9000221;"Pavilnio bendruomenės centro projektavimas";Y;N;21-FEB-22;21-FEB-22
+9000224;"Stiprinti bendruomeninę veiklą savivaldybėje";Y;N;28-APR-22;28-APR-22
 9000231;"Balsių bendruomenės centro projektavimas";Y;N;21-FEB-22;21-FEB-22
+9000234;"Stiprinti bendruomeninę veiklą savivaldybėje kuriant palankią daugiakultūrę aplinką";Y;N;28-APR-22;28-APR-22
 9B00001;"Antakalnio bendruomenės kultūrinės veiklos plėtra";Y;Y;03-FEB-10;03-FEB-10
 9B00002;"Antakalnio seniūnijos teritorijos priežiūra ir atnaujinimas";Y;Y;03-FEB-10;03-FEB-10
 9B00003;"Antakalnio seniūnijos teritorijos priežiūra ir atnaujinimas";Y;Y;03-FEB-10;03-FEB-10
