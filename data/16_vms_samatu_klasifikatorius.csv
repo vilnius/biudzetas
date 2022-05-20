@@ -487,7 +487,7 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 2000125;"Vilniaus miesto 2010-2020 metų strateginio plano parengimas (ES)";Y;N;04-JUN-10;04-JUN-10
 2000150;Nenaudojama;Y;N;20-NOV-07;09-APR-13
 2000151;"Daugiabučių namų energinio naudingumo sertifikatų ir investicinių planų parengimas (SB)";Y;N;11-FEB-14;11-FEB-14
-2000152;"VšĮ „Atnaujinkime miestą“ veiklos finansavimas";Y;N;26-AUG-14;26-AUG-14
+2000152;"VMSA pastato saulės elektrinių įrengimas ir kompensacijos namų valdytojams organizuojantiems namų modernizavimą";Y;N;26-AUG-14;19-MAY-22
 2000153;"Pasirengimas būsto atnaujinimo ir modernizavimo įgyvendinimui (LL iš SB)";Y;N;10-FEB-15;10-FEB-15
 2000170;"Paskolų ir palūkanų mokėjimas pagal grafiką (1.2.1)";Y;N;20-NOV-07;02-FEB-09
 2000171;"Paskolų ir palūkanų mokėjimas pagal grafiką (tarpusavio atsiskaitymai)";Y;N;17-MAY-11;17-MAY-11
@@ -798,6 +798,7 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 3000700;"Bendrabučių inžinerinės infrastruktūros (pastatų inžinerinių tinklų bei statybinių konstrukcijų) priežiūra";Y;N;20-NOV-07;08-JUL-08
 3000701;"Bendrabučių inžinerinės infrastruktūros (pastatų inžinerinių tinklų bei statybinių konstrukcijų) priežiūra (Skolintos lėšos-skoloms mokėti)";Y;N;21-FEB-11;25-FEB-11
 3000702;"Paplūdimių priežiūra";Y;N;20-JAN-22;20-JAN-22
+3000703;"Susisiekimo infrastruktūros objektų viešinimo ir atidarymo renginių organizavimas";Y;N;19-MAY-22;19-MAY-22
 3000710;"Nekilnojamojo turto inventorizacija, registracija ir įvertinimas";Y;N;20-NOV-07;08-JUL-08
 3000711;"Nekilnojamojo turto inventorizacija, registracija ir įvertinimas (Skolintos lėšos-skoloms mokėti)";Y;N;21-FEB-11;25-FEB-11
 3000719;"Gatvių apšvietimo tinklų priežiūra, remontas ir atstatymas (Skolintos lėšos-skoloms mokėti)";Y;N;21-FEB-11;06-JUN-11
@@ -1342,6 +1343,7 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 3001699;"Bukčių pėsčiųjų tilto per Nerį įrengimas";Y;N;09-FEB-22;09-FEB-22
 3001700;"Vilniaus lietaus nuotekų tinklų plėtra, rekonstrukcija ir inventorizavimas";Y;N;09-FEB-22;09-FEB-22
 3001701;"Taugotiškių gatvės statyba";Y;N;04-MAY-22;04-MAY-22
+3001702;"Naujamiesčio viešųjų erdvių tvarkymas (Vingrių šaltinio skveras)";Y;N;19-MAY-22;19-MAY-22
 3001780;"Skolų už atliktus darbus apmokėjimas";Y;N;19-FEB-13;19-FEB-13
 3001781;"Skolų už atliktus darbus apmokėjimas(savivaldybės biudžeto lėšų likutis)";Y;N;05-MAR-15;05-MAR-15
 3001800;"Valstybės vadovų palaidojimo vietos sutvarkymas Antakalnio kapinėse";Y;N;20-FEB-12;20-FEB-12
