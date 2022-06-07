@@ -142,7 +142,7 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 1000142;"Išlaidų, susijusių su mobiliųjų COVID-19 testavimo punktų įrengimu ir darbo juose organizavimu, kompensavimas";Y;N;28-DEC-21;28-DEC-21
 1000143;"Socialinės reabilitacijos paslaugų neįgaliesiems bendruomenėje projektų administravimas";Y;N;01-FEB-22;01-FEB-22
 1000144;"Globos (rūpybos) išmokai ir globos (rūpybos) išmokos tiksliniam priedui padidintai daliai administruoti";Y;N;17-MAR-22;17-MAR-22
-1000145;"Bendruomeninės veiklos savivaldybėje administravimas";Y;N;28-APR-22;28-APR-22
+1000145;"Bendruomeninės veiklos savivaldybėje įgyvendinant bandomąjį modelį administravimas";Y;N;28-APR-22;06-JUN-22
 1000146;"Bendruomeninės veiklos savivaldybėje kuriant palankią daugiakultūrę aplinką administravimas";Y;N;28-APR-22;28-APR-22
 1000147;"Paramos užsieniečiams (vienkartinių išmokų įsikurti ir kompensacijų už vaikų ugdymą) administravimas";Y;N;30-MAY-22;30-MAY-22
 1000150;Nenaudojama;Y;N;20-NOV-07;13-FEB-13
@@ -5145,7 +5145,7 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 9000214;"Bendruomeninės veiklos savivaldybėje administravimas";Y;N;31-AUG-17;31-AUG-17
 9000215;"Seniūnaičių veiklos finansavimas";Y;N;22-FEB-18;22-FEB-18
 9000221;"Pavilnio bendruomenės centro projektavimas";Y;N;21-FEB-22;21-FEB-22
-9000224;"Stiprinti bendruomeninę veiklą savivaldybėje";Y;N;28-APR-22;28-APR-22
+9000224;"Stiprinti bendruomeninę veiklą savivaldybėje įgyvendinant bandomąjį modelį";Y;N;28-APR-22;06-JUN-22
 9000231;"Balsių bendruomenės centro projektavimas";Y;N;21-FEB-22;21-FEB-22
 9000234;"Stiprinti bendruomeninę veiklą savivaldybėje kuriant palankią daugiakultūrę aplinką";Y;N;28-APR-22;28-APR-22
 9B00001;"Antakalnio bendruomenės kultūrinės veiklos plėtra";Y;Y;03-FEB-10;03-FEB-10
