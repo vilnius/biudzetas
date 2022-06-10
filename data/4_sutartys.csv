@@ -1504,7 +1504,7 @@ DEPARTAMENTAS;SUTARTIES_TIPAS;SUTARTIES_NUMERIS;SUDARYMO_METAI;SUTARTIES_PRADZIO
 "Vilniaus miesto savivaldybės administracijos Turto departamentas";"Kiti pirkimai";RJ-9219;2008;24-DEC-08;24-DEC-09;nuasmeninta;nuasmeninta;"Anatolijus Guželis";510000;94
 "Vilniaus miesto savivaldybės administracijos Turto departamentas";"Kiti pirkimai";RJ-9219;2008;24-DEC-08;24-DEC-09;"Vilniaus miesto savivaldybės administracija";188710061;"Vilniaus miesto savivaldybė";150000;95
 "Vilniaus miesto savivaldybės administracijos Turto departamentas";"Kiti pirkimai";RJ-9219;2008;24-DEC-08;24-DEC-09;"Alytaus apskrities VMI";188728974;"Alytaus  apskrities VMI";15000;96
-"Vilniaus miesto savivaldybės administracijos Turto departamentas";"Kiti pirkimai";RJ-9219;2008;24-DEC-08;24-DEC-09;"Vilniaus apskrities VMI";188728821;"Vilniaus apskrities VMI";15000;97
+"Vilniaus miesto savivaldybės administracijos Turto departamentas";"Kiti pirkimai";RJ-9219;2008;24-DEC-08;24-DEC-09;"Vilniaus apskrities VMI";1887288;"Vilniaus apskrities VMI";15000;97
 "Vilniaus miesto savivaldybės Komunalinio ūkio departamentas";"Viešasis pirkimas";A62-9;2006;06-SEP-06;06-MAR-09;"Fegda, UAB";110801759;"Pietinio aplinkkelio statybos darbai";262500000;39
 "Vilniaus miesto savivaldybės Komunalinio ūkio departamentas";"Viešasis pirkimas";A64-75(2.6-ŪK.);2008;24-OCT-08;31-MAR-09;"Transporto ir kelių tyrimo institutas, VĮ";132182188;"Estakados virš Svanorių pr. žiedo bandymo paslaugos";124869.96;40
 "Vilniaus miesto savivaldybės Komunalinio ūkio departamentas";"Viešasis pirkimas";A64-51(16.31-ADM-10);2007;08-AUG-07;08-AUG-10;"Transporto ir kelių tyrimo institutas, VĮ";132182188;"paraiškų teikimo paslaugos";484390;41
@@ -17327,6 +17327,8 @@ DEPARTAMENTAS;SUTARTIES_TIPAS;SUTARTIES_NUMERIS;SUDARYMO_METAI;SUTARTIES_PRADZIO
 "Vilniaus miesto savivaldybės administracija";"Kiti pirkimai";A291-1469/22;2022;25-MAY-22;30-NOV-22;"VšĮ ""Sėkmės idėja""";304606308;"VILNIAUS MIESTO SAVIVALDYBĖS 2022 METŲ UŽIMTUMO DIDINIMO PROGRAMOS ĮGYVENDINIMO IR FINANSAVIMO SUTARTIS";5760;16409
 "Vilniaus miesto savivaldybės administracija";"Viešasis pirkimas";A252-362/22(2.1.19-T2);2022;24-MAY-22;23-AUG-22;"Laisvės TV, VšĮ";304405807;"Internetinės televizijos paslaugos";3628.79;16412
 "Vilniaus miesto savivaldybės administracija";"Kiti pirkimai";A291-1473/22;2022;26-MAY-22;30-NOV-22;"Asociacija „Vilniaus lietaus vaikai“";305366887;"VILNIAUS MIESTO SAVIVALDYBĖS 2022 METŲ UŽIMTUMO DIDINIMO PROGRAMOS ĮGYVENDINIMO IR FINANSAVIMO SUTARTIS";6000;16447
+"Vilniaus miesto savivaldybės administracija";"Viešasis pirkimas";"A252-368/22 ( 3.10.15E-AD8)";2022;23-MAY-22;31-DEC-22;"Miesto bitininkai, UAB";305400987;"suvenyrinis medus";2900;16458
+"Vilniaus miesto savivaldybės administracija";"Viešasis pirkimas";A252-296/22(3.10.15E-AD8)/3;2022;02-MAY-22;31-DEC-22;"Aukso žuvys, VŠĮ";302543859;"dizaino ir maketavimo paslaugos";1149.5;16459
 "Vilniaus miesto savivaldybės administracija";"Viešasis pirkimas";A62-353/22;2022;17-MAY-22;17-MAY-23;"Dallis, UAB";302626080;"Taksi pavežėjimo sutartis";12098.79;16302
 "Vilniaus miesto savivaldybės administracija";"Finansavimo sutartis";A291-1389/22;2022;17-MAY-22;31-DEC-22;"Vilniaus lopšelis-darželis ""Pušynėlis""";190016884;"VISUOMENĖS APLINKOSAUGINIO ŠVIETIMO PROJEKTO ĮGYVENDINIMO IR FINANSAVIMO SUTARTIS";4100;16308
 "Vilniaus miesto savivaldybės administracija";"Įsakymas dėl našlaičiams skiriamos pašalpos";A15-712/22(2.1.4E-SOI);2022;25-MAY-22;24-MAY-24;nuasmeninta;nuasmeninta;"Įsakymas dėl našlaičiams skiriamos pašalpos";2850;16363
@@ -17412,6 +17414,7 @@ DEPARTAMENTAS;SUTARTIES_TIPAS;SUTARTIES_NUMERIS;SUDARYMO_METAI;SUTARTIES_PRADZIO
 "Vilniaus miesto savivaldybės administracija";"Viešasis pirkimas";A252-348/22(3.10.15E-AD8);2022;18-MAY-22;18-JUN-22;"Spalvų projektai, UAB";303485864;"suvenyrinės vėliavėlės";327.91;16446
 "Vilniaus miesto savivaldybės administracija";"Kiti pirkimai";A291-1490/22;2022;31-MAY-22;30-NOV-22;"VšĮ Senjorų socialinės globos namai";302877129;"VILNIAUS MIESTO SAVIVALDYBĖS 2022 METŲ UŽIMTUMO DIDINIMO PROGRAMOS ĮGYVENDINIMO IR FINANSAVIMO SUTARTIS";12000;16451
 "Vilniaus miesto savivaldybės administracija";"Viešasis pirkimas";"A252-322/22(2.1.19-CIV)";2022;23-MAY-22;30-MAY-22;nuasmeninta;nuasmeninta;"Muzikinis pasirodymas";500;16453
+"Vilniaus miesto savivaldybės administracija";"Kiti pirkimai";A291-1514/22;2022;09-JUN-22;31-DEC-22;"Krizių įveikimo centras VŠĮ";303479480;"Biudžeto lėšų maudojimo sutartis";10800;16457
 "Vilniaus miesto savivaldybės administracija";"Viešasis pirkimas";A252-336/22(3.10.15E-AD8)/3;2022;14-MAY-22;31-DEC-22;"Pasuk Galvą, MB";305172163;;3024;16359
 "Vilniaus miesto savivaldybės administracija";"Viešasis pirkimas";A252-336/22(3.10.15E-AD8)/4;2022;14-MAY-22;31-DEC-22;"Pasuk Galvą, MB";305172163;;588;16360
 "Vilniaus miesto savivaldybės administracija";"Kiti pirkimai";A291-1435/22;2022;24-MAY-22;30-NOV-22;"Sodininkų bendrija ""Ąžuolynas""";291486560;"VILNIAUS MIESTO SAVIVALDYBĖS 2022 METŲ UŽIMTUMO DIDINIMO PROGRAMOS ĮGYVENDINIMO IR FINANSAVIMO SUTARTIS";4400;16402
@@ -17420,7 +17423,7 @@ DEPARTAMENTAS;SUTARTIES_TIPAS;SUTARTIES_NUMERIS;SUDARYMO_METAI;SUTARTIES_PRADZIO
 "Vilniaus miesto savivaldybės administracija";"Finansavimo sutartis";A291-1388/22;2022;17-MAY-22;31-DEC-22;"Vilniaus lopšelis-darželis ""Pilaitukas""";301879757;"VISUOMENĖS APLINKOSAUGINIO ŠVIETIMO PROJEKTO ĮGYVENDINIMO IR FINANSAVIMO SUTARTIS";3000;16300
 "Vilniaus miesto savivaldybės administracija";"Finansavimo sutartis";A291-1389/22;2022;17-MAY-22;31-DEC-22;"Vilniaus lopšelis-darželis ""Pušynėlis""";190016884;"VISUOMENĖS APLINKOSAUGINIO ŠVIETIMO PROJEKTO ĮGYVENDINIMO IR FINANSAVIMO SUTARTIS";4100;16301
 "Vilniaus miesto savivaldybės administracija";"Finansavimo sutartis";A64-33/21;2021;20-JAN-21;;"Baltnetos komunikacijos, UAB";125145862;"Tekstilės konteinerių stebėsenos sistemos diegimas ir priežiūra";28804.05;16319
-"Vilniaus miesto savivaldybės administracija";"Viešasis pirkimas";"A 252 - 323/22";2022;19-MAY-22;19-MAY-22;"UAB Viešbutis Lietuva";121906245;"Konferencijos svečių pramoginė programa. Konferencijos salės, mikrofono nuoma.";530;16326
+"Vilniaus miesto savivaldybės administracija";"Viešasis pirkimas";"A 252 - 323/22";2022;19-MAY-22;19-MAY-22;"Viešbutis ""Lietuva"", UAB";121906245;"Konferencijos svečių pramoginė programa. Konferencijos salės, mikrofono nuoma.";530;16326
 "Vilniaus miesto savivaldybės administracija";"Viešasis pirkimas";A62-355/22;2022;17-MAY-22;20-MAY-23;"3RTechnology, UAB";305638006;;;16333
 "Vilniaus miesto savivaldybės administracija";"Finansavimo sutartis";A252-216/22(2.1.19-AD6);2022;01-APR-22;;"Vilniaus Lytagra, AB (Agrotiekimas, ABF)";121320015;"Sodo įrankiai";;16366
 "Vilniaus miesto savivaldybės administracija";"Kiti pirkimai";A291-1413/22;2022;20-MAY-22;30-NOV-22;"Balsių bendruomenė, Asociacija";125791751;"VILNIAUS MIESTO SAVIVALDYBĖS 2022 METŲ UŽIMTUMO DIDINIMO PROGRAMOS ĮGYVENDINIMO IR FINANSAVIMO SUTARTIS";5300;16391
@@ -17462,7 +17465,7 @@ DEPARTAMENTAS;SUTARTIES_TIPAS;SUTARTIES_NUMERIS;SUDARYMO_METAI;SUTARTIES_PRADZIO
 "Vilniaus miesto savivaldybės administracija";"Viešasis pirkimas";A252-354/22(3.10.15E-CIV);2022;19-MAY-22;22-MAY-22;"KF/SIK Vilko takas, UAB";302518350;"Maisto daviniai";;16362
 "Vilniaus miesto savivaldybės administracija";"Viešasis pirkimas";A252-136/22;2022;01-MAY-22;01-MAY-23;"Reklamos ekspertai, UAB";125683156;;;16368
 "Vilniaus miesto savivaldybės administracija";"Viešasis pirkimas";A252-302/22;2022;24-MAY-22;24-MAY-23;"Dokana UAB";304076219;;;16369
-"Vilniaus miesto savivaldybės administracija";"Viešasis pirkimas";A252-300/22;2022;19-MAY-22;19-MAY-23;"UAB Viešbutis Lietuva";121906245;;;16370
+"Vilniaus miesto savivaldybės administracija";"Viešasis pirkimas";A252-300/22;2022;19-MAY-22;19-MAY-23;"Viešbutis ""Lietuva"", UAB";121906245;;;16370
 "Vilniaus miesto savivaldybės administracija";"Viešasis pirkimas";"A252-300/22 (2)";2022;20-MAY-22;20-MAY-23;"Romnesa, UAB";155612122;;;16371
 "Vilniaus miesto savivaldybės administracija";"Kiti pirkimai";A291-1475/22;2022;26-MAY-22;30-NOV-22;"TRADEMAX, UAB";301487980;"VILNIAUS MIESTO SAVIVALDYBĖS 2022 METŲ UŽIMTUMO DIDINIMO PROGRAMOS ĮGYVENDINIMO IR FINANSAVIMO SUTARTIS";12000;16393
 "Vilniaus miesto savivaldybės administracija";"Kiti pirkimai";A291-1455/22;2022;25-MAY-22;30-NOV-22;"Labdaros ir paramos fondas Va Caritas socialiniai projektai";193048823;"VILNIAUS MIESTO SAVIVALDYBĖS 2022 METŲ UŽIMTUMO DIDINIMO PROGRAMOS ĮGYVENDINIMO IR FINANSAVIMO SUTARTIS";38640;16394
@@ -17486,7 +17489,7 @@ DEPARTAMENTAS;SUTARTIES_TIPAS;SUTARTIES_NUMERIS;SUDARYMO_METAI;SUTARTIES_PRADZIO
 "Vilniaus miesto savivaldybės administracija";"Viešasis pirkimas";A62-393/22;2022;26-MAY-22;26-MAY-23;"Pastatų ūkio valdymas, UAB";303110693;"Oro kondicionierių priežiūros ir remonto paslaugos";4000.01;16440
 "Vilniaus miesto savivaldybės administracija";"Finansavimo sutartis";A64-375/19;2019;16-OCT-19;;"UAB ""Kovertas""";300555300;"Inžinerinių tinklų, įrengimų ir įrenginių, pastatų, patalpų ir kito kilnojamo bei nekilnojamo turto vertinimo paslaugos";80549.7;16455
 "Vilniaus miesto savivaldybės administracija";"Finansavimo sutartis";A64-439/21;2021;27-DEC-21;;"Form System, UAB";300634598;"Skambučių centro, 20 a. ir kitų erdvių interjero projektavimo paslaugos";;16296
-"Vilniaus miesto savivaldybės administracija";"Viešasis pirkimas";"A 252 - 323/22(2.1.19-CIV)";2022;11-MAY-22;19-MAY-22;"UAB Viešbutis Lietuva";121906245;"Konferencijos svečių pramoginė programa. Konferencijos salės, mikrofonų nuoma";530;16328
+"Vilniaus miesto savivaldybės administracija";"Viešasis pirkimas";"A 252 - 323/22(2.1.19-CIV)";2022;11-MAY-22;19-MAY-22;"Viešbutis ""Lietuva"", UAB";121906245;"Konferencijos svečių pramoginė programa. Konferencijos salės, mikrofonų nuoma";530;16328
 "Vilniaus miesto savivaldybės administracija";"Viešasis pirkimas";A252-296/22(3.10.15E-AD8)/2;2022;02-MAY-22;31-DEC-22;nuasmeninta;nuasmeninta;"dizaino ir maketavimo paslaugos";1500;16351
 "Vilniaus miesto savivaldybės administracija";"Kiti pirkimai";A291-1454/22;2022;25-MAY-22;30-NOV-22;"VšĮ Menų agentūra""Artscape""";302706893;"VILNIAUS MIESTO SAVIVALDYBĖS 2022 METŲ UŽIMTUMO DIDINIMO PROGRAMOS ĮGYVENDINIMO IR FINANSAVIMO SUTARTIS";5600;16399
 "Vilniaus miesto savivaldybės administracija";"Viešasis pirkimas";"A252-68/22 (3.10.15E-AD8)/3";2022;02-FEB-22;31-DEC-22;nuasmeninta;nuasmeninta;"vertimo paslaugos";359.2;16400
