@@ -332,6 +332,7 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 1600022;"Asignavimai, skirti Astravo AE branduolinei avarijai pasirengti";Y;N;11-JAN-22;11-JAN-22
 1600023;"Pagalba laikinai gyvenantiems pabėgėliams savivaldybės teritorijoje";Y;N;23-MAR-22;23-MAR-22
 1600024;"Finansinės humanitarinės pagalbos Ukrainai teikimo išlaidos";Y;N;26-MAY-22;26-MAY-22
+1600025;"Išlaidų, patirtų  valdant situaciją, susidariusią dėl užsieniečių, pasitraukusių iš Ukrainos dėl Rusijos federacijos karinių veiksmų Ukrainoje, kompensavimas (VB lėšos)";Y;N;17-AUG-22;17-AUG-22
 1600101;"Nusikaltimų ir kitų teisės pažeidimų prevencinių priemonių įgyvendinimas (Privatizavimo fondas)";Y;N;09-FEB-15;09-FEB-15
 1800001;"Bendrosios dotacijos kompensacija valstybės biudžetui";Y;N;06-DEC-11;06-DEC-11
 1800002;"Administracijos direktoriaus rezervo sąmata";Y;N;06-DEC-11;06-DEC-11
@@ -1382,6 +1383,7 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 3001830;"Dviračių tako T. Narbuto gatvėje nuo Pilaitės pr. iki Konstitucijos pr. statyba (SB)";Y;N;13-FEB-17;13-FEB-17
 3001831;"Dviračių takų su rekreacine infrastruktūra įrengimas algirdo, V. Mykolaičio - Putino, Geležinkelio, Dariaus ir Girėno gatvėse, Pietinėje ITV teritorijoje";Y;N;14-FEB-18;14-FEB-18
 3001832;"Dviračių tako T. Narbuto gatvėje nuo Pilaitės pr. iki Konstitucijos pr. statyba (13 šalt.)";Y;N;18-FEB-20;18-FEB-20
+3001833;"Dviračių tako T. Narbuto gatvėje nuo Pilaitės pr. iki Konstitucijos pr. statyba";Y;N;17-AUG-22;17-AUG-22
 3001837;"Kilpinis eismo reguliavimas Vilniaus m. senamiesčio branduolio teritorijoje";Y;N;09-FEB-21;09-FEB-21
 3001838;"Dviračių ir kitų riedėjimo priemonių laikymo ir saugojimo infrastruktūros įrengimas Vilniaus miesto savivaldybės teritorijoje";Y;N;09-FEB-21;09-FEB-21
 3001839;"Dviračių ir kitų riedėjimo priemonių laikymo ir saugojimo infrastruktūros įrengimas Vilniaus miesto savivaldybės teritorijoje";Y;N;09-FEB-21;09-FEB-21
@@ -4276,6 +4278,8 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 6000618;"Kompensacijoms už būsto suteikimą užsieniečiams administruoti";Y;N;03-JUN-22;03-JUN-22
 6000619;"Ukrainiečių apgyvendinimui socialinės globos namuose";Y;N;03-JUN-22;03-JUN-22
 6000620;"VšĮ mokymo centro ""Mes esame"" finansavimas (Departamentas)";Y;N;20-NOV-07;27-DEC-19
+6000627;"Užsieniečiams, pasitraukusiems iš Ukrainos dėl Rusijos Federacijos karinių veiksmų Ukrainoje, socialinėms paslaugoms finansuoti";Y;N;17-AUG-22;17-AUG-22
+6000629;"Užsieniečiams, pasitraukusiems iš Ukrainos dėl Rusijos Federacijos karinių veiksmų Ukrainoje, vaikų dienos socialinei priežiūrai teikti";Y;N;17-AUG-22;17-AUG-22
 6000630;"VšĮ Markučių  dienos veiklos centro finansavimas (Departamentas)";Y;N;20-NOV-07;27-DEC-19
 6000640;"VšĮ Vyrų krizių ir informacijos centro finansavimas (Departamentas)";Y;N;20-NOV-07;27-DEC-19
 6000650;"VšĮ Vilniaus psichosocialinės reabilitacijos centro finansavimas (Departamentas)";Y;N;20-NOV-07;27-DEC-19
@@ -4405,6 +4409,8 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 6000780;"Vilniaus priklausomybės ligų centro specialioji programa";Y;N;20-NOV-07;14-MAR-08
 6000781;"Vilniaus miesto savivaldybės visuomenės sveikatos biuro specialioji programa";Y;N;19-NOV-13;19-NOV-13
 6000782;"Vilniaus miesto savivaldybės visuomenės sveikatos biuro specialiosios programos lėšų likučiai";Y;N;27-JAN-17;27-JAN-17
+6000783;"Paramai šeimoms ir asmenims būstui išsinuomoti pagal Lietuvos Respublikos paramos būstui įsigyti ar išsinuomoti įstatymą";Y;N;17-AUG-22;17-AUG-22
+6000784;"Socialinei globai teikti atvykusiems nelydimiems nepilnamečiams užsieniečiams ar likusiems be tėvų globos vaikams";Y;N;17-AUG-22;17-AUG-22
 6000785;"Gulinčių nefrologinių ligonių pervežimas iš palaikomojo gydymo ir slaugos ligoninių dializės paslaugoms  (VšĮ GMPS)";Y;N;02-FEB-21;02-FEB-21
 6000790;"Vilniaus sveiko miesto biuro išlaikymas";Y;N;20-NOV-07;14-MAR-08
 6000791;"Vilniaus miesto savivaldybės visuomenės sveikatos biuro visuomenės sveikatos priežiūros veiklos finansavimas";Y;N;18-NOV-11;18-NOV-11
