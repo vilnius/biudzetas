@@ -2010,7 +2010,7 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 4000482;"Dotacija VšĮ „Krepšinio rytas“";Y;N;20-FEB-12;20-FEB-12
 4000483;"Dotacija VšĮ Vilniaus miesto futbolo draugijai „Žalgiris“";Y;N;17-FEB-12;17-FEB-12
 4000484;"Dotacija VšĮ Sostinės moterų krepšinio klubui";Y;N;17-FEB-12;17-FEB-12
-4000485;"Dotacija VšĮ „Sveikas miestas“";Y;N;20-FEB-12;20-FEB-12
+4000485;"Dotacija VšĮ „Active Vilnius“";Y;N;20-FEB-12;08-SEP-22
 4000486;"Konkursinis sporto įstaigų finansavimas";Y;N;20-FEB-12;07-SEP-12
 4000487;"Sporto renginiai ir projektai";Y;N;14-FEB-13;14-FEB-13
 4000488;"Skolinių įsipareigojimų grąžinimas už objektą „Futbolo treniruočių aikštynas“";Y;N;12-DEC-16;12-DEC-16
@@ -4108,6 +4108,7 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 6000290;"Išmokos neįgaliesiems (Neįgaliųjų reikalų departamento prie SADM lėšos)";Y;N;20-NOV-07;14-MAR-08
 6000291;"Išmokos neįgaliesiems (Neįgaliųjų reikalų departamento prie SADM dotacija)";Y;N;26-JAN-22;26-JAN-22
 6000292;"Parama užsieniečiams (vienkartinė išmoka įsikurti, kompensacija už vaikų ugdymą) dotacija iš valstybės biudžeto";Y;N;04-MAY-22;04-MAY-22
+6000293;"Piniginė socialinė parama užsieniečiams (Vyriausybės rezervo lėšos)";Y;N;08-SEP-22;08-SEP-22
 6000300;"Vienkartinės pašalpos ginkluoto pasipriešinimo (rezistencijos) dalyviams ir žuvusių rezistentų šeimoms";Y;N;20-NOV-07;30-MAR-09
 6000310;"Vienkartinių pašalpų ginkluoto pasipriešinimo (rezistencijos) dalyviams ir žuvusių rezistentų šeimoms administravimas";Y;N;20-NOV-07;27-MAR-09
 6000320;"Vienkartinės kompensacijos asmenims, sužalotiems atliekant būtinąją karinę tarnybą sovietinėje armijoje ir žuvusiųjų šeimoms";Y;N;20-NOV-07;27-MAR-09
