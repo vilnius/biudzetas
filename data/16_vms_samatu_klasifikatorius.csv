@@ -4020,7 +4020,7 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 6000114;"Viešojo transporto bilietai Vilniaus miesto socialinių paslaugų įstaigų darbuotojams";Y;N;18-JAN-22;18-JAN-22
 6000115;"Asmeninės pagalbos teikimas";Y;N;19-JUL-21;19-JUL-21
 6000116;"Asmeninės pagalbos teikimo administravimas (SPC)";Y;N;19-JUL-21;19-JUL-21
-6000117;"Institucinė globa užsieniečiams socialinės globos įstaigose";Y;N;03-JUN-22;03-JUN-22
+6000117;"Užsieniečių socialinės globos išlaidoms kompensuoti";Y;N;03-JUN-22;15-SEP-22
 6000118;"Asmeninės pagalbos teikimas";Y;N;26-JAN-22;26-JAN-22
 6000119;"Asmeninės pagalbos teikimo administravimas (SPC)";Y;N;26-JAN-22;26-JAN-22
 6000120;"Socialinės pašalpos ir kompensacijos socialiai pažeidžiamiems asmenims (Departamentas)";Y;N;20-NOV-07;27-DEC-19
@@ -4282,7 +4282,8 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 6000618;"Kompensacijoms už būsto suteikimą užsieniečiams administruoti";Y;N;03-JUN-22;03-JUN-22
 6000619;"Ukrainiečių apgyvendinimui socialinės globos namuose";Y;N;03-JUN-22;03-JUN-22
 6000620;"VšĮ mokymo centro ""Mes esame"" finansavimas (Departamentas)";Y;N;20-NOV-07;27-DEC-19
-6000627;"Užsieniečiams, pasitraukusiems iš Ukrainos dėl Rusijos Federacijos karinių veiksmų Ukrainoje, socialinėms paslaugoms finansuoti";Y;N;17-AUG-22;17-AUG-22
+6000627;"Užsieniečiams, pasitraukusiems iš Ukrainos dėl Rusijos Federacijos karinių veiksmų Ukrainoje, socialinėms paslaugoms finansuoti";Y;N;17-AUG-22;15-SEP-22
+6000628;"Socialinės priežiūros šeimoms teikimas (Gerinti socialinių paslaugų kokybę ir prieinamumą, didinti socialinės paramos veiksmingumą kriziniais atvejais šeimoje)";Y;N;15-SEP-22;15-SEP-22
 6000629;"Užsieniečiams, pasitraukusiems iš Ukrainos dėl Rusijos Federacijos karinių veiksmų Ukrainoje, vaikų dienos socialinei priežiūrai teikti";Y;N;17-AUG-22;17-AUG-22
 6000630;"VšĮ Markučių  dienos veiklos centro finansavimas (Departamentas)";Y;N;20-NOV-07;27-DEC-19
 6000640;"VšĮ Vyrų krizių ir informacijos centro finansavimas (Departamentas)";Y;N;20-NOV-07;27-DEC-19
@@ -4302,7 +4303,7 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 6000667;"Pagalbos pinigai budintiems globotojams";Y;N;22-MAY-18;27-DEC-19
 6000668;"Apnakvindinimo paslaugos Nakvynės namų A. Kojelavičiaus g. 50 gyventojams rekonstrukcijos metu";Y;N;28-JUN-18;28-JUN-18
 6000669;"Nakvynės namų A. Kojelavičiaus g. 50 rekonstrukcija (ES lėšos)";Y;N;27-SEP-18;27-SEP-18
-6000670;"Socialinės paslaugos (Departamentas)";Y;N;20-NOV-07;18-JAN-22
+6000670;"Socialinės paslaugos (Departamentas)";Y;N;20-NOV-07;15-SEP-22
 6000671;"Socialinių renginių, konferencijų, seminarų, akcijų organizavimas";Y;N;13-OCT-14;27-DEC-19
 6000672;"Pagalbos pinigai šeimoms ir šeimynoms (SIS)";Y;N;31-DEC-19;31-DEC-19
 6000673;"Nakvynės namų A. Kojelavičiaus g. 50 rekonstrukcija";Y;N;17-FEB-20;17-FEB-20
@@ -4416,6 +4417,7 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 6000783;"Paramai šeimoms ir asmenims būstui išsinuomoti pagal Lietuvos Respublikos paramos būstui įsigyti ar išsinuomoti įstatymą";Y;N;17-AUG-22;17-AUG-22
 6000784;"Socialinei globai teikti atvykusiems nelydimiems nepilnamečiams užsieniečiams ar likusiems be tėvų globos vaikams";Y;N;17-AUG-22;17-AUG-22
 6000785;"Gulinčių nefrologinių ligonių pervežimas iš palaikomojo gydymo ir slaugos ligoninių dializės paslaugoms  (VšĮ GMPS)";Y;N;02-FEB-21;02-FEB-21
+6000786;"Gyvenamojo būsto įsigijimas";Y;N;15-SEP-22;15-SEP-22
 6000790;"Vilniaus sveiko miesto biuro išlaikymas";Y;N;20-NOV-07;14-MAR-08
 6000791;"Vilniaus miesto savivaldybės visuomenės sveikatos biuro visuomenės sveikatos priežiūros veiklos finansavimas";Y;N;18-NOV-11;18-NOV-11
 6000793;"ES struktūrinių fondų lėšų bendrai finansuojamo projekto Nr. 08.4.2-ESFA-V-621-01-002 „Žemo slenksčio stacionarinių paslaugų teikimas Vilniaus miesto savivaldybėje“";Y;N;06-JAN-21;06-JAN-21
