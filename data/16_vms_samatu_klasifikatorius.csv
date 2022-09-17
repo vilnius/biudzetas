@@ -57,7 +57,7 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 1000054;"Gyventojų gyvenamosios vietos deklaravimo duomenų ir gyvanamosios vietos neturinčių asmenų apskaitos duomenų tvarkymas";Y;N;14-MAR-08;23-MAR-09
 1000055;"Bendri darbo reikalai, darbo politikos formavimas ir įgyvendinimas (Viešųjų darbų administravimas)";Y;N;19-MAR-08;20-FEB-17
 1000056;"Bendrų ekonominių ir socialinių planavimo paslaugų administravimas ir valdymas (Turto departamentas)";Y;N;14-MAR-08;19-SEP-19
-1000057;"Centrinės institucijos išlaikymas (Socialinės paramos mokiniams administravimas)";Y;N;14-MAR-08;01-DEC-20
+1000057;"Centrinės institucijos išlaikymas (Socialinės paramos mokiniams administravimas)";Y;N;14-MAR-08;16-SEP-22
 1000058;"Bendri darbo reikalai, darbo politikos formavimas ir įgyvendinimas (Neįgaliųjų socialinė integracija)";Y;N;14-MAR-08;14-MAR-08
 1000059;"Gyventojų gyvenamosios vietos deklaravimo duomenų ir gyvanamosios vietos neturinčių asmenų apskaitos duomenų tvarkymas";Y;N;14-MAR-08;23-MAR-09
 1000060;"Bendrų ekonominių ir socialinių planavimo paslaugų administravimas ir valdymas";Y;N;20-NOV-07;23-MAR-09
@@ -145,6 +145,8 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 1000145;"Bendruomeninės veiklos savivaldybėje įgyvendinant bandomąjį modelį administravimas";Y;N;28-APR-22;06-JUN-22
 1000146;"Bendruomeninės veiklos savivaldybėje kuriant palankią daugiakultūrę aplinką administravimas";Y;N;28-APR-22;28-APR-22
 1000147;"Paramos užsieniečiams (vienkartinių išmokų įsikurti ir kompensacijų už vaikų ugdymą) administravimas";Y;N;30-MAY-22;30-MAY-22
+1000148;"Institucinei socialinei globai iš užsienio valstybės atvykusiems nelydimiems nepilnamečiams užsieniečiams ar likusiems be tėvų globos vaikams administruoti";Y;N;16-SEP-22;16-SEP-22
+1000149;"Dalyvavimas rengiant ir įgyvendinant darbo rinkos politikos priemones ir gyventojų užimtumo programas (modeliui įgyvendinti)";Y;N;16-SEP-22;16-SEP-22
 1000150;Nenaudojama;Y;N;20-NOV-07;13-FEB-13
 1000151;"Tėvų mokesčio surinkimas jaunimo politiką  įgyvendinančiose įstaigose";Y;N;13-FEB-13;13-FEB-13
 1000152;"Išlaidų, susijusių su minimalios algos padidėjimu, finansavimas";Y;N;07-NOV-16;07-NOV-16
@@ -2071,6 +2073,7 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 4000560;"Papildomai gautos lėšos nuomojant patalpas muziejuose";Y;N;20-NOV-07;07-SEP-12
 4000561;"Kultūros projektų finansavimas muziejams";Y;N;19-NOV-21;19-NOV-21
 4000562;"VšĮ „Menų spaustuvė“ infrastruktūros plėtra: baigiamais etapas (01)";Y;N;09-JUN-22;09-JUN-22
+4000563;"Kirdiejų rūmų (Barboros Radvilatės g. 4 ir 6) pritaikymas Vilniaus miesto muziejui (61)";Y;N;16-SEP-22;16-SEP-22
 4000569;"Kultūros projektų finansavimas kultūros centrams";Y;N;19-NOV-21;19-NOV-21
 4000570;"Mokamų paslaugų teikimas muziejuose";Y;N;20-NOV-07;07-SEP-12
 4000571;"Spec. lėšų likučiai muziejuose (BIBA)";Y;N;27-FEB-13;27-DEC-19
@@ -2094,6 +2097,7 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 4000589;"Spec. lėšų likučiai Vilniaus etninės kultūros centre";Y;N;18-FEB-19;27-DEC-19
 4000590;"Papildomai gautos lėšos nuomojant patalpas kultūros centruose";Y;N;20-NOV-07;07-SEP-12
 4000591;"Projektas „European  Music Trails“";Y;N;11-DEC-20;11-DEC-20
+4000592;"Trakų Vokės dvaro sodybos rūmų tvarkybos darbai (61)";Y;N;16-SEP-22;16-SEP-22
 4000595;"Spec. lėšų likučiai kultūros centruose (BIBA)";Y;N;27-FEB-13;27-DEC-19
 4000597;"Spec. lėšų likučiai bibliotekose (BIBA)";Y;N;04-FEB-15;27-DEC-19
 4000600;"Mokamų paslaugų teikimas kultūros centruose";Y;N;20-NOV-07;07-SEP-12
@@ -3002,6 +3006,7 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 4006327;"Sporto aikštelių prie vaikų lopšelių-darželių įrengimas";Y;N;09-JUN-22;09-JUN-22
 4006328;"Vilniaus Mykolo Biržiškos gimnazijos Taikos g. 81 sporto aikštyno rekonstrukcija su projektavimo darbais ir įrangos įsigijimu";Y;N;09-JUN-22;09-JUN-22
 4006329;"Sporto mokyklų finansavimas (iš surinktų lėšų)";Y;N;28-JUL-22;28-JUL-22
+4006330;"Vilniečio kortelių pirkimui";Y;N;16-SEP-22;16-SEP-22
 4006350;"Vilniaus Užupio gimnazijos šaudyklos renovacija";Y;N;05-FEB-14;05-FEB-14
 4006500;"VšĮ „Užupio meno inkubatorius“ plėtra (skolintos lėšos)";Y;N;23-FEB-12;23-FEB-12
 4006510;"„Menų spaustuvės“ kūrybinių verslų inkubatoriaus infrastruktūros plėtra: baigiamasis etapas (skolintos lėšos)";Y;N;23-FEB-12;23-FEB-12
