@@ -945,12 +945,10 @@ ORG_ID;PASKOLOS_DAVEJAS;SUTARTIES_NR;PASKOLOS_KLASIFIKACIJA;SKOLOS_TIPAS;VALIUTA
 119;"SEB bankas";A64-40/001061201023-21;S;PALUKANOS;LTL;64-40/12/14;2014;201412;31-DEC-14;Įsipareigojimas;Standard;64-40/12/14;Įsipareigojimas;10473.65
 119;"Šiaulių bankas, AB";KR04-301/ŠB;S;PALUKANOS;LTL;KR04-301/12;2014;201412;31-DEC-14;Įsipareigojimas;Standard;KR04-301/12;Įsipareigojimas;1576.23
 119;"Luminor bankas, AB";K-2400-2012-566;S;PALUKANOS;EUR;K-2400/566/papild;2014;201412;31-DEC-14;Įsipareigojimas;Standard;K-2400/566/papild;Įsipareigojimas;127.01
-1366;"Luminor bankas, AB";K-2400-2012-566;S;PASKOLA;EUR;K-2400/902/566gavim;2014;201412;31-DEC-14;Įsipareigojimas;Standard;K-2400/902/566gavim;Įsipareigojimas;932859.71
-119;"Šiaulių bankas, AB";KR04-232/ŠB;S;PASKOLA;LTL;KR04/231/11;2014;201404;25-APR-14;Įsipareigojimas;Standard;KR04/231/11;Įsipareigojimas;39794448.8
-119;"Šiaulių bankas, AB";KR04-232/ŠB;S;PASKOLA;LTL;KR04/301/11;2014;201411;01-NOV-14;Įsipareigojimas;Standard;KR04/301/11;Įsipareigojimas;47267285.15
 1366;"Nordic Investment Bank";L5685;S;PALUKANOS;EUR;"išemimo mok.";2015;201501;05-JAN-15;Įsipareigojimas;Standard;"išemimo mok.";Įsipareigojimas;77148.38
 1366;"Luminor bankas, AB";K-2400-213-1485;S;PASKOLA;EUR;gavimas/1485/1;2014;201412;31-DEC-14;Įsipareigojimas;Standard;gavimas/1485/1;Įsipareigojimas;1025547.48
 1366;"Luminor bankas, AB";K-2400-2012-566;S;PASKOLA;EUR;K2400-2012/566/Gavimas;2014;201412;31-DEC-14;Įsipareigojimas;Standard;K2400-2012/566/Gavimas;Įsipareigojimas;1109390.26
+1366;"Luminor bankas, AB";K-2400-2012-566;S;PASKOLA;EUR;K-2400/902/566gavim;2014;201412;31-DEC-14;Įsipareigojimas;Standard;K-2400/902/566gavim;Įsipareigojimas;932859.71
 1366;"SEB bankas";0040512020517-05;S;PASKOLA;EUR;"KS 20517-05";2014;201412;31-DEC-14;Įsipareigojimas;Standard;"KS 20517-05";Įsipareigojimas;581126.84
 1366;"SIA ""UniCredit Leasing""";3300018-01;S;PALUKANOS;EUR;palūk.2015/01;2015;201501;23-JAN-15;Įsipareigojimas;Standard;palūk.2015/01;Įsipareigojimas;26622.72
 1366;"SEB bankas";A64-40/001061201023-21;S;PASKOLA;EUR;"K/S A64-40";2014;201412;31-DEC-14;Įsipareigojimas;Standard;"K/S A64-40";Įsipareigojimas;4008141
@@ -1242,6 +1240,8 @@ ORG_ID;PASKOLOS_DAVEJAS;SUTARTIES_NR;PASKOLOS_KLASIFIKACIJA;SKOLOS_TIPAS;VALIUTA
 1366;"Nordic Investment Bank";L5685;S;PALUKANOS;EUR;L5685/2016/07;2016;201607;01-JUL-16;Įsipareigojimas;Standard;L5685/2016/07;Įsipareigojimas;110706.21
 1366;"Šiaulių bankas, AB";KS-2015-003-03;S;PALUKANOS;EUR;KS0003-03/07;2016;201607;05-JUL-16;Įsipareigojimas;Standard;KS0003-03/07;Įsipareigojimas;68239.6
 1366;"OP Corporate Bank plc";580760;S;PASKOLA;EUR;OP/gavimas/03;2016;201607;18-JUL-16;Įsipareigojimas;Standard;OP/gavimas/03;Įsipareigojimas;315078.88
+119;"Šiaulių bankas, AB";KR04-232/ŠB;S;PASKOLA;LTL;KR04/231/11;2014;201404;25-APR-14;Įsipareigojimas;Standard;KR04/231/11;Įsipareigojimas;39794448.8
+119;"Šiaulių bankas, AB";KR04-232/ŠB;S;PASKOLA;LTL;KR04/301/11;2014;201411;01-NOV-14;Įsipareigojimas;Standard;KR04/301/11;Įsipareigojimas;47267285.15
 1366;"Luminor bankas, AB";K-2400-2012-902;S;PALUKANOS;EUR;902/2016/05;2016;201605;30-MAY-16;Įsipareigojimas;Standard;902/2016/05;Įsipareigojimas;24370.99
 1366;"Luminor bankas, AB";"K-240 2012-931";S;PALUKANOS;EUR;931/2016/05;2016;201605;30-MAY-16;Įsipareigojimas;Standard;931/2016/05;Įsipareigojimas;14363.3
 1366;"OP Corporate Bank plc";580760;S;PASKOLA;EUR;580760;2016;201606;13-JUN-16;Įsipareigojimas;Standard;580760;Įsipareigojimas;5229808.59
@@ -1615,10 +1615,10 @@ ORG_ID;PASKOLOS_DAVEJAS;SUTARTIES_NR;PASKOLOS_KLASIFIKACIJA;SKOLOS_TIPAS;VALIUTA
 1366;"Luminor bankas, AB";K-2400-213-1485;S;PALUKANOS;EUR;566/03/2019;2019;201903;25-MAR-19;Įsipareigojimas;Standard;566/03/2019;Įsipareigojimas;8111.44
 1366;"Luminor bankas, AB";K-2400-213-1485;S;PALUKANOS;EUR;931/03/2019;2019;201903;25-MAR-19;Įsipareigojimas;Standard;931/03/2019;Įsipareigojimas;10266.72
 1366;"Luminor bankas, AB";K-2400-213-1485;S;PALUKANOS;EUR;902/03/2019/p;2019;201903;25-MAR-19;Įsipareigojimas;Standard;902/03/2019/p;Įsipareigojimas;17420.11
-2270;"Luminor bankas, AB";K-2400-2012-902;S;PASKOLA;EUR;K-2400/902/1;2019;201903;31-MAR-19;Įsipareigojimas;Standard;K-2400/902/1;Įsipareigojimas;8045002.27
 2270;"OP Corporate Bank plc";580760;S;PASKOLA;EUR;"Gavimas 01.2/1";2019;201903;31-MAR-19;Įsipareigojimas;Standard;"Gavimas 01.2/1";Įsipareigojimas;58844.06
 2270;"OP Corporate Bank plc";580760;S;PASKOLA;EUR;Gavimas/06/1;2019;201903;31-MAR-19;Įsipareigojimas;Standard;Gavimas/06/1;Įsipareigojimas;526253.07
 2270;"Luminor bankas, AB";K-2400-213-1485;S;PASKOLA;EUR;Gavimas/1485/12.23/1;2019;201903;31-MAR-19;Įsipareigojimas;Standard;Gavimas/1485/12.23/1;Įsipareigojimas;1637271.3
+2270;"Luminor bankas, AB";K-2400-2012-902;S;PASKOLA;EUR;K-2400/902/1;2019;201903;31-MAR-19;Įsipareigojimas;Standard;K-2400/902/1;Įsipareigojimas;8045002.27
 2270;"Luminor bankas, AB";"K-240 2012-931";S;PASKOLA;EUR;"K-2400/931/ gavimas/05/1";2019;201903;31-MAR-19;Įsipareigojimas;Standard;"K-2400/931/ gavimas/05/1";Įsipareigojimas;92378.5
 2270;"Luminor bankas, AB";"K-240 2012-931";S;PASKOLA;EUR;K-2400/931/gavi//1;2019;201903;31-MAR-19;Įsipareigojimas;Standard;K-2400/931/gavi//1;Įsipareigojimas;100402.42
 2270;"Luminor bankas, AB";"K-240 2012-931";S;PASKOLA;EUR;K-2400/931/gavi/2014/1;2019;201903;31-MAR-19;Įsipareigojimas;Standard;K-2400/931/gavi/2014/1;Įsipareigojimas;544330.4
@@ -1840,10 +1840,12 @@ ORG_ID;PASKOLOS_DAVEJAS;SUTARTIES_NR;PASKOLOS_KLASIFIKACIJA;SKOLOS_TIPAS;VALIUTA
 2270;"OP Corporate Bank plc";580760-89501010;S;PALUKANOS;EUR;495302;2020;202003;23-MAR-20;Įsipareigojimas;Standard;495302;Įsipareigojimas;24330.69
 2270;"Šiaulių bankas, AB";NR.A72-215/19;S;PALUKANOS;EUR;pal.04-02/72-215;2020;202004;02-APR-20;Įsipareigojimas;Standard;pal.04-02/72-215;Įsipareigojimas;6075
 2270;"Šiaulių bankas, AB";2017/01;S;PALUKANOS;EUR;pal.04-02;2020;202004;02-APR-20;Įsipareigojimas;Standard;pal.04-02;Įsipareigojimas;21813.8
+2270;CEB;"NR.LD 1929(2017)";S;PASKOLA;EUR;"LD 1929(2017)";2020;202003;06-MAR-20;Įsipareigojimas;Standard;"LD 1929(2017)";Įsipareigojimas;7000000
 2270;"Šiaulių bankas, AB";KS-03;S;PALUKANOS;EUR;Palūk-04;2020;202004;05-APR-20;Įsipareigojimas;Standard;Palūk-04;Įsipareigojimas;7693.2
 2270;"Nordic Investment Bank";L5355;S;PALUKANOS;EUR;"Interest due/L5355/2020-04";2020;202004;08-APR-20;Įsipareigojimas;Standard;"Interest due/L5355/2020-04";Įsipareigojimas;29292.18
 2270;"Nordic Investment Bank";"L 5440";S;PALUKANOS;EUR;"Interest due/L5440/2020-04";2020;202004;08-APR-20;Įsipareigojimas;Standard;"Interest due/L5440/2020-04";Įsipareigojimas;25135.6
 2270;"Nordic Investment Bank";L5248;S;PALUKANOS;EUR;"Interest due/L5248/2020-04";2020;202004;08-APR-20;Įsipareigojimas;Standard;"Interest due/L5248/2020-04";Įsipareigojimas;38933.01
+2270;CEB;"NR.LD 1929(2017)";S;PASKOLA;EUR;"LD 1929(2017)/1";2020;202004;20-APR-20;Įsipareigojimas;Standard;"LD 1929(2017)/1";Įsipareigojimas;7000000
 2270;"OP Corporate Bank plc";580760;S;PALUKANOS;EUR;497229;2020;202004;27-APR-20;Įsipareigojimas;Standard;497229;Įsipareigojimas;29521.19
 2270;"OP Corporate Bank plc";580760-89501010;S;PALUKANOS;EUR;497318;2020;202004;27-APR-20;Įsipareigojimas;Standard;497318;Įsipareigojimas;22574.12
 2270;"Luminor bankas, AB";K-2400-213-1485;S;PALUKANOS;EUR;1485/2020-04-27;2020;202004;27-APR-20;Įsipareigojimas;Standard;1485/2020-04-27;Įsipareigojimas;7394.81
@@ -1880,6 +1882,7 @@ ORG_ID;PASKOLOS_DAVEJAS;SUTARTIES_NR;PASKOLOS_KLASIFIKACIJA;SKOLOS_TIPAS;VALIUTA
 2270;"Šiaulių bankas, AB";2017/01;S;PALUKANOS;EUR;"pal.07.01 A72-1153/17";2020;202007;01-JUL-20;Įsipareigojimas;Standard;"pal.07.01 A72-1153/17";Įsipareigojimas;20530.63
 2270;"Šiaulių bankas, AB";NR.A72-215/19;S;PALUKANOS;EUR;pal.07-01.209/19;2020;202007;01-JUL-20;Įsipareigojimas;Standard;pal.07-01.209/19;Įsipareigojimas;4050
 2270;"Šiaulių bankas, AB";KS-03;S;PALUKANOS;EUR;Palūk-07;2020;202007;05-JUL-20;Įsipareigojimas;Standard;Palūk-07;Įsipareigojimas;7445.03
+2270;CEB;"NR.LD 1929(2017)";S;PASKOLA;EUR;"LD 1929(2017)/2";2020;202007;07-JUL-20;Įsipareigojimas;Standard;"LD 1929(2017)/2";Įsipareigojimas;10000000
 2270;"European Investment Bank";"FI NO. 85.924";S;PALUKANOS;EUR;Inter.due/2020/07;2020;202007;21-JUL-20;Įsipareigojimas;Standard;Inter.due/2020/07;Įsipareigojimas;12996.87
 2270;"Luminor bankas, AB";K-2400-2012-902;S;PALUKANOS;EUR;902/2020-07-29;2020;202007;29-JUL-20;Įsipareigojimas;Standard;902/2020-07-29;Įsipareigojimas;15057.23
 2270;"Luminor bankas, AB";K-2400-213-1485;S;PALUKANOS;EUR;1485/2020-07-29;2020;202007;29-JUL-20;Įsipareigojimas;Standard;1485/2020-07-29;Įsipareigojimas;7322.91
@@ -1904,9 +1907,6 @@ ORG_ID;PASKOLOS_DAVEJAS;SUTARTIES_NR;PASKOLOS_KLASIFIKACIJA;SKOLOS_TIPAS;VALIUTA
 2270;"Šiaulių bankas, AB";2017/01;S;PALUKANOS;EUR;"pal.09-03 A72-1153";2020;202009;03-SEP-20;Įsipareigojimas;Standard;"pal.09-03 A72-1153";Įsipareigojimas;19675.19
 2270;"Šiaulių bankas, AB";NR.A72-210/19;S;PALUKANOS;EUR;pal.09-03/72-210;2020;202009;03-SEP-20;Įsipareigojimas;Standard;pal.09-03/72-210;Įsipareigojimas;1649.37
 2270;CEB;"NR.LD 1929(2017)";S;PALUKANOS;EUR;Inter.due/2020/09;2020;202009;03-SEP-20;Įsipareigojimas;Standard;Inter.due/2020/09;Įsipareigojimas;9100
-2270;CEB;"NR.LD 1929(2017)";S;PASKOLA;EUR;"LD 1929(2017)";2020;202003;06-MAR-20;Įsipareigojimas;Standard;"LD 1929(2017)";Įsipareigojimas;7000000
-2270;CEB;"NR.LD 1929(2017)";S;PASKOLA;EUR;"LD 1929(2017)/1";2020;202004;20-APR-20;Įsipareigojimas;Standard;"LD 1929(2017)/1";Įsipareigojimas;7000000
-2270;CEB;"NR.LD 1929(2017)";S;PASKOLA;EUR;"LD 1929(2017)/2";2020;202007;07-JUL-20;Įsipareigojimas;Standard;"LD 1929(2017)/2";Įsipareigojimas;10000000
 2270;"Šiaulių bankas, AB";KS-03;S;PALUKANOS;EUR;Palūk-09;2020;202009;05-SEP-20;Įsipareigojimas;Standard;Palūk-09;Įsipareigojimas;7693.2
 2270;"Luminor bankas, AB";NR.124-IV;S;PASKOLA;EUR;124-IV/1;2020;202008;13-AUG-20;Įsipareigojimas;Standard;124-IV/1;Įsipareigojimas;543800
 2270;"OP Corporate Bank plc";580760;S;PALUKANOS;EUR;507490;2020;202009;29-SEP-20;Įsipareigojimas;Standard;507490;Įsipareigojimas;28549.97
@@ -2172,14 +2172,12 @@ ORG_ID;PASKOLOS_DAVEJAS;SUTARTIES_NR;PASKOLOS_KLASIFIKACIJA;SKOLOS_TIPAS;VALIUTA
 2270;"European Investment Bank";"FI NO. 85.924";S;PALUKANOS;EUR;Inter.due/2022/07;2022;202207;22-JUL-22;Įsipareigojimas;Standard;Inter.due/2022/07;Įsipareigojimas;12996.87
 2270;"Luminor bankas, AB";NR.K-2400-2012-902/7;S;PALUKANOS;EUR;902/7/2022-07-28;2022;202207;28-JUL-22;Įsipareigojimas;Standard;902/7/2022-07-28;Įsipareigojimas;8056
 2270;"Luminor bankas, AB";NR.124-IV;S;PALUKANOS;EUR;124-IV/2022-07-28;2022;202207;28-JUL-22;Įsipareigojimas;Standard;124-IV/2022-07-28;Įsipareigojimas;4752.78
-2270;"Luminor bankas, AB";NR.66-IV;S;PALUKANOS;EUR;66-IV/2022-07-28;2022;202207;28-JUL-22;Įsipareigojimas;Standard;66-IV/2022-07-28;Įsipareigojimas;8216.67
 2270;"OP Corporate Bank plc";580760;S;PALUKANOS;EUR;89500657/2022-07-28;2022;202207;28-JUL-22;Įsipareigojimas;Standard;89500657/2022-07-28;Įsipareigojimas;23467.4
 2270;"OP Corporate Bank plc";580760-89501010;S;PALUKANOS;EUR;89501010/2022-07-28;2022;202207;28-JUL-22;Įsipareigojimas;Standard;89501010/2022-07-28;Įsipareigojimas;15664.49
 2270;CEB;"NR.LD 1929(2017)";S;PALUKANOS;EUR;Inter.due/2022-08-02;2022;202208;02-AUG-22;Įsipareigojimas;Standard;Inter.due/2022-08-02;Įsipareigojimas;4900
 2270;"Šiaulių bankas, AB";NR.A54-1246/21;S;PALUKANOS;EUR;pal.08-04/A54-1246/21;2022;202208;04-AUG-22;Įsipareigojimas;Standard;pal.08-04/A54-1246/21;Įsipareigojimas;4277.85
 2270;"Šiaulių bankas, AB";NR.A54-1245/21;S;PALUKANOS;EUR;pal.08-04/A54-1245/21;2022;202208;04-AUG-22;Įsipareigojimas;Standard;pal.08-04/A54-1245/21;Įsipareigojimas;6769.88
 2270;"Luminor bankas, AB";NR.124-IV;S;PALUKANOS;EUR;124-IV/2022-08-12;2022;202208;12-AUG-22;Įsipareigojimas;Standard;124-IV/2022-08-12;Įsipareigojimas;5352
-2270;"Luminor bankas, AB";NR.66-IV;S;PALUKANOS;EUR;66-IV/2022-08-12;2022;202208;12-AUG-22;Įsipareigojimas;Standard;66-IV/2022-08-12;Įsipareigojimas;9350
 2270;"OP Corporate Bank plc";580760;S;PALUKANOS;EUR;89500657/2022-08-12;2022;202208;12-AUG-22;Įsipareigojimas;Standard;89500657/2022-08-12;Įsipareigojimas;26490.61
 2270;"Luminor bankas, AB";NR.K-2400-2012-902/7;S;PALUKANOS;EUR;902/7/2022-08-12;2022;202208;12-AUG-22;Įsipareigojimas;Standard;902/7/2022-08-12;Įsipareigojimas;8594.22
 2270;"OP Corporate Bank plc";580760-89501010;S;PALUKANOS;EUR;89501010/2022-08-12;2022;202208;12-AUG-22;Įsipareigojimas;Standard;89501010/2022-08-12;Įsipareigojimas;23899.27
@@ -2509,7 +2507,6 @@ ORG_ID;PASKOLOS_DAVEJAS;SUTARTIES_NR;PASKOLOS_KLASIFIKACIJA;SKOLOS_TIPAS;VALIUTA
 2270;"Šiaulių bankas, AB";NR.A54-1246/21;S;PALUKANOS;EUR;pal.05-04/A54-1246;2022;202205;04-MAY-22;Mokėjimas;Standard;14496;Mokėjimas;-4978.58
 2270;"Šiaulių bankas, AB";NR.A7-667/20;S;PALUKANOS;EUR;pal.06-02/A72-667/20/1;2022;202206;02-JUN-22;Mokėjimas;Standard;14942;Mokėjimas;-2807.34
 2270;"Šiaulių bankas, AB";KS-03;S;PASKOLA;EUR;KS-2018-052-03;2022;202207;05-JUL-22;Mokėjimas;Standard;39;Mokėjimas;-71381
-2270;"Luminor bankas, AB";NR.66-IV;S;PALUKANOS;EUR;66-IV/2022-08-12;2022;202208;12-AUG-22;Mokėjimas;Standard;16027;Mokėjimas;-9350
 2270;"Šiaulių bankas, AB";NR.A54-1243/21;S;PASKOLA;EUR;A54-1243/21;2022;202209;02-SEP-22;Mokėjimas;Standard;16275;Mokėjimas;-625000
 112;"VMI prie LRFM";;;SAVIVALDYBES_PRISIIMTA_SKOLA;LTL;"AVMI Nr. 14-11-1";2008;200801;31-JAN-08;Mokėjimas;Standard;2;Mokėjimas;-32610
 112;"VMI prie LRFM";14-09-41;S;PALUKANOS;LTL;4211;2008;200804;30-APR-08;Mokėjimas;Standard;61;Mokėjimas;-1956.6
@@ -4110,7 +4107,6 @@ ORG_ID;PASKOLOS_DAVEJAS;SUTARTIES_NR;PASKOLOS_KLASIFIKACIJA;SKOLOS_TIPAS;VALIUTA
 2270;"Šiaulių bankas, AB";NR.A54-1245/21;S;PASKOLA;EUR;A54-1245/21;2022;202205;04-MAY-22;Mokėjimas;Standard;14493;Mokėjimas;-437700
 2270;"OP Corporate Bank plc";580760-89501010;S;PASKOLA;EUR;OP89501010;2022;202205;30-MAY-22;Mokėjimas;Standard;14888;Mokėjimas;-161764.34
 2270;"OP Corporate Bank plc";580760;S;PALUKANOS;EUR;89500657/2022-06-30;2022;202206;29-JUN-22;Mokėjimas;Standard;15339;Mokėjimas;-24470.86
-2270;"Luminor bankas, AB";NR.66-IV;S;PALUKANOS;EUR;66-IV/2022-07-28;2022;202207;28-JUL-22;Mokėjimas;Standard;15781;Mokėjimas;-8216.67
 2270;"Šiaulių bankas, AB";NR.A54-1246/21;S;PALUKANOS;EUR;pal.08-04/A54-1246/21;2022;202208;04-AUG-22;Mokėjimas;Standard;15888;Mokėjimas;-4277.85
 2270;"Šiaulių bankas, AB";NR.A7-667/20;S;PASKOLA;EUR;A72-667/20;2022;202209;02-SEP-22;Mokėjimas;Standard;16279;Mokėjimas;-212350
 112;"VMI prie LRFM";;;SAVIVALDYBES_PRISIIMTA_SKOLA;LTL;"AVMI Nr. 14-11-1";2008;200803;31-MAR-08;Mokėjimas;Standard;22;Mokėjimas;-32610
