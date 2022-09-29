@@ -1121,6 +1121,7 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 3001439;"Stelos Sausio 13-ąją nukentėjusiųjų atminimui įamžinti pagaminimui ir pastatymui";Y;N;22-SEP-20;22-SEP-20
 3001440;"Rasų kapinių centrinės koplyčios restauravimo darbai (privatizavimo fondas)";Y;N;14-MAR-08;03-APR-09
 3001441;"Rasų kapinių centrinės koplyčios restauravimo darbai";Y;N;30-MAR-09;30-MAR-09
+3001442;"Susisiekimo komunikacijų rekonstravimo/kapitalinio remonto darbams apmokėti";Y;N;28-SEP-22;28-SEP-22
 3001450;"Bendro naudojimo komunalinių statinių remontas ir rekonstrukcija senamiestyje (Viešojo tualeto įrengimas (projektavimas ir statyba) Gedimino kalno papėdės skvere (B.Radvilaitės g.) ir kiti) (savivaldybės biudžetas)";Y;N;14-MAR-08;03-APR-09
 3001451;"Bendro naudojimo komunalinių statinių remontas ir rekonstrukcija senamiestyje (Viešojo tualeto įrengimas (projektavimas ir statyba) Gedimino kalno papėdės skvere (B.Radvilaitės g.) ir kiti) (privatizavimo fondas)";Y;N;09-JUL-08;03-APR-09
 3001452;"Bendro naudojimo komunalinių statinių remontas ir rekonstrukcija senamiestyje (Viešojo tualeto įrengimas (projektavimas ir statyba) Gedimino kalno papėdės skvere (B.Radvilaitės g.) ir kiti) (skolintos lėšos)";Y;N;09-JUL-08;09-JUL-08
@@ -2871,6 +2872,18 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 4001526;"Švietimo įstaigų mokytojų ir darbuotojų vilniečio kortelės (VMSA bendrasis ugdymas gimnazijose ir vidurinio tipo mokyklose)";Y;N;09-AUG-22;09-AUG-22
 4001527;"Švietimo įstaigų mokytojų ir darbuotojų vilniečio kortelės (PPT)";Y;N;16-AUG-22;16-AUG-22
 4001528;"Švietimo įstaigų mokytojų ir darbuotojų vilniečio kortelės (Kitos įstaigos)";Y;N;16-AUG-22;16-AUG-22
+4001529;"Finansavimas suaugusių asmenų, atvykusių į Lietuvos Respubliką iš Ukrainos, lietuvių kalbos mokymui bemdrojo ugdymo įstaigose";Y;N;28-SEP-22;28-SEP-22
+4001530;"Mokytojų pritraukimo priemonių finansavimas bendrojo ugdymo įstaigose";Y;N;28-SEP-22;28-SEP-22
+4001531;"Mokytojų pritraukimo priemonių finansavimas pagrindinio ugdymo įstaigose";Y;N;28-SEP-22;28-SEP-22
+4001532;"Mokytojų pritraukimo priemonių finansavimas pradinio ugdymo įstaigose";Y;N;28-SEP-22;28-SEP-22
+4001533;"Mokytojų pritraukimo priemonių finansavimas ikimokyklinio ugdymo įstaigose";Y;N;28-SEP-22;28-SEP-22
+4001534;"Profesinio orientavimo finansavimas bendrojo ugdymo įstaigose (SB)";Y;N;28-SEP-22;28-SEP-22
+4001535;"Profesinio orientavimo finansavimas bendrojo ugdymo įstaigose (ES)";Y;N;28-SEP-22;28-SEP-22
+4001536;"Profesinio orientavimo finansavimas pagrindinio ugdymo įstaigose (SB)";Y;N;28-SEP-22;28-SEP-22
+4001537;"Profesinio orientavimo finansavimas pagrindinio ugdymo įstaigose (ES)";Y;N;28-SEP-22;28-SEP-22
+4001538;"Profesinio orientavimo finansavimas pradinio ugdymo įstaigose (SB)";Y;N;28-SEP-22;28-SEP-22
+4001539;"Profesinio orientavimo finansavimas pradinio ugdymo įstaigose (ES)";Y;N;28-SEP-22;28-SEP-22
+4001540;"Mokslo paskirties pastato (progimnazijos) Pavilnionių g. 25 projekto įgyvendinimas (13 šalt.)";Y;N;28-SEP-22;28-SEP-22
 4002000;"Neįgaliųjų ir sutrikusio intelekto vaikų socialinės globos centro įkūrimas (Vilniaus specialiajame lopšelyje-darželyje „Čiauškutis“) (Europos Sąjungos lėšos)";Y;N;22-FEB-12;22-FEB-12
 4002001;"Vilniaus Viršuliškių vidurinės mokyklos pastato Vilniuje, Viršuliškių g. 7, rekonstravimas (Europos Sąjungos lėšos)";Y;N;22-FEB-12;22-FEB-12
 4002002;"Vilniaus Naujininkų vidurinės mokyklos pastato Šaltkalvių g. 32, rekonstravimas (Europos Sąjungos lėšos)";Y;N;22-FEB-12;22-FEB-12
