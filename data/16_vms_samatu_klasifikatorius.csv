@@ -4130,6 +4130,10 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 6000292;"Parama užsieniečiams (vienkartinė išmoka įsikurti, kompensacija už vaikų ugdymą) dotacija iš valstybės biudžeto";Y;N;04-MAY-22;04-MAY-22
 6000293;"Socialinės pašalpos užsieniečiams (Vyriausybės rezervo lėšos)";Y;N;08-SEP-22;23-SEP-22
 6000294;"Laidojimo pašalpos užsieniečiams (Vyriausybės rezervo lėšos)";Y;N;23-SEP-22;23-SEP-22
+6000295;"Išmokų vaikams administravimas (užsieniečiams iš Vyriausybės rezervo lėšų)";Y;N;29-SEP-22;29-SEP-22
+6000296;"Tikslinių kompensacijų administravimas (užsieniečiams iš Vyriausybės rezervo lėšų)";Y;N;29-SEP-22;29-SEP-22
+6000297;"Išmokos vaikams mokėti (užsieniečiams iš Vyriausybės rezervo lėšų)";Y;N;29-SEP-22;29-SEP-22
+6000298;"Tikslinės kompensacijos (užsieniečiams iš Vyriausybės rezervo lėšų)";Y;N;29-SEP-22;29-SEP-22
 6000300;"Vienkartinės pašalpos ginkluoto pasipriešinimo (rezistencijos) dalyviams ir žuvusių rezistentų šeimoms";Y;N;20-NOV-07;30-MAR-09
 6000310;"Vienkartinių pašalpų ginkluoto pasipriešinimo (rezistencijos) dalyviams ir žuvusių rezistentų šeimoms administravimas";Y;N;20-NOV-07;27-MAR-09
 6000320;"Vienkartinės kompensacijos asmenims, sužalotiems atliekant būtinąją karinę tarnybą sovietinėje armijoje ir žuvusiųjų šeimoms";Y;N;20-NOV-07;27-MAR-09
