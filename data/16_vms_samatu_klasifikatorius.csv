@@ -1,5 +1,8 @@
 KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 0000000;Nedetalizuojama;Y;N;19-NOV-07;28-JAN-21
+02-1014;"Plėtoti sveiką gyvenseną bei stiprinti sveikos gyvensenos įgūdžius ugdymo įstaigose ir bendruomenėse, vykdyti visuomenės sveikatos stebėseną savivaldybėse";Y;N;13-OCT-22;13-OCT-22
+02-1021;"Plėtoti visuomenės psichikos sveikatos paslaugų prieinamumą bei ankstyvojo savižudybių atpažinimo ir kompleksinės pagalbos teikimo sistemą";Y;N;13-OCT-22;13-OCT-22
+02-1025;"COVID-19 pandemijos padariniams šalinti";Y;N;13-OCT-22;13-OCT-22
 1000000;"Administracijos sąmatos";Y;Y;20-NOV-07;29-SEP-09
 1000001;"Bendrų ekonominių ir socialinių planavimo paslaugų administravimas ir valdymas";Y;N;14-MAR-08;27-DEC-19
 1000002;"Savivaldos institucijos (Taryba)";Y;N;14-MAR-08;25-OCT-21
@@ -5421,7 +5424,7 @@ VR10104;"Plėtoti sveiką gyvenseną ir stiprinti mokinių įgūdžius ugdymo į
 VR10105;"Savižudybių prevencijos prioritetų nustatymas, savižudybių prevencijos priemonių ir joms įgyvendinti reikiamo finansavimo planavimas (LRV prioritetas) (Vilniaus rajonas)";Y;N;14-APR-20;14-APR-20
 VR10107;"Stiprinti sveikos gyvensenos įgūdžius bendruomenėse bei vykdyti visuomenės sveiką stebėseną savivaldybėse (Vilniaus rajonas)";Y;N;14-APR-20;14-APR-20
 VR630_1;"Sveikos gyvensenos skatinimas ir moksleivių sveikatos raštingumo ugdymas Vilniaus rajone";Y;N;14-APR-20;07-APR-22
-VRSB1_8;"Vilniaus rajono savivaldybės snurto artimoje aplinkoje prevencijos ir pagalbos teikimo nukentėjusiems 2018-2020 metų programa";Y;N;14-APR-20;07-APR-22
+VRSB1_8;"Vilniaus rajono savivaldybės smurto artimoje aplinkoje prevencijos ir pagalbos teikimo nukentėjusiems 2018-2020 metų programa";Y;N;14-APR-20;13-OCT-22
 VŠNUOMA;"VŠĮ Papildomas lėšų gavimas už patalpų nuomą";Y;N;27-JAN-22;27-JAN-22
 VŠPASL;"VŠĮ Mokamų paslaugų teikimas neformaliojo švietimo įstaigose";Y;N;27-JAN-22;27-JAN-22
 VŠUGDYM;"VŠĮ Tėvų mokesčio surinkimas";Y;N;27-JAN-22;27-JAN-22
