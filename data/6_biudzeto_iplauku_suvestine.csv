@@ -6248,6 +6248,7 @@ IPLAUKU_DATA;SALTINIO_PAV;IMOKOS_KODAI;APRASYMAS;SUMA
 30-JUN-17;KITOS;98;"Kitos pajamos";4393.76
 16-JAN-17;KITOS;98;"Kitos pajamos";10200
 13-NOV-17;KITOS;98;"Kitos pajamos";66681
+20-APR-17;KITOS;98;"Kitos pajamos";15072.73
 28-DEC-17;KITOS;98;"Kitos pajamos";1364606.28
 19-DEC-17;KITOS;98;"Kitos pajamos";23964.12
 19-DEC-17;KITOS;98;"Kitos pajamos";23300
@@ -6261,7 +6262,9 @@ IPLAUKU_DATA;SALTINIO_PAV;IMOKOS_KODAI;APRASYMAS;SUMA
 05-JUN-17;KITOS;98;"Kitos pajamos";14400
 05-DEC-16;KITOS;98;"Kitos pajamos";61774.95
 07-DEC-17;KITOS;98;"Kitos pajamos";47389.25
-30-NOV-17;KITOS;98;"Kitos pajamos";4365
+27-FEB-17;KITOS;98;"Kitos pajamos";455.35
+27-FEB-17;KITOS;98;"Kitos pajamos";1023632.44
+28-NOV-16;KITOS;98;"Kitos pajamos";1264862.02
 30-NOV-17;KITOS;98;"Kitos pajamos";23909.47
 27-NOV-17;KITOS;98;"Kitos pajamos";485
 29-SEP-17;KITOS;98;"Kitos pajamos";5500
@@ -6395,6 +6398,7 @@ IPLAUKU_DATA;SALTINIO_PAV;IMOKOS_KODAI;APRASYMAS;SUMA
 28-APR-15;KITOS;98;"Kitos pajamos";38552.66
 11-FEB-15;KITOS;98;"Kitos pajamos";12420.3
 03-SEP-15;KITOS;98;"Kitos pajamos";9718.77
+12-DEC-16;KITOS;98;"Kitos pajamos";5700
 09-DEC-16;KITOS;98;"Kitos pajamos";461.61
 09-DEC-16;KITOS;98;"Kitos pajamos";6800
 14-SEP-15;KITOS;98;"Kitos pajamos";16542.7
@@ -6409,10 +6413,7 @@ IPLAUKU_DATA;SALTINIO_PAV;IMOKOS_KODAI;APRASYMAS;SUMA
 19-JAN-15;KITOS;98;"Kitos pajamos";35116.62
 14-JAN-15;KITOS;98;"Kitos pajamos";15211.26
 08-JAN-15;KITOS;98;"Kitos pajamos";4554
-20-APR-17;KITOS;98;"Kitos pajamos";15072.73
-27-FEB-17;KITOS;98;"Kitos pajamos";455.35
-27-FEB-17;KITOS;98;"Kitos pajamos";1023632.44
-28-NOV-16;KITOS;98;"Kitos pajamos";1264862.02
+30-NOV-17;KITOS;98;"Kitos pajamos";4365
 10-FEB-17;KITOS;98;"Kitos pajamos";10900
 27-NOV-17;KITOS;98;"Kitos pajamos";1220.87
 27-NOV-17;KITOS;98;"Kitos pajamos";1339538.61
@@ -6613,7 +6614,6 @@ IPLAUKU_DATA;SALTINIO_PAV;IMOKOS_KODAI;APRASYMAS;SUMA
 17-NOV-15;KITOS;98;"Kitos pajamos";611997.65
 17-NOV-15;KITOS;98;"Kitos pajamos";3400
 27-JAN-17;KITOS;98;"Kitos pajamos";985409.62
-12-DEC-16;KITOS;98;"Kitos pajamos";5700
 13-DEC-16;KITOS;98;"Kitos pajamos";59857
 14-APR-15;KITOS;98;"Kitos pajamos";6700
 26-NOV-15;KITOS;98;"Kitos pajamos";4620
@@ -7666,6 +7666,7 @@ IPLAUKU_DATA;SALTINIO_PAV;IMOKOS_KODAI;APRASYMAS;SUMA
 10-APR-18;"FM STD";01;"Specialios tikslinės dotacijos";19600
 10-JAN-18;"FM STD";01;"Specialios tikslinės dotacijos";19600
 10-OCT-17;"FM STD";01;"Specialios tikslinės dotacijos";20858
+11-JAN-17;"FM STD";01;"Specialios tikslinės dotacijos";20400
 11-APR-16;"FM STD";01;"Specialios tikslinės dotacijos";20180
 21-JAN-16;"FM STD";01;"Specialios tikslinės dotacijos";20190
 10-APR-15;"FM STD";01;"Specialios tikslinės dotacijos";16769
@@ -7673,7 +7674,6 @@ IPLAUKU_DATA;SALTINIO_PAV;IMOKOS_KODAI;APRASYMAS;SUMA
 10-JAN-19;"FM STD";01;"Specialios tikslinės dotacijos";20600
 10-JUL-17;"FM STD";01;"Specialios tikslinės dotacijos";20858
 10-OCT-16;"FM STD";01;"Specialios tikslinės dotacijos";20180
-11-JAN-17;"FM STD";01;"Specialios tikslinės dotacijos";20400
 08-JUL-16;"FM STD";01;"Specialios tikslinės dotacijos";20180
 10-JUL-15;"FM STD";01;"Specialios tikslinės dotacijos";16769
 09-OCT-15;"FM STD";01;"Specialios tikslinės dotacijos";16769
@@ -7797,7 +7797,6 @@ IPLAUKU_DATA;SALTINIO_PAV;IMOKOS_KODAI;APRASYMAS;SUMA
 30-DEC-16;PASKOLA;;"Paskola pinigų srautams subalansuoti";918570.69
 22-DEC-16;PASKOLA;;"Paskola pinigų srautams subalansuoti";175750.77
 08-DEC-16;PASKOLA;;"Paskola pinigų srautams subalansuoti";120873.53
-24-SEP-18;PASKOLA;;"Paskola pinigų srautams subalansuoti";5996000
 23-JUN-17;PASKOLA;;"Paskola pinigų srautams subalansuoti";416313.06
 04-AUG-17;PASKOLA;;"Paskola pinigų srautams subalansuoti";1835596.25
 28-OCT-16;PASKOLA;;"Paskola pinigų srautams subalansuoti";278293.28
@@ -7809,3 +7808,4 @@ IPLAUKU_DATA;SALTINIO_PAV;IMOKOS_KODAI;APRASYMAS;SUMA
 24-MAR-17;PASKOLA;;"Paskola pinigų srautams subalansuoti";1267531.57
 20-MAR-17;PASKOLA;;"Paskola pinigų srautams subalansuoti";149372.62
 13-MAR-17;PASKOLA;;"Paskola pinigų srautams subalansuoti";638455.97
+24-SEP-18;PASKOLA;;"Paskola pinigų srautams subalansuoti";5996000
