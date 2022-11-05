@@ -694,6 +694,7 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 3000511;"Padangų demontavimas ir išvežimas iš ugdymo  įstaigų";Y;N;31-MAR-09;31-MAR-09
 3000512;"Oro taršos kietosiomis dalelėmis (KD 10) mažinimas(gatvių plovimas)";Y;N;31-MAR-09;31-MAR-09
 3000513;"Oro taršos kietosiomis dalelėmis (KD 10) mažinimas(gatvių plovimas)";Y;N;21-FEB-13;21-FEB-13
+3000519;"Naudotų padangų, kurių turėtojo nustatyti neįmanoma arba kuris neegzistuoja, tvarkymas Vilniaus miesto savivaldybės teritorijoje";Y;N;04-NOV-22;04-NOV-22
 3000520;"Pavojingų atliekų iš valstybės rezervo sandėlio tvarkymas";Y;N;20-NOV-07;08-JUL-08
 3000530;"Parkų ir želdynų tvarkymas";Y;N;20-NOV-07;30-MAR-09
 3000531;"Lietaus tinklų infrastruktūros remontas ir įrengimas";Y;N;27-JAN-15;27-JAN-15
@@ -4318,6 +4319,11 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 6000628;"Socialinės priežiūros šeimoms teikimas (Gerinti socialinių paslaugų kokybę ir prieinamumą, didinti socialinės paramos veiksmingumą kriziniais atvejais šeimoje)";Y;N;15-SEP-22;15-SEP-22
 6000629;"Užsieniečiams, pasitraukusiems iš Ukrainos dėl Rusijos Federacijos karinių veiksmų Ukrainoje, vaikų dienos socialinei priežiūrai teikti";Y;N;17-AUG-22;17-AUG-22
 6000630;"VšĮ Markučių  dienos veiklos centro finansavimas (Departamentas)";Y;N;20-NOV-07;27-DEC-19
+6000631;"Užsieniečių socialinės globos išlaidoms kompensuoti";Y;N;04-NOV-22;04-NOV-22
+6000632;"Užsieniečių socialinės globos išlaidoms kompensuoti";Y;N;04-NOV-22;04-NOV-22
+6000633;"Užsieniečių socialinės globos išlaidoms kompensuoti";Y;N;04-NOV-22;04-NOV-22
+6000634;"Socialinėms paslaugoms užsieniečiams, kurie turi teisę gauti laikinąją apsaugą ar kuriems suteikta laikinoji apsauga, finansuoti";Y;N;04-NOV-22;04-NOV-22
+6000635;"Savivaldybių patvirtintoms užimtumo didnimo programoms įgyvendinti (modelio įgyvendinimas)";Y;N;04-NOV-22;04-NOV-22
 6000640;"VšĮ Vyrų krizių ir informacijos centro finansavimas (Departamentas)";Y;N;20-NOV-07;27-DEC-19
 6000650;"VšĮ Vilniaus psichosocialinės reabilitacijos centro finansavimas (Departamentas)";Y;N;20-NOV-07;27-DEC-19
 6000655;"Akredituotos vaikų dienos socialinės priežiūros organizavimas";Y;N;15-JAN-21;15-JAN-21
