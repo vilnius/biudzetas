@@ -2900,6 +2900,11 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 4001541;"Mokymo (ugdymo) aplinkos finansavimas iš mokymo lėšų bendrojo ugdymo įstaigose (valstybės rezervas)";Y;N;09-NOV-22;09-NOV-22
 4001542;"Mokymo (ugdymo) aplinkos finansavimas iš mokymo lėšų pagrindinėse mokyklose (valstybės rezervas)";Y;N;09-NOV-22;09-NOV-22
 4001543;"Mokymo (ugdymo) aplinkos finansavimas iš mokymo lėšų nevalstybinėms bendrojo ugdymo įstaigoms (valstybės rezervas)";Y;N;09-NOV-22;09-NOV-22
+4001544;"Vaikų, atvykusių į Lietuvą iš Ukrainos, ugdymui finansuoti nevalstybinėse ugdymo įstaigose (papildomas finansavimas)";Y;N;01-DEC-22;01-DEC-22
+4001545;"Vaikų, atvykusių į Lietuvą iš Ukrainos, ugdymui finansuoti bendrojo ugdymo įstaigose (papildomas finansavimas)";Y;N;01-DEC-22;01-DEC-22
+4001546;"Vaikų, atvykusių į Lietuvą iš Ukrainos, ugdymui finansuoti pagrindinio ugdymo įstaigose (papildomas finansavimas)";Y;N;01-DEC-22;01-DEC-22
+4001547;"Vaikų, atvykusių į Lietuvą iš Ukrainos, ugdymui finansuoti pradinio ugdymo įstaigose (papildomas finansavimas)";Y;N;01-DEC-22;01-DEC-22
+4001548;"Vaikų, atvykusių į Lietuvą iš Ukrainos, ugdymui finansuoti ikimokyklinio ugdymo įstaigose (papildomas finansavimas)";Y;N;01-DEC-22;01-DEC-22
 4002000;"Neįgaliųjų ir sutrikusio intelekto vaikų socialinės globos centro įkūrimas (Vilniaus specialiajame lopšelyje-darželyje „Čiauškutis“) (Europos Sąjungos lėšos)";Y;N;22-FEB-12;22-FEB-12
 4002001;"Vilniaus Viršuliškių vidurinės mokyklos pastato Vilniuje, Viršuliškių g. 7, rekonstravimas (Europos Sąjungos lėšos)";Y;N;22-FEB-12;22-FEB-12
 4002002;"Vilniaus Naujininkų vidurinės mokyklos pastato Šaltkalvių g. 32, rekonstravimas (Europos Sąjungos lėšos)";Y;N;22-FEB-12;22-FEB-12
@@ -4331,6 +4336,8 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 6000633;"Užsieniečių socialinės globos išlaidoms kompensuoti";Y;N;04-NOV-22;04-NOV-22
 6000634;"Socialinėms paslaugoms užsieniečiams, kurie turi teisę gauti laikinąją apsaugą ar kuriems suteikta laikinoji apsauga, finansuoti";Y;N;04-NOV-22;04-NOV-22
 6000635;"Savivaldybių patvirtintoms užimtumo didnimo programoms įgyvendinti (modelio įgyvendinimas)";Y;N;04-NOV-22;04-NOV-22
+6000636;"Socialinio būsto plėtra (pagal ES regioninę priemonę Nr. 08.1.2-CPVA-R408-01-0011)";Y;N;01-DEC-22;01-DEC-22
+6000637;"Kompensacijoms už būsto suteikimą užsieniečiams administruoti";Y;N;01-DEC-22;01-DEC-22
 6000640;"VšĮ Vyrų krizių ir informacijos centro finansavimas (Departamentas)";Y;N;20-NOV-07;27-DEC-19
 6000650;"VšĮ Vilniaus psichosocialinės reabilitacijos centro finansavimas (Departamentas)";Y;N;20-NOV-07;27-DEC-19
 6000655;"Akredituotos vaikų dienos socialinės priežiūros organizavimas";Y;N;15-JAN-21;15-JAN-21
@@ -5086,6 +5093,7 @@ KODAS;PAVADINIMAS;GALIOJA;SUMINE;SUKURIMO_DATA;MODIFIKAVIMO_DATA
 8000311;"Lėšos gautos pagal susitarimą dėl paramos pinigais suteikimo Lvovo g. 21B, griovimui";Y;N;09-APR-21;09-APR-21
 8000312;"Žemės išpirkimas, perėmimas Savivaldybės funkcijoms įgyvendinti";Y;N;25-JAN-22;25-JAN-22
 8000313;"Žemės išpirkimas, perėmimas Savivaldybės funkcijoms įgyvendinti";Y;N;07-FEB-22;07-FEB-22
+8000314;"Išlaidos, susijusios su užsieniečių, pasitraukusių iš Ukrainos, laikinu apgyvendinimu";Y;N;01-DEC-22;01-DEC-22
 8000320;"Kalvarijų g. 61 išpirkimui (privatizavimo fondo lėšos)";Y;N;10-FEB-14;10-FEB-14
 8000330;"Giedraičių g. 60A išpirkimui (privatizavimo fondo lėšos)";Y;N;10-FEB-14;10-FEB-14
 8000340;"UAB ,,Ekinsta “ salės išpirkimui (privatizavimo fondo lėšos)";Y;N;10-FEB-14;10-FEB-14
