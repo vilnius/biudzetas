@@ -5716,6 +5716,7 @@ IPLAUKU_DATA;SALTINIO_PAV;IMOKOS_KODAI;APRASYMAS;SUMA
 17-JAN-19;KITOS;97;"Kitos pajamos";24216.71
 17-JAN-19;KITOS;97;"Kitos pajamos";5132.7
 16-JAN-19;KITOS;97;"Kitos pajamos";15000
+18-DEC-18;KITOS;97;"Kitos pajamos";798.03
 12-DEC-18;KITOS;97;"Kitos pajamos";9417.5
 12-DEC-18;KITOS;97;"Kitos pajamos";4512.35
 28-SEP-18;KITOS;97;"Kitos pajamos";7000
@@ -5863,7 +5864,6 @@ IPLAUKU_DATA;SALTINIO_PAV;IMOKOS_KODAI;APRASYMAS;SUMA
 24-JAN-19;KITOS;97;"Kitos pajamos";9697.34
 24-JAN-19;KITOS;97;"Kitos pajamos";91.64
 14-JAN-19;KITOS;97;"Kitos pajamos";24521.94
-18-DEC-18;KITOS;97;"Kitos pajamos";798.03
 14-NOV-18;KITOS;97;"Kitos pajamos";57135
 11-OCT-18;KITOS;97;"Kitos pajamos";100600
 11-OCT-18;KITOS;97;"Kitos pajamos";20000
@@ -7118,6 +7118,7 @@ IPLAUKU_DATA;SALTINIO_PAV;IMOKOS_KODAI;APRASYMAS;SUMA
 21-MAR-18;FM;VL11;"Pajamos iš finansų ministerijos";19000
 25-OCT-18;FM;VL11;"Pajamos iš finansų ministerijos";21300
 18-JUL-18;FM;VL11;"Pajamos iš finansų ministerijos";11000
+07-MAY-18;FM;VL11;"Pajamos iš finansų ministerijos";29000
 13-OCT-17;FM;VL11;"Pajamos iš finansų ministerijos";6000
 16-MAR-17;FM;VL11;"Pajamos iš finansų ministerijos";14000
 14-MAR-17;FM;VL11;"Pajamos iš finansų ministerijos";3000
@@ -7131,7 +7132,6 @@ IPLAUKU_DATA;SALTINIO_PAV;IMOKOS_KODAI;APRASYMAS;SUMA
 07-OCT-15;FM;VL11;"Pajamos iš finansų ministerijos";19079
 07-MAR-16;FM;VL11;"Pajamos iš finansų ministerijos";16000
 18-APR-16;FM;VL11;"Pajamos iš finansų ministerijos";24000
-07-MAY-18;FM;VL11;"Pajamos iš finansų ministerijos";29000
 25-APR-17;FM;VL11;"Pajamos iš finansų ministerijos";100
 09-APR-15;FM;VL11;"Pajamos iš finansų ministerijos";6028
 09-APR-15;FM;VL11;"Pajamos iš finansų ministerijos";280
@@ -7797,7 +7797,6 @@ IPLAUKU_DATA;SALTINIO_PAV;IMOKOS_KODAI;APRASYMAS;SUMA
 30-DEC-16;PASKOLA;;"Paskola pinigų srautams subalansuoti";918570.69
 22-DEC-16;PASKOLA;;"Paskola pinigų srautams subalansuoti";175750.77
 08-DEC-16;PASKOLA;;"Paskola pinigų srautams subalansuoti";120873.53
-24-SEP-18;PASKOLA;;"Paskola pinigų srautams subalansuoti";5996000
 23-JUN-17;PASKOLA;;"Paskola pinigų srautams subalansuoti";416313.06
 04-AUG-17;PASKOLA;;"Paskola pinigų srautams subalansuoti";1835596.25
 28-OCT-16;PASKOLA;;"Paskola pinigų srautams subalansuoti";278293.28
@@ -7809,3 +7808,4 @@ IPLAUKU_DATA;SALTINIO_PAV;IMOKOS_KODAI;APRASYMAS;SUMA
 24-MAR-17;PASKOLA;;"Paskola pinigų srautams subalansuoti";1267531.57
 20-MAR-17;PASKOLA;;"Paskola pinigų srautams subalansuoti";149372.62
 13-MAR-17;PASKOLA;;"Paskola pinigų srautams subalansuoti";638455.97
+24-SEP-18;PASKOLA;;"Paskola pinigų srautams subalansuoti";5996000
