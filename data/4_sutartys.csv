@@ -1864,9 +1864,6 @@ DEPARTAMENTAS;SUTARTIES_TIPAS;SUTARTIES_NUMERIS;SUDARYMO_METAI;SUTARTIES_PRADZIO
 "Vilniaus miesto savivaldybės socialinių reikalų departamentas";"Kiti pirkimai";A64-94(16.31-ADM-10);2007;22-NOV-07;22-NOV-10;"Lentvario kompleksinių paslaugų šeimos centras";290997370;"Socialinės globos paslaugos vaikams";2237300;1543
 "Vilniaus miesto savivaldybės socialinių reikalų departamentas";"Kiti pirkimai";A64-102(16.31-ADM-10);2007;13-DEC-07;13-DEC-10;"Pabradės vaikų globos namai";190980288;"Socialinės globos paslaugos vaikams";2237300;1544
 "Vilniaus miesto savivaldybės kultūros ir ugdymo departamentas";Įsakymas;42-21;2009;03-FEB-09;03-FEB-10;nuasmeninta;nuasmeninta;"komandiruotės išlaidos";93.57;42
-"Vilniaus miesto savivaldybės kultūros ir ugdymo departamentas";Įsakymas;42-22;2009;03-FEB-09;03-FEB-10;nuasmeninta;nuasmeninta;"komandiruotės išlaidos";259.65;43
-"Vilniaus miesto savivaldybės kultūros ir ugdymo departamentas";Įsakymas;42-21;2009;03-FEB-09;03-FEB-10;nuasmeninta;nuasmeninta;"komandiruočių išlaidos";117.05;44
-"Vilniaus miesto savivaldybės kultūros ir ugdymo departamentas";Įsakymas;42-70;2009;26-MAR-09;26-MAR-10;nuasmeninta;nuasmeninta;"komandiruotės išlaidos";16.21;45
 "Vilniaus miesto savivaldybės administracija";"Įsakymas dėl našlaičiams skiriamos pašalpos";A15-501-(2.1.4-SR7);2013;07-MAR-13;06-MAR-15;nuasmeninta;nuasmeninta;"Įsakymas dėl našlaičiams skiriamos pašalpos";6500;4667
 "Vilniaus miesto savivaldybės Komunalinio ūkio departamentas";"Kiti pirkimai";S-166;2009;27-MAY-09;31-DEC-09;"LAKD prie Susisiekimo ministerijos";188710638;"Kelių priežiūros ir plėtros programos lėšos vietinės reikšmės keliams";7231400;240
 "Vilniaus miesto savivaldybės socialinių reikalų departamentas";"Kiti pirkimai";A72-1006(3.1.36-SR);2009;29-MAY-09;29-MAY-10;"Vilkpėdės bendruomenės socialinių paslaugų centras, VšĮ";125248410;"Dėl projeto vykdymo ir savivaldybės biudžeto lėšų tikslinio naudojimo";18000;1581
@@ -1928,7 +1925,6 @@ DEPARTAMENTAS;SUTARTIES_TIPAS;SUTARTIES_NUMERIS;SUDARYMO_METAI;SUTARTIES_PRADZIO
 "Vilniaus miesto savivaldybės socialinių reikalų departamentas";"Kiti pirkimai";A64-58(16.31-ADM-10);2007;30-AUG-07;30-AUG-08;"VŠĮ ""Atsigręžk į vaikus""";124015620;"Socialinės globos paslaugos vaikams";2237300;1534
 "Vilniaus miesto savivaldybės socialinių reikalų departamentas";"Kiti pirkimai";A64-95(16.31-ADM-10);2007;28-NOV-07;28-NOV-10;"Švenčionėlių vaikų globos namai (reorganizuoti nuo 20130101)";190980320;"Socialinės globos paslaugos vaikams";2237300;1546
 "Vilniaus miesto savivaldybės socialinių reikalų departamentas";"Kiti pirkimai";A64-107(16.31-ADM-10);2007;28-DEC-07;28-DEC-10;"Nijolės Genytės socialinės globos namai";190797664;"Socialinės globos paslaugos vaikams";2237300;1548
-"Vilniaus miesto savivaldybės administracija";"Viešasis pirkimas";A67-15(3.10.25-AD2);2009;06-MAR-09;06-MAR-10;nuasmeninta;nuasmeninta;;83000;188
 "Vilniaus miesto savivaldybės Komunalinio ūkio departamentas";"Viešasis pirkimas";A66-24-(3.10.24-UK);2009;06-MAY-09;15-NOV-09;"Stebulė, UAB";122211549;"Medžių Gedimino pr., Konstitucijos pr., Rotušės a., Vokiečių g., Odminių skv. (kartu su drenažo sistemomis ir laistymo kolonėlėmis)";150128.67;243
 "Vilniaus miesto savivaldybės socialinių reikalų departamentas";"Įsakymas dėl našlaičiams skiriamos pašalpos";A734-125-(2.1.4-sr);2009;03-APR-09;31-DEC-14;nuasmeninta;nuasmeninta;"Įsakymas dėl našlaičiams skiriamos pašalpos";6500;1515
 "Vilniaus miesto savivaldybės socialinių reikalų departamentas";"Įsakymas dėl našlaičiams skiriamos pašalpos";A734-125-(2.1.4-sr);2009;03-APR-09;31-DEC-14;nuasmeninta;nuasmeninta;"Įsakymas dėl našlaičiams skiriamos pašalpos";6500;1516
@@ -2023,8 +2019,12 @@ DEPARTAMENTAS;SUTARTIES_TIPAS;SUTARTIES_NUMERIS;SUDARYMO_METAI;SUTARTIES_PRADZIO
 "Vilniaus miesto savivaldybės administracijos Turto departamentas";"Kiti pirkimai";A66-19;2009;28-APR-09;28-APR-10;"UAB ""Vilniaus statybos""";300633418;"Dėl A. Kojelavičiaus g. 172";9968.85;134
 "Vilniaus miesto savivaldybės kultūros ir ugdymo departamentas";Dokumentas;"Nr. VIII-1605";2000;30-MAR-00;30-MAR-99;LRS;xxxxx;"Transporto lengvatų 6 str. Pabaigos data 2099.03.30";870000;9
 "Vilniaus miesto savivaldybės socialinių reikalų departamentas";"Sutarties priedas";A64-30(1.26-SR.);2008;28-MAY-08;28-MAY-09;"BĮ Vilniaus Žolyno vaikų socialinės globos namai";190987980;"Socialinės globos paslaugos vaikams";2237300;1556
-"Vilniaus miesto savivaldybės kultūros ir ugdymo departamentas";Įsakymas;42-21;2009;03-FEB-09;03-FEB-10;nuasmeninta;nuasmeninta;"komandiruotė į Berlyną";239.62;12
 "Vilniaus miesto savivaldybės kultūros ir ugdymo departamentas";Įsakymas;42-99;2009;13-MAY-09;13-MAY-10;nuasmeninta;nuasmeninta;"Komandiruotė į Geteborgą";1718;13
+"Vilniaus miesto savivaldybės kultūros ir ugdymo departamentas";Įsakymas;42-22;2009;03-FEB-09;03-FEB-10;nuasmeninta;nuasmeninta;"komandiruotės išlaidos";259.65;43
+"Vilniaus miesto savivaldybės kultūros ir ugdymo departamentas";Įsakymas;42-21;2009;03-FEB-09;03-FEB-10;nuasmeninta;nuasmeninta;"komandiruočių išlaidos";117.05;44
+"Vilniaus miesto savivaldybės kultūros ir ugdymo departamentas";Įsakymas;42-70;2009;26-MAR-09;26-MAR-10;nuasmeninta;nuasmeninta;"komandiruotės išlaidos";16.21;45
+"Vilniaus miesto savivaldybės administracija";"Viešasis pirkimas";A67-15(3.10.25-AD2);2009;06-MAR-09;06-MAR-10;nuasmeninta;nuasmeninta;;83000;188
+"Vilniaus miesto savivaldybės kultūros ir ugdymo departamentas";Įsakymas;42-21;2009;03-FEB-09;03-FEB-10;nuasmeninta;nuasmeninta;"komandiruotė į Berlyną";239.62;12
 "Vilniaus miesto savivaldybės kultūros ir ugdymo departamentas";Įsakymas;42-99;2009;13-MAY-09;13-MAY-10;nuasmeninta;nuasmeninta;"komandiruotė į Geteborgą";3147.09;14
 "Vilniaus miesto savivaldybės administracijos Finansų valdymo ir apskaitos departamentas";Dokumentas;A64-5(3.4-FN-1);2008;28-JAN-08;28-JAN-09;"Vilniaus ekspolinija servisas UAB";121982951;"paslaugų pirkimo dokumentas, patvirtinantis mokėjimą už parodos ploto nuomą 125749,73 Lt";125749.73;53
 "Vilniaus miesto savivaldybės socialinių reikalų departamentas";"Sutarties priedas";A64-84(1.26-SR.);2008;13-NOV-08;13-NOV-09;"BĮ Vilniaus Žolyno vaikų socialinės globos namai";190987980;"Socialinės globos paslaugos vaikams";2237300;1557
